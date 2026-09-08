@@ -45,7 +45,11 @@ is the blank scaffold. The current repository is the populated webinar example.
 
 ## Duplicate the Notion board
 
-Open the [Notion template](https://prospera-service.notion.site/3d4b3dd667a781dcac4aea561260a788),
+The board is public. At the last check on September 8, 2026, **Duplicate as
+template** was off. The owner can enable it in Notion under **Share → Publish →
+Duplicate as template**. This is the remaining template activation step.
+
+Once enabled, open the [Notion template](https://prospera-service.notion.site/3d4b3dd667a781dcac4aea561260a788),
 choose **Duplicate** in the top-right corner, and select your own Notion workspace.
 Duplicate the complete parent page so its databases and linked views travel together.
 The template contains:

@@ -192,3 +192,21 @@ the final release report.
 ## 2026-09-08 — Detailed RB2B operating map
 
 Researched the public RB2B core team, contractors, shared Retention.com resources, cold email, search, owned/paid/partner YouTube, product funnel, engineering and Fin support. Filed the durable synthesis in [[strategy/rb2b-operating-system]]. Reconciled the August 2026 three-FTE headline with dated contractor/shared-team disclosures and the later combined MoltSets/RB2B roster. Created editable SVG and inspected PNG detail exports in `output/rb2b-operating-map/`; publication remains outside this task.
+
+
+## 2026-09-08 — Public release verified
+
+Published the sanitized snapshot to
+https://github.com/OXYGEN-CRO/adam-robinson-content-engine and verified anonymous
+access. The original webinar repository remains private. GitHub template mode,
+secret scanning, push protection and private vulnerability reporting are enabled.
+Gitleaks 8.30.1 found no leaks in the public working files or its complete Git
+history. GitHub CI run 34240057758 passed the secret scans, wiki lint and LinkedIn,
+YouTube and expanded-archive integrity checks.
+
+The Notion board is public at
+https://prospera-service.notion.site/3d4b3dd667a781dcac4aea561260a788 . Public browser
+inspection confirmed the board, pillars and hooks load. At the last settings
+inspection, Duplicate as template was off. Computer use was stopped at the user's
+request; this remaining setting requires the owner's manual toggle because the
+available Notion MCP tools do not expose public-template sharing settings.
