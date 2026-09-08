@@ -1,0 +1,759 @@
+{
+  "video_id": "EqXag_z2OpQ",
+  "title": "I Grew My Business to 7 Figures Using LinkedIn—Here’s How",
+  "published": "2025-03-21T14:00:19+00:00",
+  "speakers_and_attribution": "Adam Robinson delivers the presentation and most substantive answers. Pete moderates the Q&A and contributes company practices and channel advice; his surname is not supplied. Santos contributes the review-site opinion at 00:28:28–00:28:55; his surname is not supplied. An audience participant, apparently Oliver, asks about LinkedIn audience fit and the contribution of the product offer. Other audience questions are read aloud by Pete. Captions are not diarized, so speaker boundaries are inferred from introductions and conversational handoffs. Stories about Jasper's founders, Drift's founder, Eric and Stuart are Adam's secondhand accounts, not statements by those people. The B2B company is rendered inconsistently as 'rbb' and 'RB Tob'; it is referred to below as RB2B with that transcription limitation.",
+  "summary": "Adam recounts building GetEmails, later Retention.com, through provocative Facebook advertising, word of mouth and a small outbound team, then losing profitability during an aggressive expansion that failed to resolve churn. He explains the move into a separate B2B business, how LinkedIn audience fit enabled customer discovery and influenced a free-product strategy, and why founder credibility can strengthen acquisition and activation. The Q&A adds important qualifications about retention benchmarks, product-market fit, reviews, channel experimentation, overseas staffing and external financing. The spoken account does not establish that LinkedIn alone produced the revenue suggested by the title. Publication is dated, but the recording date and several historical reference years remain unspecified.",
+  "key_learnings": [
+    {
+      "claim": "Adam argues that profitability and bootstrapping provide more room to endure growth plateaus than a company carrying substantial venture-funded growth expectations.",
+      "start_timestamp": "00:03:18",
+      "end_timestamp": "00:04:33",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "A perspective drawn from his experience, not a guarantee that profitable bootstrapped companies have limited downside."
+    },
+    {
+      "claim": "Early Facebook ads used short, changing-background videos to answer sales questions and make viewers anticipate the next ad. Adam credits them with awareness and initial demand, while describing the resulting customers as exceptionally high churn.",
+      "start_timestamp": "00:04:36",
+      "end_timestamp": "00:06:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Early acquisition response is presented as an initial product-market-fit signal, not evidence of durable retention."
+    },
+    {
+      "claim": "Adam views the strength of the offer as central to acquisition: resolving a website visit to an email address without a form immediately interested prospects unfamiliar with the product.",
+      "start_timestamp": "00:06:08",
+      "end_timestamp": "00:06:26",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "This describes the historical GetEmails offer and Adam's interpretation of buyer response; product capability and compliance are not independently verified."
+    },
+    {
+      "claim": "Adam deliberately provoked privacy critics and responded antagonistically from the brand account because he believed negative engagement improved ad distribution. He justified aggressive early marketing by arguing that a newly formed company had little established brand equity to lose.",
+      "start_timestamp": "00:06:28",
+      "end_timestamp": "00:07:24",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "A candid historical tactic and rationale, not an approved brand value or a general recommendation; no causal experiment is supplied."
+    },
+    {
+      "claim": "A strong product, word of mouth and one or two effective channels can take a company much further with fewer people than founders expect. Adam's example combined a small sales operation with manually executed cold email.",
+      "start_timestamp": "00:07:58",
+      "end_timestamp": "00:09:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "The headcount treatment of overseas support is unclear, and he explicitly conditions the approach on unusually productive individual contributors."
+    },
+    {
+      "claim": "A company built around exceptional individual contributors can encounter a management gap when it expands: employees may lack management skills, shared processes and an established operating method.",
+      "start_timestamp": "00:08:48",
+      "end_timestamp": "00:09:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Adam describes a problem his company was working through, not an unavoidable consequence of keeping teams small."
+    },
+    {
+      "claim": "Watching former office mates build Jasper changed Adam's sense of what was possible. His lesson was to keep testing new businesses or products because founders cannot reliably know the eventual size of an opportunity at inception.",
+      "start_timestamp": "00:09:50",
+      "end_timestamp": "00:12:58",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "The Jasper story is secondhand and contains an unverified growth superlative; this is not evidence that repeated experimentation guarantees a large outcome."
+    },
+    {
+      "claim": "Narrowing the ideal customer profile improved Retention.com's churn only modestly. Adam came to believe that some buyer personas and product categories remain structurally high churn, even when customers initially love the product.",
+      "start_timestamp": "00:13:33",
+      "end_timestamp": "00:14:35",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "A revision to his earlier expectations. Competitive convergence was another problem, and the transcript does not isolate each factor's contribution."
+    },
+    {
+      "claim": "Hiring senior people before establishing a common operating method produced conflicting approaches. Adam says executive coaching and implementing the Entrepreneurial Operating System helped him understand what organizational processes actually required.",
+      "start_timestamp": "00:14:38",
+      "end_timestamp": "00:15:05",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Implementation was underway; no measured outcome from coaching or the operating system is provided."
+    },
+    {
+      "claim": "Adam attributes the rapid loss of profitability partly to abandoning bootstrapped spending discipline and behaving like a venture-backed CEO, which he says encouraged poor financial decisions throughout the company.",
+      "start_timestamp": "00:15:08",
+      "end_timestamp": "00:15:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "His causal interpretation of the expansion, not an audited explanation of the profitability change or a claim that the company actually raised VC."
+    },
+    {
+      "claim": "The B2B opportunity combined a product hypothesis and a distribution opportunity: Santos argued that business leads were more valuable and person-level identification underserved, while Adam saw that LinkedIn could reach SaaS revenue teams more directly than ecommerce operators.",
+      "start_timestamp": "00:16:44",
+      "end_timestamp": "00:18:55",
+      "speaker": "Adam Robinson, reporting Santos's advice and his own experience",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The lead-value and competitive assertions originate with Santos as retold by Adam; the discussion does not prove them independently."
+    },
+    {
+      "claim": "Content can create partnerships, agency credibility, recruiting interest and investor attention without generating the intended customer demos. Adam experienced these benefits with ecommerce content before finding stronger direct commercial response among B2B SaaS founders and revenue people.",
+      "start_timestamp": "00:17:15",
+      "end_timestamp": "00:19:04",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "The ecommerce effort was not described as worthless; the limitation was its failure to book the desired demos."
+    },
+    {
+      "claim": "Adam recommends developing buyers alongside a product hypothesis. Early conversations can produce launch customers or reveal that development should stop before more resources are committed.",
+      "start_timestamp": "00:19:07",
+      "end_timestamp": "00:20:07",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "He attributes the framework to The Four Steps to the Epiphany and connects it to The Lean Startup; his account of the books' relationship is not independently checked."
+    },
+    {
+      "claim": "LinkedIn posts with soft calls to action supplied product-discovery conversations while Tate built the product. Respondents above an unspecified qualification threshold received a booking link; others joined a waitlist.",
+      "start_timestamp": "00:20:11",
+      "end_timestamp": "00:21:23",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The qualification threshold and the wording of the slide's supposedly strongest closing CTA are not available in the spoken transcript."
+    },
+    {
+      "claim": "Adam initially wanted to sell to mid-market buyers to reduce buyer-related churn. Strong content distribution then pushed him toward a free offer and a more scalable product-led approach; the audience, product and acquisition model influenced one another.",
+      "start_timestamp": "00:21:26",
+      "end_timestamp": "00:22:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "He says a free offer benefits someone with a large existing audience more than someone without one. His doubts about outbound arose partly from his own difficult prior sales expansion."
+    },
+    {
+      "claim": "Retention benchmarks need to match both the customer segment and the product's role. Adam contrasts embedded systems of record with lead subscriptions that customers can cancel for many reasons unrelated to the vendor's delivery.",
+      "start_timestamp": "00:23:35",
+      "end_timestamp": "00:26:26",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "His company churn figures are approximate and trial-contaminated; he explicitly says he has never sold an enterprise product."
+    },
+    {
+      "claim": "Pete treats G2 primarily as a searchable repository of positive reviews and website social proof, with discovery value still uncertain. Adam adds that a credible website and some reviews can satisfy an early legitimacy threshold, but says purchased G2 leads had performed poorly for him.",
+      "start_timestamp": "00:26:37",
+      "end_timestamp": "00:28:26",
+      "speaker": "Pete and Adam Robinson",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "The repository strategy is Pete's company report; poor purchased-lead performance is Adam's experience. Neither establishes that G2 is ineffective for every market."
+    },
+    {
+      "claim": "Santos argues that trust-building founder content can be more valuable than pursuing additional review-site ratings, because he believes many reviews are manipulated.",
+      "start_timestamp": "00:28:28",
+      "end_timestamp": "00:28:55",
+      "speaker": "Santos",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "This is Santos's view, not an independently substantiated claim about review fraud or an achievement attributable to Adam."
+    },
+    {
+      "claim": "Adam sees marketing channels as accelerators of existing product-driven word of mouth. In his account, GetEmails first had a compelling product that customers discussed, then used ads and outbound to amplify that response.",
+      "start_timestamp": "00:29:18",
+      "end_timestamp": "00:31:35",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "His assertion that nothing works without word of mouth is strongly stated opinion. The historical sales process also depended on a much simpler product than the current one."
+    },
+    {
+      "claim": "Finding content-market fit took Adam sustained experimentation. The breakthrough was describing the painful sales-force expansion and contraction he had lived through as a SaaS founder, in language that other founders recognized from their own experience.",
+      "start_timestamp": "00:32:29",
+      "end_timestamp": "00:35:46",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "His reported time to fit is a personal history, not a prescribed timeline or an approved description of his writing voice."
+    },
+    {
+      "claim": "Adam changed his mind about defining content pillars in advance. He had wanted to follow a fixed creator spreadsheet, but came to agree with his consultant that useful subjects emerge through publishing and observing response.",
+      "start_timestamp": "00:34:12",
+      "end_timestamp": "00:35:13",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "This concerns discovering content fit, not a rejection of organizing proven topics into a later strategy."
+    },
+    {
+      "claim": "Adam says he stopped using engagement circles after trying them early. His preferred craft approach emphasizes a strong hook, useful body and engaging close, supported by studying how successful creators structure headlines and lists.",
+      "start_timestamp": "00:35:52",
+      "end_timestamp": "00:36:48",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "He credits his consultant's approach and names creator references. Those references establish technique influences, not Adam's approved voice."
+    },
+    {
+      "claim": "A strong offer and founder familiarity reinforce each other. Adam accepts that the free product could win some prospects through cold outreach alone, but believes recognition and trust increase the proportion willing to respond.",
+      "start_timestamp": "00:36:49",
+      "end_timestamp": "00:38:19",
+      "speaker": "Adam Robinson, responding to an audience participant",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "No controlled comparison is supplied; the audience participant explicitly challenges how much incremental value content adds beyond the offer."
+    },
+    {
+      "claim": "Adam sees founder-led trust as a potential advantage when competitors can copy product features. He also acknowledges that an existing cash-generating company lets his team spend unusual amounts of time on content and support a free product.",
+      "start_timestamp": "00:38:19",
+      "end_timestamp": "00:40:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "The Drift comparison is secondhand inspiration. He describes the resource advantage as something many new startups do not have."
+    },
+    {
+      "claim": "Pete describes RB2B's two primary acquisition approaches as LinkedIn community building and product-led growth, with most users on the free product. He stresses that channel choice depends on the offer, buyer, goals and company stage.",
+      "start_timestamp": "00:41:14",
+      "end_timestamp": "00:42:09",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "A co-host's company report and advice, not an Adam statement. The recommended book is shown or referenced but its title is not spoken."
+    },
+    {
+      "claim": "For the earliest stage, Adam frames the objective as maximizing product feedback rather than racing to a revenue milestone. For ecommerce he would test paid social initially; for a more developed business targeting premium Shopify brands, he describes paid influencer and partner dinners as a major current channel.",
+      "start_timestamp": "00:42:13",
+      "end_timestamp": "00:44:32",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Twitter and Facebook ads are tentative suggestions, not validated current prescriptions. His ecommerce founder-content example already had a substantial audience."
+    },
+    {
+      "claim": "Adam believes sender recognition strongly affects email opens and that founder content improves other channels even when the incremental contribution cannot be measured. He treats brand building as a long-term commitment rather than a monthly demo-count ROI calculation.",
+      "start_timestamp": "00:44:47",
+      "end_timestamp": "00:46:24",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "He explicitly acknowledges an attribution gap. The example of 30 monthly demos is hypothetical, not a reported result."
+    },
+    {
+      "claim": "More leads do not solve an inability to book sales conversations. Adam says RB2B works better for customers who already know how to convert outbound into demos and can apply that process to a qualified subset of the supplied leads.",
+      "start_timestamp": "00:46:24",
+      "end_timestamp": "00:47:27",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "The agency-founder anecdote is Adam's secondhand account, and no success-rate data is supplied."
+    },
+    {
+      "claim": "The team uses Adam's profile to help activate valuable users who sign up but do not install the script, routing conversations to appropriate colleagues. Adam reports that prospects are similarly likely to attend even when someone else handles the call.",
+      "start_timestamp": "00:47:28",
+      "end_timestamp": "00:49:15",
+      "speaker": "Adam Robinson, with Pete corroborating from 00:48:59",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "No sample size or attendance rates are supplied. Adam again limits transferability to circumstances where the founder and buyer fit the platform well."
+    },
+    {
+      "claim": "Pete recommends small, time-bounded channel experiments with defined goals rather than assuming that another company's successful advertising channel will transfer directly.",
+      "start_timestamp": "00:49:15",
+      "end_timestamp": "00:49:35",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "General co-host advice; no particular budget, test duration or success threshold is prescribed."
+    },
+    {
+      "claim": "Adam distinguishes his team's mechanical overseas lead-generation work from a friend's more sophisticated onboarding operation. For a richer support function, he relays advice to prove the work locally, document a detailed playbook, train one person alongside the team and expand gradually.",
+      "start_timestamp": "00:49:43",
+      "end_timestamp": "00:53:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "The scalable onboarding playbook originates with his friend, not an implementation Adam claims to have completed. He says he would now seek workers able to contribute more judgment and value."
+    },
+    {
+      "claim": "Adam would generally prefer a smaller, more efficient team to outside financing that imposes repayment pressure or optimistic growth expectations. His experience considering debt for a co-founder buyout made him wary, while he still acknowledges that financing decisions are situational.",
+      "start_timestamp": "00:54:21",
+      "end_timestamp": "00:56:33",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "He does not provide financing terms or a complete debt-versus-equity framework. The final comparison about existing organic distribution and a self-selling product ends mid-discussion."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Adam says Robly remained around $3 million ARR for four years. He recalls desperation for useful advice, frustration when suggested marketing fixes failed, and fear that this revenue level reflected his personal ceiling; he describes similar self-doubt at the larger current company.",
+      "start_timestamp": "00:00:43",
+      "end_timestamp": "00:02:00",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "Personal recollection and emotional self-report. It does not establish a permanent personality trait or approved public narrative."
+    },
+    {
+      "claim": "During an early Retention.com/GetEmails plateau, Adam thought the business might be capped at roughly the same scale as Robly and began looking for other things to pursue.",
+      "start_timestamp": "00:02:25",
+      "end_timestamp": "00:04:05",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "The dates and stated duration of this plateau are internally inconsistent; the emotional account should not be tied to a repaired chronology."
+    },
+    {
+      "claim": "Adam shared an office with the future Jasper founders for two years. Seeing people he had struggled alongside succeed challenged his assumption that very large startup outcomes were reserved for elite-school or venture-connected founders.",
+      "start_timestamp": "00:09:50",
+      "end_timestamp": "00:13:00",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "The account establishes proximity and a change in his beliefs; Jasper's achievements remain those of another company."
+    },
+    {
+      "claim": "Inspired by Jasper's scale, Adam recruited Santos, expanded rapidly and publicly documented an ambitious 2023 growth target. He later acknowledged a large miss and his own role in weakening spending discipline.",
+      "start_timestamp": "00:13:00",
+      "end_timestamp": "00:15:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "A concrete example of public ambition followed by self-criticism; the target was not achieved."
+    },
+    {
+      "claim": "Adam describes publishing a fourth consecutive month of decline, with the worst decline of the sequence, as one of his hardest LinkedIn posts. He nevertheless disclosed that available indicators suggested continued difficulty.",
+      "start_timestamp": "00:15:44",
+      "end_timestamp": "00:16:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "The post is dated only as six weeks before the recording, whose date is unknown."
+    },
+    {
+      "claim": "Adam invested heavily in LinkedIn before it booked the intended ecommerce demos, worked with a consultant named Alec and changed the subject matter toward B2B before the new product had been built.",
+      "start_timestamp": "00:17:15",
+      "end_timestamp": "00:19:04",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "A concrete pattern of experimentation; it does not establish an approved voice, mission or universal content formula."
+    },
+    {
+      "claim": "Adam initially wanted a predetermined content-pillar system and used engagement circles early, but later favored discovering subjects through publishing and improving the posts themselves.",
+      "start_timestamp": "00:34:12",
+      "end_timestamp": "00:36:23",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Two specific changes in practice, not evidence that he rejects all planning or all collaboration with creators."
+    },
+    {
+      "claim": "Adam credits co-founder Diana's longstanding relationship with a worker named Jim for the original Philippines operation; Jim brought relatives into the work. Adam says he would choose a setup that supported more valuable contributions if starting again.",
+      "start_timestamp": "00:49:43",
+      "end_timestamp": "00:53:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Names are from automatic captions. His description of how workers were treated does not establish their legal employment classification."
+    },
+    {
+      "claim": "Adam investigated debt financing for a possible co-founder buyout roughly a year and a half before the recording. In hindsight he believed the later business and capital-market changes would have made that debt highly problematic.",
+      "start_timestamp": "00:55:23",
+      "end_timestamp": "00:56:14",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "He speaks counterfactually about taking the contemplated debt. The passage does not establish whether a buyout occurred through some other arrangement."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Retention.com/GetEmails: Adam presents approximately $22 million ARR as the business's scale at the time of the talk and says it was bootstrapped to that level in 48 months.",
+      "start_timestamp": "00:22:35",
+      "end_timestamp": "00:22:44",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Self-reported recurring-revenue run rate, not cumulative revenue, profit or cash. Also introduced at 00:00:29–00:00:38. Recording date is unknown, so this is not verified as the latest position on publication day."
+    },
+    {
+      "claim": "Robly: approximately $3 million ARR for four years before the Retention.com chapter.",
+      "start_timestamp": "00:01:04",
+      "end_timestamp": "00:01:14",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Historical self-report; no start or end year is given."
+    },
+    {
+      "claim": "GetEmails/Retention.com: Adam describes barely growing and at one point declining quarter over quarter from 'Q2 20' to the end of 'Q1 21,' calling this nine months.",
+      "start_timestamp": "00:02:25",
+      "end_timestamp": "00:02:55",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "The stated quarter range and nine-month duration do not cleanly agree. The slide is unavailable, so both are preserved without correction."
+    },
+    {
+      "claim": "Retention.com: Adam says staffing and ICP refinement had been pursued over the prior 18 months without solving churn, and identifies three periods of feeling stuck within this business's history.",
+      "start_timestamp": "00:03:18",
+      "end_timestamp": "00:04:01",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Relative period anchored to an unknown recording date; the three plateaus are his retrospective grouping."
+    },
+    {
+      "claim": "GetEmails: approximately $5,000 of advertising spend in the first month generated approximately $10,000 MRR, according to Adam.",
+      "start_timestamp": "00:05:46",
+      "end_timestamp": "00:06:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The captions render MRR imperfectly. Adam explicitly describes this revenue as high churn; the figures do not establish profit, CAC payback or durable lifetime value."
+    },
+    {
+      "claim": "GetEmails: Adam credits the early advertising effort with reaching the first $1 million in 28 weeks.",
+      "start_timestamp": "00:07:24",
+      "end_timestamp": "00:07:43",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "ARR is implied by the surrounding growth presentation but is not repeated in this sentence. He also mentions concurrent cold email and awareness effects."
+    },
+    {
+      "claim": "GetEmails/Retention.com: the $1 million-to-$10 million phase is described as a six-person operation with one salesperson, a sales assistant and three Philippines workers splitting time between lead generation and manual Gmail sending.",
+      "start_timestamp": "00:07:58",
+      "end_timestamp": "00:08:18",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "The dollar figures appear to mean ARR in context. It is unclear whether the three overseas workers are included in the six, and FTE, contractor or shared-support status is not specified."
+    },
+    {
+      "claim": "Retention.com: Adam contrasts the lean earlier business with a then-current organization of 55 people and '$21.5 million in revenue.'",
+      "start_timestamp": "00:09:17",
+      "end_timestamp": "00:09:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "He says revenue here, not ARR, and supplies no revenue period. Do not silently equate this figure with the approximately $22 million ARR elsewhere or assume all 55 are FTE."
+    },
+    {
+      "claim": "The Jasper founders' earlier business: Adam reports approximately $2.5 million ARR, $2 million raised, and roughly 18 months spent on a product nobody bought. He describes a contemplated $6 million sale, $2 million investor repayment and $4 million remaining before taxes and division among founders.",
+      "start_timestamp": "00:09:50",
+      "end_timestamp": "00:10:38",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Secondhand historical comparison about an unnamed predecessor company. The sale and distribution are a contemplated plan, not completed transactions or Adam's proceeds."
+    },
+    {
+      "claim": "Historical office-mate comparison: GetEmails was approximately $267,000 MRR, Dave's business approximately $225,000 MRR and Robly approximately $240,000 MRR. Adam describes both his businesses as roughly $3 million ARR and cash flowing.",
+      "start_timestamp": "00:10:40",
+      "end_timestamp": "00:11:25",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Adam corrects himself after initially attaching the $240,000 figure to GetEmails. Dave's company figure is secondhand. The $267,000 MRR level was also described as Dave's initial aspiration for Jasper, not its final outcome."
+    },
+    {
+      "claim": "Jasper: Adam says it grew from zero to $50 million ARR and, at the scale he discusses, spent approximately $2 million per month on Facebook marketing.",
+      "start_timestamp": "00:11:25",
+      "end_timestamp": "00:13:15",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Secondhand third-party figures without a dated measurement window. His claim that the growth was faster than any startup in history is unverified. Spending $2 million monthly at his own company is posed hypothetically."
+    },
+    {
+      "claim": "Retention.com: Adam says the company had reached $12 million ARR with six people before the aggressive expansion.",
+      "start_timestamp": "00:12:58",
+      "end_timestamp": "00:13:15",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Historical self-report. The relationship between six core people and separately described overseas support remains unclear."
+    },
+    {
+      "claim": "Retention.com: the public documentary series targeted growth from $13 million to $50 million ARR during 2023. Adam says the outcome undershot the target by more than 50%.",
+      "start_timestamp": "00:13:20",
+      "end_timestamp": "00:13:48",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "A missed target, not an achievement. The exact 2023 closing ARR is not stated in this passage; do not substitute another figure from the talk."
+    },
+    {
+      "claim": "Retention.com: an executive coach was working with eight executives while the company rolled out the Entrepreneurial Operating System.",
+      "start_timestamp": "00:14:38",
+      "end_timestamp": "00:15:05",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Status at recording, not independently confirmed at publication; eight executives is not the company's total headcount."
+    },
+    {
+      "claim": "Retention.com: Adam reports four consecutive shrinking months, with the fourth down 2.3%, followed by an up month in the month before the recording. He says the difficult fourth-month post was written about six weeks earlier.",
+      "start_timestamp": "00:15:44",
+      "end_timestamp": "00:16:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "The surrounding discussion concerns business revenue, but the precise metric base for 2.3% is not restated. Relative dates cannot be resolved from publication alone."
+    },
+    {
+      "claim": "Retention.com: Adam describes the business as throwing off approximately $400,000–$500,000 per month and specifies that this example concerned January in a keynote delivered in February.",
+      "start_timestamp": "00:16:23",
+      "end_timestamp": "00:16:42",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "A cash-generation description without an accounting definition; do not relabel it net profit, EBITDA or distributions. No year is stated for January or February."
+    },
+    {
+      "claim": "Adam's LinkedIn: the B2B content pivot is placed in September of an unspecified year; he says finding content-market fit took approximately 12 months.",
+      "start_timestamp": "00:17:52",
+      "end_timestamp": "00:18:55",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "The 12-month duration is reiterated at 00:32:41–00:33:12. Neither September nor the start of those 12 months should be inferred from the upload date."
+    },
+    {
+      "claim": "RB2B product development: Adam and Santos held roughly five to seven ICP conversations per day while Tate built the product; Adam reports a prelaunch waitlist of 2,000 people.",
+      "start_timestamp": "00:20:11",
+      "end_timestamp": "00:21:23",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The number of days is unspecified. Waitlist members are not paying customers, revenue or validated conversions."
+    },
+    {
+      "claim": "Retention.com's lead subscription: Adam estimates monthly churn at 5%–6% when paid trials are included and approximately 4% with trials excluded.",
+      "start_timestamp": "00:24:44",
+      "end_timestamp": "00:25:07",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "He explicitly says he does not know the exact metrics because trial data is mixed into Baremetrics. Logo versus revenue churn is not specified."
+    },
+    {
+      "claim": "SMB comparison: Adam calls a couple of percentage points of monthly churn good. For Klaviyo, captioned 'clavio,' he cites approximately 88% gross revenue retention versus roughly 70% as a usual SMB comparison, and approximately 120% net revenue expansion.",
+      "start_timestamp": "00:23:43",
+      "end_timestamp": "00:24:39",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Third-party benchmarks from memory, linked loosely to Klaviyo's public-market disclosures. He defines net expansion over 12 months but does not give a disclosure date or explicitly restate the gross-retention period."
+    },
+    {
+      "claim": "Klaviyo comparison: Adam says retained customers may pay 50%–100% more within a given year.",
+      "start_timestamp": "00:24:17",
+      "end_timestamp": "00:24:28",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "A rough third-party explanation of expansion, not a precisely defined cohort statistic. The relationship to the 88% gross and 120% net figures is not reconciled."
+    },
+    {
+      "claim": "Enterprise comparison: Adam says he has heard logo churn can be about 2% annually, customers may plan to use a product for ten years, typical expansion may be around 130%–140%, and exceptional companies around 180%.",
+      "start_timestamp": "00:25:56",
+      "end_timestamp": "00:26:26",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Explicit hearsay from someone who says he has never sold an enterprise product. The expansion period is not restated, and these are not his companies' results."
+    },
+    {
+      "claim": "RB2B's G2 program: Pete says the company is paying for G2 and wants to reach a few hundred reviews before potentially reducing spending.",
+      "start_timestamp": "00:27:14",
+      "end_timestamp": "00:27:45",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "A target rather than a achieved review count. No current total, spend or decision to cancel is reported."
+    },
+    {
+      "claim": "GetEmails' historical sales process: Adam describes a 15-minute inbound demo and a one-call close during the small-team growth phase.",
+      "start_timestamp": "00:31:18",
+      "end_timestamp": "00:31:35",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "A process description, not a measured average sales cycle or a claim that every demo closed. He says the product was simpler then."
+    },
+    {
+      "claim": "Adam's LinkedIn: he characterizes the first B2B post as producing roughly 100 times the engagement of previous writing, followed by three more successful posts.",
+      "start_timestamp": "00:34:49",
+      "end_timestamp": "00:35:13",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Informal retrospective comparison with no defined engagement metric, baseline or analytics export; potentially rhetorical."
+    },
+    {
+      "claim": "Adam's LinkedIn: approximately 15,000 followers in the ecommerce-oriented phase as of 'last July.'",
+      "start_timestamp": "00:37:24",
+      "end_timestamp": "00:37:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Historical follower count, not the count at publication. The July year and a later follower count are not supplied."
+    },
+    {
+      "claim": "Drift comparison: Adam retells its founder's account that roughly 600 chatbot apps existed when Drift started, framing its opportunity as brand differentiation.",
+      "start_timestamp": "00:38:19",
+      "end_timestamp": "00:39:14",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Secondhand anecdote with no market inventory or date. The founder's name is captioned imperfectly."
+    },
+    {
+      "claim": "RB2B: Pete says most users do not pay, in the context of explaining the company's product-led growth approach.",
+      "start_timestamp": "00:41:21",
+      "end_timestamp": "00:41:35",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "A qualitative majority statement at recording; no total user count, paid conversion rate or revenue figure is supplied."
+    },
+    {
+      "claim": "Retention.com's channel-stage guidance: Adam suggests an influencer/partner motion for businesses somewhat beyond $1 million, giving roughly $3 million–$5 million as an example stage.",
+      "start_timestamp": "00:43:06",
+      "end_timestamp": "00:43:36",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Illustrative advice, not another Retention.com achievement. The metric is implied to follow the ARR question but is not restated."
+    },
+    {
+      "claim": "Ecommerce creator comparison: Adam estimates Nick Shackleford's Twitter following at roughly 45,000–50,000 while discussing the visibility of the beverage company captioned 'brez.'",
+      "start_timestamp": "00:43:47",
+      "end_timestamp": "00:44:32",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "Secondhand approximate follower count at an unspecified date; spelling and product description come from automatic captions. No beverage-company revenue is stated."
+    },
+    {
+      "claim": "Agency comparison: Adam says the marketer captioned 'Eric Sue,' associated with an agency captioned 'single grade,' had booked zero outbound demos at the point of their conversation.",
+      "start_timestamp": "00:46:24",
+      "end_timestamp": "00:47:24",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Secondhand anecdote with uncertain proper-name transcription and no observation period. This is not a performance metric for Adam's companies."
+    },
+    {
+      "claim": "RB2B activation: Adam reports similar call attendance when outreach comes through his profile but meetings are handled by colleagues; Pete recalls perhaps one person asking where Adam was.",
+      "start_timestamp": "00:48:04",
+      "end_timestamp": "00:49:15",
+      "speaker": "Adam Robinson and Pete",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Qualitative company observations, not a quantified parity test. No sample size, denominator or measurement period is given."
+    },
+    {
+      "claim": "A friend's Shopify-app business: Adam says the founder captioned 'steuart Cheney' had 40 people in the Philippines doing sophisticated onboarding and relationship-building work, with review requests receiving approximately a 30% completion rate.",
+      "start_timestamp": "00:51:29",
+      "end_timestamp": "00:52:22",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Secondhand third-party staffing and conversion figures. Company name, reporting period, employment status and the precise review-rate denominator are unspecified."
+    },
+    {
+      "claim": "Retention.com financing consideration: Adam examined debt terms for a potential co-founder buyout approximately 18 months before the recording.",
+      "start_timestamp": "00:55:23",
+      "end_timestamp": "00:56:02",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Relative historical date only. No financing amount, completed borrowing or completed buyout is established."
+    }
+  ],
+  "tensions_and_corrections": [
+    "The title emphasizes seven-figure growth through LinkedIn, but Adam attributes GetEmails' first million chiefly to Facebook ads, with cold email and word of mouth contributing. No RB2B revenue figure establishes a seven-figure LinkedIn result in this transcript.",
+    "The publication date is 2025-03-21. References to a February keynote, January cash generation, September content pivot, 'last July,' 'last month' and 'six weeks ago' cannot safely be converted into event dates because the recording date is not supplied.",
+    "Adam calls the interval from Q2 2020 to the end of Q1 2021 nine months. The quarter range and duration are ambiguous or inconsistent; neither is silently repaired.",
+    "Approximately $22 million ARR and $21.5 million 'in revenue' both appear. They may reflect rounding, different dates or different measures, but the source does not resolve the relationship.",
+    "The six-person growth story includes a separate description of three Philippines workers. Their inclusion in core headcount and their employment status are unclear, so this is not clean evidence of six total FTE doing all the work.",
+    "The $12 million ARR lean-team milestone and $13 million starting point for the 2023 documentary target appear at different narrative moments. They should be retained separately rather than treated as one corrected figure.",
+    "The $50 million ARR 2023 figure was a public target that Adam says he missed by more than 50%; it was not an achieved milestone.",
+    "At 00:11:03–00:11:06 Adam initially assigns approximately $240,000 MRR to GetEmails, then corrects it to Robly. GetEmails is separately placed at approximately $267,000 MRR.",
+    "The audience question at 00:29:05–00:29:14 asks about the first '$1 million in MRR,' while the surrounding talk concerns the first million on an ARR-oriented growth path. This question is not evidence of $1 million MRR achieved at that early stage.",
+    "Adam first believed a narrow ICP and a larger team would solve churn; he later says ICP refinement helped only a little and that the category itself remained high churn.",
+    "The business is described as becoming unprofitable during expansion and later generating substantial monthly cash. Those statements concern different parts of the story; the recovery's exact timing and accounting measures are not supplied.",
+    "The move to B2B is called a pivot, but Adam later explicitly describes two distinct businesses: Retention.com for ecommerce and RB2B for SaaS revenue teams. The transcript does not establish that Retention.com was discontinued.",
+    "Adam's successful historical outbound motion sits beside his later skepticism about sales-led acquisition. His shift is contextual: a more complex product, a difficult expansion, perceived changes in outbound and a newly powerful content audience.",
+    "Adam presents paid social as poor for durable customer quality but useful for awareness, early revenue and feedback. Those are different outcomes, so the account should not be flattened into either 'ads worked' or 'ads failed.'",
+    "Adam argues that content improves acquisition while acknowledging he cannot measure some cross-channel effects. The audience participant also points out that the free offer could generate a response without prior awareness.",
+    "He favors discovering content subjects through experimentation after initially wanting a fixed pillar spreadsheet, and says he stopped engagement circles after using them early.",
+    "Diana's preference for alternate email sources and manual Gmail sending is described by Adam as non-scientific; he thinks Pete ran an experiment that disproved at least part of it. The exact tested claim and result are not provided.",
+    "Adam distinguishes mechanical overseas task execution from a sophisticated managed team, then says overseas staff are people and employees like US staff. His awkward descriptions should not be converted into a definitive legal worker classification.",
+    "His preference for bootstrapping is strong, but the final financing answer explicitly acknowledges situational tradeoffs and provides no comprehensive ranking of venture debt, revenue-based financing and equity.",
+    "Automatic captions contain uncertain names, company spellings and financial abbreviations. Referenced slides, links, the exact high-performing CTA and analytics are unavailable in the supplied text.",
+    "The supplied transcript ends at 00:56:33 during an unfinished comparison about startup models, existing organic audiences and products that sell themselves."
+  ],
+  "reusable_topics": [
+    "The emotional recurrence of feeling stuck at different revenue levels",
+    "What profitability buys a founder during a growth plateau",
+    "Early acquisition signals versus durable product-market fit",
+    "Provocative advertising, awareness and customer-quality tradeoffs",
+    "Growing through one channel and a highly productive small team",
+    "The management debt created by scaling individual contributors",
+    "Losing bootstrapped spending discipline without actually raising VC",
+    "Public growth targets and admitting a large miss",
+    "Why a narrower ICP may not fix structural churn",
+    "Systems of record versus optional lead subscriptions",
+    "Content that produces credibility but few customer demos",
+    "Finding author, platform and buyer fit",
+    "Building buyers alongside a product",
+    "Using soft CTAs to recruit discovery conversations",
+    "How an existing audience changes the economics of a free offer",
+    "Discovering content pillars through publishing",
+    "Founder vulnerability grounded in specific operating experience",
+    "Founder trust as an advantage when features can be copied",
+    "Why a strong offer and familiarity reinforce each other",
+    "G2 as legitimacy infrastructure versus an acquisition marketplace",
+    "Product feedback as the earliest-stage objective",
+    "Stage-specific ecommerce distribution and partner dinners",
+    "Founder familiarity across cold email and product activation",
+    "Why more leads cannot repair an unproven sales process",
+    "Routing founder-generated demand to the wider team",
+    "Small channel experiments with defined goals",
+    "Mechanical outsourcing versus developing a capable support team",
+    "Documenting a process before expanding overseas hiring",
+    "Debt for founder liquidity under uncertain business conditions",
+    "The resource advantage of funding a new product from an existing cash-generating company"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:56:33",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript, including the opening montage, presentation, middle Q&A and final financing discussion; no external sources or tools were used.",
+      "Automatic captions are not diarized. Speaker attribution is contextual, with named handoffs used where available.",
+      "Metadata gives a duration of 3,396 seconds, but the final supplied caption begins at 00:56:33 and the text ends mid-discussion. No missing conclusion is inferred.",
+      "The recording date is unknown. Publication is not treated as the date of historical business results or relative-date references.",
+      "Slides, charts, shared links and displayed CTA wording are not included and were not reconstructed.",
+      "All company results are self-reports or co-host reports; third-party comparisons are mostly Adam's recollections and are not independently verified.",
+      "Financial units, reporting periods, headcount definitions and churn denominators are retained as uncertain where the source does not specify them.",
+      "User-proposed pillars are organizational tags, not evidence of approved author strategy, voice or mission.",
+      "This extraction is for internal wiki synthesis. Public accessibility does not establish clearance for reuse in new public copy."
+    ]
+  }
+}

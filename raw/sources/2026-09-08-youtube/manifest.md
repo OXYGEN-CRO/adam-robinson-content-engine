@@ -1,0 +1,21 @@
+# Source manifest — Adam Robinson YouTube
+
+- Captured: 2026-09-08; exact per-file UTC timestamps in normalized transcript JSON. Verification: 2026-09-08T07:45:39.117278+00:00.
+- Origin: https://www.youtube.com/channel/UCSHn0Px37BjzMqnZBmVWwcQ (channel handle `@retentionadam`, displayed author `Adam Robinson`). Channel metadata links the exact LinkedIn profile supplied by the user.
+- Source author: Adam Robinson's official supplied channel; guest conversations also contain guest speech.
+- Source dates: latest selected upload 2026-04-16 through 2024-08-14. These are publication/release dates, not necessarily recording dates. Historical references and reposted episodes retain their original event-time context.
+- Selection: latest 100 publicly accessible channel uploads across Videos, archived Live and Shorts at capture time. Read the latest 100 entries of Videos and all 14 Live + all 24 Shorts. The discovery response additionally preserves 10 older Videos entries. Resolve individual metadata, deduplicate by video ID, sort descending by `release_timestamp` where supplied (public premiere/live start), otherwise `timestamp` (upload/publication), and select the first 100. There are 93 Videos and 7 Live entries in the final selection; all Shorts predate its cutoff.
+- Boundary evidence: selected rank 100 is `jkBFQ85hV30` (2024-08-14); first excluded is `4-lZGjy_8b4` (2024-08-07). Unavailable, deleted, private or unlisted uploads are outside the visible public channel listing and cannot be inventoried from it.
+- Files: `discovery/channel-flat.json` exact yt-dlp channel/playlist extraction; `discovery/candidates.json` candidate membership; `selected-100.json` exact task selection; `all-candidates.json` 138 resolved sources including boundary evidence; `index.md` linked source catalog; `verification.json` counts and caption end coverage; `videos/VIDEO_ID/VIDEO_ID.info.json` exact yt-dlp metadata; `*.en-orig.json3`/`*.en.json3` exact downloaded captions; `*.transcript.json` normalized timestamped events; `*.md` searchable timestamped rendition. All 138 candidate transcripts are preserved, including 38 outside the latest-100 scope; synthesis of the requested corpus should use `selected-100.json`.
+- Method/tool: installed yt-dlp `2026.06.09`, public YouTube access; collection script `scripts/collect_youtube_context.py`, selection/verification script `scripts/finalize_youtube_context.py`. No account cookies, paid transcript service or user credentials used. Three duplicate `en` fetches returned HTTP 429 after successful `en-orig`; metadata-only retries resolved their otherwise absent metadata. Original successful caption files were preserved.
+- Transcript completeness: 100/100 selected videos have nonempty English YouTube automatic captions, totaling 778,609 words across 69.20 hours. No open-source ASR fallback was necessary because captions were available for every selected video. These are YouTube's existing machine captions, not human-verified transcripts. Text is preserved without correcting proper names, numbers, dates or transcription errors. Read source context and cross-check contradictory claims.
+- Transcript normalization: concatenate the `utf8` values within each JSON3 event, trim surrounding whitespace, omit empty/newline-only events, preserve event start/duration. Source JSON3 remains the authoritative exact response. No diarization; a host or guest speaking in a multi-person conversation cannot be inferred solely from channel ownership.
+- Public-use boundaries: public source material gathered at the user's request for private research and author-context synthesis. Public availability does not establish approval to reuse personal stories or exact wording in newly published author copy. No publication, outreach or scheduling authorized by this capture.
+- Metric boundaries: self-reported claims are source-dated, not independently verified financial results. Page/channel view, like and subscriber counts are snapshots at capture and must not be presented as company performance. Episode titles may be promotional and can disagree with spoken claims; retain distinctions.
+
+## Related
+
+- [[raw/sources/2026-09-08-youtube/index|Latest 100 transcript catalog]]
+- [[identity/proof|Proof and dated metrics]]
+- [[identity/backstory|Backstory]]
+- [[strategy/pillars|Content pillars]]

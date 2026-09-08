@@ -1,0 +1,77 @@
+{
+  "id": "search_plan_jrbpat",
+  "goal": "Collect the latest 200 public LinkedIn posts from Adam Robinson at https://www.linkedin.com/in/retentionadam using scraper.linkedin_profile_posts exclusively with pagination, preserving text, author, dates, URLs, and all metadata.",
+  "kind": "source_specific_scrape",
+  "recommended_route_id": "source_specific_scrape",
+  "routes": [
+    {
+      "id": "source_specific_scrape",
+      "kind": "source_specific_scrape",
+      "label": "Source-specific scrape",
+      "description": "Use a specialized adapter for a known source such as LinkedIn posts or source-specific web data.",
+      "table_role": "pages",
+      "preflight": [
+        "Use source-specific adapters only when the target source is explicit.",
+        "Confirm the URL pattern and row scope before live execution.",
+        "Avoid public side effects; scraping is read-only but may still consume credits."
+      ],
+      "approval": {
+        "requires_live_approval": true,
+        "requires_max_credits": true,
+        "default_mode": "dry_run",
+        "default_page_cap": 3
+      },
+      "unavailable_provider_candidates": [],
+      "primary_tool_id": "scraper.linkedin_profile_posts",
+      "provider_order": [
+        {
+          "tool_id": "scraper.linkedin_profile_posts",
+          "role": "primary",
+          "use_for": "User-requested Oxygen native managed scraper for Adam Robinson public recent posts",
+          "position": 1,
+          "status": "available"
+        }
+      ],
+      "ingestion": {
+        "rows_path": "response.raw.elements",
+        "cursor_path": "response.raw.pagination.paginationToken",
+        "cursor_request_key": "pagination_token",
+        "row_mapping": {
+          "post_id": "id",
+          "url": "linkedinUrl",
+          "author_name": "author.name",
+          "content": "content",
+          "posted_at": "postedAt.date",
+          "source_payload": ""
+        },
+        "default_upsert_key": "post_id",
+        "default_max_pages": 3,
+        "tool_id": "scraper.linkedin_profile_posts",
+        "tool_ids": [
+          "scraper.linkedin_profile_posts"
+        ]
+      }
+    }
+  ],
+  "clarification": null,
+  "missing_connections": [],
+  "needs_connection": false,
+  "operating_rules": [
+    "Plan first, inspect the selected tool descriptor, then run a bounded dry-run or one-page pilot.",
+    "Use live execution only with explicit max_credits and page/row caps.",
+    "Write provider output into a workspace table and inspect run/provenance before enrichment or outbound.",
+    "Use known-URL scrape routes when URLs are already known; use web search only to discover unknown URLs."
+  ],
+  "verification_commands": [
+    "oxygen search plan --goal <goal> --kind <kind> --json",
+    "oxygen search run <table> --plan <plan.json> --route <route_id> --request-json '<provider_request>' --mode dry_run --json",
+    "oxygen search run <table> --plan <plan.json> --route <route_id> --request-json '<provider_request>' --mode live --max-credits <n> --json",
+    "oxygen search runs get <run_id> --json"
+  ],
+  "metadata": {
+    "generated_at": "2026-09-08T07:39:38.652Z",
+    "mode": "deterministic",
+    "live_provider_calls": false,
+    "authored_selection": "Native scraper explicitly selected from live descriptor; generated plan suggested unrequested providers which were not executed."
+  }
+}

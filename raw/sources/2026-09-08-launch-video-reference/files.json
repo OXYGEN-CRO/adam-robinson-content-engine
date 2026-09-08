@@ -1,0 +1,72 @@
+{
+  "captured_at": "2026-09-08T09:18:05.679740+00:00",
+  "reference_files": [
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/.claude/skills/launch-video/SKILL.md",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/.claude/skills/launch-video/SKILL.md.txt",
+      "sha256": "de4f69352f142c29c3fdfbd6fc484c3d9d350ceb8039a7a572071d4864a2497e"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/launch-video/src/music.ts",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/launch-video/src/music.ts.txt",
+      "sha256": "fd8b30ac774d4a8179c2a36726a8baaeaf360054f7078e1a5a910e6c41d166db"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/launch-video/src/sfx.ts",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/launch-video/src/sfx.ts.txt",
+      "sha256": "58230364d07279cc70e55050fd6229e6a38006c6469dc92515d8802de28405f3"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/launch-video/src/timings.ts",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/launch-video/src/timings.ts.txt",
+      "sha256": "5586bac475fbe017c70fdd338525975cef8d9d96232f264c7ff4d2b9b51d6511"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/launch-video/src/SoundDesign.tsx",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/launch-video/src/SoundDesign.tsx.txt",
+      "sha256": "d6b9e33767365e025c92578add6efa818e0dc09b7ace0367a38795b5b3fe7c88"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/launch-video/generate-audio.ts",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/launch-video/generate-audio.ts.txt",
+      "sha256": "03013b10bd97a381b1e5ab3776fdd71a2c9fe05062313c19f5bea28c6346be0d"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/launch-video/generate-sfx.ts",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/launch-video/generate-sfx.ts.txt",
+      "sha256": "26804fa69504b8cf8be26ff4dec3018e63b5c3033b6ce0b9223082776034333d"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/launch-video/generate-music.ts",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/launch-video/generate-music.ts.txt",
+      "sha256": "9d3408d90802a21d0accb2ddcadf54e170d760a4fb8b20dfc07621823abef951"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/launch-video/music.timings.json",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/launch-video/music.timings.json.txt",
+      "sha256": "4fbd4b54c663723620984378fc1adde7e902d8530a6ee893aff4016eb1591ca2"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/launch-video/sfx.timings.json",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/launch-video/sfx.timings.json.txt",
+      "sha256": "a313ba3c946578cf8b9f99fbef910a31e41885b04a2c4e8ef99311e9c3077e94"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/linkedin-sequencer/src/music.ts",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/linkedin-sequencer/src/music.ts.txt",
+      "sha256": "57110935d56aa8269f05f321698661bbda7fe24434300cabd9dd6195d7cfa88a"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/content/motion/linkedin-sequencer/music.timings.json",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/content/motion/linkedin-sequencer/music.timings.json.txt",
+      "sha256": "9d44d6ce8a99a0594f6b14dc859a722ede3e0666c67fd0d76e238665f5ce68c0"
+    },
+    {
+      "source": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/sfx-shorts/README.md",
+      "snapshot": "raw/sources/2026-09-08-launch-video-reference/original/brand/motion/audio/sfx-shorts/README.md.txt",
+      "sha256": "e581bb554001482beb85279b15132c3615fd67a6e9b5a55a67a27c8c40a45d3e"
+    }
+  ],
+  "audio_manifest": "brand/motion/audio/library/manifest.json",
+  "logo_manifest": "brand/motion/logos/third-party/manifest.json"
+}

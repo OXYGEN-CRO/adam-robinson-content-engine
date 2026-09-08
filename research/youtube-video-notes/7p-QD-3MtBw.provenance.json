@@ -1,0 +1,13 @@
+{
+  "id": "7p-QD-3MtBw",
+  "source_sha256": "4389e0a0bb902fb52612a814d042a9c2cd16cb93d7836eede886ea79007e4bcd",
+  "source_characters": 65450,
+  "source_word_count": 9984,
+  "prompt_sha256": "ae7edcc9dd98d21a3edc5cb6ee3783922b42b767964a0d0d6914136287ef2a9e",
+  "started_at": "2026-09-08T09:22:46.066665+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/7p-QD-3MtBw/7p-QD-3MtBw.md",
+  "pid": 89164,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:27:10.286231+00:00"
+}

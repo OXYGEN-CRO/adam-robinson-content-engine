@@ -1,0 +1,26 @@
+{
+  "title": "Build a lead list you can explain",
+  "description": "Proposed workflow illustration. Example fields; no live product capture.",
+  "entry": "art.html",
+  "selector": ".ms-art",
+  "width": 1080,
+  "height": 1350,
+  "duration": 8000,
+  "fps": 30,
+  "gifWidth": 720,
+  "gifFps": 20,
+  "posterMs": 6000,
+  "seamless": true,
+  "fontFamilies": ["Roboto Mono"],
+  "motionClipClasses": ["row-mask"],
+  "reviewTimes": [900, 1900, 3300, 4550, 7500],
+  "sourceFiles": [
+    "applications/lead-list-recipe/art.html",
+    "applications/lead-list-recipe/art.css",
+    "applications/lead-list-recipe/animation.js",
+    "tokens.css",
+    "assets/fonts/RobotoMono-Variable.ttf",
+    "assets/fonts/RobotoMono-OFL.txt",
+    "assets/logos/moltsets-lockup-source.png"
+  ]
+}

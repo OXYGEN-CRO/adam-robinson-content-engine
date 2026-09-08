@@ -1,0 +1,209 @@
+{
+  "sha": "b42a95a2a5894e68659df5f72d27517deb9108e6",
+  "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/trees/b42a95a2a5894e68659df5f72d27517deb9108e6",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89028872a1c826bd6a04e57148dad61220c9a4c7",
+      "size": 104,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/89028872a1c826bd6a04e57148dad61220c9a4c7"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c97b46d4bc3c56d27cd7af32738a5e7f0c4a0b52",
+      "size": 1066,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/c97b46d4bc3c56d27cd7af32738a5e7f0c4a0b52"
+    },
+    {
+      "path": "METHOD.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7800460c75ae32e9880e300ad8a1b9948dcf0f3",
+      "size": 4143,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/a7800460c75ae32e9880e300ad8a1b9948dcf0f3"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de46391967d67381aafbe06117a30cf54a611311",
+      "size": 5176,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/de46391967d67381aafbe06117a30cf54a611311"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3c2e7c12d484a144c36ba83532325a4af478e86c",
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/trees/3c2e7c12d484a144c36ba83532325a4af478e86c"
+    },
+    {
+      "path": "docs/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "be240066fc9637e2179add9c677a4f8776bd7019",
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/trees/be240066fc9637e2179add9c677a4f8776bd7019"
+    },
+    {
+      "path": "docs/assets/demo-thumb.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "019548bfbc015030c3e9eae3656e0c0822890a9e",
+      "size": 38709,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/019548bfbc015030c3e9eae3656e0c0822890a9e"
+    },
+    {
+      "path": "docs/technique-chooser.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7655c42881d3554195d7530e657fd246dceca30",
+      "size": 4337,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/f7655c42881d3554195d7530e657fd246dceca30"
+    },
+    {
+      "path": "docs/techniques",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "97d02a3ed153f49e7db83eb69f1aebf0d0e5cec2",
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/trees/97d02a3ed153f49e7db83eb69f1aebf0d0e5cec2"
+    },
+    {
+      "path": "docs/techniques/01-kinetic-typography.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34ef36d650ce148b449d5c7f44190f4fbfd91797",
+      "size": 12799,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/34ef36d650ce148b449d5c7f44190f4fbfd91797"
+    },
+    {
+      "path": "docs/techniques/02-type-to-object-handoffs.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57dbca8329632a71fb47bd13612094c19ab94c67",
+      "size": 6108,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/57dbca8329632a71fb47bd13612094c19ab94c67"
+    },
+    {
+      "path": "docs/techniques/03-scene-transitions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7872430b7a0105d8900bb426d17f2d1592d88446",
+      "size": 7491,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/7872430b7a0105d8900bb426d17f2d1592d88446"
+    },
+    {
+      "path": "docs/techniques/04-camera-moves.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99151f155039a9ddc710fc5985be46481e59862c",
+      "size": 7144,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/99151f155039a9ddc710fc5985be46481e59862c"
+    },
+    {
+      "path": "docs/techniques/05-devices-and-ui-motion.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7766e03d8c19a8b054c549ea0857d2d529b95a41",
+      "size": 14507,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/7766e03d8c19a8b054c549ea0857d2d529b95a41"
+    },
+    {
+      "path": "docs/techniques/06-emphasis.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52f5948cf4dfbf88393a9f223c8a50d681837086",
+      "size": 4398,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/52f5948cf4dfbf88393a9f223c8a50d681837086"
+    },
+    {
+      "path": "docs/techniques/07-logo-brand-reveals.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b52fdd505339b66e16e955acc2c5b769361ad13",
+      "size": 6431,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/8b52fdd505339b66e16e955acc2c5b769361ad13"
+    },
+    {
+      "path": "docs/techniques/08-backgrounds-ambient.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3dfe75fd7455df7b90839a0366a6fbab9783865",
+      "size": 4959,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/f3dfe75fd7455df7b90839a0366a6fbab9783865"
+    },
+    {
+      "path": "docs/techniques/09-dataviz-annotations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "250ed39de17ac07a0d57ccc1dc3c13d31a243c06",
+      "size": 4776,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/250ed39de17ac07a0d57ccc1dc3c13d31a243c06"
+    },
+    {
+      "path": "docs/techniques/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdb70304b1f92e4ebb0720add856b475055f98df",
+      "size": 2917,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/fdb70304b1f92e4ebb0720add856b475055f98df"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2a4d8189382bded52432c4d40c835774c61dc2c",
+      "size": 392,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/b2a4d8189382bded52432c4d40c835774c61dc2c"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d545fd5e5597e9eb9f42534e0139b6892019c6fb",
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/trees/d545fd5e5597e9eb9f42534e0139b6892019c6fb"
+    },
+    {
+      "path": "scripts/beatgrid.cjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d94b920de4651b5bf9302bcf3d36334801771c6",
+      "size": 3368,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/3d94b920de4651b5bf9302bcf3d36334801771c6"
+    },
+    {
+      "path": "src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b5699bbce6407e8fed97a077d2c074645c3c18d5",
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/trees/b5699bbce6407e8fed97a077d2c074645c3c18d5"
+    },
+    {
+      "path": "src/components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6d6680eda1e94f81129ad7bbfc29446ad60aa504",
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/trees/6d6680eda1e94f81129ad7bbfc29446ad60aa504"
+    },
+    {
+      "path": "src/components/text.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fc3ca3800c530ed46d6266da82fd70cc39fba23",
+      "size": 3395,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/8fc3ca3800c530ed46d6266da82fd70cc39fba23"
+    },
+    {
+      "path": "src/theme.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42cf46a28695641ec2339a2a9ae81b782d206cd4",
+      "size": 2027,
+      "url": "https://api.github.com/repos/platan821/animation-techniques-kit/git/blobs/42cf46a28695641ec2339a2a9ae81b782d206cd4"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": "F-WwDP1d-pM",
+  "source_sha256": "d6dbaecbcd8c7269f1ae1f98041d4e378760a681ff0b57a7e54b78582323305b",
+  "source_characters": 10321,
+  "source_word_count": 1365,
+  "prompt_sha256": "dc643d1f299c06233bc3713d61265c2f43d69d3bc6f8df83ed8038b6bb8b281c",
+  "started_at": "2026-09-08T07:54:04.712239+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/F-WwDP1d-pM/F-WwDP1d-pM.md",
+  "pid": 40775,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T07:58:54.296207+00:00"
+}

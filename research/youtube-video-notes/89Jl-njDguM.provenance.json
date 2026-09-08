@@ -1,0 +1,13 @@
+{
+  "id": "89Jl-njDguM",
+  "source_sha256": "041bb835573113605eb494468e321186eaa1fa7f6a8aa5105f2f41cb22df200c",
+  "source_characters": 72852,
+  "source_word_count": 11104,
+  "prompt_sha256": "6a1fdcd9abdee636665bffe8005223f40887c2e8bce51b41c597c4734b50e286",
+  "started_at": "2026-09-08T09:34:26.460267+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/89Jl-njDguM/89Jl-njDguM.md",
+  "pid": 62134,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:40:30.495128+00:00"
+}

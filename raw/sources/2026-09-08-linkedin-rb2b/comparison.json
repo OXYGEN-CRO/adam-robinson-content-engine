@@ -1,0 +1,423 @@
+{
+  "table_rows": 979,
+  "unique_activity_ids": 979,
+  "pagination_exhausted": true,
+  "adam_records": 914,
+  "adam_nonempty_bodies": 911,
+  "other_author_records": 65,
+  "original_200_overlaps": 200,
+  "overlap_text_and_dates_identical": true,
+  "added_adam_records": 714,
+  "added_nonempty_bodies": 711,
+  "empty_body_ids": [
+    "7074415120633708545",
+    "7078392579158904832",
+    "7280289932038840321"
+  ],
+  "newest": "2026-09-07T17:41:49.480Z",
+  "oldest": "2023-02-06T15:36:05.223Z",
+  "year_counts": {
+    "2023": 368,
+    "2024": 184,
+    "2025": 209,
+    "2026": 153
+  },
+  "other_authors": {
+    "Diana Ross": 3,
+    "Santosh Sharan": 58,
+    "Taylor Haren": 4
+  },
+  "excluded_other_author_records": [
+    {
+      "activity_id": "7232077749752840192",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_four-months-ago-we-launched-rb2b-and-i-shared-activity-7232077749752840192-Cl7w"
+    },
+    {
+      "activity_id": "7248025681027072001",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_in-2-years-retentioncom-grew-from-6m-activity-7248025681027072001-3-5A"
+    },
+    {
+      "activity_id": "7245471504539254784",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_vc-money-might-save-your-business-but-vc-activity-7245471504539254784-Y7Z7"
+    },
+    {
+      "activity_id": "7240055448026955776",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_yesterday-klarnas-ceo-announced-they-were-activity-7240055448026955776-ZwMa"
+    },
+    {
+      "activity_id": "7228804173683646464",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_in-recent-weeks-goldman-sachs-mckinsey-activity-7228804173683646464-8CFH"
+    },
+    {
+      "activity_id": "7387164908464836608",
+      "author_name": "Taylor Haren",
+      "author_url": "https://www.linkedin.com/in/taylorharen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADSe60kBfKdHqfFHUwUN9o5DGDQPHLqa0sM",
+      "post_url": "https://www.linkedin.com/posts/taylorharen_adam-robinson-fired-us-after-we-drove-42-activity-7387164908464836608-jbCO"
+    },
+    {
+      "activity_id": "7219432233235828737",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_heres-how-to-raise-25m-in-vc-get-acquired-activity-7219432233235828737-oMdg"
+    },
+    {
+      "activity_id": "7253107112443039746",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_in-7-months-we-grewrb2bto-35m-arr-with-activity-7253107112443039746-w7V2"
+    },
+    {
+      "activity_id": "7255650000108429313",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_the-future-of-high-growth-startups-isnt-activity-7255650000108429313-Akl-"
+    },
+    {
+      "activity_id": "7300535611248037893",
+      "author_name": "Diana Ross",
+      "author_url": "https://www.linkedin.com/in/diana-ross-bb400a31?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAaWGjgBjWNQrxgvvCvahjyZTIAWTkV5DTQ",
+      "post_url": "https://www.linkedin.com/posts/diana-ross-bb400a31_in-27-months-we-grew-retentioncom-from-activity-7300535611248037893-77bx"
+    },
+    {
+      "activity_id": "7279560281104523264",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_theres-a-new-gold-rush-in-saas-and-its-activity-7279560281104523264-E1mY"
+    },
+    {
+      "activity_id": "7258882372224327680",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-i-was-on-a-podcast-withamit-vasudev-activity-7258882372224327680-SDcg"
+    },
+    {
+      "activity_id": "7270122939272826882",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-i-saw-several-linkedin-posts-recommending-activity-7270122939272826882-vUai"
+    },
+    {
+      "activity_id": "7275238303212167169",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_for-14-years-ive-been-on-the-frontline-activity-7275238303212167169-zCm8"
+    },
+    {
+      "activity_id": "7247315680100802561",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_in-2024-google-microsoft-and-amazon-have-activity-7247315680100802561-Y1Ke"
+    },
+    {
+      "activity_id": "7241498827684229120",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_spending-20-minutes-crafting-one-impactful-activity-7241498827684229120-PIjD"
+    },
+    {
+      "activity_id": "7224507879070785538",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-i-saw-a-linkedin-post-about-a-startup-activity-7224507879070785538-lCpf"
+    },
+    {
+      "activity_id": "7266889109208461312",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_as-an-executive-ive-participated-in-extensive-activity-7266889109208461312-8MC3"
+    },
+    {
+      "activity_id": "7239313590686466050",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_s-activity-7239313590686466050-XTwL"
+    },
+    {
+      "activity_id": "7220127397726052352",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_people-always-ask-me-why-i-chose-to-work-activity-7220127397726052352-SxQ1"
+    },
+    {
+      "activity_id": "7209989184478924800",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-a-former-vp-at-oracle-asked-me-activity-7209989184478924800-b1P1"
+    },
+    {
+      "activity_id": "7237887076027768832",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_selling-tools-is-a-1m-business-selling-activity-7237887076027768832-5xcQ"
+    },
+    {
+      "activity_id": "7296179580862705664",
+      "author_name": "Diana Ross",
+      "author_url": "https://www.linkedin.com/in/diana-ross-bb400a31?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAaWGjgBjWNQrxgvvCvahjyZTIAWTkV5DTQ",
+      "post_url": "https://www.linkedin.com/posts/diana-ross-bb400a31_in-less-than-10-years-ive-taken-startups-activity-7296179580862705664-kkMZ"
+    },
+    {
+      "activity_id": "7221947784948563969",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_business-is-the-most-extreme-sport-in-the-activity-7221947784948563969-K07m"
+    },
+    {
+      "activity_id": "7221245570688962560",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_linkedins-user-experience-is-rapidly-deteriorating-activity-7221245570688962560-337k"
+    },
+    {
+      "activity_id": "7249876460482527233",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_employees-join-startups-excited-for-stock-activity-7249876460482527233-QRqB"
+    },
+    {
+      "activity_id": "7199150923426783233",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-i-saw-several-linkedin-posts-recommending-activity-7199150923426783233-9IPh"
+    },
+    {
+      "activity_id": "7119789214518427648",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-sam-jacobs-said-the-golden-age-activity-7119789214518427648-_KME"
+    },
+    {
+      "activity_id": "7181387522130812929",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-i-spoke-with-an-enterprise-ae-at-activity-7181387522130812929-bupp"
+    },
+    {
+      "activity_id": "7187149194976006144",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_lacework-valued-at-8b-announced-yesterday-activity-7187149194976006144-REAU"
+    },
+    {
+      "activity_id": "7178851021220192256",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_the-product-adoption-lifecycle-curve-is-dead-activity-7178851021220192256-4QMK"
+    },
+    {
+      "activity_id": "7163646179686240256",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_why-saleslofts-acquisition-of-drift-signals-activity-7163646179686240256-eHME"
+    },
+    {
+      "activity_id": "7110693975765766144",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_in-2012-when-i-joined-zoominfo-as-the-vp-activity-7110693975765766144-N5Hz"
+    },
+    {
+      "activity_id": "7144076537363902464",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_within-the-next-24-months-2-out-of-3-current-activity-7144076537363902464-F718"
+    },
+    {
+      "activity_id": "7194758928755306496",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_the-current-demandgen-model-is-broken-business-activity-7194758928755306496-hcYl"
+    },
+    {
+      "activity_id": "7196608863968649217",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_hey-b2b-marketers-today-i-want-to-introduce-activity-7196608863968649217-TqQ6"
+    },
+    {
+      "activity_id": "7156049676411039745",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_in-4-months-i-generated-25m-views-on-linkedin-activity-7156049676411039745-0yog"
+    },
+    {
+      "activity_id": "7202375871104524288",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_yesterday-salesforce-shares-dropped-21-after-activity-7202375871104524288-1eId"
+    },
+    {
+      "activity_id": "7192233291322646528",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-i-had-a-viral-linkedin-post-on-activity-7192233291322646528-3bfo"
+    },
+    {
+      "activity_id": "7198423318322962432",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_partnership-is-the-future-of-sales-here-activity-7198423318322962432-uip9"
+    },
+    {
+      "activity_id": "7166177526988447744",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_90-of-plg-product-led-growth-companies-activity-7166177526988447744-r9U7"
+    },
+    {
+      "activity_id": "7161803457706864640",
+      "author_name": "Taylor Haren",
+      "author_url": "https://www.linkedin.com/in/taylorharen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADSe60kBfKdHqfFHUwUN9o5DGDQPHLqa0sM",
+      "post_url": "https://www.linkedin.com/posts/taylorharen_yesterday-i-launched-my-first-cold-email-activity-7161803457706864640-vs0N"
+    },
+    {
+      "activity_id": "7150931359811702784",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_my-6-predictions-about-ai-over-the-next-12-activity-7150931359811702784-4jXK"
+    },
+    {
+      "activity_id": "7148760209316794368",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_b2b-buyers-hate-talking-to-salespeople-gartner-activity-7148760209316794368-FGZU"
+    },
+    {
+      "activity_id": "7183926107681820672",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_top-saas-salespeople-are-underpaid-the-best-activity-7183926107681820672-_aLj"
+    },
+    {
+      "activity_id": "7146587041844068352",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_want-to-know-what-the-future-of-ai-looks-activity-7146587041844068352-5i1O"
+    },
+    {
+      "activity_id": "7153498974237114368",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_during-my-career-i-helped-price-10-saas-activity-7153498974237114368-w7AU"
+    },
+    {
+      "activity_id": "7204172477218910212",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_linkedin-has-changed-if-you-are-still-using-activity-7204172477218910212-VeDc"
+    },
+    {
+      "activity_id": "7115387952242819072",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_for-13-years-ive-been-on-the-frontline-activity-7115387952242819072-zlXO"
+    },
+    {
+      "activity_id": "7131034317983535104",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_two-weeks-ago-hubspot-agreed-to-acquire-clearbit-activity-7131034317983535104-E80l"
+    },
+    {
+      "activity_id": "7135331843020648449",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-retentioncom-booked-50-demos-activity-7135331843020648449-MrRo"
+    },
+    {
+      "activity_id": "7112861742103236608",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_since-2010-ive-worked-with-15-b2b-data-activity-7112861742103236608-4L11"
+    },
+    {
+      "activity_id": "7120864688858415104",
+      "author_name": "Diana Ross",
+      "author_url": "https://www.linkedin.com/in/diana-ross-bb400a31?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAaWGjgBjWNQrxgvvCvahjyZTIAWTkV5DTQ",
+      "post_url": "https://www.linkedin.com/posts/diana-ross-bb400a31_startups-sales-activity-7120864688858415104-GRlt"
+    },
+    {
+      "activity_id": "7141178933282021376",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_is-product-led-growth-a-lie-last-week-i-activity-7141178933282021376-_DPk"
+    },
+    {
+      "activity_id": "7168722858355965952",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_for-the-right-startup-founder-reigning-in-activity-7168722858355965952-zUXs"
+    },
+    {
+      "activity_id": "7191496635779067904",
+      "author_name": "Taylor Haren",
+      "author_url": "https://www.linkedin.com/in/taylorharen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADSe60kBfKdHqfFHUwUN9o5DGDQPHLqa0sM",
+      "post_url": "https://www.linkedin.com/posts/taylorharen_every-saas-client-i-have-doing-under-5m-activity-7191496635779067904-ovre"
+    },
+    {
+      "activity_id": "7183169480754126849",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_tam-is-a-completely-bogus-concept-there-activity-7183169480754126849-c-rl"
+    },
+    {
+      "activity_id": "7138641762201309185",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_last-week-i-caught-up-with-a-vp-of-customer-activity-7138641762201309185-FWmY"
+    },
+    {
+      "activity_id": "7173780761559461891",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_within-4-years-we-will-bootstrap-rb2b-into-activity-7173780761559461891-xY7o"
+    },
+    {
+      "activity_id": "7168681260083593216",
+      "author_name": "Taylor Haren",
+      "author_url": "https://www.linkedin.com/in/taylorharen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADSe60kBfKdHqfFHUwUN9o5DGDQPHLqa0sM",
+      "post_url": "https://www.linkedin.com/posts/taylorharen_in-11-days-we-drove-355-waitlist-signups-activity-7168681260083593216-1vci"
+    },
+    {
+      "activity_id": "7207450963547181057",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_dear-sdrs-and-aes-if-you-want-to-book-a-activity-7207450963547181057-vsl6"
+    },
+    {
+      "activity_id": "7127410404158226432",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_outbound-sales-tech-vendors-like-salesloft-activity-7127410404158226432-rwfe"
+    },
+    {
+      "activity_id": "7186464657610543104",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_despite-what-you-hear-on-linkedin-the-sdr-activity-7186464657610543104-mkRu"
+    },
+    {
+      "activity_id": "7171954343858954240",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_today-im-taking-a-break-from-my-normal-gtm-activity-7171954343858954240-V9Ou"
+    },
+    {
+      "activity_id": "7204925860460519424",
+      "author_name": "Santosh Sharan",
+      "author_url": "https://www.linkedin.com/in/ssharan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAJEyABeZcz4GSvcpTZh8_Eo6982HkMrBI",
+      "post_url": "https://www.linkedin.com/posts/ssharan_in-2012-when-i-joined-zoominfo-as-the-vp-activity-7204925860460519424-g6Zm"
+    }
+  ],
+  "all_history_claim": "Complete export of the available table, not proof of every LinkedIn post ever published."
+}

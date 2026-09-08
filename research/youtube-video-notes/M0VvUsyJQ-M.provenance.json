@@ -1,0 +1,13 @@
+{
+  "id": "M0VvUsyJQ-M",
+  "source_sha256": "69121a5e0638c590ebe3374709c88f9876b71e26b9d78b0721b856522f15e752",
+  "source_characters": 71032,
+  "source_word_count": 10659,
+  "prompt_sha256": "6a2f74b9ff59db8fc6a3e0f0c94ea8ba0117b27cbf04938e5c33e9e9e94704de",
+  "started_at": "2026-09-08T09:07:45.154783+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/M0VvUsyJQ-M/M0VvUsyJQ-M.md",
+  "pid": 64471,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:12:49.420061+00:00"
+}

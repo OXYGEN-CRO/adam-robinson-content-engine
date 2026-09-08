@@ -1,0 +1,27 @@
+.cover-head { margin-top:44px; max-width:850px; }
+.cover-console { margin-top:auto; }
+.cover-console .ms-terminal-body { display:flex; align-items:center; gap:40px; padding:38px; }
+.cover-console .ms-mascot { width:156px; height:200px; flex:none; }
+.cover-console .ms-body { font-size:30px; }
+.quote-layout .ms-quote { margin-top:130px; }
+.quote-layout .ms-quote blockquote { font-size:88px; max-width:740px; }
+.quote-layout .ms-quote figcaption { font-size:28px; }
+.quote-layout .quote-context { margin-top:60px; max-width:730px; }
+.detail-layout .ms-terminal { margin-top:8px; }
+.detail-layout .ms-step { padding:30px 0; }
+.workflow-layout { gap:24px; }
+.workflow-layout .ms-headline { max-width:1600px; }
+.workflow-diagram { display:flex; align-items:center; gap:22px; }
+.workflow-diagram .ms-node { flex:1; min-height:236px; }
+.workflow-layout .ms-terminal { margin-top:14px; }
+.workflow-layout .ms-terminal-body { padding:44px; }
+.workflow-layout .ms-prompt { padding-top:30px; padding-bottom:0; }
+.workflow-layout .ms-callout { margin-top:0; }
+.lower-third-layout { justify-content:flex-end; padding:100px 120px; }
+.story-layout { padding:120px 80px 220px; gap:60px; }
+.story-layout .ms-display { font-size:100px; }
+.story-layout .ms-mascot { width:260px; height:333px; }
+.story-layout .ms-terminal-body { padding:40px; }
+.story-layout .ms-body { font-size:36px; }
+.scorecard-layout .metrics { display:grid; grid-template-columns:1fr 1fr; gap:44px; margin-top:18px; }
+.scorecard-layout .ms-headline { font-size:58px; }

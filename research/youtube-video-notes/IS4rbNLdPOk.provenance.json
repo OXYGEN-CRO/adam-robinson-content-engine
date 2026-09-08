@@ -1,0 +1,13 @@
+{
+  "id": "IS4rbNLdPOk",
+  "source_sha256": "254ed740edf614e1f1adc92f76dbe19f8d2476eca22a67b4f3b3d5cb908b35dc",
+  "source_characters": 8383,
+  "source_word_count": 1027,
+  "prompt_sha256": "6d7455574da1a93d51fde73dd578f1e5b6de78bc36f82ef4be8967d1efe7448b",
+  "started_at": "2026-09-08T08:18:56.849398+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/IS4rbNLdPOk/IS4rbNLdPOk.md",
+  "pid": 96501,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:21:24.367182+00:00"
+}

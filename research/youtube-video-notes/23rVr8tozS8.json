@@ -1,0 +1,708 @@
+{
+  "video_id": "23rVr8tozS8",
+  "title": "How I Turned Social Media Hate Into a $23M Business (Ulitmate Social Hack For 2025)",
+  "published": "2025-02-22T14:00:03+00:00",
+  "speakers_and_attribution": "Adam Robinson is the main interviewee. The host is addressed as Santosh near the end; his introductory name is garbled, so his surname is not established. Historical GetEmails advertisements feature Adam and Helen, whom Adam identifies as his then-girlfriend and current wife; captions do not reliably separate their individual lines. Audience questions are generally read by the host. Statements attributed to lawyers, colleagues, critics and Aaron Ross are Adam's recollections, not direct testimony from those people. The final segment beginning at 00:58:26 appears to introduce another speaker, possibly Eric, whose identity is not verified; its engagement metrics are not Adam's. Company names are repeatedly miscaptioned: context supports GetEmails, Retention.com, RB2B and 6sense, but financial figures and some personal names remain unresolved.",
+  "summary": "Adam retrospectively examines two episodes in which provocative marketing generated attention and customer acquisition: early GetEmails Facebook advertisements made with Helen, and RB2B's public dispute with 6sense. He describes using hostile comments as creative material, evaluating controversy through signups and sales, and turning an incumbent's legal demand into publicity. He also explains why the Facebook campaign stopped working, how later posts became repetitive or mean-spirited, and how sustained antagonism harmed his relationships and emotional state. The final third adds boundaries around attacking individuals, legal downside, relying on negativity as a core strategy, and the changing economics of outbound versus inbound demand generation. The spoken evidence does not establish that controversy alone created a $23 million business, and several financial captions are unusable. Although published in February 2025, the conversation contains strong indications of a 2024 recording; its exact recording date is unknown.",
+  "key_learnings": [
+    {
+      "claim": "Adam defines provocative posting as intentionally inflammatory or excessively negative commentary designed to provoke a response. His examples combine criticism with humor rather than treating every unconventional post as the same tactic.",
+      "start_timestamp": "00:01:09",
+      "end_timestamp": "00:01:44",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "This is Adam's working definition, not an authoritative definition or an approved description of his overall voice."
+    },
+    {
+      "claim": "The original GetEmails ad answered a recurring sales objection about legality using props, changing backgrounds and an informal social-story format. Adam says he discovered its provocative potential after publishing it, rather than starting with a deliberate outrage strategy.",
+      "start_timestamp": "00:04:25",
+      "end_timestamp": "00:06:26",
+      "speaker": "Adam Robinson; historical ad featuring Adam and Helen",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The advertisement's legal explanations are historical promotional assertions and are not independently verified or suitable as compliance guidance."
+    },
+    {
+      "claim": "Adam used hostile comments as a source of subsequent ad concepts, creating individual advertisements around objections such as exploiting a legal loophole. He believed long negative comment threads increased distribution and ad performance.",
+      "start_timestamp": "00:06:40",
+      "end_timestamp": "00:07:53",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The account supports his creative process and interpretation of engagement; no controlled evidence isolates an algorithmic or causal effect."
+    },
+    {
+      "claim": "The reason Adam continued despite hostility was observable business response: people clicked, signed up and paid. He explicitly distinguishes this from receiving negative comments without acquiring customers.",
+      "start_timestamp": "00:08:36",
+      "end_timestamp": "00:09:39",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Historical self-report about GetEmails; the transcript provides no acquisition-cost calculation or attribution methodology."
+    },
+    {
+      "claim": "Adam believes very young companies have more freedom to experiment with provocative messaging because they have little established brand equity to lose. He says the same advertisements would be unacceptable for the more mature Retention.com.",
+      "start_timestamp": "00:11:27",
+      "end_timestamp": "00:12:17",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "His early-stage argument is qualified later by legal, relationship and audience costs; having little brand equity does not remove those risks."
+    },
+    {
+      "claim": "Adam thinks some vocal critics will never become customers, while other initially hostile prospects may reconsider if the product is strong enough.",
+      "start_timestamp": "00:12:17",
+      "end_timestamp": "00:12:42",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He explicitly presents this as an opinion. The transcript does not document critics subsequently converting."
+    },
+    {
+      "claim": "The ads simultaneously antagonized a small group and attracted fans who enjoyed the humor. Adam describes the audience response as a mixture of hostility and entertainment rather than universal disapproval.",
+      "start_timestamp": "00:12:56",
+      "end_timestamp": "00:14:20",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The size of either audience segment is not measured, and favorable reactions do not establish long-term customer retention."
+    },
+    {
+      "claim": "GetEmails eventually moved away from Facebook ads toward higher-lifetime-value customers and ecommerce prospecting. Adam describes an acquisition channel that initially produced growth but later failed to support durable expansion.",
+      "start_timestamp": "00:03:57",
+      "end_timestamp": "00:04:17",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "The fuller reasons appear at 00:15:41–00:18:39. The timeline and revenue units are not completely clear."
+    },
+    {
+      "claim": "The Facebook campaign's economics depended partly on occasional large self-serve purchases that covered recent ad spending. When those buyers stopped appearing, continued spending and high customer churn exposed the model's fragility.",
+      "start_timestamp": "00:17:24",
+      "end_timestamp": "00:18:39",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Adam suspects audience saturation but does not establish it. The explanation combines churn, buyer mix and increasing spend rather than identifying one proven cause."
+    },
+    {
+      "claim": "Adam's early GetEmails freemium experiment failed, while he says a freemium approach was working for them at the time of this conversation. The example shows that his enthusiasm for a model did not ensure success in its first implementation.",
+      "start_timestamp": "00:15:41",
+      "end_timestamp": "00:16:18",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "He does not enumerate the earlier failure reasons here. The contemporary comparison appears to refer to RB2B, but this sentence does not explicitly name the company."
+    },
+    {
+      "claim": "Adam describes severe pricing and renewal pressure at Retention.com during 2023 and early 2024. That experience made an alleged large 6sense renewal increase especially provocative to him.",
+      "start_timestamp": "00:19:53",
+      "end_timestamp": "00:21:25",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Retention.com's experience is self-reported; the 6sense pricing interaction is his account of messages received by his team, with no contract shown in the transcript."
+    },
+    {
+      "claim": "The first 6sense post combined a real purchasing grievance with deliberately exaggerated competitor criticism and humor. Adam recognized that this style stood out from conventional business writing.",
+      "start_timestamp": "00:21:29",
+      "end_timestamp": "00:22:56",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Claims about 6sense's data quality, intentions and fears are adversarial assertions, not independently established facts."
+    },
+    {
+      "claim": "Adam treated the reported cease-and-desist letter as an opportunity to gain recognition from a much larger competitor. He consulted his lawyer and chose to publish the letter after deciding he could accept being sued.",
+      "start_timestamp": "00:23:07",
+      "end_timestamp": "00:25:14",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The lawyer's advice is secondhand and its numerical liability estimate is unclear. This is a particular risk decision, not a general legal strategy."
+    },
+    {
+      "claim": "Adam believes the cease-and-desist post clarified RB2B's product for a relevant competitor audience, moving him from a recognizable LinkedIn personality toward concrete product awareness.",
+      "start_timestamp": "00:25:16",
+      "end_timestamp": "00:26:25",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "His assertion that nearly every 6sense customer then knew what RB2B did is rhetorical and unverified; comments are a selected audience, not a customer census."
+    },
+    {
+      "claim": "Adam assessed the controversy through a public dashboard and an internal operating scorecard, connecting the campaign to changes in signups and paid purchases rather than discussing impressions alone.",
+      "start_timestamp": "00:26:25",
+      "end_timestamp": "00:27:35",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "The transcript does not include the visible dashboard values or establish causal attribution. Later he corrects the source of one signup spike."
+    },
+    {
+      "claim": "A controversy has a limited useful lifespan. Adam says follow-up content needs a genuinely different angle, and he identifies a later 6sense post as the point where he should stop.",
+      "start_timestamp": "00:28:29",
+      "end_timestamp": "00:31:38",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "This lesson comes from his retrospective judgment of a small number of posts, not a validated posting-frequency rule."
+    },
+    {
+      "claim": "Adam says editing a later post softened its jokes while leaving a vicious conclusion, making it feel mean rather than funny. Adding his own profit-and-loss statement introduced a second competing subject and confused the message.",
+      "start_timestamp": "00:30:25",
+      "end_timestamp": "00:31:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "His diagnosis of lower performance is subjective. No financial figures from the attached statement are readable in the supplied transcript."
+    },
+    {
+      "claim": "Sustained antagonistic engagement had a personal cost: Adam describes enjoying insulting critics, remaining in that mindset outside the comments, and agreeing with friends and Helen that it damaged his relationships.",
+      "start_timestamp": "00:32:04",
+      "end_timestamp": "00:34:38",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "This is his account of emotional state and relationship effects, not a clinical diagnosis or evidence of a mental-health condition."
+    },
+    {
+      "claim": "Adam reports receiving no further legal communication after the 6sense episode. He speculates that more action would have generated additional content and attention for RB2B, while silence let the subject fade.",
+      "start_timestamp": "00:34:54",
+      "end_timestamp": "00:36:31",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "No follow-up is reported only as of the recording. His account of 6sense's motives is speculation, and this does not establish that legal threats are harmless."
+    },
+    {
+      "claim": "When a critic attacked him personally, Adam first waited to see how far the post would spread, then responded throughout its comments with what he considered a balanced privacy argument. He says some agencies expressed concern, but signups also increased.",
+      "start_timestamp": "00:37:11",
+      "end_timestamp": "00:40:27",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The critic's name is captioned as Clark Baron and is unverified. Adam's description of the exchange and its business impact is one-sided; no quantified signup lift is supplied."
+    },
+    {
+      "claim": "Adam welcomes public disagreement about the category his team calls inbound-led outbound because debate between critics and defenders can spread the concept and return attention to the company.",
+      "start_timestamp": "00:40:27",
+      "end_timestamp": "00:41:06",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "The claimed connection from debate to company attention is his strategic belief. The transcript does not establish category ownership or incremental revenue."
+    },
+    {
+      "claim": "Adam argues that direct, recognizably human language can resonate when contrasted with polished corporate buzzwords. He expects more authentic voices to matter in marketing.",
+      "start_timestamp": "00:41:24",
+      "end_timestamp": "00:42:36",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "This is a marketing opinion, not an approved voice guide. His references to Elon Musk and Donald Trump concern communication style and do not establish political endorsement."
+    },
+    {
+      "claim": "Adam draws a boundary between attacking a company and targeting an individual executive. He believes personal attacks carry greater backlash risk because audiences may like the person and recognize their family and life outside the company.",
+      "start_timestamp": "00:43:04",
+      "end_timestamp": "00:44:35",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He still invites criticism of himself, while explicitly acknowledging that other people may not share his tolerance for it."
+    },
+    {
+      "claim": "Audience reactions helped shape recurring characters and fictional storylines in the GetEmails ads. Adam says viewers' affection for Helen led them to write additional relationship-themed drama around the campaign.",
+      "start_timestamp": "00:45:23",
+      "end_timestamp": "00:46:54",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Helen leaving him for Aspen was an ad storyline, not evidence of an actual separation. Search popularity and acting inquiries are unverified recollections."
+    },
+    {
+      "claim": "Adam does not recommend making negative posting the entire marketing strategy. He says both successful episodes arose from specific circumstances, and that constant negativity can frustrate an audience.",
+      "start_timestamp": "00:46:57",
+      "end_timestamp": "00:48:53",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "This materially qualifies his earlier enthusiasm: audience context, meaningful upside and actual business response are prerequisites in his account."
+    },
+    {
+      "claim": "The host recommends challenging a larger competitor to make the startup appear in the same consideration set. Adam adds that the startup must be able to survive the worst-case response, including litigation that could otherwise end the business.",
+      "start_timestamp": "00:48:56",
+      "end_timestamp": "00:50:17",
+      "speaker": "Santosh, host; Adam Robinson",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "The consideration-set rationale originates with the host; Adam supplies the downside boundary. His statement that ZoomInfo would have sued is hypothetical."
+    },
+    {
+      "claim": "Adam credits the Predictable Revenue playbook with helping GetEmails develop sales after its Facebook-ad phase, while now arguing that the original outbound approach no longer creates demand as effectively.",
+      "start_timestamp": "00:51:35",
+      "end_timestamp": "00:53:26",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "His gratitude for the historical playbook and criticism of its contemporary effectiveness coexist. The claim that GetEmails would not have made a sale without it is emphatic retrospective language."
+    },
+    {
+      "claim": "Adam believes original software demand increasingly forms through webinars, podcasts, live events and peer recommendations, while declining reply rates and lower software buying weaken the traditional BDR role in creating demand.",
+      "start_timestamp": "00:52:51",
+      "end_timestamp": "00:54:22",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "These are broad market opinions without supporting aggregate data. Aaron Ross's anticipated rebuttal is Adam's prediction, not a statement Ross makes in this source."
+    },
+    {
+      "claim": "Adam sees inbound as more capital efficient but potentially less predictable than an outbound operating model. He then questions outbound's claimed predictability given unexpectedly strong 2021 results and painful 2023 outcomes.",
+      "start_timestamp": "00:54:42",
+      "end_timestamp": "00:55:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "No quantified efficiency comparison or financing history is provided. His market-wide claims draw on his own experience and acquaintances, and he corrects an initial verbal slip from outbound to inbound."
+    },
+    {
+      "claim": "Adam values Chris Walker's writing because it addresses organizational problems he says he has not yet experienced at that scale: sales-marketing alignment, attribution, narrow measurement and teams optimizing conflicting goals.",
+      "start_timestamp": "00:57:38",
+      "end_timestamp": "00:58:21",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "This establishes an area of learning interest and an acknowledged experience boundary, not proof that Adam has implemented Walker's approach."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Adam made the early quarantine GetEmails ads with Helen, who was his girlfriend then and his wife at the time of the conversation.",
+      "start_timestamp": "00:04:25",
+      "end_timestamp": "00:04:56",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "No marriage date is given. This is personal context from a public source retained for internal research, not approved public-copy material."
+    },
+    {
+      "claim": "Adam says the campaign revealed a creative ability he had not known he possessed: he could quickly write humorous scripts and perform them with Helen in very few takes.",
+      "start_timestamp": "00:16:20",
+      "end_timestamp": "00:16:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "This describes his experience on these ads, not a general production benchmark or a verified creative credential."
+    },
+    {
+      "claim": "Adam describes being strongly drawn to freemium and trying it even in the early GetEmails phase, then acknowledging that the experiment failed.",
+      "start_timestamp": "00:18:04",
+      "end_timestamp": "00:18:18",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "His enthusiasm is explicitly stated; the underlying values or reasons for it are not explained."
+    },
+    {
+      "claim": "Before escalating the 6sense dispute, Adam consulted a lawyer and consciously accepted litigation risk in exchange for a publicity opportunity.",
+      "start_timestamp": "00:23:59",
+      "end_timestamp": "00:24:30",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "This is one concrete risk decision and does not justify a broad claim that he is fearless or always favors confrontation."
+    },
+    {
+      "claim": "Adam accepted feedback from his friend Jess and from Helen that antagonistic commenting was bringing out his worst behavior and hurting his relationships. He says he did not have a child during the first campaign.",
+      "start_timestamp": "00:33:02",
+      "end_timestamp": "00:33:52",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "The source supplies no child's birth date or additional family biography. The feedback is recounted by Adam."
+    },
+    {
+      "claim": "During the later 6sense episode, Adam considered dressing as the competitor's CMO for a podcast but says Helen objected. He also agrees with feedback that his final post appeared overly eager for attention.",
+      "start_timestamp": "00:33:55",
+      "end_timestamp": "00:34:38",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "The costume appearance was contemplated, not reported as performed."
+    },
+    {
+      "claim": "Adam recalls encountering a personal attack while in Mexico City for a wedding and a short vacation, illustrating how online controversy entered his time away from work.",
+      "start_timestamp": "00:37:38",
+      "end_timestamp": "00:38:58",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "No date is supplied, and the effect on the trip is not quantified."
+    },
+    {
+      "claim": "Adam expresses admiration for Aaron Ross and credits his book with supporting GetEmails' sales development, even while publicly challenging the continued effectiveness of its model.",
+      "start_timestamp": "00:52:11",
+      "end_timestamp": "00:53:01",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The cofounder's name is captioned as Diana Ross and should not be treated as verified identity data. The Philippines-based sales operation is mentioned without staffing or employment details."
+    },
+    {
+      "claim": "Adam explicitly clarifies that the supposed transcript of 6sense emergency executive meetings was a fictional script he wrote. He says Chris Walker advised him against posting it and that he remained disappointed about that decision.",
+      "start_timestamp": "00:56:36",
+      "end_timestamp": "00:57:09",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "This is satire, not a leaked company record. Earlier references to obtaining a meeting transcript must be interpreted in light of this correction."
+    },
+    {
+      "claim": "Adam says the workshop aims to be useful and entertaining and asks for feedback to improve it. The subsequent reflection about enjoying business despite its difficulty appears to come from the host.",
+      "start_timestamp": "00:55:54",
+      "end_timestamp": "00:57:38",
+      "speaker": "Adam Robinson; Santosh, host",
+      "claim_type": "interpretation",
+      "pillar": "cross-cutting",
+      "caveat": "The workshop objective is a specific stated aim, not an approved personal mission. The broader business-and-fun reflection should not be assigned to Adam."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "The host frames early GetEmails as doing roughly $20,000–$30,000 per month and being unprofitable around the beginning of COVID in 2020.",
+      "start_timestamp": "00:02:13",
+      "end_timestamp": "00:02:37",
+      "speaker": "Santosh, host",
+      "claim_type": "host_statement",
+      "pillar": "SaaS building",
+      "caveat": "Historical host framing, not a precise Adam financial disclosure. Currency is implied and monthly revenue is not explicitly defined as MRR here."
+    },
+    {
+      "claim": "Adam places the initial non-provocative Facebook ad around business week four, the provocative campaign around week 12, and its end around weeks 43–44. He also calls the run approximately 90 days and later three or four months.",
+      "start_timestamp": "00:02:56",
+      "end_timestamp": "00:04:17",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Internally inconsistent: weeks 12–44 span roughly 32 weeks. The three-to-four-month version occurs at 00:32:04–00:32:10. These cannot be consolidated into a reliable duration."
+    },
+    {
+      "claim": "Adam says GetEmails remained between approximately $200,000 and $250,000 for about nine months before ecommerce prospecting helped growth resume. The host later characterizes the ad-driven progression as roughly $30,000 MRR to $200,000–$250,000 MRR.",
+      "start_timestamp": "00:03:57",
+      "end_timestamp": "00:04:07",
+      "speaker": "Adam Robinson; Santosh, host",
+      "claim_type": "interpretation",
+      "pillar": "SaaS building",
+      "caveat": "Adam does not state the unit in the plateau sentence. MRR comes from the host at 00:17:04–00:17:09 and is captioned imperfectly; dates of the plateau are unspecified."
+    },
+    {
+      "claim": "One historical GetEmails Facebook ad had 595 comments, according to Adam.",
+      "start_timestamp": "00:08:36",
+      "end_timestamp": "00:08:49",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "An engagement count viewed retrospectively; the measurement date, paid reach and conversion denominator are not supplied."
+    },
+    {
+      "claim": "Adam says the successful early GetEmails ads were paying back in approximately one day.",
+      "start_timestamp": "00:09:05",
+      "end_timestamp": "00:09:32",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Historical self-reported ad payback, not profit or cash-flow accounting. Elsewhere he describes large purchases paying back two weeks of spend, suggesting different aggregation or periods."
+    },
+    {
+      "claim": "Historical GetEmails advertisements claim identification of 35% of anonymous website traffic and delivery of previously unavailable email addresses in real time.",
+      "start_timestamp": "00:09:51",
+      "end_timestamp": "00:10:02",
+      "speaker": "Adam Robinson in a historical GetEmails ad",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Historical promotional product claim, repeated at 00:13:15–00:13:24. It is not a current RB2B match-rate claim; eligibility, denominator and validation are absent."
+    },
+    {
+      "claim": "A historical GetEmails ad claims acquisition cost below 20% of obtaining an email by any other method and open rates higher than customers' existing house lists.",
+      "start_timestamp": "00:13:36",
+      "end_timestamp": "00:13:55",
+      "speaker": "Adam Robinson in a historical GetEmails ad",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Promotional comparison without methods, customer cohort, cost definition or measured open-rate percentage."
+    },
+    {
+      "claim": "The GetEmails giveaway ad offered 500 free emails per month indefinitely, with no credit card required, and described the proposed giveaway as more than $2 billion in stimulus over the next ten years.",
+      "start_timestamp": "00:14:37",
+      "end_timestamp": "00:15:27",
+      "speaker": "Adam and Helen in a historical GetEmails ad; individual lines not fully diarized",
+      "claim_type": "uncertain_speaker",
+      "pillar": "go-to-market",
+      "caveat": "An advertised offer and projected promotional valuation, not realized revenue, distributed cash or verified delivered value. Adam subsequently says the freemium experiment failed."
+    },
+    {
+      "claim": "Adam characterizes the SaaS customers acquired through Facebook as having roughly 15%–20% churn per month.",
+      "start_timestamp": "00:15:41",
+      "end_timestamp": "00:16:05",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "He generalizes from his experience; no cohort table establishes an exact GetEmails churn rate, and customer churn versus revenue churn is not specified."
+    },
+    {
+      "claim": "Adam says GetEmails' self-serve pricing reached $5,000 per month, and a buyer at that level would sometimes appear every couple of weeks and cover the prior two weeks of advertising.",
+      "start_timestamp": "00:17:35",
+      "end_timestamp": "00:18:04",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Historical price point and approximate purchase frequency. The lowest plan is captioned as '$9 19 bucks,' so it cannot safely be resolved to $9 or $19."
+    },
+    {
+      "claim": "Near the campaign's deterioration, Adam recalls approximately eight weeks without a large buyer while he continued increasing weekly ad spend.",
+      "start_timestamp": "00:18:04",
+      "end_timestamp": "00:18:39",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Approximate historical interval, with no spend totals or exact dates. Audience saturation is his hypothesis."
+    },
+    {
+      "claim": "Adam says he could write the GetEmails ad scripts in roughly 10–15 minutes and film them with Helen in one or two takes.",
+      "start_timestamp": "00:16:26",
+      "end_timestamp": "00:16:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Anecdotal production timing excludes unspecified preparation, editing and campaign management."
+    },
+    {
+      "claim": "The host describes the business as growing from roughly $20,000–$30,000 to $23 million over about four years. Adam begins a numerical response that captions render as '21,' followed by '886895264.'",
+      "start_timestamp": "00:18:46",
+      "end_timestamp": "00:19:27",
+      "speaker": "Santosh, host; Adam Robinson",
+      "claim_type": "uncertain_speaker",
+      "pillar": "SaaS building",
+      "caveat": "The $23 million figure is host framing and title language; ARR, annual revenue, cumulative revenue and valuation are not established. Adam's response is unusable and may be a correction, so no precise Adam-confirmed total can be extracted."
+    },
+    {
+      "claim": "Adam identifies 2023 and the first part of 2024 as a difficult period for Retention.com pricing and renewals.",
+      "start_timestamp": "00:20:05",
+      "end_timestamp": "00:20:45",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "A historical period of pressure, with no quantified revenue decline, churn increase or profitability measure."
+    },
+    {
+      "claim": "Adam says that about six months into a 6sense contract, his team was told the technology price would triple the following year, followed the next day by an offer to renew early at a flat price.",
+      "start_timestamp": "00:20:45",
+      "end_timestamp": "00:21:25",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "A reported vendor proposal, not an achieved price increase or verified general 6sense pricing policy. Contract dates and starting price are absent."
+    },
+    {
+      "claim": "Adam places RB2B at roughly six or seven weeks old when he wrote the initial 6sense criticism and says that post reached almost 200,000 impressions.",
+      "start_timestamp": "00:21:42",
+      "end_timestamp": "00:22:56",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Approximate company age and self-reported post impressions. The host locates the episode around March or April 2024 at 00:19:27–00:19:47; no exact date is confirmed."
+    },
+    {
+      "claim": "Adam recounts a lawyer estimating the potential liability in language captioned as 'few hundred, Max.'",
+      "start_timestamp": "00:23:59",
+      "end_timestamp": "00:24:30",
+      "speaker": "Adam Robinson, recounting his lawyer",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "The unit and magnitude are unclear; do not infer hundreds of dollars or hundreds of thousands. This is a recalled estimate, not an incurred legal cost or legal finding."
+    },
+    {
+      "claim": "Adam says the letter demanded deletion within eight hours and describes posting about it after 16 hours. The number of commenters he says he was told to tag is captioned ambiguously as '4 163.'",
+      "start_timestamp": "00:24:45",
+      "end_timestamp": "00:25:02",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "His account of the letter's demands; the original document is not supplied in readable form. The commenter count should remain unresolved."
+    },
+    {
+      "claim": "Adam reports 910 comments on the cease-and-desist post and says none defended 6sense.",
+      "start_timestamp": "00:25:16",
+      "end_timestamp": "00:25:55",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Comment count and sentiment are self-reported. His audience and the thread are not representative measures of all 6sense customers."
+    },
+    {
+      "claim": "At the time of the conversation, Adam says RB2B was growing almost 100% per month, attracting approximately 100–150 signups per day and eight to ten paid purchases per day.",
+      "start_timestamp": "00:26:25",
+      "end_timestamp": "00:26:54",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Latest-at-recording self-report, not a verified February 2025 snapshot. The metric growing at almost 100% is not named; it must not automatically be labeled MRR or ARR."
+    },
+    {
+      "claim": "Adam says other posts in the 6sense sequence received roughly 250,000 impressions, while the later post he considered excessive received approximately 63,000.",
+      "start_timestamp": "00:29:40",
+      "end_timestamp": "00:31:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Approximate post-level reach without matched measurement windows; lower reach does not by itself establish worse sales outcomes."
+    },
+    {
+      "claim": "Adam speculates that 6sense might eventually need to dismiss approximately 80% of its employees because of what he perceives as excessive spending relative to revenue.",
+      "start_timestamp": "00:30:00",
+      "end_timestamp": "00:30:22",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "An adversarial prediction, not an actual layoff, verified financial assessment or Adam-company staffing metric."
+    },
+    {
+      "claim": "Adam describes the first hostile-comment campaign as lasting three or four months and the later 6sense episode as compressed into approximately one week.",
+      "start_timestamp": "00:32:04",
+      "end_timestamp": "00:34:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "Approximate durations; the first conflicts with the week-12-to-week-44 description earlier."
+    },
+    {
+      "claim": "Adam contrasts RB2B's free product with a rough example of 6sense charging customers about $100,000 per year.",
+      "start_timestamp": "00:35:11",
+      "end_timestamp": "00:35:26",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He says 'or something,' signaling an illustrative estimate. It is not a verified average contract value, exact quote or like-for-like product comparison."
+    },
+    {
+      "claim": "Adam says he waited approximately 24–48 hours before replying across the comments on the critic's post.",
+      "start_timestamp": "00:38:45",
+      "end_timestamp": "00:39:12",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "A recalled response delay in one episode, not a tested timing recommendation."
+    },
+    {
+      "claim": "Adam says the most-searched GetEmails term during the ad campaign was Helen's name associated with the company, and that she received inbound requests to appear in other advertisements.",
+      "start_timestamp": "00:46:03",
+      "end_timestamp": "00:46:26",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "An unverified search-ranking claim with no platform, volume or measurement period. The acting inquiries belong to Helen, not Adam."
+    },
+    {
+      "claim": "The speakers announce a planned public debate with Aaron Ross for July 16 about whether the Predictable Revenue model remains effective.",
+      "start_timestamp": "00:51:26",
+      "end_timestamp": "00:54:28",
+      "speaker": "Adam Robinson; Santosh, host",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "An announced future event relative to the recording, not confirmation it occurred. The year is not spoken; 2024 is suggested by surrounding context but is not certain."
+    },
+    {
+      "claim": "Adam says the Predictable Revenue model had influenced software prospecting for about 12 years, that a cofounder had kept the book on her desk for about ten years, and that he had reread it the week before this conversation.",
+      "start_timestamp": "00:51:35",
+      "end_timestamp": "00:54:09",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Approximate retrospective durations. His claim that following its 16 steps now would yield no demos is hypothetical, not the result of a reported experiment."
+    },
+    {
+      "claim": "Adam contrasts unexpectedly strong business conditions in 2021, continuation in 2022 and disappointing results in 2023 when questioning outbound forecasting reliability.",
+      "start_timestamp": "00:55:04",
+      "end_timestamp": "00:55:35",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "No forecast errors or company financial figures are supplied. His generalization about everyone he knows is anecdotal."
+    },
+    {
+      "claim": "A different speaker in the final segment reports approximately 841 comments and 500 likes on a post from the preceding week.",
+      "start_timestamp": "00:58:26",
+      "end_timestamp": "00:58:43",
+      "speaker": "Unidentified speaker, possibly Eric",
+      "claim_type": "uncertain_speaker",
+      "pillar": "building in public",
+      "caveat": "These are not Adam's engagement metrics. The abrupt transition may be an appended teaser or another segment; identity and recording date are unresolved."
+    },
+    {
+      "claim": "A historical GetEmails ad cites Apple earning $35 billion and paying a 5.8% tax rate as part of a provocative comparison about legal loopholes.",
+      "start_timestamp": "00:10:25",
+      "end_timestamp": "00:10:34",
+      "speaker": "Adam Robinson in a historical GetEmails ad",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Third-party advertising claim, not Adam's financial proof. The earnings period is garbled as 'between 20 2015,' and neither the figure nor comparison is independently verified."
+    }
+  ],
+  "tensions_and_corrections": [
+    "The publication date is February 22, 2025, but the discussion references 2024 as the present, describes a March/April 2024 episode and promotes a future July 16 event. Treat operational metrics as latest-at-recording, with the recording date unknown.",
+    "The title's $23 million business claim is not substantiated as a precise Adam-confirmed financial measure. The host supplies $23 million without a clear unit; Adam's apparent response or correction is numerically garbled.",
+    "The early ad-campaign duration is inconsistent: approximately week 12 through week 43 or 44, approximately 90 days, and three or four months are all stated.",
+    "The account does not support a simple claim that social-media hostility alone built the full business. Adam also identifies ecommerce prospecting, a later outbound sales playbook, customer lifetime value and product quality as consequential.",
+    "One-day ad payback coexists with a description of occasional $5,000 buyers covering two weeks of spend. Without dates, spend figures or accounting definitions, these should remain distinct recollections rather than one consolidated efficiency metric.",
+    "Early claims that an undeveloped brand cannot be destroyed are later narrowed by warnings about persistent negativity, personal attacks, relationship harm and potentially business-ending litigation.",
+    "Adam initially frames a visible signup spike as possibly connected to a large LinkedIn post, then identifies that particular spike at 00:40:07–00:40:22 as coming from the critic's attack. It should not be counted independently as verified 6sense-driven growth.",
+    "The supposed 6sense emergency-meeting transcript is explicitly identified at 00:56:42–00:56:56 as a fake script Adam wrote. It is not inside information or evidence of actual executive discussions.",
+    "Adam admits that a later 6sense post went too far: editing removed humor, a harsh closing risked making him look cruel, and attaching his own P&L confused the subject.",
+    "Adam welcomes attacks on himself but recognizes that others may not accept the same treatment. His preference is not a general license to target individuals.",
+    "No further 6sense legal action was reported as of the recording, but Adam also advises founders to be able to endure a lawsuit. The outcome here does not establish that similar conduct is legally safe.",
+    "The historical ads make simplified claims about CAN-SPAM, CCPA, Canadian law and GDPR, including a $25 million revenue threshold and assertions of full compliance. Preserve these only as historical ad content; they are not verified legal facts or current guidance.",
+    "The host's assertion that the term for provocative posting was invented in late 2019 is unsupported and should not become a wiki fact. The host's suggestion that Adam's trader background explains his response is a question, not a causal claim Adam confirms.",
+    "The host's simplified claim that positive or negative attention produces signups and revenue is broader than Adam's qualified position about stage, upside, audience response and eventual restraint.",
+    "The forecast that 6sense might cut 80% of staff, its alleged data deficiencies and assumptions about its motives are competitor-directed opinions, not verified company facts.",
+    "Adam credits Predictable Revenue for historical sales success while disputing its present effectiveness. This is a contextual change in assessment, not evidence that he never used or respected outbound.",
+    "The record supplies no verified Adam-company profit, cash balance, funding history, valuation, FTE count or contractor count. Mention of a Philippines-based sales operation does not establish any staffing metric.",
+    "The final engagement anecdote belongs to another, uncertain speaker. It must remain separate from Adam's social proof."
+  ],
+  "reusable_topics": [
+    "Turning customer objections and hostile comments into ad concepts",
+    "Measuring controversial marketing through signups, purchases and customer quality",
+    "How brand maturity changes the acceptable range of experiments",
+    "Why a successful acquisition channel can deteriorate as its buyer mix changes",
+    "Large self-serve customers masking fragile paid-acquisition economics",
+    "An unsuccessful freemium launch versus a later successful implementation",
+    "Founder visibility that produces concrete product understanding",
+    "Public dashboards and the limits of attributing growth to a viral post",
+    "Recognizing when a successful controversy has run out of useful angles",
+    "How removing humor can leave a post feeling cruel",
+    "The relationship costs of sustained online antagonism",
+    "Company criticism versus attacks on individual employees",
+    "Surviving the downside before challenging a larger competitor",
+    "Using disagreement to spread an emerging market category",
+    "Recurring characters and audience participation in founder advertisements",
+    "Respecting an influential sales playbook while questioning its current effectiveness",
+    "Inbound capital efficiency and the uncertainty of outbound forecasting",
+    "Learning about organizational stages a founder has not yet operated",
+    "Separating satire, promotional assertions and verifiable business evidence"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:58:43",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed every supplied transcript line, including the opening montage, historical ads, middle discussion, final Q&A and abrupt closing segment. No web search, shell actions, file access, edits or external verification were performed.",
+      "Automatic captions lack reliable diarization and contain repeated playback, garbled company and personal names, missing words and an unusable financial passage.",
+      "Screen-shared posts, charts, legal documents and financial statements are not supplied as readable visual evidence. Their contents are represented only through spoken descriptions.",
+      "The exact recording date is unknown and appears earlier than the February 2025 publication date. Relative dates and current operating metrics cannot be assigned automatically to publication.",
+      "Business outcomes and engagement figures are self-reported or host-reported, without independent validation, standardized definitions or causal measurement.",
+      "Metadata lists a duration of 3,525 seconds; the last supplied timestamp is 00:58:43. No additional content beyond the supplied final line was inferred.",
+      "The pillar tags are research classifications based on the user's proposed pillars, not approved strategy, voice or mission statements.",
+      "The source is publicly accessible but collected for private research. Reuse in new public copy has not been approved."
+    ]
+  }
+}

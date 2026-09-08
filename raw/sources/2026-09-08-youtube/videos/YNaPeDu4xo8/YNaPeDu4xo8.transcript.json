@@ -1,0 +1,1874 @@
+{
+  "video_id": "YNaPeDu4xo8",
+  "title": "How I Used ABM to Scale to $13M ARR in 36 Months",
+  "url": "https://www.youtube.com/watch?v=YNaPeDu4xo8",
+  "upload_date": "20251126",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:41:36.016040+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/YNaPeDu4xo8/YNaPeDu4xo8.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 80,
+      "duration_ms": 4800,
+      "text": "In just 36 months, I scaled my SAS"
+    },
+    {
+      "start_ms": 2560,
+      "duration_ms": 4799,
+      "text": "retention.com from zero to 13 million"
+    },
+    {
+      "start_ms": 4880,
+      "duration_ms": 4560,
+      "text": "ARR with just six employees. No massive"
+    },
+    {
+      "start_ms": 7359,
+      "duration_ms": 4801,
+      "text": "sales team, no expensive ABM software,"
+    },
+    {
+      "start_ms": 9440,
+      "duration_ms": 5119,
+      "text": "no BDRs making 70,000 a year, just a"
+    },
+    {
+      "start_ms": 12160,
+      "duration_ms": 4000,
+      "text": "lean manual list building machine run by"
+    },
+    {
+      "start_ms": 14559,
+      "duration_ms": 3761,
+      "text": "five people in the Philippines that cost"
+    },
+    {
+      "start_ms": 16160,
+      "duration_ms": 3840,
+      "text": "me less than $3,000 a month. While"
+    },
+    {
+      "start_ms": 18320,
+      "duration_ms": 3840,
+      "text": "everyone else was pulling contacts from"
+    },
+    {
+      "start_ms": 20000,
+      "duration_ms": 4000,
+      "text": "Apollo and Zoom Info, getting terrible"
+    },
+    {
+      "start_ms": 22160,
+      "duration_ms": 3680,
+      "text": "response rates, we were manually"
+    },
+    {
+      "start_ms": 24000,
+      "duration_ms": 3599,
+      "text": "building targeted lists that generated"
+    },
+    {
+      "start_ms": 25840,
+      "duration_ms": 3599,
+      "text": "meetings at 10 times the conversion"
+    },
+    {
+      "start_ms": 27599,
+      "duration_ms": 3760,
+      "text": "rate. Now, in this video, I'm breaking"
+    },
+    {
+      "start_ms": 29439,
+      "duration_ms": 3681,
+      "text": "down the exact system we use from the"
+    },
+    {
+      "start_ms": 31359,
+      "duration_ms": 3601,
+      "text": "list building process to the email"
+    },
+    {
+      "start_ms": 33120,
+      "duration_ms": 3599,
+      "text": "sequences to the LinkedIn messages to"
+    },
+    {
+      "start_ms": 34960,
+      "duration_ms": 4640,
+      "text": "the ads we ran. And since this happened"
+    },
+    {
+      "start_ms": 36719,
+      "duration_ms": 5201,
+      "text": "in 2020 and 2021, I'll also explain what"
+    },
+    {
+      "start_ms": 39600,
+      "duration_ms": 4479,
+      "text": "I would do differently today. So, let's"
+    },
+    {
+      "start_ms": 41920,
+      "duration_ms": 4479,
+      "text": "get into it. Here's why manual list"
+    },
+    {
+      "start_ms": 44079,
+      "duration_ms": 4401,
+      "text": "building beats every database platform."
+    },
+    {
+      "start_ms": 46399,
+      "duration_ms": 4081,
+      "text": "My co-founder, Diana, thought most"
+    },
+    {
+      "start_ms": 48480,
+      "duration_ms": 3680,
+      "text": "companies were doing this wrong. They'd"
+    },
+    {
+      "start_ms": 50480,
+      "duration_ms": 3840,
+      "text": "go out and buy products like Apollo,"
+    },
+    {
+      "start_ms": 52160,
+      "duration_ms": 4480,
+      "text": "Zoom Info, and other database platforms."
+    },
+    {
+      "start_ms": 54320,
+      "duration_ms": 4640,
+      "text": "Then they'd pull a generic list and"
+    },
+    {
+      "start_ms": 56640,
+      "duration_ms": 4719,
+      "text": "blast out automated emails. But everyone"
+    },
+    {
+      "start_ms": 58960,
+      "duration_ms": 4720,
+      "text": "else is using those same databases with"
+    },
+    {
+      "start_ms": 61359,
+      "duration_ms": 4321,
+      "text": "those same emails. The problem is with"
+    },
+    {
+      "start_ms": 63680,
+      "duration_ms": 4720,
+      "text": "the database platforms. Those email"
+    },
+    {
+      "start_ms": 65680,
+      "duration_ms": 4640,
+      "text": "addresses get absolutely smashed. Open"
+    },
+    {
+      "start_ms": 68400,
+      "duration_ms": 3920,
+      "text": "rates are terrible. Reply rates are even"
+    },
+    {
+      "start_ms": 70320,
+      "duration_ms": 4560,
+      "text": "worse because you're competing with"
+    },
+    {
+      "start_ms": 72320,
+      "duration_ms": 5200,
+      "text": "every other company targeting those same"
+    },
+    {
+      "start_ms": 74880,
+      "duration_ms": 4800,
+      "text": "prospects using those same platforms."
+    },
+    {
+      "start_ms": 77520,
+      "duration_ms": 3520,
+      "text": "Our approach was totally different. We"
+    },
+    {
+      "start_ms": 79680,
+      "duration_ms": 3360,
+      "text": "built a fivep person team in the"
+    },
+    {
+      "start_ms": 81040,
+      "duration_ms": 4079,
+      "text": "Philippines that manually researched"
+    },
+    {
+      "start_ms": 83040,
+      "duration_ms": 3680,
+      "text": "every single contact. We weren't pulling"
+    },
+    {
+      "start_ms": 85119,
+      "duration_ms": 3601,
+      "text": "from the same databases as everyone"
+    },
+    {
+      "start_ms": 86720,
+      "duration_ms": 3600,
+      "text": "else. We were finding fresh contacts"
+    },
+    {
+      "start_ms": 88720,
+      "duration_ms": 3680,
+      "text": "that weren't getting hammered by cold"
+    },
+    {
+      "start_ms": 90320,
+      "duration_ms": 4400,
+      "text": "emails every day. And here's how we did"
+    },
+    {
+      "start_ms": 92400,
+      "duration_ms": 4240,
+      "text": "it. So step one was identifying the"
+    },
+    {
+      "start_ms": 94720,
+      "duration_ms": 4240,
+      "text": "target companies we were going after. We"
+    },
+    {
+      "start_ms": 96640,
+      "duration_ms": 5040,
+      "text": "used builtwith to find companies using"
+    },
+    {
+      "start_ms": 98960,
+      "duration_ms": 5040,
+      "text": "complimentary and competitor softwares"
+    },
+    {
+      "start_ms": 101680,
+      "duration_ms": 4320,
+      "text": "to us. For us that was Shopify stores"
+    },
+    {
+      "start_ms": 104000,
+      "duration_ms": 4479,
+      "text": "who were also using Clavio for email"
+    },
+    {
+      "start_ms": 106000,
+      "duration_ms": 4240,
+      "text": "marketing or attentive for SMS. We'd"
+    },
+    {
+      "start_ms": 108479,
+      "duration_ms": 4161,
+      "text": "filter for companies with specific"
+    },
+    {
+      "start_ms": 110240,
+      "duration_ms": 4480,
+      "text": "technology stacks and then verify their"
+    },
+    {
+      "start_ms": 112640,
+      "duration_ms": 4640,
+      "text": "website traffic using similar web. Our"
+    },
+    {
+      "start_ms": 114720,
+      "duration_ms": 5280,
+      "text": "sweet spot was Shopify Plus customers"
+    },
+    {
+      "start_ms": 117280,
+      "duration_ms": 4960,
+      "text": "with over 10,000 monthly unique"
+    },
+    {
+      "start_ms": 120000,
+      "duration_ms": 4159,
+      "text": "visitors. Step two was finding the right"
+    },
+    {
+      "start_ms": 122240,
+      "duration_ms": 3760,
+      "text": "people. Most businesses target one"
+    },
+    {
+      "start_ms": 124159,
+      "duration_ms": 3921,
+      "text": "person and hope for the best. We"
+    },
+    {
+      "start_ms": 126000,
+      "duration_ms": 4080,
+      "text": "identified three to five potentially"
+    },
+    {
+      "start_ms": 128080,
+      "duration_ms": 4159,
+      "text": "relevant people at each company. We'd go"
+    },
+    {
+      "start_ms": 130080,
+      "duration_ms": 4640,
+      "text": "to LinkedIn Sales Navigator and look for"
+    },
+    {
+      "start_ms": 132239,
+      "duration_ms": 4241,
+      "text": "the CEO always included them, the VP"
+    },
+    {
+      "start_ms": 134720,
+      "duration_ms": 3440,
+      "text": "marketing, the head of e-commerce, the"
+    },
+    {
+      "start_ms": 136480,
+      "duration_ms": 3680,
+      "text": "email marketing manager, and the"
+    },
+    {
+      "start_ms": 138160,
+      "duration_ms": 4400,
+      "text": "director of growth. We'd copy all of"
+    },
+    {
+      "start_ms": 140160,
+      "duration_ms": 4320,
+      "text": "them on the same email to increase our"
+    },
+    {
+      "start_ms": 142560,
+      "duration_ms": 4240,
+      "text": "chances of an open. Step three was"
+    },
+    {
+      "start_ms": 144480,
+      "duration_ms": 4320,
+      "text": "manually finding email addresses. We"
+    },
+    {
+      "start_ms": 146800,
+      "duration_ms": 3680,
+      "text": "didn't use Apollo's email addresses. We"
+    },
+    {
+      "start_ms": 148800,
+      "duration_ms": 4880,
+      "text": "went and found people on LinkedIn first,"
+    },
+    {
+      "start_ms": 150480,
+      "duration_ms": 5119,
+      "text": "and then we'd use scrap.io or hunter.io"
+    },
+    {
+      "start_ms": 153680,
+      "duration_ms": 3839,
+      "text": "to find the actual email addresses of"
+    },
+    {
+      "start_ms": 155599,
+      "duration_ms": 3681,
+      "text": "these people. If scrap didn't have it,"
+    },
+    {
+      "start_ms": 157519,
+      "duration_ms": 4000,
+      "text": "then we'd check Hunter. If neither had"
+    },
+    {
+      "start_ms": 159280,
+      "duration_ms": 4640,
+      "text": "it, we just move on. This two tool"
+    },
+    {
+      "start_ms": 161519,
+      "duration_ms": 4481,
+      "text": "verification led to significantly better"
+    },
+    {
+      "start_ms": 163920,
+      "duration_ms": 4000,
+      "text": "deliverability than using Apollo.io"
+    },
+    {
+      "start_ms": 166000,
+      "duration_ms": 3440,
+      "text": "alone. Now, here's a pro tip. If you"
+    },
+    {
+      "start_ms": 167920,
+      "duration_ms": 3760,
+      "text": "want to take this to the next level"
+    },
+    {
+      "start_ms": 169440,
+      "duration_ms": 4320,
+      "text": "today, you can install RB2B on your"
+    },
+    {
+      "start_ms": 171680,
+      "duration_ms": 3680,
+      "text": "website to identify visitors before you"
+    },
+    {
+      "start_ms": 173760,
+      "duration_ms": 3199,
+      "text": "even start prospecting them. When"
+    },
+    {
+      "start_ms": 175360,
+      "duration_ms": 3519,
+      "text": "someone comes from your ICP to your"
+    },
+    {
+      "start_ms": 176959,
+      "duration_ms": 3841,
+      "text": "website, RB2B sends their LinkedIn"
+    },
+    {
+      "start_ms": 178879,
+      "duration_ms": 3521,
+      "text": "profile straight to Slack. Then you can"
+    },
+    {
+      "start_ms": 180800,
+      "duration_ms": 3439,
+      "text": "add them to your outreach list"
+    },
+    {
+      "start_ms": 182400,
+      "duration_ms": 3759,
+      "text": "immediately. These people will convert"
+    },
+    {
+      "start_ms": 184239,
+      "duration_ms": 4640,
+      "text": "at way higher rates because they're"
+    },
+    {
+      "start_ms": 186159,
+      "duration_ms": 4720,
+      "text": "already showing intent. So try RBDB"
+    },
+    {
+      "start_ms": 188879,
+      "duration_ms": 4321,
+      "text": "completely free today by clicking the"
+    },
+    {
+      "start_ms": 190879,
+      "duration_ms": 5360,
+      "text": "first link in the description. Step four"
+    },
+    {
+      "start_ms": 193200,
+      "duration_ms": 5840,
+      "text": "was manual email sending. Every single"
+    },
+    {
+      "start_ms": 196239,
+      "duration_ms": 4241,
+      "text": "email in 2020 and 2021 was sent"
+    },
+    {
+      "start_ms": 199040,
+      "duration_ms": 3279,
+      "text": "manually. We didn't believe in"
+    },
+    {
+      "start_ms": 200480,
+      "duration_ms": 4560,
+      "text": "automation tools either. People in the"
+    },
+    {
+      "start_ms": 202319,
+      "duration_ms": 5200,
+      "text": "Philippines sent emails one by one from"
+    },
+    {
+      "start_ms": 205040,
+      "duration_ms": 4720,
+      "text": "individual Gmail accounts. We sent from"
+    },
+    {
+      "start_ms": 207519,
+      "duration_ms": 4000,
+      "text": "multiple sender addresses like Diana"
+    },
+    {
+      "start_ms": 209760,
+      "duration_ms": 3600,
+      "text": "Ross, our head of sales, or Alice"
+    },
+    {
+      "start_ms": 211519,
+      "duration_ms": 4161,
+      "text": "Phillips, our sales assistant. And each"
+    },
+    {
+      "start_ms": 213360,
+      "duration_ms": 5840,
+      "text": "person had several variations like D."
+    },
+    {
+      "start_ms": 215680,
+      "duration_ms": 6400,
+      "text": "Ross at Diana Ross at a phillips at"
+    },
+    {
+      "start_ms": 219200,
+      "duration_ms": 5119,
+      "text": "Alice Phillips at Alicep at our emails"
+    },
+    {
+      "start_ms": 222080,
+      "duration_ms": 4159,
+      "text": "looked completely human because they"
+    },
+    {
+      "start_ms": 224319,
+      "duration_ms": 3920,
+      "text": "were completely human. Now let me show"
+    },
+    {
+      "start_ms": 226239,
+      "duration_ms": 3841,
+      "text": "you one of our best performing email"
+    },
+    {
+      "start_ms": 228239,
+      "duration_ms": 4401,
+      "text": "sequences that we sent over that time"
+    },
+    {
+      "start_ms": 230080,
+      "duration_ms": 4159,
+      "text": "period. Email one was the direct value"
+    },
+    {
+      "start_ms": 232640,
+      "duration_ms": 3440,
+      "text": "proposition. We'd include their first"
+    },
+    {
+      "start_ms": 234239,
+      "duration_ms": 4321,
+      "text": "name and Get Emails, the name of our"
+    },
+    {
+      "start_ms": 236080,
+      "duration_ms": 4719,
+      "text": "company. Hi, first name. Get Emails can"
+    },
+    {
+      "start_ms": 238560,
+      "duration_ms": 3759,
+      "text": "identify up to 35% of your anonymous"
+    },
+    {
+      "start_ms": 240799,
+      "duration_ms": 3841,
+      "text": "visitors on your website and give you"
+    },
+    {
+      "start_ms": 242319,
+      "duration_ms": 4161,
+      "text": "email addresses of the visitors that you"
+    },
+    {
+      "start_ms": 244640,
+      "duration_ms": 5040,
+      "text": "don't already have. Brands like Vital"
+    },
+    {
+      "start_ms": 246480,
+      "duration_ms": 4880,
+      "text": "Protein see a 9.25x plus ROI from using"
+    },
+    {
+      "start_ms": 249680,
+      "duration_ms": 3440,
+      "text": "our product. You can read more here."
+    },
+    {
+      "start_ms": 251360,
+      "duration_ms": 3519,
+      "text": "Case study link. Feel free to grab time"
+    },
+    {
+      "start_ms": 253120,
+      "duration_ms": 4320,
+      "text": "in my calendar if you have 10 minutes"
+    },
+    {
+      "start_ms": 254879,
+      "duration_ms": 4001,
+      "text": "for a short intro with a calendar link."
+    },
+    {
+      "start_ms": 257440,
+      "duration_ms": 3440,
+      "text": "Look forward to connecting with you."
+    },
+    {
+      "start_ms": 258880,
+      "duration_ms": 4319,
+      "text": "What's happening? Immediately stating"
+    },
+    {
+      "start_ms": 260880,
+      "duration_ms": 4879,
+      "text": "value, backing up with customer results,"
+    },
+    {
+      "start_ms": 263199,
+      "duration_ms": 4801,
+      "text": "and making it easy to book. Email two is"
+    },
+    {
+      "start_ms": 265759,
+      "duration_ms": 4160,
+      "text": "a gentle reminder. Hi, first name. I"
+    },
+    {
+      "start_ms": 268000,
+      "duration_ms": 3600,
+      "text": "wanted to quickly bubble this up and see"
+    },
+    {
+      "start_ms": 269919,
+      "duration_ms": 3601,
+      "text": "if it made sense for us to find a time"
+    },
+    {
+      "start_ms": 271600,
+      "duration_ms": 3840,
+      "text": "to connect for a short intro. I would be"
+    },
+    {
+      "start_ms": 273520,
+      "duration_ms": 4080,
+      "text": "excited at the opportunity to share more"
+    },
+    {
+      "start_ms": 275440,
+      "duration_ms": 4240,
+      "text": "about how we can help you and your team"
+    },
+    {
+      "start_ms": 277600,
+      "duration_ms": 3120,
+      "text": "capture more firstparty data. Let me"
+    },
+    {
+      "start_ms": 279680,
+      "duration_ms": 2880,
+      "text": "know if you have a few minutes to"
+    },
+    {
+      "start_ms": 280720,
+      "duration_ms": 4160,
+      "text": "connect or feel free to grab a time in"
+    },
+    {
+      "start_ms": 282560,
+      "duration_ms": 4880,
+      "text": "my calendar calendar link. Thanks. And"
+    },
+    {
+      "start_ms": 284880,
+      "duration_ms": 4319,
+      "text": "email three is the problem agitator. Hi,"
+    },
+    {
+      "start_ms": 287440,
+      "duration_ms": 3199,
+      "text": "first name. I hope you don't mind. I"
+    },
+    {
+      "start_ms": 289199,
+      "duration_ms": 3280,
+      "text": "wanted to quickly follow up here."
+    },
+    {
+      "start_ms": 290639,
+      "duration_ms": 3441,
+      "text": "Shoppers show intent to purchase on your"
+    },
+    {
+      "start_ms": 292479,
+      "duration_ms": 3361,
+      "text": "website and leave without identifying"
+    },
+    {
+      "start_ms": 294080,
+      "duration_ms": 3679,
+      "text": "themselves. With recent Apple updates,"
+    },
+    {
+      "start_ms": 295840,
+      "duration_ms": 3680,
+      "text": "the reality is that you may never get"
+    },
+    {
+      "start_ms": 297759,
+      "duration_ms": 3761,
+      "text": "them back. Get Emails can help you by"
+    },
+    {
+      "start_ms": 299520,
+      "duration_ms": 3679,
+      "text": "identifying 35% of these anonymous"
+    },
+    {
+      "start_ms": 301520,
+      "duration_ms": 3360,
+      "text": "visitors and we can get their email"
+    },
+    {
+      "start_ms": 303199,
+      "duration_ms": 4321,
+      "text": "addresses so that you can follow up. And"
+    },
+    {
+      "start_ms": 304880,
+      "duration_ms": 4560,
+      "text": "the best part is it's 100% can spam and"
+    },
+    {
+      "start_ms": 307520,
+      "duration_ms": 4640,
+      "text": "CCPA compliant. You can read more about"
+    },
+    {
+      "start_ms": 309440,
+      "duration_ms": 4720,
+      "text": "how Vital Protein sees a 9.5 ROI with"
+    },
+    {
+      "start_ms": 312160,
+      "duration_ms": 3759,
+      "text": "get emails here, case study link, and"
+    },
+    {
+      "start_ms": 314160,
+      "duration_ms": 3520,
+      "text": "feel free to grab time in my calendar if"
+    },
+    {
+      "start_ms": 315919,
+      "duration_ms": 4241,
+      "text": "you have 15 minutes to learn more."
+    },
+    {
+      "start_ms": 317680,
+      "duration_ms": 4480,
+      "text": "Calendar link. Thanks. And email four is"
+    },
+    {
+      "start_ms": 320160,
+      "duration_ms": 3599,
+      "text": "the final summary. Hi, first name. I've"
+    },
+    {
+      "start_ms": 322160,
+      "duration_ms": 3200,
+      "text": "sent a few emails and I hope you don't"
+    },
+    {
+      "start_ms": 323759,
+      "duration_ms": 3521,
+      "text": "mind. And I wanted to quickly follow up"
+    },
+    {
+      "start_ms": 325360,
+      "duration_ms": 3839,
+      "text": "one more time to summarize Get Emails"
+    },
+    {
+      "start_ms": 327280,
+      "duration_ms": 4000,
+      "text": "and how we're helping Shopify Plus"
+    },
+    {
+      "start_ms": 329199,
+      "duration_ms": 3440,
+      "text": "customers like blank. We can help you"
+    },
+    {
+      "start_ms": 331280,
+      "duration_ms": 2800,
+      "text": "grow your email list with email"
+    },
+    {
+      "start_ms": 332639,
+      "duration_ms": 3120,
+      "text": "addresses of people who are showing"
+    },
+    {
+      "start_ms": 334080,
+      "duration_ms": 3600,
+      "text": "intent to buy products on your website"
+    },
+    {
+      "start_ms": 335759,
+      "duration_ms": 4321,
+      "text": "but leave without identifying themselves"
+    },
+    {
+      "start_ms": 337680,
+      "duration_ms": 4079,
+      "text": "or taking any action. We verify that all"
+    },
+    {
+      "start_ms": 340080,
+      "duration_ms": 3679,
+      "text": "email addresses are engaged and"
+    },
+    {
+      "start_ms": 341759,
+      "duration_ms": 4000,
+      "text": "deliverable and yielding open rates that"
+    },
+    {
+      "start_ms": 343759,
+      "duration_ms": 4321,
+      "text": "match your in-house list. Brands like"
+    },
+    {
+      "start_ms": 345759,
+      "duration_ms": 4160,
+      "text": "Vital Proteins are seeing a 9x ROI from"
+    },
+    {
+      "start_ms": 348080,
+      "duration_ms": 3679,
+      "text": "Get Emails. And here's the case study."
+    },
+    {
+      "start_ms": 349919,
+      "duration_ms": 3921,
+      "text": "Let me know when you might have 15"
+    },
+    {
+      "start_ms": 351759,
+      "duration_ms": 4160,
+      "text": "minutes to discuss a trial or feel free"
+    },
+    {
+      "start_ms": 353840,
+      "duration_ms": 4240,
+      "text": "to grab time in my calendar calendar"
+    },
+    {
+      "start_ms": 355919,
+      "duration_ms": 4321,
+      "text": "link. Thanks. Now, here's the team"
+    },
+    {
+      "start_ms": 358080,
+      "duration_ms": 4080,
+      "text": "structure that we use. We structured the"
+    },
+    {
+      "start_ms": 360240,
+      "duration_ms": 3600,
+      "text": "operation with just five people in the"
+    },
+    {
+      "start_ms": 362160,
+      "duration_ms": 3759,
+      "text": "Philippines. There was Jim who was the"
+    },
+    {
+      "start_ms": 363840,
+      "duration_ms": 3919,
+      "text": "team leader who was $1,000 a month. He"
+    },
+    {
+      "start_ms": 365919,
+      "duration_ms": 3521,
+      "text": "managed the daily workflow and ensured"
+    },
+    {
+      "start_ms": 367759,
+      "duration_ms": 4241,
+      "text": "quality control. Then there were four"
+    },
+    {
+      "start_ms": 369440,
+      "duration_ms": 4479,
+      "text": "team members under Jim who were $500 a"
+    },
+    {
+      "start_ms": 372000,
+      "duration_ms": 3520,
+      "text": "month each. We hired Jim's wife, his"
+    },
+    {
+      "start_ms": 373919,
+      "duration_ms": 3280,
+      "text": "friends, and his friend's cousins. They"
+    },
+    {
+      "start_ms": 375520,
+      "duration_ms": 3519,
+      "text": "split their day between lead generation"
+    },
+    {
+      "start_ms": 377199,
+      "duration_ms": 3521,
+      "text": "and prospecting. The evening shift,"
+    },
+    {
+      "start_ms": 379039,
+      "duration_ms": 3440,
+      "text": "which was 8:00 p.m. to 12:00 a.m."
+    },
+    {
+      "start_ms": 380720,
+      "duration_ms": 3599,
+      "text": "Eastern, they did lead generation. The"
+    },
+    {
+      "start_ms": 382479,
+      "duration_ms": 3121,
+      "text": "morning shift, which was 8:00 a.m. to"
+    },
+    {
+      "start_ms": 384319,
+      "duration_ms": 3600,
+      "text": "12:00 p.m. Eastern, they did"
+    },
+    {
+      "start_ms": 385600,
+      "duration_ms": 4319,
+      "text": "prospecting. The total monthly cost was"
+    },
+    {
+      "start_ms": 387919,
+      "duration_ms": 4241,
+      "text": "$3,000 a month. Compare that to hiring"
+    },
+    {
+      "start_ms": 389919,
+      "duration_ms": 4961,
+      "text": "BDRs in the time at the US, it was $50"
+    },
+    {
+      "start_ms": 392160,
+      "duration_ms": 4960,
+      "text": "to $70,000 per year plus benefits. We"
+    },
+    {
+      "start_ms": 394880,
+      "duration_ms": 4879,
+      "text": "were spending $36,000 a year for what"
+    },
+    {
+      "start_ms": 397120,
+      "duration_ms": 4560,
+      "text": "would have cost us $300,000 had we done"
+    },
+    {
+      "start_ms": 399759,
+      "duration_ms": 3681,
+      "text": "it in the US. Here was the management"
+    },
+    {
+      "start_ms": 401680,
+      "duration_ms": 3920,
+      "text": "philosophy. We loaded them up with"
+    },
+    {
+      "start_ms": 403440,
+      "duration_ms": 3680,
+      "text": "activity, not problems to solve. We"
+    },
+    {
+      "start_ms": 405600,
+      "duration_ms": 3840,
+      "text": "didn't give them tasks where they needed"
+    },
+    {
+      "start_ms": 407120,
+      "duration_ms": 4880,
+      "text": "to make complex decision. The process"
+    },
+    {
+      "start_ms": 409440,
+      "duration_ms": 4160,
+      "text": "was completely repeatable. It was find"
+    },
+    {
+      "start_ms": 412000,
+      "duration_ms": 3280,
+      "text": "companies and built with identify three"
+    },
+    {
+      "start_ms": 413600,
+      "duration_ms": 3280,
+      "text": "to five people on LinkedIn, find emails"
+    },
+    {
+      "start_ms": 415280,
+      "duration_ms": 3600,
+      "text": "with scrap and hunter, send the first"
+    },
+    {
+      "start_ms": 416880,
+      "duration_ms": 4000,
+      "text": "email, follow up 3 to 5 days later, and"
+    },
+    {
+      "start_ms": 418880,
+      "duration_ms": 3759,
+      "text": "then send a third email a week after"
+    },
+    {
+      "start_ms": 420880,
+      "duration_ms": 3120,
+      "text": "that. They could work from home, set"
+    },
+    {
+      "start_ms": 422639,
+      "duration_ms": 2481,
+      "text": "their own hours within the shift"
+    },
+    {
+      "start_ms": 424000,
+      "duration_ms": 2560,
+      "text": "windows, and the work was"
+    },
+    {
+      "start_ms": 425120,
+      "duration_ms": 3680,
+      "text": "straightforward enough that they could"
+    },
+    {
+      "start_ms": 426560,
+      "duration_ms": 4320,
+      "text": "maintain quality at scale. We also"
+    },
+    {
+      "start_ms": 428800,
+      "duration_ms": 3920,
+      "text": "reached out to the list on LinkedIn. We"
+    },
+    {
+      "start_ms": 430880,
+      "duration_ms": 3520,
+      "text": "see very high acceptance rates on"
+    },
+    {
+      "start_ms": 432720,
+      "duration_ms": 3360,
+      "text": "connection requests with no messages."
+    },
+    {
+      "start_ms": 434400,
+      "duration_ms": 3280,
+      "text": "And then once someone accepts, they"
+    },
+    {
+      "start_ms": 436080,
+      "duration_ms": 3040,
+      "text": "start seeing your content in your feed."
+    },
+    {
+      "start_ms": 437680,
+      "duration_ms": 3519,
+      "text": "And the magic of this is that they're"
+    },
+    {
+      "start_ms": 439120,
+      "duration_ms": 3680,
+      "text": "getting emails and LinkedIn messages at"
+    },
+    {
+      "start_ms": 441199,
+      "duration_ms": 3761,
+      "text": "the same time. The sequence that worked"
+    },
+    {
+      "start_ms": 442800,
+      "duration_ms": 4000,
+      "text": "best for us there was connect, value,"
+    },
+    {
+      "start_ms": 444960,
+      "duration_ms": 3280,
+      "text": "and follow-up. Step one is a connection"
+    },
+    {
+      "start_ms": 446800,
+      "duration_ms": 3119,
+      "text": "request with one sentence about"
+    },
+    {
+      "start_ms": 448240,
+      "duration_ms": 3359,
+      "text": "something relevant. It had no pitch. It"
+    },
+    {
+      "start_ms": 449919,
+      "duration_ms": 3201,
+      "text": "had no links. It was just something that"
+    },
+    {
+      "start_ms": 451599,
+      "duration_ms": 3121,
+      "text": "showed that we were paying attention. An"
+    },
+    {
+      "start_ms": 453120,
+      "duration_ms": 3359,
+      "text": "example was, \"Hey, saw you're using"
+    },
+    {
+      "start_ms": 454720,
+      "duration_ms": 3280,
+      "text": "Clavio for email capture. You want to"
+    },
+    {
+      "start_ms": 456479,
+      "duration_ms": 2961,
+      "text": "collect 10 times more emails from your"
+    },
+    {
+      "start_ms": 458000,
+      "duration_ms": 3199,
+      "text": "site visitors.\" And the goal here was"
+    },
+    {
+      "start_ms": 459440,
+      "duration_ms": 3759,
+      "text": "just to get the connection, not to book"
+    },
+    {
+      "start_ms": 461199,
+      "duration_ms": 4081,
+      "text": "a meeting. Step two was the value"
+    },
+    {
+      "start_ms": 463199,
+      "duration_ms": 3921,
+      "text": "message after the acceptance. So, we"
+    },
+    {
+      "start_ms": 465280,
+      "duration_ms": 3440,
+      "text": "sent something simple and useful that"
+    },
+    {
+      "start_ms": 467120,
+      "duration_ms": 3359,
+      "text": "they actually could act on today. An"
+    },
+    {
+      "start_ms": 468720,
+      "duration_ms": 3039,
+      "text": "example was, \"Thanks for connecting. If"
+    },
+    {
+      "start_ms": 470479,
+      "duration_ms": 2720,
+      "text": "you want to get email addresses of your"
+    },
+    {
+      "start_ms": 471759,
+      "duration_ms": 3361,
+      "text": "anonymous website visitors who don't"
+    },
+    {
+      "start_ms": 473199,
+      "duration_ms": 4161,
+      "text": "fill out a form, let me know.\" And then"
+    },
+    {
+      "start_ms": 475120,
+      "duration_ms": 3840,
+      "text": "step three was the follow-up drip using"
+    },
+    {
+      "start_ms": 477360,
+      "duration_ms": 3600,
+      "text": "the rule of three. We sent three"
+    },
+    {
+      "start_ms": 478960,
+      "duration_ms": 4160,
+      "text": "messages and then stopped. Each one had"
+    },
+    {
+      "start_ms": 480960,
+      "duration_ms": 4000,
+      "text": "a specific job. Message one was the"
+    },
+    {
+      "start_ms": 483120,
+      "duration_ms": 3440,
+      "text": "quick reminder, quick follow-up on"
+    },
+    {
+      "start_ms": 484960,
+      "duration_ms": 2959,
+      "text": "identifying your website visitors. Let"
+    },
+    {
+      "start_ms": 486560,
+      "duration_ms": 3199,
+      "text": "me know if you're interested. Then"
+    },
+    {
+      "start_ms": 487919,
+      "duration_ms": 3680,
+      "text": "message two is the concrete offer. If"
+    },
+    {
+      "start_ms": 489759,
+      "duration_ms": 3840,
+      "text": "you want details on how this works or"
+    },
+    {
+      "start_ms": 491599,
+      "duration_ms": 3921,
+      "text": "what to send, I'll send you the template"
+    },
+    {
+      "start_ms": 493599,
+      "duration_ms": 3761,
+      "text": "and the copy I use to engage. And then"
+    },
+    {
+      "start_ms": 495520,
+      "duration_ms": 4320,
+      "text": "message three was the final ask or"
+    },
+    {
+      "start_ms": 497360,
+      "duration_ms": 4160,
+      "text": "close. This is the last note for me. Do"
+    },
+    {
+      "start_ms": 499840,
+      "duration_ms": 3520,
+      "text": "you want 10 times more email addresses"
+    },
+    {
+      "start_ms": 501520,
+      "duration_ms": 3359,
+      "text": "from your website visitors? Let me know."
+    },
+    {
+      "start_ms": 503360,
+      "duration_ms": 3040,
+      "text": "Here's why this works. It doesn't have"
+    },
+    {
+      "start_ms": 504879,
+      "duration_ms": 3681,
+      "text": "any attachments. Doesn't have any walls"
+    },
+    {
+      "start_ms": 506400,
+      "duration_ms": 3919,
+      "text": "of text. There's no fake urgency. That's"
+    },
+    {
+      "start_ms": 508560,
+      "duration_ms": 3599,
+      "text": "what works best on LinkedIn. And it"
+    },
+    {
+      "start_ms": 510319,
+      "duration_ms": 4400,
+      "text": "works whether you're doing it manually"
+    },
+    {
+      "start_ms": 512159,
+      "duration_ms": 4560,
+      "text": "or at scale. The last part of this ABM"
+    },
+    {
+      "start_ms": 514719,
+      "duration_ms": 4240,
+      "text": "strategy was running ads. So we were"
+    },
+    {
+      "start_ms": 516719,
+      "duration_ms": 3921,
+      "text": "hitting people on email and LinkedIn and"
+    },
+    {
+      "start_ms": 518959,
+      "duration_ms": 3440,
+      "text": "showing ads to them. How did we do that?"
+    },
+    {
+      "start_ms": 520640,
+      "duration_ms": 3840,
+      "text": "We took our list of people and we"
+    },
+    {
+      "start_ms": 522399,
+      "duration_ms": 3921,
+      "text": "uploaded it to Facebook and Google. And"
+    },
+    {
+      "start_ms": 524480,
+      "duration_ms": 3200,
+      "text": "then combined with email LinkedIn, it"
+    },
+    {
+      "start_ms": 526320,
+      "duration_ms": 3600,
+      "text": "created the impression that we were"
+    },
+    {
+      "start_ms": 527680,
+      "duration_ms": 4480,
+      "text": "absolutely everywhere. We also ran ads"
+    },
+    {
+      "start_ms": 529920,
+      "duration_ms": 4479,
+      "text": "to lookalike audiences of that core list"
+    },
+    {
+      "start_ms": 532160,
+      "duration_ms": 3840,
+      "text": "we built and we ran retargeting ads to"
+    },
+    {
+      "start_ms": 534399,
+      "duration_ms": 3281,
+      "text": "all of our site visitors. So once"
+    },
+    {
+      "start_ms": 536000,
+      "duration_ms": 3600,
+      "text": "somebody hit the website, we followed"
+    },
+    {
+      "start_ms": 537680,
+      "duration_ms": 4000,
+      "text": "them literally everywhere. We also"
+    },
+    {
+      "start_ms": 539600,
+      "duration_ms": 4000,
+      "text": "emailed them using the email address we"
+    },
+    {
+      "start_ms": 541680,
+      "duration_ms": 3680,
+      "text": "got from the core get emails product."
+    },
+    {
+      "start_ms": 543600,
+      "duration_ms": 3600,
+      "text": "for producing ad creatives that convert."
+    },
+    {
+      "start_ms": 545360,
+      "duration_ms": 4000,
+      "text": "I love using Russell Brunson's who,"
+    },
+    {
+      "start_ms": 547200,
+      "duration_ms": 4240,
+      "text": "what, why, how script. Let me give you"
+    },
+    {
+      "start_ms": 549360,
+      "duration_ms": 4000,
+      "text": "an example of how it works. Who are you?"
+    },
+    {
+      "start_ms": 551440,
+      "duration_ms": 4480,
+      "text": "Hi, I'm Adam Robinson, founder of Get"
+    },
+    {
+      "start_ms": 553360,
+      "duration_ms": 4800,
+      "text": "Emails. What do you have? We identify"
+    },
+    {
+      "start_ms": 555920,
+      "duration_ms": 3840,
+      "text": "35% of your anonymous web visitors and"
+    },
+    {
+      "start_ms": 558160,
+      "duration_ms": 3200,
+      "text": "give you email addresses of people that"
+    },
+    {
+      "start_ms": 559760,
+      "duration_ms": 3280,
+      "text": "don't fill out forms. Why do they need"
+    },
+    {
+      "start_ms": 561360,
+      "duration_ms": 3280,
+      "text": "it? You're spending money on ads,"
+    },
+    {
+      "start_ms": 563040,
+      "duration_ms": 4320,
+      "text": "content, and partnerships to drive"
+    },
+    {
+      "start_ms": 564640,
+      "duration_ms": 4639,
+      "text": "traffic to your site. But 97% of your"
+    },
+    {
+      "start_ms": 567360,
+      "duration_ms": 3520,
+      "text": "visitors leave without filling out a"
+    },
+    {
+      "start_ms": 569279,
+      "duration_ms": 3361,
+      "text": "form. There's no way to follow up with"
+    },
+    {
+      "start_ms": 570880,
+      "duration_ms": 3600,
+      "text": "them without get emails. How do they get"
+    },
+    {
+      "start_ms": 572640,
+      "duration_ms": 3759,
+      "text": "it? Click the link below and start"
+    },
+    {
+      "start_ms": 574480,
+      "duration_ms": 3440,
+      "text": "identifying your website visitors today."
+    },
+    {
+      "start_ms": 576399,
+      "duration_ms": 3601,
+      "text": "The content that works best is"
+    },
+    {
+      "start_ms": 577920,
+      "duration_ms": 3760,
+      "text": "authentic. I literally just take selfie"
+    },
+    {
+      "start_ms": 580000,
+      "duration_ms": 3760,
+      "text": "videos with my phone. No fancy"
+    },
+    {
+      "start_ms": 581680,
+      "duration_ms": 4400,
+      "text": "production, no actors, no expensive"
+    },
+    {
+      "start_ms": 583760,
+      "duration_ms": 4400,
+      "text": "agencies, just me talking directly into"
+    },
+    {
+      "start_ms": 586080,
+      "duration_ms": 4160,
+      "text": "the camera about a real problem and how"
+    },
+    {
+      "start_ms": 588160,
+      "duration_ms": 4239,
+      "text": "we solve it. So, this won't work for"
+    },
+    {
+      "start_ms": 590240,
+      "duration_ms": 4240,
+      "text": "absolutely everyone. Before you go copy"
+    },
+    {
+      "start_ms": 592399,
+      "duration_ms": 4241,
+      "text": "the system, I need to be brutally honest"
+    },
+    {
+      "start_ms": 594480,
+      "duration_ms": 4400,
+      "text": "with you. This strategy worked for us in"
+    },
+    {
+      "start_ms": 596640,
+      "duration_ms": 4560,
+      "text": "2020 and 2021 for a few specific"
+    },
+    {
+      "start_ms": 598880,
+      "duration_ms": 4079,
+      "text": "reasons. Number one, we had very strong"
+    },
+    {
+      "start_ms": 601200,
+      "duration_ms": 3440,
+      "text": "product market fit. If you don't have"
+    },
+    {
+      "start_ms": 602959,
+      "duration_ms": 3521,
+      "text": "word of mouth, which is the equivalent"
+    },
+    {
+      "start_ms": 604640,
+      "duration_ms": 3520,
+      "text": "of product market fit, this will not"
+    },
+    {
+      "start_ms": 606480,
+      "duration_ms": 3600,
+      "text": "save you. But if you do have product"
+    },
+    {
+      "start_ms": 608160,
+      "duration_ms": 4080,
+      "text": "market fit, high volume outbound can"
+    },
+    {
+      "start_ms": 610080,
+      "duration_ms": 4240,
+      "text": "speed you up significantly. Our target"
+    },
+    {
+      "start_ms": 612240,
+      "duration_ms": 4400,
+      "text": "audience was also responsive to cold"
+    },
+    {
+      "start_ms": 614320,
+      "duration_ms": 4160,
+      "text": "emails. Shopify Plus customers were"
+    },
+    {
+      "start_ms": 616640,
+      "duration_ms": 4240,
+      "text": "actually reading and responding to cold"
+    },
+    {
+      "start_ms": 618480,
+      "duration_ms": 4320,
+      "text": "outreach in 2021 and 2022. You could get"
+    },
+    {
+      "start_ms": 620880,
+      "duration_ms": 3760,
+      "text": "in front of them very easily. That's all"
+    },
+    {
+      "start_ms": 622800,
+      "duration_ms": 3599,
+      "text": "changed now. We're seeing much lower"
+    },
+    {
+      "start_ms": 624640,
+      "duration_ms": 3680,
+      "text": "response rates across the board. So,"
+    },
+    {
+      "start_ms": 626399,
+      "duration_ms": 3761,
+      "text": "this strategy would be much harder. And"
+    },
+    {
+      "start_ms": 628320,
+      "duration_ms": 3759,
+      "text": "the third reason was we had experienced"
+    },
+    {
+      "start_ms": 630160,
+      "duration_ms": 3840,
+      "text": "senior employees wearing multiple hats."
+    },
+    {
+      "start_ms": 632079,
+      "duration_ms": 3921,
+      "text": "Our head of sales wasn't just managing"
+    },
+    {
+      "start_ms": 634000,
+      "duration_ms": 4160,
+      "text": "the Philippine teams. She was also"
+    },
+    {
+      "start_ms": 636000,
+      "duration_ms": 4800,
+      "text": "closing deals, refining messages, and"
+    },
+    {
+      "start_ms": 638160,
+      "duration_ms": 4880,
+      "text": "optimizing the entire process. So, the"
+    },
+    {
+      "start_ms": 640800,
+      "duration_ms": 4000,
+      "text": "world has changed significantly in the 5"
+    },
+    {
+      "start_ms": 643040,
+      "duration_ms": 3039,
+      "text": "years since we scaled get emails. Here's"
+    },
+    {
+      "start_ms": 644800,
+      "duration_ms": 2960,
+      "text": "what I'd do differently if I were"
+    },
+    {
+      "start_ms": 646079,
+      "duration_ms": 3681,
+      "text": "starting the same operation today."
+    },
+    {
+      "start_ms": 647760,
+      "duration_ms": 3519,
+      "text": "Number one, I'd still do manual list"
+    },
+    {
+      "start_ms": 649760,
+      "duration_ms": 3360,
+      "text": "building to find the emails. The"
+    },
+    {
+      "start_ms": 651279,
+      "duration_ms": 4161,
+      "text": "database platforms are even more"
+    },
+    {
+      "start_ms": 653120,
+      "duration_ms": 4240,
+      "text": "saturated now than they were in 2020."
+    },
+    {
+      "start_ms": 655440,
+      "duration_ms": 4639,
+      "text": "Manual list building is still the way to"
+    },
+    {
+      "start_ms": 657360,
+      "duration_ms": 5360,
+      "text": "get fresh deliverable contacts. I would"
+    },
+    {
+      "start_ms": 660079,
+      "duration_ms": 4401,
+      "text": "not send from my primary domain. We got"
+    },
+    {
+      "start_ms": 662720,
+      "duration_ms": 3359,
+      "text": "lucky in that we never had major"
+    },
+    {
+      "start_ms": 664480,
+      "duration_ms": 3840,
+      "text": "deliverability issues even though we"
+    },
+    {
+      "start_ms": 666079,
+      "duration_ms": 4320,
+      "text": "were emailing from getmails.com. Today,"
+    },
+    {
+      "start_ms": 668320,
+      "duration_ms": 4400,
+      "text": "I'd set up multiple sending domains to"
+    },
+    {
+      "start_ms": 670399,
+      "duration_ms": 5041,
+      "text": "protect the main brand domain. I'd also"
+    },
+    {
+      "start_ms": 672720,
+      "duration_ms": 4799,
+      "text": "use instantly or smart lead sequencers"
+    },
+    {
+      "start_ms": 675440,
+      "duration_ms": 4240,
+      "text": "instead of manually sending. Technology"
+    },
+    {
+      "start_ms": 677519,
+      "duration_ms": 4000,
+      "text": "has improved significantly and you can"
+    },
+    {
+      "start_ms": 679680,
+      "duration_ms": 3920,
+      "text": "now automate sending while still"
+    },
+    {
+      "start_ms": 681519,
+      "duration_ms": 4000,
+      "text": "maintaining that personalized human"
+    },
+    {
+      "start_ms": 683600,
+      "duration_ms": 4239,
+      "text": "feel. And the edge you're going to get"
+    },
+    {
+      "start_ms": 685519,
+      "duration_ms": 4401,
+      "text": "from using humans to send is just not"
+    },
+    {
+      "start_ms": 687839,
+      "duration_ms": 3921,
+      "text": "there today. And last but not least, I'd"
+    },
+    {
+      "start_ms": 689920,
+      "duration_ms": 3440,
+      "text": "create organic LinkedIn content."
+    },
+    {
+      "start_ms": 691760,
+      "duration_ms": 3600,
+      "text": "Building a personal brand on LinkedIn"
+    },
+    {
+      "start_ms": 693360,
+      "duration_ms": 4080,
+      "text": "would multiply the effectiveness of"
+    },
+    {
+      "start_ms": 695360,
+      "duration_ms": 4159,
+      "text": "every other channel. When prospects see"
+    },
+    {
+      "start_ms": 697440,
+      "duration_ms": 3920,
+      "text": "your content, get your ad, receive your"
+    },
+    {
+      "start_ms": 699519,
+      "duration_ms": 4241,
+      "text": "email, and get a DM from you, that's"
+    },
+    {
+      "start_ms": 701360,
+      "duration_ms": 4320,
+      "text": "when the magic happens. Now, if you want"
+    },
+    {
+      "start_ms": 703760,
+      "duration_ms": 4400,
+      "text": "to take this ABM strategy to the next"
+    },
+    {
+      "start_ms": 705680,
+      "duration_ms": 4080,
+      "text": "level, I'd recommend installing RB2B on"
+    },
+    {
+      "start_ms": 708160,
+      "duration_ms": 3679,
+      "text": "your website. When someone visits your"
+    },
+    {
+      "start_ms": 709760,
+      "duration_ms": 3920,
+      "text": "website, RBDB identifies them and sends"
+    },
+    {
+      "start_ms": 711839,
+      "duration_ms": 4321,
+      "text": "their LinkedIn profile straight to their"
+    },
+    {
+      "start_ms": 713680,
+      "duration_ms": 4159,
+      "text": "Slack. This is an absolute must for ABM"
+    },
+    {
+      "start_ms": 716160,
+      "duration_ms": 4080,
+      "text": "today because these are the warmest"
+    },
+    {
+      "start_ms": 717839,
+      "duration_ms": 4401,
+      "text": "leads you'll ever get. They're actively"
+    },
+    {
+      "start_ms": 720240,
+      "duration_ms": 3760,
+      "text": "researching solutions and they just"
+    },
+    {
+      "start_ms": 722240,
+      "duration_ms": 3520,
+      "text": "visited your site. Conversion rates are"
+    },
+    {
+      "start_ms": 724000,
+      "duration_ms": 3360,
+      "text": "a lot higher than cold outreach because"
+    },
+    {
+      "start_ms": 725760,
+      "duration_ms": 3360,
+      "text": "you're catching them at the perfect"
+    },
+    {
+      "start_ms": 727360,
+      "duration_ms": 4080,
+      "text": "moment. So, click in the first link"
+    },
+    {
+      "start_ms": 729120,
+      "duration_ms": 4480,
+      "text": "below and start using RBDB completely"
+    },
+    {
+      "start_ms": 731440,
+      "duration_ms": 4399,
+      "text": "free to start identifying your highest"
+    },
+    {
+      "start_ms": 733600,
+      "duration_ms": 4479,
+      "text": "intent prospects today. And if you want"
+    },
+    {
+      "start_ms": 735839,
+      "duration_ms": 4721,
+      "text": "to see the exact cold email strategy"
+    },
+    {
+      "start_ms": 738079,
+      "duration_ms": 6721,
+      "text": "that's making $160,000 a month for my"
+    },
+    {
+      "start_ms": 740560,
+      "duration_ms": 4240,
+      "text": "SAS, then watch this video"
+    }
+  ]
+}

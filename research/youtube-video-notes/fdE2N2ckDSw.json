@@ -1,0 +1,313 @@
+{
+  "video_id": "fdE2N2ckDSw",
+  "title": "How I Grew My SaaS From $0-$1M ARR in 6 Weeks",
+  "published": "2025-10-17T15:01:16+00:00",
+  "speakers_and_attribution": "The monologue is contextually attributable to Adam Robinson through first-person accounts of running Retention.com and launching RB2B. Captions are not diarized, and speaker identity has not been independently verified. No interviewer or guest speaks. The offer framework is attributed by Adam to an external creator whose name is inconsistently transcribed.",
+  "summary": "Adam attributes RB2B's rapid growth to an audience built through public discussion of Retention.com's setbacks, months of customer discovery, a compelling free offer, and outreach to identified website visitors. He describes partnerships, podcasts, email marketing and paid ads as later accelerators. He self-reports reaching $1 million ARR six weeks after launch and approximately $6 million ARR over an 18-month trajectory, with three full-time employees and no external funding. The launch results followed substantial preparation; product performance and growth claims are unverified promotional self-reports.",
+  "key_learnings": [
+    {
+      "claim": "Adam says openly discussing missed growth expectations, layoffs and operating numbers helped build an audience of B2B SaaS founders who recognized their own struggles.",
+      "start_timestamp": "00:00:34",
+      "end_timestamp": "00:01:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "He attributes audience growth to transparency, but provides no comparison isolating its effect. His assertion of unusually high engagement is not supported by engagement data."
+    },
+    {
+      "claim": "He tested a specific product promise through LinkedIn calls to action, then spent months on individual discovery calls before building RB2B.",
+      "start_timestamp": "00:01:43",
+      "end_timestamp": "00:02:23",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "He describes discovery conversations rather than sales calls. The passage does not clearly establish that customers prepaid."
+    },
+    {
+      "claim": "Adam advises founders to speak directly with their market before building and treats advance payment for an unbuilt product as especially strong validation.",
+      "start_timestamp": "00:02:23",
+      "end_timestamp": "00:02:38",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "His suggestion that prepayment nearly assures success is an opinion, not an established guarantee or a confirmed description of RB2B's launch."
+    },
+    {
+      "claim": "He positioned RB2B around free person-level visitor identification, contrasting it with expensive tools that he says identified only the visiting company.",
+      "start_timestamp": "00:02:41",
+      "end_timestamp": "00:03:03",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Competitors are unnamed. Pricing periods, product limits, visitor eligibility and identification accuracy are not specified."
+    },
+    {
+      "claim": "Adam evaluates offer value through the desired outcome and confidence in achieving it, divided by waiting time and required effort. He maps this to visitor profiles, founder credibility, fast lead delivery and a simple pixel installation.",
+      "start_timestamp": "00:03:03",
+      "end_timestamp": "00:03:46",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He credits an external creator rather than claiming to originate the framework. Captions render the creator's name inconsistently as 'Alex Ramoszi' and 'Hermos.'"
+    },
+    {
+      "claim": "He says the surprising free offer encouraged sharing and argues that word of mouth makes other acquisition efforts work more effectively.",
+      "start_timestamp": "00:03:46",
+      "end_timestamp": "00:04:09",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "The assertion that everything works with word of mouth and nothing works without it is rhetorical. No referral share or causal measurement is supplied."
+    },
+    {
+      "claim": "His inbound-led outbound process brings traffic through content, podcasts and partnerships, identifies visitors who fit the ideal customer profile, then follows up using outbound sequences.",
+      "start_timestamp": "00:04:11",
+      "end_timestamp": "00:04:42",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The approach depends on relevant traffic and identifiable visitors. He treats a site visit as evidence of interest without establishing purchase intent for every visitor."
+    },
+    {
+      "claim": "He describes automatically connecting on LinkedIn through a tool captioned 'Hey Reach,' sending a two-part email sequence, and following up on LinkedIn when emails receive no reply.",
+      "start_timestamp": "00:04:42",
+      "end_timestamp": "00:05:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "He credits this process with higher conversion and more qualified meetings, but does not provide sequence timing, conversion definitions or attribution methodology."
+    },
+    {
+      "claim": "After organic traction, Adam added access to Clay's creator community, weekly podcast interviews, other guest appearances, email marketing and paid ads to accelerate growth.",
+      "start_timestamp": "00:05:33",
+      "end_timestamp": "00:06:10",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "He says paid channels were not necessary to reach the first $1 million ARR. Channel spending, individual contributions and exact activation dates are absent."
+    },
+    {
+      "claim": "He presents an audience, a free offer and word of mouth as the foundation that enabled later channels to help scale a company with a small full-time team and no external funding.",
+      "start_timestamp": "00:05:52",
+      "end_timestamp": "00:06:16",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "This is his explanation of one company's results, not a controlled comparison with venture funding. Contractor use, shared support, profitability and total capital invested are not disclosed."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "While running Retention.com in 2023, Adam publicly predicted tripling ARR, then missed that ambition and dismissed his entire BDR team after the cold outreach operation failed.",
+      "start_timestamp": "00:00:34",
+      "end_timestamp": "00:00:54",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "The prediction and setback are situated in his account of 2023; no exact layoff date, team size or independent confirmation is given."
+    },
+    {
+      "claim": "He chose to discuss the failed strategy, painful layoffs and business numbers publicly despite people telling him he was being excessively transparent.",
+      "start_timestamp": "00:00:57",
+      "end_timestamp": "00:01:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "This demonstrates a specific disclosure decision. It does not establish an approved mission statement or a universal commitment to disclose everything."
+    },
+    {
+      "claim": "He invested months in direct conversations with prospective customers before beginning to build RB2B.",
+      "start_timestamp": "00:01:43",
+      "end_timestamp": "00:02:23",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "The decision supports customer discovery as part of this product's history; specific dates and research records are not supplied."
+    },
+    {
+      "claim": "He chose a free offer despite describing skepticism from others, then added paid acquisition only after establishing organic traction.",
+      "start_timestamp": "00:02:41",
+      "end_timestamp": "00:03:03",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The later channel decision is described at 00:05:33–00:06:10. Skepticism is reported generally without identifying who objected."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "RB2B: Adam places the initial product idea approximately 18 months before the recording.",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:00:04",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Recording date is unknown. Publication on 2025-10-17 does not establish the idea's exact date; later wording also associates 18 months with the growth trajectory."
+    },
+    {
+      "claim": "RB2B: Adam reports reaching $1 million ARR six weeks after launch.",
+      "start_timestamp": "00:00:02",
+      "end_timestamp": "00:00:06",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Historical achievement claim, repeated at 00:04:11–00:04:18. ARR is an annualized recurring revenue measure, not revenue collected within six weeks. Launch date is not stated."
+    },
+    {
+      "claim": "RB2B: Adam reports current scale of over $6 million ARR, a team of three people and zero external funding.",
+      "start_timestamp": "00:00:06",
+      "end_timestamp": "00:00:28",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Latest reported position in this source, not independently verified. The closing passage specifies three full-time employees; shared staff, contractors and internal funding are not addressed."
+    },
+    {
+      "claim": "RB2B: The closing account describes reaching $6 million ARR in 18 months with three full-time employees and zero external funding.",
+      "start_timestamp": "00:06:03",
+      "end_timestamp": "00:06:16",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Restates the opening at rounded precision rather than establishing another milestone. The exact starting event for the 18-month period is ambiguous."
+    },
+    {
+      "claim": "Retention.com: In 2023, Adam publicly predicted growth from $15 million ARR to $45 million ARR that year.",
+      "start_timestamp": "00:00:34",
+      "end_timestamp": "00:00:49",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "$15 million ARR is the reported baseline; $45 million ARR was an unrealized forecast, not an achievement. He loosely calls this revenue growth while using ARR units."
+    },
+    {
+      "claim": "Retention.com: Adam reports approximately 40% growth instead of the forecast tripling, in the same account of 2023.",
+      "start_timestamp": "00:00:42",
+      "end_timestamp": "00:00:54",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "The exact growth measure is not restated, and no ending ARR is explicitly supplied. Do not calculate and file an inferred ending ARR as a reported fact."
+    },
+    {
+      "claim": "Adam's LinkedIn audience: Captions report growth 'from 4 to 140,000' followers over 24 months.",
+      "start_timestamp": "00:01:31",
+      "end_timestamp": "00:01:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "The starting figure may be incomplete or mistranscribed; do not silently convert it to 4,000. Exact start and end dates are absent."
+    },
+    {
+      "claim": "RB2B discovery: Adam reports hundreds of inbound messages and hundreds of one-on-one prospective-customer calls over months before building.",
+      "start_timestamp": "00:01:49",
+      "end_timestamp": "00:02:23",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Approximate activity counts, not customer or revenue counts. Possible overlap with later reported meetings is unspecified."
+    },
+    {
+      "claim": "Unnamed competitors: Adam says they charged hundreds of thousands of dollars for company-level visitor identification.",
+      "start_timestamp": "00:02:44",
+      "end_timestamp": "00:02:55",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Competitive comparison without named vendors, contract scope, billing period or supporting evidence."
+    },
+    {
+      "claim": "RB2B launch offer: Adam says it promised person-level identification of 70–80% of anonymous website visitors, free forever.",
+      "start_timestamp": "00:02:55",
+      "end_timestamp": "00:03:03",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "An offer claim, not a measured identification rate established here. Geography, eligible traffic, accuracy and free-tier limits are unstated."
+    },
+    {
+      "claim": "RB2B offer: Adam advertised delivery of the first leads in under five minutes after a simple pixel installation.",
+      "start_timestamp": "00:03:35",
+      "end_timestamp": "00:03:46",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Marketing promise used to illustrate low delay and effort; no measured distribution or traffic prerequisites are supplied."
+    },
+    {
+      "claim": "RB2B offer response: Adam reports over 1,600 signups and 300 meetings in a few months.",
+      "start_timestamp": "00:03:46",
+      "end_timestamp": "00:03:51",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Captions say 'weightless signups,' possibly a transcription error for waitlist signups; signup type remains uncertain. These are not reported paying customers."
+    },
+    {
+      "claim": "RB2B outreach: Adam reports conversion rates ten times higher for warm visitor follow-up than for cold outreach.",
+      "start_timestamp": "00:04:54",
+      "end_timestamp": "00:05:10",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Conversion event, baseline rate, sample size and comparison period are unspecified."
+    },
+    {
+      "claim": "RB2B inbound-led outbound: Adam reports over 300 qualified meetings in a few months and credits them with contributing directly to rapid ARR growth.",
+      "start_timestamp": "00:05:10",
+      "end_timestamp": "00:05:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "May overlap with the earlier 300 meetings attributed to the offer; do not add the counts. Qualification criteria and revenue attribution are not provided."
+    },
+    {
+      "claim": "Adam says he began doing podcast interviews weekly during the growth-acceleration phase.",
+      "start_timestamp": "00:05:33",
+      "end_timestamp": "00:05:48",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Reported cadence without exact dates, duration or total appearance count."
+    }
+  ],
+  "tensions_and_corrections": [
+    "The six-week achievement is explicitly measured after launch in the opening. Later idea-to-$1-million phrasing compresses months of discovery and substantial audience building into that narrative.",
+    "The opening places the idea 18 months earlier, while other passages associate 18 months with reaching $6 million ARR. The precise chronology cannot be resolved from this source.",
+    "The opening reports over $6 million ARR; the closing uses $6 million ARR. Preserve the difference in precision without inventing separate milestones.",
+    "Retention.com's $45 million ARR figure was a forecast that was missed. The approximately 40% growth report must not be confused with tripling or treated as a stated ending ARR.",
+    "The follower starting count is captioned as '4.' The intended magnitude is uncertain.",
+    "The earlier 300 meetings and later over 300 qualified meetings may describe the same activity. Their counts and attribution should not be combined.",
+    "Adam declares traditional cold outreach dead but reuses cold-outreach sequences for identified visitors. His operational distinction concerns audience warmth and targeting.",
+    "He describes the offer as free forever while reporting substantial ARR, but does not explain paid tiers, upgrades or how free usage converts to revenue.",
+    "Three full-time employees and zero external funding do not establish total labor input, profitability, cash generation or absence of internal financing.",
+    "The '$100 million offer' phrase names an offer concept; it is not an RB2B revenue, valuation or fundraising achievement.",
+    "Automatic captions contain uncertain names and terms, including 'Alex Ramoszi,' 'Hermos,' 'weightless signups' and the closing 'rbdb.com.' These should not be silently normalized.",
+    "The video promotes RB2B. Growth causality, product coverage and comparative performance remain Adam's claims rather than independently verified findings."
+  ],
+  "reusable_topics": [
+    "Building an audience by explaining missed forecasts and layoffs",
+    "The preparation hidden behind a six-week launch milestone",
+    "Turning LinkedIn responses into customer discovery",
+    "Prepayment as a validation signal and its limits",
+    "Reducing uncertainty, waiting time and setup effort in an offer",
+    "Free offers as a source of word of mouth",
+    "Identified website visitors as an input to outbound follow-up",
+    "Coordinating LinkedIn connections, email and follow-up",
+    "Using communities and podcasts after organic traction",
+    "Paid acquisition as a later growth accelerator",
+    "Interpreting ARR and headcount claims in bootstrapped SaaS"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:06:29",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript, including the closing promotion; no audio, video or external verification was used.",
+      "Automatic captions are not diarized and may misstate names, figures and terms.",
+      "Publication time is known; recording date and exact event dates are not.",
+      "Claims are self-reported in a promotional monologue, with limited definitions and no supporting datasets.",
+      "This extraction is for internal wiki synthesis. Public accessibility does not provide clearance for reuse in public copy."
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "sha": "951d6149d2748a15058f79dcf8e8c4bf00824121",
+  "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/trees/951d6149d2748a15058f79dcf8e8c4bf00824121",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3122e74e755a4120881ff92440d8c17344b2ade7",
+      "size": 50,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/3122e74e755a4120881ff92440d8c17344b2ade7"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f003f7cda767331f4ce51b7f034426d8a80d926",
+      "size": 1069,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/7f003f7cda767331f4ce51b7f034426d8a80d926"
+    },
+    {
+      "path": "NOTICE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24f1a07095641bd653f50b2699d4f57ed9b5369e",
+      "size": 2649,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/24f1a07095641bd653f50b2699d4f57ed9b5369e"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "650d9712fb5ffaa208dab2052786720892843611",
+      "size": 13407,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/650d9712fb5ffaa208dab2052786720892843611"
+    },
+    {
+      "path": "SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29e05f01a50f37df30f02618abcd1b84f25efcb7",
+      "size": 17538,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/29e05f01a50f37df30f02618abcd1b84f25efcb7"
+    },
+    {
+      "path": "assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "76a922aaaa88eaf293d7375311423faa6ee61d65",
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/trees/76a922aaaa88eaf293d7375311423faa6ee61d65"
+    },
+    {
+      "path": "assets/BRIEF.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9c292e854c5b26bc45fd543ed08eb068b8f9fa2",
+      "size": 3065,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/b9c292e854c5b26bc45fd543ed08eb068b8f9fa2"
+    },
+    {
+      "path": "assets/STORYBOARD.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c196fe6906d6cfa2a23c6c90dd5bda0a8783cae3",
+      "size": 2805,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/c196fe6906d6cfa2a23c6c90dd5bda0a8783cae3"
+    },
+    {
+      "path": "assets/cues.example.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7dad42e8ff65949ff4daac2be06df0313f3d6895",
+      "size": 3266,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/7dad42e8ff65949ff4daac2be06df0313f3d6895"
+    },
+    {
+      "path": "assets/film.example.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ced9e2fd4bd8e33c53c6ed6254bb5b04c7c11034",
+      "size": 3518,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/ced9e2fd4bd8e33c53c6ed6254bb5b04c7c11034"
+    },
+    {
+      "path": "assets/frame-skeleton.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df89e68de226d0894505015372f0dd8e9d6b52d1",
+      "size": 17731,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/df89e68de226d0894505015372f0dd8e9d6b52d1"
+    },
+    {
+      "path": "evals",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "366fdb466996da79749e4025738f2335b855253c",
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/trees/366fdb466996da79749e4025738f2335b855253c"
+    },
+    {
+      "path": "evals/BASELINE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b2bd88416b7493bb2f7bbf0cb0f070392f7ae6d",
+      "size": 7721,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/1b2bd88416b7493bb2f7bbf0cb0f070392f7ae6d"
+    },
+    {
+      "path": "evals/evals.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c3b8271682691876588ab528cec0b9a88049f0e",
+      "size": 5410,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/2c3b8271682691876588ab528cec0b9a88049f0e"
+    },
+    {
+      "path": "examples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ad6e21d1d2a4fb42c86d37501ee91e8d87325400",
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/trees/ad6e21d1d2a4fb42c86d37501ee91e8d87325400"
+    },
+    {
+      "path": "examples/CASE-STUDY.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cd2bfa0b728430565144d3ae71ee9f670f6f739",
+      "size": 13071,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/4cd2bfa0b728430565144d3ae71ee9f670f6f739"
+    },
+    {
+      "path": "examples/film-preview.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84e08dcfeac38c4745eb8a68aa391b9d4bcb2eb9",
+      "size": 999152,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/84e08dcfeac38c4745eb8a68aa391b9d4bcb2eb9"
+    },
+    {
+      "path": "examples/still-1.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0813cdb95d1e2d2262d7050ac3d9af85f2328cce",
+      "size": 17336,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/0813cdb95d1e2d2262d7050ac3d9af85f2328cce"
+    },
+    {
+      "path": "references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5bd92b1ca57a851b1e7c09a9332cdb0b88cd1477",
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/trees/5bd92b1ca57a851b1e7c09a9332cdb0b88cd1477"
+    },
+    {
+      "path": "references/01-renderer-contract.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "459fdc704d55fa161770d6d9063741d156f68c24",
+      "size": 15108,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/459fdc704d55fa161770d6d9063741d156f68c24"
+    },
+    {
+      "path": "references/02-story-and-truth.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3293aa3dfb3b15f83862381787ee52652b8733ed",
+      "size": 21191,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/3293aa3dfb3b15f83862381787ee52652b8733ed"
+    },
+    {
+      "path": "references/03-word-locked-sync.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c2a032a4f02c9d4efd811f71b53118f9625dcd7",
+      "size": 9461,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/5c2a032a4f02c9d4efd811f71b53118f9625dcd7"
+    },
+    {
+      "path": "references/04-motion-grammar.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e9bbc1a969c4ce70aaa30377d62a625df81191e",
+      "size": 20027,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/5e9bbc1a969c4ce70aaa30377d62a625df81191e"
+    },
+    {
+      "path": "references/05-camera-3d-cursor.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94ac0478139c4e7a1d68f33978e15646968afec6",
+      "size": 12724,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/94ac0478139c4e7a1d68f33978e15646968afec6"
+    },
+    {
+      "path": "references/06-look-and-grade.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e0feaac9df6def6a74d483445f945ba2abeb911",
+      "size": 18729,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/8e0feaac9df6def6a74d483445f945ba2abeb911"
+    },
+    {
+      "path": "references/07-sound-and-master.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f6d7c5f1233568e792bf38537c2d5165ac010e1",
+      "size": 10514,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/4f6d7c5f1233568e792bf38537c2d5165ac010e1"
+    },
+    {
+      "path": "references/08-qa-and-direction.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "baf57cd590a6dd41cc806aa486512206ca8e18e6",
+      "size": 11984,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/baf57cd590a6dd41cc806aa486512206ca8e18e6"
+    },
+    {
+      "path": "references/09-shot-catalog.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25a9bd53fc6188d8f4596646030552245af90e14",
+      "size": 39829,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/25a9bd53fc6188d8f4596646030552245af90e14"
+    },
+    {
+      "path": "references/10-traps.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e1841bbc712089e474431ff3fd910eab9655261",
+      "size": 14957,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/4e1841bbc712089e474431ff3fd910eab9655261"
+    },
+    {
+      "path": "references/11-creative-direction.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "661f0e10f91de774dc059dee80fb46e6a6fe67df",
+      "size": 17844,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/661f0e10f91de774dc059dee80fb46e6a6fe67df"
+    },
+    {
+      "path": "references/12-deliverables.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e08299f150f34a2cba082dacca33adee6483787d",
+      "size": 7285,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/e08299f150f34a2cba082dacca33adee6483787d"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4853c7867bab28a6111234a7b9cf22169a68db8d",
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/trees/4853c7867bab28a6111234a7b9cf22169a68db8d"
+    },
+    {
+      "path": "scripts/assemble.mjs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3e0aa8642ed24d911f90a431bfe605b44a4bb1b0",
+      "size": 9484,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/3e0aa8642ed24d911f90a431bfe605b44a4bb1b0"
+    },
+    {
+      "path": "scripts/level-sfx.mjs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c77fd8725894ba464f680cf2a5076842f72b8e56",
+      "size": 8673,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/c77fd8725894ba464f680cf2a5076842f72b8e56"
+    },
+    {
+      "path": "scripts/master.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8abe5f1a1168602b8c2ed3f188cc3c88c767888b",
+      "size": 3923,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/8abe5f1a1168602b8c2ed3f188cc3c88c767888b"
+    },
+    {
+      "path": "scripts/transitions.mjs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6423cb9196eabb50238304d5b15e632a19c3aa33",
+      "size": 7369,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/6423cb9196eabb50238304d5b15e632a19c3aa33"
+    },
+    {
+      "path": "scripts/verify-cue.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f0019fdaeaad00207a42cb56e32cf0e9b91285be",
+      "size": 3523,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/f0019fdaeaad00207a42cb56e32cf0e9b91285be"
+    },
+    {
+      "path": "scripts/wire-audio.mjs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "480b5d3295412961ad26a7cb0a27d5d97b712ec3",
+      "size": 5434,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/480b5d3295412961ad26a7cb0a27d5d97b712ec3"
+    },
+    {
+      "path": "scripts/wire-grade.mjs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "54cada2fd1c7acbc7ef7b62f27f06804524b919a",
+      "size": 9965,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/54cada2fd1c7acbc7ef7b62f27f06804524b919a"
+    },
+    {
+      "path": "scripts/word-timings.mjs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5ce4c8bb5b154c2d5830ef7f68beb5c53b196987",
+      "size": 4698,
+      "url": "https://api.github.com/repos/AbubakrChan/product-launch-motion/git/blobs/5ce4c8bb5b154c2d5830ef7f68beb5c53b196987"
+    }
+  ],
+  "truncated": false
+}

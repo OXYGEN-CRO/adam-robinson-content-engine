@@ -1,0 +1,13 @@
+{
+  "id": "H4LpPMR6v1E",
+  "source_sha256": "408a880c08b48abdb54b8e793056c717a53fc86874662d8836ab03a7349298db",
+  "source_characters": 80198,
+  "source_word_count": 11931,
+  "prompt_sha256": "d29f5f8472d639a33162684f3aac159a8350b58e4ca69149385d2bb69eea315d",
+  "started_at": "2026-09-08T10:00:14.318954+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/H4LpPMR6v1E/H4LpPMR6v1E.md",
+  "pid": 22673,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T10:05:46.311957+00:00"
+}

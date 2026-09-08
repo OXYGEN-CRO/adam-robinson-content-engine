@@ -1,0 +1,13 @@
+{
+  "id": "HIuvLo23R2M",
+  "source_sha256": "4b0079474bd77008f2c214b67d9c8dca9b54875697ac68cbc63a2f16db4094a7",
+  "source_characters": 79009,
+  "source_word_count": 11633,
+  "prompt_sha256": "a354c4d7ae2da4680e66fc13ede6c3f93f76be5e2983687d35e2e55ae4975f5a",
+  "started_at": "2026-09-08T08:50:37.815065+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/HIuvLo23R2M/HIuvLo23R2M.md",
+  "pid": 49250,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:55:28.260063+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "xwidBsviGII",
+  "source_sha256": "c9874ed6247b05f545615555e3d29573c88ad39c14c25bf8a311b079629725ad",
+  "source_characters": 70198,
+  "source_word_count": 10026,
+  "prompt_sha256": "3fb2aa4c483b33a8aa572d64be17e25050ab63a7734042cc5a22e29c7588a2a1",
+  "started_at": "2026-09-08T09:55:07.367549+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/xwidBsviGII/xwidBsviGII.md",
+  "pid": 88580,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T10:00:14.315313+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "_ezpDfnHltk",
+  "source_sha256": "abd76d1ebc3677b323ccddcf980ef37f75fc2a613cf93c9cb0aeadb171f07a27",
+  "source_characters": 66765,
+  "source_word_count": 10315,
+  "prompt_sha256": "ca8a4479b807e555a95dad187975abb3166e7cb749bc18e08bc8a0688d52135f",
+  "started_at": "2026-09-08T10:04:14.828003+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/_ezpDfnHltk/_ezpDfnHltk.md",
+  "pid": 48590,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T10:17:29.821087+00:00"
+}

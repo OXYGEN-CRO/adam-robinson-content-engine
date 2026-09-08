@@ -1,0 +1,4162 @@
+{
+  "audited_at": "2026-09-08T12:53:58.829211+00:00",
+  "status": "manual_review_required",
+  "selected_count": 100,
+  "extraction_count": 100,
+  "promoted_count": 100,
+  "error_count": 0,
+  "manual_review_count": 3,
+  "structurally_valid_note_count": 100,
+  "errors": [],
+  "pipeline_code_sha256": "0e5e3c489e546fb78aa9b07edf8508df13573dc55b6b2f23eae9cd9d9365e67b",
+  "heuristics": {
+    "long_video": "duration >= 20 minutes OR transcript > 5,000 words",
+    "local_lesson": ">= 10 words; range <= max(180 sec,20% of caption extent)",
+    "third_coverage": "at least 2 local lesson midpoints in each chronological third",
+    "long_video_lesson_count": "15 meaningful key learnings is a review threshold, not an invented completeness guarantee"
+  },
+  "limitations": [
+    "Inputs and terminal outputs are checked, but a model assertion of reading the whole source does not prove exhaustive semantic understanding.",
+    "Temporal/count heuristics identify review candidates; they do not judge factual accuracy or attribution correctness.",
+    "The verifier does not silently clear review flags or manufacture metrics when a source has none.",
+    "When no prompt artifact exists, prompt hash is reconstructed from current literal instructions, supplied source and selected metadata. A changed historical prompt needs preserved evidence.",
+    "The pipeline may be running during this read-only audit. Missing artifacts are a snapshot, not proof that a live worker stopped.",
+    "Automatic captions may contain errors; source timestamp and hash checks do not verify against audio."
+  ],
+  "notes": [
+    {
+      "id": "eUzqVJpZPP4",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 442.32,
+          "last_end": 446.24,
+          "video_duration": 444
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "9e58d6dbeb32fb12b2b92b13fbea4e62afc8d590d68e2b7ecf2443bfc6ec1fd3",
+        "terminal_usage": {
+          "input_tokens": 25849,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 4572,
+          "reasoning_output_tokens": 149
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 4,
+          "metrics_and_dates": 11
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "34c8d23cb1b05b6ac56df5305aee2d810d88f0e2e5edcf95b1a487be6848eb3c"
+      }
+    },
+    {
+      "id": "kS9ii5vYbOM",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 257.799,
+          "last_end": 262.84,
+          "video_duration": 261
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "efc1d595082393c7e7c8483c2b641ce77ca5a9ff8ace9423f402f2d361cf758a",
+        "terminal_usage": {
+          "input_tokens": 24277,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 3532,
+          "reasoning_output_tokens": 142
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 3,
+          "metrics_and_dates": 6
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "2c8792a8471c54dfc33b6e7509450df3b343661b31bc150386e1b0139aa01578"
+      }
+    },
+    {
+      "id": "F-WwDP1d-pM",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 402.04,
+          "last_end": 407.2,
+          "video_duration": 405
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "d6dbaecbcd8c7269f1ae1f98041d4e378760a681ff0b57a7e54b78582323305b",
+        "terminal_usage": {
+          "input_tokens": 25563,
+          "cached_input_tokens": 25344,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 5314,
+          "reasoning_output_tokens": 0
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 5,
+          "metrics_and_dates": 18
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "6472509bc864e2b5f1d04be0e0f42c2784c5b2c2832858101036c3ada768035b"
+      }
+    },
+    {
+      "id": "aaBZ3f5TViQ",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 571.24,
+          "last_end": 576.32,
+          "video_duration": 574
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "51996e9a042c4da979e88fc086ac4efb3a985cb58cb09f7072839c47967264f8",
+        "terminal_usage": {
+          "input_tokens": 26779,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 5940,
+          "reasoning_output_tokens": 136
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 5,
+          "metrics_and_dates": 21
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "86e3a7c124e9c0a950a660fb1ee118a149313df74fd12a60746e642aee993566"
+      }
+    },
+    {
+      "id": "y4R4zyOv2FE",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 588.36,
+          "last_end": 592.32,
+          "video_duration": 590
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "dceb647a58994d78d91c3166691de154173206908d502a1bf84274bbd65ccafc",
+        "terminal_usage": {
+          "input_tokens": 26967,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 6064,
+          "reasoning_output_tokens": 127
+        },
+        "claim_counts": {
+          "key_learnings": 13,
+          "backstory_and_values": 6,
+          "metrics_and_dates": 19
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "2fbe3c8e2961639f0db4e9240f2455a68571deee4103eeeaa4152544a860e51f"
+      }
+    },
+    {
+      "id": "4Wyy1YiMWwo",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.4,
+          "last_start": 854.88,
+          "last_end": 857.279,
+          "video_duration": 856
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "e53a3a541335dc61f495665659d6e55cb0a23c6cfc38b9b157ce1ac027d3d739",
+        "terminal_usage": {
+          "input_tokens": 29077,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8243,
+          "reasoning_output_tokens": 64
+        },
+        "claim_counts": {
+          "key_learnings": 25,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 26
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "db37c9973797cbedcedb120abc73b6bc54443b0dd468d79b8ea8d039ae5355d2"
+      }
+    },
+    {
+      "id": "PCClwboo9ls",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.24,
+          "last_start": 642.56,
+          "last_end": 646.959,
+          "video_duration": 646
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "a8c0e60d942caafd1913f85593a4323e659c5699ad2b6e722505aafef26c7500",
+        "terminal_usage": {
+          "input_tokens": 27269,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 6381,
+          "reasoning_output_tokens": 148
+        },
+        "claim_counts": {
+          "key_learnings": 14,
+          "backstory_and_values": 5,
+          "metrics_and_dates": 22
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "4b531067b0576476424f59ca015225c5fc6a079c0c260a8d3be5b1779b1da24d"
+      }
+    },
+    {
+      "id": "Xovf7vlPfOU",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 582.12,
+          "last_end": 587.0,
+          "video_duration": 585
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "2d90351785ee23c7e784b6bbc86ee8a9e4fb21aae471a4e05ba5d332dc6edf47",
+        "terminal_usage": {
+          "input_tokens": 26757,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 5531,
+          "reasoning_output_tokens": 238
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 6,
+          "metrics_and_dates": 14
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "7ab694b1eceae56df25ba0475a2dbc28257e41ae86556df4aaeffa7df9e83143"
+      }
+    },
+    {
+      "id": "_v-cZJc001s",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.48,
+          "last_start": 534.24,
+          "last_end": 537.68,
+          "video_duration": 536
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "67d40cb64b0e68ead071caa5e254a6adef8b34c55baa44fe73d594795df696e2",
+        "terminal_usage": {
+          "input_tokens": 26333,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 6875,
+          "reasoning_output_tokens": 89
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 6,
+          "metrics_and_dates": 28
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "8aa01763156b976328c1a00b679a8217573776dd8289ed69b7241a028abcd723"
+      }
+    },
+    {
+      "id": "P7dNHG1Xu6E",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 338.639,
+          "last_end": 341.919,
+          "video_duration": 341
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "68c742694167138c155e0c361166d3f1883181a90d5fbf4715a68ca5fdeb95ca",
+        "terminal_usage": {
+          "input_tokens": 24857,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 3401,
+          "reasoning_output_tokens": 116
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 2,
+          "metrics_and_dates": 8
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "0ee81315d9fda352e33b36fe2ca5c59c0eee99ccd28fc0bd6c27a0dc8a500b43"
+      }
+    },
+    {
+      "id": "AdFLL-bFEFI",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 536.48,
+          "last_end": 539.44,
+          "video_duration": 538
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "4a2ac480c264bf6558f5f45126cbdc30de6ebb4ab0e33819636f67257c74796f",
+        "terminal_usage": {
+          "input_tokens": 26818,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 5711,
+          "reasoning_output_tokens": 136
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 15
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "11cd951c0e2aa95cfda41e1045caf8ff52150d647021ad2f32fa3b11c8aac54f"
+      }
+    },
+    {
+      "id": "u02bsNddj1E",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 886.32,
+          "last_end": 891.12,
+          "video_duration": 890
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "9f0f03265d861f6084ccc7033786429f6aeb093e609b0158127004f26a114243",
+        "terminal_usage": {
+          "input_tokens": 29106,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 7292,
+          "reasoning_output_tokens": 112
+        },
+        "claim_counts": {
+          "key_learnings": 26,
+          "backstory_and_values": 6,
+          "metrics_and_dates": 17
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "5f7d9549289ba3d5b86fbb68d0d6742d09dcde78a7767abd44d47d5fb8805f78"
+      }
+    },
+    {
+      "id": "r47Q4Cfit5s",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 875.839,
+          "last_end": 879.199,
+          "video_duration": 878
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "250c88f210886c62e82c365c2d87f4c5a12adcbaafd553721401e634092112bb",
+        "terminal_usage": {
+          "input_tokens": 29160,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 7501,
+          "reasoning_output_tokens": 146
+        },
+        "claim_counts": {
+          "key_learnings": 24,
+          "backstory_and_values": 7,
+          "metrics_and_dates": 16
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "c35a28fc01d6c49d864ad3d36a9a20249089de3d7c6fd97db6c9064bb1fec829"
+      }
+    },
+    {
+      "id": "_Rw7AazkHmg",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 456.72,
+          "last_end": 460.96,
+          "video_duration": 460
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "d8b44e972d87aaadc6ced4bcfed0ac5ac13b5980a028f001a1480b00f4beab1b",
+        "terminal_usage": {
+          "input_tokens": 25715,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 4805,
+          "reasoning_output_tokens": 133
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 3,
+          "metrics_and_dates": 15
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "aae7de250859e3af3118f638cbcac683db26aa8834094efb21fd43af8c1c997d"
+      }
+    },
+    {
+      "id": "bMm9bYTTeJs",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 2255.68,
+          "last_end": 2261.04,
+          "video_duration": 2260
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "b4aaa060ec1bb65ba75b3b0fb1b8b29d1ad6530667db7711c69929ba62cead7a",
+        "terminal_usage": {
+          "input_tokens": 37653,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10233,
+          "reasoning_output_tokens": 251
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 7,
+          "metrics_and_dates": 29
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 9,
+          "late": 12
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "d4c93fa0b54f49f980f4b760a74c442cf9349d966061db4ea314833e83a482ed"
+      }
+    },
+    {
+      "id": "YNaPeDu4xo8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 740.56,
+          "last_end": 744.8,
+          "video_duration": 744
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "052aec2351b9867b3022a87617aadd488b6d7742dd9869b87c535335b7b6440a",
+        "terminal_usage": {
+          "input_tokens": 28120,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 7012,
+          "reasoning_output_tokens": 106
+        },
+        "claim_counts": {
+          "key_learnings": 24,
+          "backstory_and_values": 5,
+          "metrics_and_dates": 17
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "bd6ad02b39dae0119248ae5644699a9be514578e9da45e803216bba05fa01bfc"
+      }
+    },
+    {
+      "id": "sr9fzxRW0bA",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 888.399,
+          "last_end": 892.24,
+          "video_duration": 890
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "dd40cc8ff1d3478d698967d1a742624390ce26b9904ff50ca921d35e2d3b6328",
+        "terminal_usage": {
+          "input_tokens": 29222,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 7253,
+          "reasoning_output_tokens": 105
+        },
+        "claim_counts": {
+          "key_learnings": 25,
+          "backstory_and_values": 6,
+          "metrics_and_dates": 19
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "0e173c0c288f290ab333b5779d3391a507c543eba8eb5cb4ba1403c12a8c486a"
+      }
+    },
+    {
+      "id": "Kk52hBf2LE8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 604.08,
+          "last_end": 607.6,
+          "video_duration": 606
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "bf15846e006aa4f74ca72adb00aac892ccfcacc1d421c9e898d9921c912ff665",
+        "terminal_usage": {
+          "input_tokens": 26694,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 5333,
+          "reasoning_output_tokens": 153
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 5,
+          "metrics_and_dates": 16
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "3dfc6aea43a3029428f048340f5c9ba5ffc1b71ad5a81948dd8243564a26204a"
+      }
+    },
+    {
+      "id": "VaJ6IK7YeNs",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 5707.679,
+          "last_end": 5712.32,
+          "video_duration": 5711
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "6985e2993eb270177cb4209e6a25a554c857990ba0dca1a5036d014a8f949e00",
+        "terminal_usage": {
+          "input_tokens": 61648,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 14742,
+          "reasoning_output_tokens": 267
+        },
+        "claim_counts": {
+          "key_learnings": 38,
+          "backstory_and_values": 15,
+          "metrics_and_dates": 43
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 12,
+          "middle": 12,
+          "late": 14
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "feb20fd5ef993f60ada31febbde4d88ad718709d7b79de3f2c556f4b5d47cbf0"
+      }
+    },
+    {
+      "id": "ACMED_IDZb8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 650.48,
+          "last_end": 652.88,
+          "video_duration": 652
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "f150f48847869e74a5d25b1b0a6db488258ad85ad4e8834259e8bfc0a3fee260",
+        "terminal_usage": {
+          "input_tokens": 27020,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 5836,
+          "reasoning_output_tokens": 100
+        },
+        "claim_counts": {
+          "key_learnings": 14,
+          "backstory_and_values": 4,
+          "metrics_and_dates": 18
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "c0b49fc53e13cdecfbf0014068c346c5f318ce46d86b33d2acfd8d869c28e267"
+      }
+    },
+    {
+      "id": "IlM44T-Pl_o",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 1252.64,
+          "last_end": 1255.6,
+          "video_duration": 1254
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "7fd00bfd1cbf6b10d97cebb4e7dbca6df948f62c97e23f4c378dea347913703b",
+        "terminal_usage": {
+          "input_tokens": 32071,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 7503,
+          "reasoning_output_tokens": 154
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 5,
+          "metrics_and_dates": 13
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 9,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "3722fb2702c5d8abe1516899c205ccff46977f448e101e7334e3e3b808a33d1c"
+      }
+    },
+    {
+      "id": "fdE2N2ckDSw",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 389.12,
+          "last_end": 391.84,
+          "video_duration": 390
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "2a9c0b952d30b2d25e441c33468324fb947327042fc12dca6567d456b3dea557",
+        "terminal_usage": {
+          "input_tokens": 25034,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 4513,
+          "reasoning_output_tokens": 77
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 4,
+          "metrics_and_dates": 15
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "2255c82c491128a00c416df543fbef9071ee3ffb61c2260a8a1a803b5cef6990"
+      }
+    },
+    {
+      "id": "b7wERLHGkDo",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 728.36,
+          "last_end": 730.92,
+          "video_duration": 729
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "3e5491c8a92d634a91c98308eac03178ace22e161689cf049c30f3eed5aaca19",
+        "terminal_usage": {
+          "input_tokens": 27538,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 5725,
+          "reasoning_output_tokens": 145
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 4,
+          "metrics_and_dates": 22
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "edaf261cd387b73d0acb649867448e33769c579812a98deefb84c7c1e50ab7fe"
+      }
+    },
+    {
+      "id": "IS4rbNLdPOk",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 352.479,
+          "last_end": 355.44,
+          "video_duration": 354
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "254ed740edf614e1f1adc92f76dbe19f8d2476eca22a67b4f3b3d5cb908b35dc",
+        "terminal_usage": {
+          "input_tokens": 24710,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 4372,
+          "reasoning_output_tokens": 103
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 3,
+          "metrics_and_dates": 12
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "0d73d7033c0650acc2ee94afd261316cef7bc2d4bebc98ab5ac32771e43c0e28"
+      }
+    },
+    {
+      "id": "gOvQngBqw80",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3498.079,
+          "last_end": 3500.72,
+          "video_duration": 3499
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "4ab614b6253031a3a25f7a7caf3a6c42cbe2e1e5d522675efb61d61b76c1985e",
+        "terminal_usage": {
+          "input_tokens": 46947,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10742,
+          "reasoning_output_tokens": 189
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 11,
+          "metrics_and_dates": 29
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 7,
+          "middle": 10,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "6dbafc2a55bca119780e08a2a4d48d7385e3262e01b3cec686e08c40eb76d27f"
+      }
+    },
+    {
+      "id": "atzcNzDIsgg",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3581.599,
+          "last_end": 3584.599,
+          "video_duration": 3584
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "4f355bf41b375f6ae0d99cb0fafb15d69813caec239792f118a600e3fd978491",
+        "terminal_usage": {
+          "input_tokens": 47632,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8424,
+          "reasoning_output_tokens": 145
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 13
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 12,
+          "late": 9
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "fc2b5d666340c19234ddb2da323b5a2fda6b54593ba91dc2df303df70eb12691"
+      }
+    },
+    {
+      "id": "d_rVwh521po",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.88,
+          "last_start": 3546.48,
+          "last_end": 3551.48,
+          "video_duration": 3551
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "6baaa8118a539e4dd60854156fa7d6908aeb2059cfeba1199014c46f0aa058a5",
+        "terminal_usage": {
+          "input_tokens": 46391,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11142,
+          "reasoning_output_tokens": 142
+        },
+        "claim_counts": {
+          "key_learnings": 35,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 29
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 14,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "7584dd4d6dde701a7ce1b277ac311b22c3da70eda29f2fcbfe42fecca5010ff2"
+      }
+    },
+    {
+      "id": "EdDAHrvBDPM",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 3489.599,
+          "last_end": 3493.119,
+          "video_duration": 3492
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "3777f0dbfe0aca5ab27ef61f04c9f3efcfb44f4c1e5304645c91461883f514e5",
+        "terminal_usage": {
+          "input_tokens": 47123,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9868,
+          "reasoning_output_tokens": 125
+        },
+        "claim_counts": {
+          "key_learnings": 33,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 24
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 11,
+          "middle": 14,
+          "late": 8
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "3cd8c388ad57514bb0824c993eef4be2b03acfd673115a44286816940b852a61"
+      }
+    },
+    {
+      "id": "D-8umeDdYP0",
+      "errors": [],
+      "manual_review": [
+        {
+          "code": "large_lesson_anchor_gap",
+          "detail": "Long spans between meaningful lesson anchors: [(0.719, 739.5)]; introductions/outros can explain some gaps, inspect the actual source"
+        }
+      ],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.719,
+          "last_start": 3422.72,
+          "last_end": 3425.28,
+          "video_duration": 3424
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "5f3410502c2fe7d38d6941b87dbaaebe45ecd8ff2e47c48687d7ecb673d3c685",
+        "terminal_usage": {
+          "input_tokens": 47263,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10988,
+          "reasoning_output_tokens": 142
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 12,
+          "metrics_and_dates": 31
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 5,
+          "middle": 10,
+          "late": 15
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "4a8988cbb983741de5878de176f6b94206e9da0e4d86c4f777e083a359198bdd"
+      }
+    },
+    {
+      "id": "g9mejr_-odc",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 3314.079,
+          "last_end": 3317.079,
+          "video_duration": 3316
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "642a179c2c7159fc7def96779e224883835a4a6f1f738ce34dcc7bc7a40aa2eb",
+        "terminal_usage": {
+          "input_tokens": 48104,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9337,
+          "reasoning_output_tokens": 228
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 23
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 7,
+          "middle": 15,
+          "late": 8
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "3c5bd63abc6441afab207a1256ae5de91c687fc60da23fc87fa81dbb8362ef4d"
+      }
+    },
+    {
+      "id": "ScY0k43N1u8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3676.559,
+          "last_end": 3680.4,
+          "video_duration": 3679
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "bc9ad20b63a6474e49b4353722d508970438b1154e6c8983091a087178e072e9",
+        "terminal_usage": {
+          "input_tokens": 50573,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11703,
+          "reasoning_output_tokens": 178
+        },
+        "claim_counts": {
+          "key_learnings": 34,
+          "backstory_and_values": 12,
+          "metrics_and_dates": 32
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 6,
+          "middle": 14,
+          "late": 14
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "48c671b877e82c58d2ed0901427af6fc118b658416607d0a5fc456804cc30623"
+      }
+    },
+    {
+      "id": "CqlO3vkU_zo",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.48,
+          "last_start": 2674.4,
+          "last_end": 2678.119,
+          "video_duration": 2687
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "f1c4506e26a015655ad14f06a72d16ed27afab5ffe40c411a736f893ebfa243b",
+        "terminal_usage": {
+          "input_tokens": 42138,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8409,
+          "reasoning_output_tokens": 99
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 19
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 9,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "fea994c028de1e17d5ec0c3acc3c7bcad895367c50c1c7875d93cb81bb4ba63c"
+      }
+    },
+    {
+      "id": "jZ4o_B2g5bo",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3350.079,
+          "last_end": 3354.0,
+          "video_duration": 3352
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "59dc2375a9f031c5472edcd1b58f5f8c411553ee1b266dd84301f6c86bcae76e",
+        "terminal_usage": {
+          "input_tokens": 48370,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10579,
+          "reasoning_output_tokens": 167
+        },
+        "claim_counts": {
+          "key_learnings": 35,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 30
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 15,
+          "late": 12
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "7814a2186dc868ab03ca89e72ae7efec84e78e551ce7a2b26fb4ffc4b69ad1aa"
+      }
+    },
+    {
+      "id": "S3fI3M3ckVE",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 4.24,
+          "last_start": 326.08,
+          "last_end": 330.12,
+          "video_duration": 333
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "1a0292f172dc391f55258e3dd287d60e44cc6944cd1bde0968393d995b459cbf",
+        "terminal_usage": {
+          "input_tokens": 24356,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 3551,
+          "reasoning_output_tokens": 84
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 3,
+          "metrics_and_dates": 7
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "a46b351c5f37c4d36d62fb15479fad26b7d57e10ce5f2e007807c12f4ba2df48"
+      }
+    },
+    {
+      "id": "QqNhenP7jao",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 4.04,
+          "last_start": 399.96,
+          "last_end": 404.68,
+          "video_duration": 408
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "e4db55eb0578c388413dd5ce6bcb98fc6b0cc3b6577f6182d97605e94ac7d789",
+        "terminal_usage": {
+          "input_tokens": 25018,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 3374,
+          "reasoning_output_tokens": 96
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 4,
+          "metrics_and_dates": 4
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "927d233d655fb235bf5b7a5d7410c0c093fb2986b795add0eda561fe13c2ce00"
+      }
+    },
+    {
+      "id": "_3zVR0AQLhc",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 5.759,
+          "last_start": 126.479,
+          "last_end": 130.439,
+          "video_duration": 133
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "4181c2c4540005aef8cde5ef63ceeb5678682ee053c5c0b1bc2e2ee6c5092ca0",
+        "terminal_usage": {
+          "input_tokens": 22988,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 2008,
+          "reasoning_output_tokens": 69
+        },
+        "claim_counts": {
+          "key_learnings": 7,
+          "backstory_and_values": 2,
+          "metrics_and_dates": 1
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "5eea276369ecaca9a8a8049d6cf9ec542c35a97972ec0898092adc0632749575"
+      }
+    },
+    {
+      "id": "Wr1-CoTwg8s",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 4.08,
+          "last_start": 227.36,
+          "last_end": 231.959,
+          "video_duration": 235
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "33f7da90b328f737ac21a9f4f852dbdaa06fb2790af312456d0d680e8ad1da4e",
+        "terminal_usage": {
+          "input_tokens": 23574,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 2191,
+          "reasoning_output_tokens": 118
+        },
+        "claim_counts": {
+          "key_learnings": 8,
+          "backstory_and_values": 1,
+          "metrics_and_dates": 2
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "3b9fba6c9d90ce91ab6fd16e7411ccaa5d9b38caf9d4b5cddab271e1e753d559"
+      }
+    },
+    {
+      "id": "nhQKi4F3GzA",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 4.16,
+          "last_start": 350.479,
+          "last_end": 353.88,
+          "video_duration": 356
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "41ca116990c0e3326ba20025393f4c944059485688584977a92f5062ea54664a",
+        "terminal_usage": {
+          "input_tokens": 24324,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 2179,
+          "reasoning_output_tokens": 99
+        },
+        "claim_counts": {
+          "key_learnings": 9,
+          "backstory_and_values": 2,
+          "metrics_and_dates": 0
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "b9be8b7cd593555d87f66be4b07431713faef8b9e469cdfaf283efb5a3ce0bda"
+      }
+    },
+    {
+      "id": "4vJt-djbbNw",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 4.64,
+          "last_start": 386.72,
+          "last_end": 390.6,
+          "video_duration": 393
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "ba54c12bfae2b6a766cf778b3bb496e256e3ed3c2b63d7ca004ae5f1b40990d3",
+        "terminal_usage": {
+          "input_tokens": 24546,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 3383,
+          "reasoning_output_tokens": 159
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 3,
+          "metrics_and_dates": 4
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "86b34935b67082745d16d677ed2ef1af6c0b03ba340db0027a5a1b2cd0bc1808"
+      }
+    },
+    {
+      "id": "ZtJaI-5_sVk",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 5.839,
+          "last_start": 174.239,
+          "last_end": 177.48,
+          "video_duration": 180
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "3624bbf646bc5aed00e67d56daf486355de52ce1d6a913c46b13d15bc95eedfe",
+        "terminal_usage": {
+          "input_tokens": 23191,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 1812,
+          "reasoning_output_tokens": 146
+        },
+        "claim_counts": {
+          "key_learnings": 8,
+          "backstory_and_values": 0,
+          "metrics_and_dates": 0
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "fe6c3c1fe95efc731c6a92d051fada68c3443e28aebcd8f4a70c4091214e7fa9"
+      }
+    },
+    {
+      "id": "fZrJqB1xG4w",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 4.24,
+          "last_start": 130.239,
+          "last_end": 134.28,
+          "video_duration": 137
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "accf9e0f37cf754982c372a24ffe3d85e574cff19296a715e88622d4d583f147",
+        "terminal_usage": {
+          "input_tokens": 22939,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 1709,
+          "reasoning_output_tokens": 74
+        },
+        "claim_counts": {
+          "key_learnings": 7,
+          "backstory_and_values": 1,
+          "metrics_and_dates": 0
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "edeb02a67604951933b9b6da64bb70f67e3e518303bf65478e4e3acf946c608e"
+      }
+    },
+    {
+      "id": "dBmCgPPA2iA",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 4.24,
+          "last_start": 120.799,
+          "last_end": 124.759,
+          "video_duration": 128
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "917f7803c6bf094257d6b068653c17c9c115a822df037f19f0a8eff2a8bef07e",
+        "terminal_usage": {
+          "input_tokens": 22936,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 1752,
+          "reasoning_output_tokens": 115
+        },
+        "claim_counts": {
+          "key_learnings": 6,
+          "backstory_and_values": 0,
+          "metrics_and_dates": 2
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "b811b046eb6cca291071a454524f6b82c490bb8ed2a799ec8ced853ae7fd180b"
+      }
+    },
+    {
+      "id": "I0OCKRPDQPY",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 3.12,
+          "last_start": 277.04,
+          "last_end": 280.16,
+          "video_duration": 284
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "f390af16891622ac422aa37e456ba4790c3f7abe97607b47530eda6a3c27cf51",
+        "terminal_usage": {
+          "input_tokens": 23938,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 3562,
+          "reasoning_output_tokens": 129
+        },
+        "claim_counts": {
+          "key_learnings": 10,
+          "backstory_and_values": 3,
+          "metrics_and_dates": 7
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "b03bda411636188ff8835bec8746afaff6f9fcdc456f273e5180086bcf66ed9e"
+      }
+    },
+    {
+      "id": "C7n2q31PPh4",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 5.839,
+          "last_start": 2271.119,
+          "last_end": 2276.2,
+          "video_duration": 2279
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "12c00730f2e752659f27250a67f681c949beed5a24698114cf8882222ae5d080",
+        "terminal_usage": {
+          "input_tokens": 36322,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 7789,
+          "reasoning_output_tokens": 168
+        },
+        "claim_counts": {
+          "key_learnings": 28,
+          "backstory_and_values": 7,
+          "metrics_and_dates": 18
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 10,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "aa2a3626b4d0a12cd4df9bf009403599fe13c09508438cb1c9dd1dc7ef737e50"
+      }
+    },
+    {
+      "id": "zjrqh1bOm94",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 1.6,
+          "last_start": 3431.28,
+          "last_end": 3435.04,
+          "video_duration": 3433
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "2cbf0da50d1eef8ae3343fb75be2eecb8555331078b3ec0ceef84ac106d7b6ce",
+        "terminal_usage": {
+          "input_tokens": 49586,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10873,
+          "reasoning_output_tokens": 96
+        },
+        "claim_counts": {
+          "key_learnings": 31,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 38
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 11,
+          "late": 12
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "84f14f4fbb0c1848f7d9f5fb99f460a5a33e3532682a9d3d7b08d901780e7049"
+      }
+    },
+    {
+      "id": "M9Pw3qJdNYE",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3678.0,
+          "last_end": 3681.52,
+          "video_duration": 3680
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "3770ee82b269d67554930a57c9d1baaea794d395bab868d56af69dc63e8333d7",
+        "terminal_usage": {
+          "input_tokens": 50551,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9157,
+          "reasoning_output_tokens": 165
+        },
+        "claim_counts": {
+          "key_learnings": 34,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 18
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 13,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "36c08ec9d30c213ecdd37860d48602784a716caf8ff2268d178c6dd7fce71a0e"
+      }
+    },
+    {
+      "id": "1f19uvtzNds",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 3508.76,
+          "last_end": 3511.88,
+          "video_duration": 3511
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "0da4214383d7cefe506f1660603e73a174a437a9eec2402044a843c6e299e050",
+        "terminal_usage": {
+          "input_tokens": 48594,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8937,
+          "reasoning_output_tokens": 175
+        },
+        "claim_counts": {
+          "key_learnings": 33,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 16
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 6,
+          "middle": 12,
+          "late": 15
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "b1b90448c22c84d0bc601d6924204442102f3028b13ed5c1f753976bc3a791d5"
+      }
+    },
+    {
+      "id": "p5fyQaRE7ao",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.719,
+          "last_start": 3313.68,
+          "last_end": 3317.119,
+          "video_duration": 3315
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "77079899be839c65834db6765dea16460989138fca4039ba8150e0b48138eb49",
+        "terminal_usage": {
+          "input_tokens": 45571,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11519,
+          "reasoning_output_tokens": 332
+        },
+        "claim_counts": {
+          "key_learnings": 33,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 31
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 12,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "tensions_and_corrections",
+            "kind": "metadata_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/p5fyQaRE7ao/p5fyQaRE7ao.info.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "a42dbabab517024f700f37a1b34fcfed191ff91287f9e46ea3d74e5b67177b4a"
+      }
+    },
+    {
+      "id": "_ZK7wgkHuG4",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 3500.319,
+          "last_end": 3504.16,
+          "video_duration": 3503
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "0f04276ad41d429e812e3da6a47ac919ad7e9fafbe74e4c25bd8d13f5ad7f0ba",
+        "terminal_usage": {
+          "input_tokens": 50291,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10159,
+          "reasoning_output_tokens": 134
+        },
+        "claim_counts": {
+          "key_learnings": 31,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 27
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 11,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "tensions_and_corrections",
+            "kind": "metadata_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/_ZK7wgkHuG4/_ZK7wgkHuG4.info.json"
+          },
+          {
+            "field": "coverage.limitations",
+            "kind": "metadata_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/_ZK7wgkHuG4/_ZK7wgkHuG4.info.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "6980242981a22838c1199fb6414040257b6acd8389ce1c2d35ec9453be1e60f7"
+      }
+    },
+    {
+      "id": "HIuvLo23R2M",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3565.2,
+          "last_end": 3567.599,
+          "video_duration": 3567
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "4b0079474bd77008f2c214b67d9c8dca9b54875697ac68cbc63a2f16db4094a7",
+        "terminal_usage": {
+          "input_tokens": 48372,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9423,
+          "reasoning_output_tokens": 112
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 22
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 10,
+          "late": 14
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "tensions_and_corrections",
+            "kind": "metadata_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/HIuvLo23R2M/HIuvLo23R2M.info.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "5bcf990dff1a95826d97e4acf7c0bac80842c04de9bcfbff0765f41fd4572730"
+      }
+    },
+    {
+      "id": "5uK1VVxVE5k",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 3368.0,
+          "last_end": 3371.52,
+          "video_duration": 3370
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "2612ca795a9137c61d4e0dd554ab7d11dcbc4f4f6c343341853a011564bafd35",
+        "terminal_usage": {
+          "input_tokens": 44720,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8382,
+          "reasoning_output_tokens": 162
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 18
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 6,
+          "middle": 14,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "f4ecd68d5193667ac1a1a683460c09eea88733fc32484ecff5f44c46ffb8c84f"
+      }
+    },
+    {
+      "id": "-GDzNq_R0b8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 3395.44,
+          "last_end": 3399.28,
+          "video_duration": 3398
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "ff9c0d60e322ec1bac67a98a9406bffa7ea320364acb0f6445bbeace02ea7b98",
+        "terminal_usage": {
+          "input_tokens": 47630,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10203,
+          "reasoning_output_tokens": 267
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 32
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 12,
+          "late": 8
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "tensions_and_corrections",
+            "kind": "metadata_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/-GDzNq_R0b8/-GDzNq_R0b8.info.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "5280c182785a4c122639d1312e422d0f821624b85de82e1c6fddb0059a4e35fb"
+      }
+    },
+    {
+      "id": "meZrgsAZWos",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.32,
+          "last_start": 3604.16,
+          "last_end": 3606.799,
+          "video_duration": 3605
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "c75b6b93cf612168357c664e020e9cf65836cf7ac534fd10b08b7cd80836e750",
+        "terminal_usage": {
+          "input_tokens": 47251,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10741,
+          "reasoning_output_tokens": 151
+        },
+        "claim_counts": {
+          "key_learnings": 31,
+          "backstory_and_values": 11,
+          "metrics_and_dates": 30
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 11,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "metrics_and_dates.16",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/meZrgsAZWos/meZrgsAZWos.transcript.json"
+          },
+          {
+            "field": "metrics_and_dates.0",
+            "kind": "public_use_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/meZrgsAZWos/meZrgsAZWos.transcript.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "744deeb7fefaa6a8b78e20bebada922bcb78c449301bff57af9903663988aa38"
+      }
+    },
+    {
+      "id": "o-ulfe0ZzVE",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 1.15,
+          "last_start": 3242.63,
+          "last_end": 3253.629,
+          "video_duration": 3253
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "cd4cb5d485a50e74592feaf633b76531e0553b5e8c1d1f248d144f038d31f4ab",
+        "terminal_usage": {
+          "input_tokens": 45191,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8761,
+          "reasoning_output_tokens": 204
+        },
+        "claim_counts": {
+          "key_learnings": 28,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 21
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 9,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "159a92e9baedf8008f85c32507e2c2437660737f5331f7e7d31f9df9f8d44031"
+      }
+    },
+    {
+      "id": "6kxymC32AvI",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.56,
+          "last_start": 3489.839,
+          "last_end": 3492.4,
+          "video_duration": 3491
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "5bdf834e1614e645349c2c14709553ad03864ec278809cdc3d037f57959b7380",
+        "terminal_usage": {
+          "input_tokens": 47339,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9958,
+          "reasoning_output_tokens": 115
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 26
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 7,
+          "middle": 13,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "0cd54e5dda7b4a86cb48507e376c24628147abc5e1501c315b1078c9db98d8bf"
+      }
+    },
+    {
+      "id": "p2dDw0Dy1VM",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 2513.92,
+          "last_end": 2516.8,
+          "video_duration": 2517
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "161db15e87b1959b459cb751b1c37d0e2429c157b9a15d004bc1a9379190da39",
+        "terminal_usage": {
+          "input_tokens": 40436,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8132,
+          "reasoning_output_tokens": 136
+        },
+        "claim_counts": {
+          "key_learnings": 28,
+          "backstory_and_values": 7,
+          "metrics_and_dates": 19
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 9,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "5c94ecaee9735477adc3373e34dc509bc90f4106091aa70325a8bf224da4f585"
+      }
+    },
+    {
+      "id": "RK1Kk1h783c",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 3198.319,
+          "last_end": 3201.2,
+          "video_duration": 3200
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "388c106a27a5520770d8b68655b236d26e289d48fb49d9e39dce8f03b4691967",
+        "terminal_usage": {
+          "input_tokens": 46771,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10165,
+          "reasoning_output_tokens": 134
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 28
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 10,
+          "late": 12
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "key_learnings.31",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json"
+          },
+          {
+            "field": "summary",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json"
+          },
+          {
+            "field": "tensions_and_corrections",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "dbdd2bd3917c7527a3180bcecfd0b2fe2720de6fdf354849fd40bcdfa7ba80a5"
+      }
+    },
+    {
+      "id": "-4-S3d65UB8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.64,
+          "last_start": 1104.72,
+          "last_end": 1108.4,
+          "video_duration": 1107
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "78936e02ae3f071a16adabbae5b613aa3269cb585abef9da2820488d726c6b28",
+        "terminal_usage": {
+          "input_tokens": 31116,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 5617,
+          "reasoning_output_tokens": 72
+        },
+        "claim_counts": {
+          "key_learnings": 25,
+          "backstory_and_values": 5,
+          "metrics_and_dates": 7
+        },
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "220615530694ea3c3184034f044c7227213fda9918d1476e73fc8a3fbcc89b2b"
+      }
+    },
+    {
+      "id": "ZaR-0Iqp7vY",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.32,
+          "last_start": 3215.44,
+          "last_end": 3218.319,
+          "video_duration": 3217
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "7bba67f9ea0568b697425d06c2f63336fad3343c71ecd2982c6882602aa84b74",
+        "terminal_usage": {
+          "input_tokens": 45624,
+          "cached_input_tokens": 44928,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11828,
+          "reasoning_output_tokens": 0
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 11,
+          "metrics_and_dates": 43
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 12,
+          "middle": 8,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "83a31c196cf44edb3377136d1b9572a8b37a0200d5415491c52284568388182a"
+      }
+    },
+    {
+      "id": "M0VvUsyJQ-M",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 3206.4,
+          "last_end": 3209.28,
+          "video_duration": 3208
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "69121a5e0638c590ebe3374709c88f9876b71e26b9d78b0721b856522f15e752",
+        "terminal_usage": {
+          "input_tokens": 45931,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9126,
+          "reasoning_output_tokens": 156
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 17
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 11,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "9e2e7bb3aae17cc86f1a37b900c521319c271ebefdfdda32db9bff0ba1d46998"
+      }
+    },
+    {
+      "id": "wYFjORZCtug",
+      "errors": [],
+      "manual_review": [
+        {
+          "code": "thin_claim",
+          "detail": "metrics_and_dates[1]: Retention.com: Adam reports 60 employees at recording."
+        }
+      ],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 2906.96,
+          "last_end": 2909.76,
+          "video_duration": 2908
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "21fe158a53cc88d4eaa0e6dc8b6450ef059a50d1f420ccc45b299487225f3d1e",
+        "terminal_usage": {
+          "input_tokens": 41989,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10031,
+          "reasoning_output_tokens": 103
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 26
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 16,
+          "late": 8
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "bbeb2c80a5cd5748521117a274f7361ba8aada81c572d82a7e5bd4ee59521772"
+      }
+    },
+    {
+      "id": "yMNyVxr4IAo",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.64,
+          "last_start": 3170.24,
+          "last_end": 3173.839,
+          "video_duration": 3172
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "c50c348ee460e9b2fce881e99fec49bb4d093d6f03971fe16faee7bda3158b4c",
+        "terminal_usage": {
+          "input_tokens": 45815,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9736,
+          "reasoning_output_tokens": 140
+        },
+        "claim_counts": {
+          "key_learnings": 34,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 23
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 13,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "8eb9575253f1f916e2e740c42d7e88586ac9d319ed2c36a3f69e200b9a2fcf91"
+      }
+    },
+    {
+      "id": "lF2axpN3mic",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3279.28,
+          "last_end": 3281.839,
+          "video_duration": 3280
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "b40f04e7bbec24e08a0a96b44eda6e6d854a67db02ef507685352d51f54c91c6",
+        "terminal_usage": {
+          "input_tokens": 46389,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8606,
+          "reasoning_output_tokens": 167
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 6,
+          "metrics_and_dates": 19
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 10,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "4b9959bb24a775d64841cddb80ad9572c5d9c7d50eb3eaabe50acf984fd273b0"
+      }
+    },
+    {
+      "id": "OGLC5ceoQ5w",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 3397.2,
+          "last_end": 3399.44,
+          "video_duration": 3398
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "c207bba8be7ff91cae143ed403a7ce7a61b8c505c720eef4fb74f2e8abd64a1f",
+        "terminal_usage": {
+          "input_tokens": 46851,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10994,
+          "reasoning_output_tokens": 170
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 33
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 11,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "f41e824ddf08c36e3c79254d604be2908acc3d8d7086604e292b4e5c25dfdb15"
+      }
+    },
+    {
+      "id": "3wjL3IATsyg",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 3222.24,
+          "last_end": 3225.04,
+          "video_duration": 3223
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "7fa3f8c17d1f6532ef4067b90c04b4b3427ac3a0c8f238d8da14ad9bc858e015",
+        "terminal_usage": {
+          "input_tokens": 46934,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8559,
+          "reasoning_output_tokens": 95
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 19
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 7,
+          "middle": 10,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "5d01f3237f9bf650ebd19b1efd6e2dc11f36d08511c6beb6968c470a8e4bf55a"
+      }
+    },
+    {
+      "id": "yJ6C1urpnws",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.52,
+          "last_start": 3454.52,
+          "last_end": 3457.16,
+          "video_duration": 3455
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "b89de4618f9f8d51b17a7bca90fe0cd4bb7af5023285ce50f5ab2032120f3e86",
+        "terminal_usage": {
+          "input_tokens": 44777,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8827,
+          "reasoning_output_tokens": 101
+        },
+        "claim_counts": {
+          "key_learnings": 33,
+          "backstory_and_values": 11,
+          "metrics_and_dates": 17
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 12,
+          "middle": 10,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "7cfb34509f712f5c491e9721c9080cb365ac7994293dbc7956e097f9297365af"
+      }
+    },
+    {
+      "id": "EqXag_z2OpQ",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.12,
+          "last_start": 3393.319,
+          "last_end": 3398.0,
+          "video_duration": 3396
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "89adde2a11c4c919109a357157a1075f5f7e007f741b47941998393ba95476f7",
+        "terminal_usage": {
+          "input_tokens": 43547,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 12084,
+          "reasoning_output_tokens": 366
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 34
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 12,
+          "middle": 11,
+          "late": 9
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "key_learnings.31",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.transcript.json"
+          },
+          {
+            "field": "tensions_and_corrections",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.transcript.json"
+          },
+          {
+            "field": "coverage.limitations",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.transcript.json"
+          },
+          {
+            "field": "coverage.limitations",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.transcript.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "1a1fe3021eea2938271a994ad15cf271e430ff39ab2e3397ff40fa8e57a724ea"
+      }
+    },
+    {
+      "id": "7p-QD-3MtBw",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.12,
+          "last_start": 3343.559,
+          "last_end": 3348.359,
+          "video_duration": 3346
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "4389e0a0bb902fb52612a814d042a9c2cd16cb93d7836eede886ea79007e4bcd",
+        "terminal_usage": {
+          "input_tokens": 43279,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8328,
+          "reasoning_output_tokens": 226
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 7,
+          "metrics_and_dates": 17
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 7,
+          "late": 14
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "ebcb036d800d23ce3c81b9925da3f7db6e7aaebfc84c8583929d8f95936c2583"
+      }
+    },
+    {
+      "id": "JZiUalL7h-8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 1.92,
+          "last_start": 8975.84,
+          "last_end": 8979.08,
+          "video_duration": 8977
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "1efdca53a4374435da4b2177877e73dfaedc31abf6ac5ea58fcbebd499704eee",
+        "terminal_usage": {
+          "input_tokens": 67653,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 15050,
+          "reasoning_output_tokens": 460
+        },
+        "claim_counts": {
+          "key_learnings": 38,
+          "backstory_and_values": 16,
+          "metrics_and_dates": 43
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 13,
+          "late": 15
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "b237fa9ebbbac553935f9343d69ba1126149db0913feef6b20f4d7d0449850da"
+      }
+    },
+    {
+      "id": "MUQ4f6DkmsA",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.12,
+          "last_start": 3457.88,
+          "last_end": 3461.079,
+          "video_duration": 3459
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "72f5f12a7b565494a7b449435f4470c68e336dc4be4035fa2b1fa896f35f3cb9",
+        "terminal_usage": {
+          "input_tokens": 45474,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8296,
+          "reasoning_output_tokens": 190
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 16
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 6,
+          "middle": 11,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "83a31fdf2943031894deb736c483c376b29fad45dad12a8137506160889f5e23"
+      }
+    },
+    {
+      "id": "WLounenLFDg",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3589.88,
+          "last_end": 3593.2,
+          "video_duration": 3591
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "5affae9dbb6482007eb49b37d69929b417847268cb354d6cf3c93da4984b8357",
+        "terminal_usage": {
+          "input_tokens": 46417,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11078,
+          "reasoning_output_tokens": 200
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 16,
+          "metrics_and_dates": 30
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 12,
+          "late": 12
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "4919670934d6b22a1ecd415e382610ea1fb404e24feb406109c575fc5b794fa4"
+      }
+    },
+    {
+      "id": "b2L2rX26a6A",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3632.48,
+          "last_end": 3634.839,
+          "video_duration": 3633
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "b69bf1d13592166025ced71957c8ae3256ea2496e7ac8b58b9eece866461e5f6",
+        "terminal_usage": {
+          "input_tokens": 45646,
+          "cached_input_tokens": 45312,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9995,
+          "reasoning_output_tokens": 0
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 11,
+          "metrics_and_dates": 25
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 9,
+          "late": 15
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "74632f44408797015b70a140ae94989cb8451779a86f33b54a7259593a7a7e74"
+      }
+    },
+    {
+      "id": "pcG_402qsp0",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.12,
+          "last_start": 2959.72,
+          "last_end": 2962.079,
+          "video_duration": 2960
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "bb3bd703b8679425bd08eb0ec597acdb269b37badaa393384114ca5f0bf0b292",
+        "terminal_usage": {
+          "input_tokens": 41523,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10276,
+          "reasoning_output_tokens": 258
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 26
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 7,
+          "middle": 10,
+          "late": 15
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "fcee1a86756db4ef55a66962ebca1145bba8c09ea150c04fa8a28cf847bbcabb"
+      }
+    },
+    {
+      "id": "89Jl-njDguM",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.04,
+          "last_start": 3211.4,
+          "last_end": 3214.64,
+          "video_duration": 3213
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "041bb835573113605eb494468e321186eaa1fa7f6a8aa5105f2f41cb22df200c",
+        "terminal_usage": {
+          "input_tokens": 45689,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11279,
+          "reasoning_output_tokens": 152
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 34
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 13,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "70746d6b520b8ce55a9c273b8e5defcbc337a61660f94ec99aa0239639fecbd2"
+      }
+    },
+    {
+      "id": "Y63QI4BKEcg",
+      "errors": [],
+      "manual_review": [
+        {
+          "code": "thin_claim",
+          "detail": "metrics_and_dates[11]: Dave describes himself as a nine-time entrepreneur."
+        }
+      ],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3430.44,
+          "last_end": 3434.0,
+          "video_duration": 3432
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "0572732915c88e723e4dfa7fe6f442bbe50971679cba080da7ab832dd7110073",
+        "terminal_usage": {
+          "input_tokens": 47537,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10096,
+          "reasoning_output_tokens": 241
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 26
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 13,
+          "middle": 9,
+          "late": 8
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "speakers_and_attribution",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/Y63QI4BKEcg/Y63QI4BKEcg.transcript.json"
+          },
+          {
+            "field": "metrics_and_dates.25",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/Y63QI4BKEcg/Y63QI4BKEcg.transcript.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "7bc50a6dc17d079f3fafb4d85d1500490438c87c395a0e2624b6c30055f6e0d3"
+      }
+    },
+    {
+      "id": "23rVr8tozS8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3523.72,
+          "last_end": 3527.0,
+          "video_duration": 3525
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "ad096db78599a6766d8acc41e2fd57c7b4df3164872ad638e2ce28330847257b",
+        "terminal_usage": {
+          "input_tokens": 42859,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11109,
+          "reasoning_output_tokens": 207
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 31
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 10,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "46868dc3dc14350c1e633e1965b82d0a410650d793d5d91177792fe0d350733d"
+      }
+    },
+    {
+      "id": "FVE3uyM94uc",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3536.52,
+          "last_end": 3539.52,
+          "video_duration": 3538
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "dfcac31753c0f7592344dad239109ce652ec617ac1f7a74840bd8ec5a6b9e04c",
+        "terminal_usage": {
+          "input_tokens": 46820,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 7973,
+          "reasoning_output_tokens": 77
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 16
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 12,
+          "middle": 9,
+          "late": 9
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "c5b156c349c0dd8187ae371053d08584926956cc4f438ccf8b148e975614078b"
+      }
+    },
+    {
+      "id": "xO6TQx5w4Eo",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.28,
+          "last_start": 3376.28,
+          "last_end": 3381.319,
+          "video_duration": 3381
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "a0a76492542a946ef2965f3d8005a053044466b4f14a2b0343ae442d10fffce8",
+        "terminal_usage": {
+          "input_tokens": 44641,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9040,
+          "reasoning_output_tokens": 136
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 11,
+          "metrics_and_dates": 20
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 13,
+          "late": 8
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "2cef2b8dea9a6996471f2a041f1fa90695b88787faceff497b80fb7368533af2"
+      }
+    },
+    {
+      "id": "onmqgz9Kx5Q",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.24,
+          "last_start": 3339.64,
+          "last_end": 3345.96,
+          "video_duration": 3346
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "f115348290d09e699b11c7985e6f42a3add7dc886be4973b9c03e24b08c5877a",
+        "terminal_usage": {
+          "input_tokens": 45561,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10436,
+          "reasoning_output_tokens": 77
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 27
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 6,
+          "middle": 13,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "14cca71e95d0a5c35a75b51ffd5129f4738e0b413217f3d8bff2e8e23e634704"
+      }
+    },
+    {
+      "id": "ZNgpG2fP4zY",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 2.159,
+          "last_start": 3506.52,
+          "last_end": 3510.64,
+          "video_duration": 3509
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "bbfd1966ee6d6e853d69511b2be86dd8fff44ca7e68e64df0d8552c86c3e81fb",
+        "terminal_usage": {
+          "input_tokens": 44502,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9601,
+          "reasoning_output_tokens": 74
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 23
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 6,
+          "middle": 14,
+          "late": 12
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "8089ecb6458bfe4e7a6b8220205da85f9b41fb7f9ea4f4d4807bbf1aaa4369a4"
+      }
+    },
+    {
+      "id": "KDIyrEzb8-8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.399,
+          "last_start": 3552.68,
+          "last_end": 3557.28,
+          "video_duration": 3555
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "fa106c1996c7f359132d01515f566f1f3a46e16103f91714db6584418a69528b",
+        "terminal_usage": {
+          "input_tokens": 43643,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10253,
+          "reasoning_output_tokens": 125
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 30
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 7,
+          "middle": 12,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "2d94d83d7e8479dce705315cfc33a1c997c059ded2fb76adcdbe3d7a50c1af72"
+      }
+    },
+    {
+      "id": "S70k3Fn2fVM",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.16,
+          "last_start": 3451.079,
+          "last_end": 3454.52,
+          "video_duration": 3453
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "108faff13dd010a381d3b150053dfa2b9c5e3eed2f00466801d19dbe05803a24",
+        "terminal_usage": {
+          "input_tokens": 45680,
+          "cached_input_tokens": 45440,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10597,
+          "reasoning_output_tokens": 162
+        },
+        "claim_counts": {
+          "key_learnings": 33,
+          "backstory_and_values": 11,
+          "metrics_and_dates": 27
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 12,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "b6e0a7c93695b4806de6cf301234e1a2981c9496e1fbc5eee901a6ccc07052e6"
+      }
+    },
+    {
+      "id": "Y3xKljQlMzA",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 3435.48,
+          "last_end": 3438.12,
+          "video_duration": 3436
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "b19b4abb4678dd07f09ba50cc6e7bafc5e2b4d49607cc38be28d72603e6f4ac3",
+        "terminal_usage": {
+          "input_tokens": 47710,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8825,
+          "reasoning_output_tokens": 117
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 19
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 11,
+          "middle": 9,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "6bece338e30703468610625731cfe0edc801e3b94ed2a16797a8e88e73f6a9fe"
+      }
+    },
+    {
+      "id": "TBgRHplsJhY",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.24,
+          "last_start": 3067.68,
+          "last_end": 3072.88,
+          "video_duration": 3072
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "6f0f8d9230404f72b2c1d6ca67f3097755b2cc3782ae7dd123f4368f3edf520d",
+        "terminal_usage": {
+          "input_tokens": 41968,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8005,
+          "reasoning_output_tokens": 178
+        },
+        "claim_counts": {
+          "key_learnings": 31,
+          "backstory_and_values": 6,
+          "metrics_and_dates": 16
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 14,
+          "late": 7
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "90556156315cf3632990ed8a94be0e316991ea2e47cb914d2bd8b789056db854"
+      }
+    },
+    {
+      "id": "xwidBsviGII",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 3475.52,
+          "last_end": 3478.0,
+          "video_duration": 3478
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "c9874ed6247b05f545615555e3d29573c88ad39c14c25bf8a311b079629725ad",
+        "terminal_usage": {
+          "input_tokens": 46547,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9835,
+          "reasoning_output_tokens": 134
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 25
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 5,
+          "middle": 12,
+          "late": 15
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "metrics_and_dates.3",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/xwidBsviGII/xwidBsviGII.transcript.json"
+          },
+          {
+            "field": "metrics_and_dates.8",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/xwidBsviGII/xwidBsviGII.transcript.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "dc46c3ba3663d342d0d98729f84179c63ad04233048759e03fcba92091e044dd"
+      }
+    },
+    {
+      "id": "fg4kNYt38FM",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.04,
+          "last_start": 3242.64,
+          "last_end": 3248.76,
+          "video_duration": 3249
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "816948522f41f848ddbbc5dd1043173b1c5aaf1b231c3db89d6444b83703cee7",
+        "terminal_usage": {
+          "input_tokens": 45785,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10903,
+          "reasoning_output_tokens": 108
+        },
+        "claim_counts": {
+          "key_learnings": 33,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 29
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 12,
+          "late": 13
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "metrics_and_dates.12",
+            "kind": "attribution_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/fg4kNYt38FM/fg4kNYt38FM.transcript.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "dbb9b80ad179526a3ceaf29aee14dbb4060f39509db385726b68b4bb9b22638d"
+      }
+    },
+    {
+      "id": "JaN_78GB638",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.52,
+          "last_start": 3426.559,
+          "last_end": 3431.72,
+          "video_duration": 3432
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "f190c591fa1a306b1918ff940f673a0490056a88579e1da55109392a90e4778c",
+        "terminal_usage": {
+          "input_tokens": 42537,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11923,
+          "reasoning_output_tokens": 271
+        },
+        "claim_counts": {
+          "key_learnings": 33,
+          "backstory_and_values": 12,
+          "metrics_and_dates": 31
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 14,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "2b68ad0855ea6124ce525fd73fe8d0b50766f6fe0ed0b1e57f806af2b267b48d"
+      }
+    },
+    {
+      "id": "H4LpPMR6v1E",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.8,
+          "last_start": 3362.319,
+          "last_end": 3365.2,
+          "video_duration": 3364
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "408a880c08b48abdb54b8e793056c717a53fc86874662d8836ab03a7349298db",
+        "terminal_usage": {
+          "input_tokens": 49075,
+          "cached_input_tokens": 12800,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10634,
+          "reasoning_output_tokens": 138
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 32
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 11,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "6d1f57f1e817d6526b466074248de2cc05cc8793dd008edf327de482c42df14e"
+      }
+    },
+    {
+      "id": "5bHhkk6UyMM",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.56,
+          "last_start": 3424.76,
+          "last_end": 3428.4,
+          "video_duration": 3426
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "a9c44fd88ab768d673b0825a6e5e588178396e72f9ec5c444374b8294750fc0c",
+        "terminal_usage": {
+          "input_tokens": 46304,
+          "cached_input_tokens": 45952,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11531,
+          "reasoning_output_tokens": 0
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 11,
+          "metrics_and_dates": 32
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 13,
+          "late": 9
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "ee252bcd415809748a0eae31d067fb3de9d1e3480633a1ef0acecf4a3910e048"
+      }
+    },
+    {
+      "id": "_ezpDfnHltk",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.199,
+          "last_start": 2883.28,
+          "last_end": 2887.88,
+          "video_duration": 2886
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "abd76d1ebc3677b323ccddcf980ef37f75fc2a613cf93c9cb0aeadb171f07a27",
+        "terminal_usage": {
+          "input_tokens": 43739,
+          "cached_input_tokens": 43392,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10448,
+          "reasoning_output_tokens": 0
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 27
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 11,
+          "late": 9
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "ec76dc06505fedb274a4107438493cec03a5cba16797d193bc292e31efa05589"
+      }
+    },
+    {
+      "id": "uP1sYmqMktA",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.28,
+          "last_start": 3603.359,
+          "last_end": 3606.359,
+          "video_duration": 3605
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "91638942cabaa09ecda22323f0972df6fe89272487115a9b607247bc732689bb",
+        "terminal_usage": {
+          "input_tokens": 44478,
+          "cached_input_tokens": 44288,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8475,
+          "reasoning_output_tokens": 0
+        },
+        "claim_counts": {
+          "key_learnings": 33,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 17
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 12,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "2f7d901e904a839a254f6969066456ee249f417a35665d64f06fe9be09579d9b"
+      }
+    },
+    {
+      "id": "j0tm-2eKgs0",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.0,
+          "last_start": 3586.24,
+          "last_end": 3589.92,
+          "video_duration": 3589
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "9c17258cf16c583745bd0068de248816d761d94c36bbfbaf6f603ec1bd5cbc9f",
+        "terminal_usage": {
+          "input_tokens": 46410,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8392,
+          "reasoning_output_tokens": 141
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 7,
+          "metrics_and_dates": 20
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 11,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "cbcb54c994ff43fe3e1abbee5c8292ddbdeb2955941362294993b4d978b6af21"
+      }
+    },
+    {
+      "id": "VhaxdYjgKyY",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.199,
+          "last_start": 3508.039,
+          "last_end": 3511.64,
+          "video_duration": 3516
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "63161e6fe96f906847f75c7f7fedcf4a482a88f9138df3e73f866be4f96fc4ea",
+        "terminal_usage": {
+          "input_tokens": 45298,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8217,
+          "reasoning_output_tokens": 82
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 16
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 11,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "a1317f97cc3038262e4441d26833220774741fa3277289f1b253eba5a795a889"
+      }
+    },
+    {
+      "id": "nuJYjGljJ4U",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.28,
+          "last_start": 3677.359,
+          "last_end": 3680.359,
+          "video_duration": 3681
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "a21561d8e482563cb308f2c7545878950de614ad22c043122f0cca34afe3c1c8",
+        "terminal_usage": {
+          "input_tokens": 47298,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9356,
+          "reasoning_output_tokens": 102
+        },
+        "claim_counts": {
+          "key_learnings": 31,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 23
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 13,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "ba1c02b3c3a1614d020043c993ea255d498f6fd3e53af84087f46027f4fbea5a"
+      }
+    },
+    {
+      "id": "KJbi0TPviRg",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.12,
+          "last_start": 3477.839,
+          "last_end": 3480.119,
+          "video_duration": 3478
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "4fbe030d978b0bddce423778dd52393d857fefdd450cf6235f51ed29772fd0d2",
+        "terminal_usage": {
+          "input_tokens": 44912,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9006,
+          "reasoning_output_tokens": 169
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 11,
+          "metrics_and_dates": 21
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 11,
+          "late": 9
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [
+          {
+            "field": "backstory_and_values.3",
+            "kind": "chronology_clarification",
+            "evidence_path": "raw/sources/2026-09-08-youtube/videos/KJbi0TPviRg/KJbi0TPviRg.transcript.json"
+          }
+        ],
+        "wiki_present": true,
+        "data_sha256": "e87c32e07d96c335f79a21c839a9a38e91daf074c6f120e10de8348ffdb2c308"
+      }
+    },
+    {
+      "id": "4SpQrjf1mwA",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.08,
+          "last_start": 3358.16,
+          "last_end": 3361.4,
+          "video_duration": 3362
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "91a70a56bcdd309e7dee48196becb019843838e21a9740e5f553695c8b1893dd",
+        "terminal_usage": {
+          "input_tokens": 45270,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9931,
+          "reasoning_output_tokens": 138
+        },
+        "claim_counts": {
+          "key_learnings": 32,
+          "backstory_and_values": 10,
+          "metrics_and_dates": 25
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 11,
+          "late": 12
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "18f0a23a1aa7cf10e6d8530d0586c1fc9218166fe5a48a85ca91e888f7543c4a"
+      }
+    },
+    {
+      "id": "cxke-F1XL3w",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.359,
+          "last_start": 3581.92,
+          "last_end": 3585.24,
+          "video_duration": 3585
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "334681a0d6fad9745a267144993af69cde4714760646dcd9ee501b8e3cf263fc",
+        "terminal_usage": {
+          "input_tokens": 46497,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10482,
+          "reasoning_output_tokens": 127
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 12,
+          "metrics_and_dates": 25
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 8,
+          "middle": 11,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "f7b36427f20abae5d7734e3ea51c32f5225a0828bd1f82ba298fe0d446ee10e9"
+      }
+    },
+    {
+      "id": "c5DvcHlt1c8",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.719,
+          "last_start": 3433.549,
+          "last_end": 3435.569,
+          "video_duration": 3434
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "dba17b1f661cc2fe35b45e89f92da9f6eb8ffea8108ca65714d8346f9d51bd95",
+        "terminal_usage": {
+          "input_tokens": 47327,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9281,
+          "reasoning_output_tokens": 100
+        },
+        "claim_counts": {
+          "key_learnings": 30,
+          "backstory_and_values": 9,
+          "metrics_and_dates": 25
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 12,
+          "late": 8
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "360d18fb5f6c2d26b90fa7d2448595c8d83233fb4399699e4f1794e77db253e4"
+      }
+    },
+    {
+      "id": "jUTHYPaWyeo",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 0.12,
+          "last_start": 3504.799,
+          "last_end": 3508.119,
+          "video_duration": 3507
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "8cf40767f2406cad4224cca53f6261d74021366b5793c382637e30573f669998",
+        "terminal_usage": {
+          "input_tokens": 45942,
+          "cached_input_tokens": 18560,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 9716,
+          "reasoning_output_tokens": 164
+        },
+        "claim_counts": {
+          "key_learnings": 31,
+          "backstory_and_values": 7,
+          "metrics_and_dates": 25
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 9,
+          "middle": 11,
+          "late": 11
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "7dfacb20beba48057d37d12bd3b771256ac4783837e911e43284503c40486bbf"
+      }
+    },
+    {
+      "id": "jkBFQ85hV30",
+      "errors": [],
+      "manual_review": [],
+      "diagnostics": [
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+        "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+      ],
+      "checks": {
+        "extraction_present": true,
+        "source_caption_bounds": {
+          "first": 2.399,
+          "last_start": 2856.04,
+          "last_end": 2860.16,
+          "video_duration": 2860
+        },
+        "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+        "source_sha256": "c84f72d16aabffd160c30ecf5ccb8687b6bc1463501619b78b77b7e4369703d2",
+        "terminal_usage": {
+          "input_tokens": 38000,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 8774,
+          "reasoning_output_tokens": 211
+        },
+        "claim_counts": {
+          "key_learnings": 29,
+          "backstory_and_values": 8,
+          "metrics_and_dates": 17
+        },
+        "meaningful_lesson_anchors_by_third": {
+          "early": 10,
+          "middle": 9,
+          "late": 10
+        },
+        "broad_lessons_not_counted_as_local_coverage": 0,
+        "reviewed_derivative_fields": [],
+        "wiki_present": true,
+        "data_sha256": "c0f884fce26b83250377e08d778141f86258479ff19f693ea4d1d1e8d2d6ff8f"
+      }
+    }
+  ]
+}

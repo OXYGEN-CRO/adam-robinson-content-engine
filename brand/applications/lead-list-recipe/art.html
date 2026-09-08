@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Build a lead list you can explain</title><link rel="stylesheet" href="art.css"></head>
+<body>
+<main class="ms-art" aria-label="Proposed lead-list recipe: start with a specific request, define filters, check evidence, and retain the reason and source with each row. Workflow illustration, not a product capture.">
+  <header><img class="logo" src="../../assets/logos/moltsets-lockup-source.png" alt="moltsets"><span class="edition">IMPLEMENTATION / 01</span></header>
+  <h1>Build a lead list<br><em>you can explain.</em></h1>
+  <p class="deck">Carry the evidence into every row.</p>
+
+  <section class="request" aria-label="Example request">
+    <div class="request-label">START WITH A REQUEST<span class="command-label">INPUT</span></div>
+    <p>Find <span class="selected" data-highlight="saas">SaaS</span> <span class="selected" data-highlight="role">founders</span> in <span class="selected" data-highlight="city">Austin.</span></p>
+    <svg class="submit" viewBox="0 0 40 40" aria-hidden="true"><path d="M28 6v20H8m8-8-8 8 8 8"/></svg>
+    <i class="corner tl"></i><i class="corner br"></i>
+  </section>
+
+  <svg class="routing" viewBox="0 0 1080 1350" aria-hidden="true">
+    <path class="track" d="M146 588V1002H172"/>
+    <path class="branch" d="M146 643H172M146 837H172"/>
+    <path id="progress" d="M146 588V1002H172"/>
+    <path class="arrow" d="m161 991 11 11-11 11"/>
+    <g id="packet"><rect x="-9" y="-9" width="18" height="18"/><rect x="-16" y="-16" width="32" height="32" fill="none" stroke="currentColor" stroke-width="2"/></g>
+  </svg>
+
+  <section class="operation filters">
+    <div class="step-no">01</div>
+    <div class="operation-body"><div class="operation-heading"><h2>Define the filters</h2><span class="state" id="filter-state">DEFINED</span></div>
+      <div class="filters-row"><span class="filter" data-filter="0">SaaS</span><span class="filter" data-filter="1">Founder</span><span class="filter" data-filter="2">Austin</span></div>
+    </div>
+  </section>
+  <section class="operation evidence">
+    <div class="step-no">02</div>
+    <div class="operation-body"><div class="operation-heading"><h2>Check the evidence</h2><span class="state" id="check-state">REVIEWED</span></div>
+      <p class="check-note">Keep sources. Flag missing fields.</p>
+      <div class="checks"><span id="source-check"><b aria-hidden="true"><svg class="tick" viewBox="0 0 18 14"><path d="m1 7 5 5L17 1"/></svg></b> Source retained</span><span id="missing-check"><b>!</b> Missing / review</span></div>
+    </div>
+  </section>
+
+  <section class="result" aria-label="Illustrative output schema">
+    <div class="sheet-back"></div>
+    <div class="sheet-front">
+      <div class="result-heading"><h2>Keep the reason with the row.</h2><span class="filetype">CSV</span></div>
+      <div class="table-head"><span>company</span><span>role</span><span>why_match</span></div>
+      <div class="row-mask"><div class="result-row"><span>saas.example</span><span>Founder</span><span>SaaS · Austin</span></div></div>
+      <div class="retained"><svg class="retained-tick tick" aria-hidden="true" viewBox="0 0 18 14"><path d="m1 7 5 5L17 1"/></svg> Include source_url + checked_at</div>
+    </div>
+  </section>
+  <footer><span>WORKFLOW ILLUSTRATION · EXAMPLE FIELDS</span><span class="footer-pixels" aria-hidden="true"><i></i><i></i><i></i></span></footer>
+</main>
+<nav class="controls" aria-label="Animation controls"><button type="button" id="play">Play</button><button type="button" id="pause">Pause</button><button type="button" id="poster">Show complete graphic</button><label>Time <input type="range" id="seek" min="0" max="8000" step="20" value="6000"></label><output id="time">6.00s</output></nav>
+<script src="animation.js"></script>
+</body></html>

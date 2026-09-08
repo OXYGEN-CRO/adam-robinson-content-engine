@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "data": {
+    "table": {
+      "id": "c0c5e684-f06b-4e52-924c-cad5799495d8",
+      "slug": "adam-robinson-linkedin-corpus-2026-09-08",
+      "displayName": "Adam Robinson LinkedIn corpus - 2026-09-08",
+      "kind": "table",
+      "physicalSchema": "t_4257983c406e4658b899d7ba3cc760a6",
+      "physicalTableName": "tbl_c0c5e684f06b4e52924ccad5",
+      "tags": [],
+      "createdAt": "2026-09-08T07:40:16.096Z",
+      "updatedAt": "2026-09-08T07:42:20.617Z"
+    },
+    "rowCount": 50,
+    "insertedCount": 50,
+    "updatedCount": 0,
+    "batchCount": 1,
+    "batchSize": 500,
+    "web_url": "https://oxygen-agent.com/workspaces/4257983c-406e-4658-b899-d7ba3cc760a6/tables/c0c5e684-f06b-4e52-924c-cad5799495d8"
+  },
+  "meta": {
+    "command": "tables import",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

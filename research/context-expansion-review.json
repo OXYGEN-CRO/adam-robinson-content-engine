@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-08",
+  "method": "Focused manual reading of complete archived post bodies selected for audience, identity, strategy and voice questions; existing context was reviewed before additions. No new model-reader runs or paid collection.",
+  "reviewed_posts": 21,
+  "corpus_records": 914,
+  "corpus_nonempty_bodies": 911,
+  "full_corpus_semantic_review": false,
+  "sources": [
+    {
+      "post_id": "7179219737141231617",
+      "published": "2024-03-28T20:56:08.787Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-03-28-7179219737141231617.md",
+      "source_file_sha256": "fe87afccefa26e23833be5468cc5a4ff990a6bd76e45406157993cb77054ad7d",
+      "body_sha256": "db8f53127aabea0107f8e988dc62b8fa0ae73dde274a18c33caa03640bb60483",
+      "reading_scope": "complete post body",
+      "review_note": "Audience fit, trust and sales intent; the 75% ICP claim is unverified."
+    },
+    {
+      "post_id": "7090775676135362561",
+      "published": "2023-07-28T19:31:01.432Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2023-07-28-7090775676135362561.md",
+      "source_file_sha256": "ad5aef6f11616ec194d7d38ad61f8f80c7864155d7f6766227bb31adbe51e405",
+      "body_sha256": "b803f1ecce598dcf5c09c1504524292e6d56697e758b3dbfac8432aada571389",
+      "reading_scope": "complete post body",
+      "review_note": "Historical ecommerce ICP and positive framing of rapid expansion."
+    },
+    {
+      "post_id": "7107460239590907904",
+      "published": "2023-09-12T20:29:31.344Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2023-09-12-7107460239590907904.md",
+      "source_file_sha256": "348cfdf79a3087cc750e4ad5171f9f3c50a8ca2a5869e981f702d91ef5098f52",
+      "body_sha256": "f221ad877d2ba7dbd550b7b96b0ed42eb518f17ba7f3357d986f7fbf33df0eba",
+      "reading_scope": "complete post body",
+      "review_note": "Audience mismatch from broad meme attention; earlier writing method."
+    },
+    {
+      "post_id": "7257847801307439107",
+      "published": "2024-10-31T20:16:00.123Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-10-31-7257847801307439107.md",
+      "source_file_sha256": "8ec972311e90c72ba554fdb6fa1f51f2159dc94582d76a96dd79e4792ef94bd3",
+      "body_sha256": "3b263919e1fcc014ea6197a22e2cd74131be1f2a9c3493a3cde79df40fa2000f",
+      "reading_scope": "complete post body",
+      "review_note": "Buyer-fit and complete-record evaluation; no current pricing claims copied."
+    },
+    {
+      "post_id": "7246978753430466560",
+      "published": "2024-10-01T20:26:17.172Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-10-01-7246978753430466560.md",
+      "source_file_sha256": "ff1f9d98683e9199e8635115f3b2fe88c6997c6a078f75924e5753fe50806edc",
+      "body_sha256": "06ef8a96d898158588cbd4e79264968f1b737e2f35b5cd447aa41e67ce998df9",
+      "reading_scope": "complete post body",
+      "review_note": "Reused lesson structure and added video guidance; no independent metric corroboration."
+    },
+    {
+      "post_id": "7067218283166367744",
+      "published": "2023-05-24T19:22:21.273Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2023-05-24-7067218283166367744.md",
+      "source_file_sha256": "591eaaaabb611155e4f9c18a9ef3d36f961f251da7bd91aeed9357fccd4e842f",
+      "body_sha256": "c965ff26e6c6aca365c842dfd783c832d18c2555ce4c4485ae845fbdca9b2828",
+      "reading_scope": "complete post body",
+      "review_note": "Earlier preference for playing bigger qualifies the later lean-company narrative."
+    },
+    {
+      "post_id": "7096229582869041152",
+      "published": "2023-08-12T20:42:54.126Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2023-08-12-7096229582869041152.md",
+      "source_file_sha256": "ddef5fad214807d36100d06540a34e547a5d0d5f26d286164d4d44564bd59362",
+      "body_sha256": "8564701fd4769ff937d1b62492e75780c4448c54abf16e1c28d5d015dc6c9175",
+      "reading_scope": "complete post body",
+      "review_note": "Historical billion-dollar-company aspiration; measure unspecified, not a result."
+    },
+    {
+      "post_id": "7182478567140737026",
+      "published": "2024-04-06T20:45:34.405Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-04-06-7182478567140737026.md",
+      "source_file_sha256": "d5530afa2d9ad603bf9af526cebb4d3170675cc34508bb613597fca57715471e",
+      "body_sha256": "d04dd98c669d5391edfcfc67c54769be52591b0f8249ef16c5a4009ff02d56a9",
+      "reading_scope": "complete post body",
+      "review_note": "Dated support/coaching/peer account; no diagnosis or treatment prescription."
+    },
+    {
+      "post_id": "7352407363783438336",
+      "published": "2025-07-19T18:41:56.649Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2025-07-19-7352407363783438336.md",
+      "source_file_sha256": "aede1b4c83585bedf1c3be771d417dfa70da27587500691a2fdbb0bae63befc7",
+      "body_sha256": "ab3d353263174a737fcb2906b17762922149531f69766dd8719701a8be5a7cb5",
+      "reading_scope": "complete post body",
+      "review_note": "Team challenge and creative investment; retrospective channel attribution remains unverified."
+    },
+    {
+      "post_id": "7206396119432482817",
+      "published": "2024-06-11T20:45:23.238Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-06-11-7206396119432482817.md",
+      "source_file_sha256": "63d9afb7f97ef82bd60fca6a1cf5a1dce45d3bdcbb75b674876968db341d856e",
+      "body_sha256": "2b61aee01c5cd110ccdf0d3c5778bce1b6e0b954cead64f653f5333179e0fbfb",
+      "reading_scope": "complete post body",
+      "review_note": "Commercial relevance coexists with limited per-activity attribution."
+    },
+    {
+      "post_id": "7174868039996174336",
+      "published": "2024-03-16T20:44:03.337Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-03-16-7174868039996174336.md",
+      "source_file_sha256": "5547056528b551bc721dbd1d374df0d13d382cdc51cc9a433edd619faff1b70a",
+      "body_sha256": "a55ff22b49fb48405ff6d312b72d02e192118dc20f6429b8a01d6ce3c8831839",
+      "reading_scope": "complete post body",
+      "review_note": "Founder distribution plus cash from an existing business; starting conditions matter."
+    },
+    {
+      "post_id": "7326995184842428416",
+      "published": "2025-05-10T15:43:01.054Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2025-05-10-7326995184842428416.md",
+      "source_file_sha256": "e34eaac6b65366fcff1210e971e87d21fb57ce64eb6d7ca984678e64a999601b",
+      "body_sha256": "9f45385c146fff7dc2f9bc93c39d6069add781e5b84b4dd5b1bb4c45dabdde68",
+      "reading_scope": "complete post body",
+      "review_note": "Background cross-check of GTM themes; sweeping predictions and guest metrics not promoted."
+    },
+    {
+      "post_id": "7259270932546936832",
+      "published": "2024-11-04T18:31:01.051Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-11-04-7259270932546936832.md",
+      "source_file_sha256": "2334fa914f8e71ea7f8fe5e6f43cb051d3909b19a8a0e722043198f3e5826c93",
+      "body_sha256": "4c62d37c8f0d2cb827dc13db645409f9afed359c27b03a8c6def0ff20e4e853a",
+      "reading_scope": "complete post body",
+      "review_note": "Named influences and their stated lessons; Startup School is a course among the listed books."
+    },
+    {
+      "post_id": "7160748181696188416",
+      "published": "2024-02-06T21:36:46.784Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-02-06-7160748181696188416.md",
+      "source_file_sha256": "002184cbcf17bc83527ca920817ecc2d1d05006a3305e41d0665f0ebd1ff0472",
+      "body_sha256": "56720449ef058601d10540d72d97da8a4f69b841f984410e70317288c665e0ff",
+      "reading_scope": "complete post body",
+      "review_note": "Churn, seasonality, overselling and revised expectations; explanations remain self-reports."
+    },
+    {
+      "post_id": "7195882240424259586",
+      "published": "2024-05-13T20:26:59.144Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-05-13-7195882240424259586.md",
+      "source_file_sha256": "6c97f57394de76d5936a229422bd2fd01c05cc2f4de18177e8d3e46674aa99b2",
+      "body_sha256": "b87c60d6339827f07440d75326396e9d1e8794c7ac9977970c75f096e0525565",
+      "reading_scope": "complete post body",
+      "review_note": "Beginner funding constraints and sustaining discovery; recorded as dated views."
+    },
+    {
+      "post_id": "7050186539707871232",
+      "published": "2023-04-07T19:24:17.198Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2023-04-07-7050186539707871232.md",
+      "source_file_sha256": "1dd9c0721dee13374c645b9a060e39aa45d188efab53982c5cf6ac6178a38f9e",
+      "body_sha256": "1cfa9117ee0d96105b6c96c73b53c192c958fd2d65b11b0eceb521f5faff6fc3",
+      "reading_scope": "complete post body",
+      "review_note": "Direct founder objections to content effort and loss of anonymity."
+    },
+    {
+      "post_id": "7334641032967454724",
+      "published": "2025-05-31T18:04:53.300Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2025-05-31-7334641032967454724.md",
+      "source_file_sha256": "b502557c83c9f1571b228d9589c1dbb738d741be50d6713d9e19ccded0cdb463",
+      "body_sha256": "a4e73d2fdcd78bb84a82c02a11ff438bd841baa2b35ecc4819feed0c8e800065",
+      "reading_scope": "complete post body",
+      "review_note": "Explicit $1m-$10m reader stage, plateau diagnosis and shared uncertainty."
+    },
+    {
+      "post_id": "7282507888328167424",
+      "published": "2025-01-07T21:26:23.031Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2025-01-07-7282507888328167424.md",
+      "source_file_sha256": "681f926d57ef7a3c828a9a9d1cfd7f569c6ff05845c077073b0a76b7f5eeab4b",
+      "body_sha256": "b2d1c2b26a9751f31966ad73d4a35a64640c8343026d85b33dceebd93a624195",
+      "reading_scope": "complete post body",
+      "review_note": "Explicit $0-$1m reader stage, clarity and manual discovery; no invented demographics."
+    },
+    {
+      "post_id": "7129220348616593409",
+      "published": "2023-11-11T21:36:25.619Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2023-11-11-7129220348616593409.md",
+      "source_file_sha256": "87f94d21ccab8ffb7f5979fa657b28546864bf8f6689adda86a8d3a836739bd6",
+      "body_sha256": "8a3a4feb62448581120c68fdc64458d1728fbfe1d855fc1a265c2c3cea66bec5",
+      "reading_scope": "complete post body",
+      "review_note": "Direct audience/mission statement; historical repeated origin story."
+    },
+    {
+      "post_id": "7151330853724258306",
+      "published": "2024-01-11T21:55:40.830Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2024-01-11-7151330853724258306.md",
+      "source_file_sha256": "07bd62ea21ba782fe8b06401a7335f5d7b04e2bafe8a80a10bee14646329bbfc",
+      "body_sha256": "82b7a5715eaf5d41a9f66ab922a05707ced5fa020a5f7e0aa456f74222c35a75",
+      "reading_scope": "complete post body",
+      "review_note": "Prospective January 2024 RB2B plan; not proof that the launch target happened."
+    },
+    {
+      "post_id": "7063166210548387841",
+      "published": "2023-05-13T15:00:51.877Z",
+      "source_path": "raw/sources/2026-09-08-linkedin-rb2b/posts/2023-05-13-7063166210548387841.md",
+      "source_file_sha256": "78e6c89eec0ddb39229c856b910f203bc6be1436743741bf2b1a0f7ebdff1e2e",
+      "body_sha256": "c8b061c864277cc4d8d1568ab3599bdfe9b8a965649fdfb8517b04ff12b4a922",
+      "reading_scope": "complete post body",
+      "review_note": "Background corroboration of early public-building ambition; no new revenue proof promoted."
+    }
+  ],
+  "remaining_unknowns": [
+    "actual audience analytics and buyer proportions",
+    "author-approved mission/positioning language",
+    "current campaign offer, calendar and numeric targets",
+    "three empty-body source-table records"
+  ]
+}

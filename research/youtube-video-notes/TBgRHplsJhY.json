@@ -1,0 +1,539 @@
+{
+  "video_id": "TBgRHplsJhY",
+  "title": "How to engage anonymous site visitors. - with Florian Tatulia",
+  "published": "2024-12-11T15:00:21+00:00",
+  "speakers_and_attribution": "Adam Robinson does not speak in this transcript. Host Pete Crowley introduces himself as running growth at RB2B and says he is substituting while Adam and other colleagues attend an executive offsite. The guest is identified in the metadata as Florian Tatulia; he introduces himself as Common Room's head of SDRs. Automatic captions vary both his name and company spellings. Attribution below follows introductions and conversational turns, rather than channel ownership. All operating advice, personal experiences and metrics belong to Pete, Florian or their respective companies; none constitutes Adam's own stated beliefs or achievements.",
+  "summary": "Pete Crowley and Common Room's Florian Tatulia discuss converting anonymous website activity into useful sales context. Their central argument is to combine visitor identification with ICP fit, hiring, technology, social engagement and product activity, then use that context to prioritize relevant outreach. They cover account research, rapid routing, manual validation before automation, outreach to multiple stakeholders, experimental signal selection and the limits of identification coverage. The final Q&A addresses traffic quality, AI-assisted ideation, channel preferences and applicability to service businesses or audiences with little online activity. This is useful internal GTM research associated with Adam's company, but supplies no direct Adam testimony.",
+  "key_learnings": [
+    {
+      "claim": "A website visit indicates possible interest, but visitors may be job seekers, curious readers or people outside the ICP. Qualify the visitor and combine additional evidence before treating the visit as a sales opportunity.",
+      "start_timestamp": "00:04:40",
+      "end_timestamp": "00:05:42",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest guidance; a visit alone does not establish purchase intent."
+    },
+    {
+      "claim": "A useful niche combines multiple characteristics, such as industry and company attributes. Pete applies the same logic to grouping prospects into different intent buckets and treating those groups differently.",
+      "start_timestamp": "00:05:45",
+      "end_timestamp": "00:06:57",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Pete's coaching framework, not Adam's stated positioning framework."
+    },
+    {
+      "claim": "Use visitor identification to inform timing and relevance without explicitly announcing the tracked visit. Florian allows an exception for companies selling visitor identification and says sales or marketing buyers may tolerate disclosure better than engineering or security buyers.",
+      "start_timestamp": "00:07:06",
+      "end_timestamp": "00:08:14",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Based on his selling experience and persona judgments; his later categorical warning against disclosure retains the vendor exception."
+    },
+    {
+      "claim": "Signals themselves are longstanding sales inputs; the newer advantage is technology that exposes more of the buyer journey and helps select the message and timing. Companies should identify their useful signals rather than attempt to use every available one.",
+      "start_timestamp": "00:09:15",
+      "end_timestamp": "00:10:35",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical framing and product-oriented opinion from a signal-platform seller."
+    },
+    {
+      "claim": "Experiment toward a small set of repeatable plays. Florian says even large Common Room customers often rely on only a few plays that consistently produce meetings and revenue.",
+      "start_timestamp": "00:11:04",
+      "end_timestamp": "00:11:23",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Customer observation without a defined sample or measured distribution."
+    },
+    {
+      "claim": "Three suggested combinations are visitor identification plus technology and hiring data, visitor identification plus social engagement, and visitor identification plus trial or product-usage activity.",
+      "start_timestamp": "00:11:26",
+      "end_timestamp": "00:12:46",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The trial and usage play requires a suitable product-led motion; the transcript does not demonstrate every play in equal depth."
+    },
+    {
+      "claim": "Common Room's sequence examples show stronger reply and booking performance when visitor identification is combined with social engagement or free trials. Florian uses these results to argue that additional context increases the value of the initial signal.",
+      "start_timestamp": "00:12:46",
+      "end_timestamp": "00:13:32",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Self-reported comparisons lack sample sizes, observation periods and controls; they do not establish a causal lift."
+    },
+    {
+      "claim": "Use higher apparent intent to justify more research and more personal outreach, rather than assume a visit to a product page means readiness to buy that product.",
+      "start_timestamp": "00:14:25",
+      "end_timestamp": "00:15:08",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Pete suggests custom video as one possible use of extra effort, not a proven universal tactic."
+    },
+    {
+      "claim": "Common Room combines visits, social engagement, trials and relevant hiring in lead scores to help salespeople prioritize accounts and contacts.",
+      "start_timestamp": "00:15:13",
+      "end_timestamp": "00:15:42",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "No scoring weights, thresholds or validation methodology are supplied."
+    },
+    {
+      "claim": "A relevant outreach message can use a visible hiring initiative and the prospect's current technology to frame a business problem, while keeping the website visit as an internal timing cue.",
+      "start_timestamp": "00:16:00",
+      "end_timestamp": "00:17:04",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The Demandbase comparison is Common Room's competitive positioning for a specific sales use case, not independently verified product analysis."
+    },
+    {
+      "claim": "For decision-maker outreach, Florian researches high-performing employees and references them to make a message more relevant to management. Public quota attainment and repeated promotions are possible research inputs.",
+      "start_timestamp": "00:17:07",
+      "end_timestamp": "00:18:12",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The employee performance figures are illustrative; promotion history is a proxy for performance, not proof."
+    },
+    {
+      "claim": "Personalization can combine automated research and custom fields with information collected manually before sequence enrollment.",
+      "start_timestamp": "00:18:15",
+      "end_timestamp": "00:19:39",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Florian describes options, including Common Room and Clay; he does not specify a single fully automated implementation."
+    },
+    {
+      "claim": "Teams without a mature CRM or sales process should initially handle their strongest prospects manually. Personal research and custom outreach can establish what works before scaling the workflow.",
+      "start_timestamp": "00:19:39",
+      "end_timestamp": "00:20:12",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Stage-dependent advice for immature processes and high-priority prospects, not a blanket rejection of automation."
+    },
+    {
+      "claim": "Florian emphasizes rapid follow-up while the prospect's interest is current. Common Room feeds contacts from both identification tools into Slack and routes them to individual SDRs according to CRM ownership.",
+      "start_timestamp": "00:20:17",
+      "end_timestamp": "00:21:40",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The claimed conversion decline with delay is not quantified; historical demo-request experience and anonymous-visit outreach are discussed together."
+    },
+    {
+      "claim": "Pete reconsiders RB2B's slower LinkedIn-first playbook after hearing Florian's speed-to-lead recommendation. The original approach aimed to build personal awareness and reference the accepted connection, but Pete recognizes that waiting for acceptance can introduce substantial delay.",
+      "start_timestamp": "00:21:40",
+      "end_timestamp": "00:23:03",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "An expressed reconsideration and possible documentation change; the transcript does not establish that RB2B subsequently changed its playbook."
+    },
+    {
+      "claim": "Fast outreach still needs a compelling message. Florian says Common Room can quickly display other signals alongside a visit so a rep can assess the contact and enroll an appropriate sequence.",
+      "start_timestamp": "00:23:05",
+      "end_timestamp": "00:23:39",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His speed recommendation depends on having accessible context and suitable routing, not merely sending an immediate generic message."
+    },
+    {
+      "claim": "Filter alerts for ICP relevance, test combinations of signals and automate workflows after the messaging has demonstrated that it works.",
+      "start_timestamp": "00:23:45",
+      "end_timestamp": "00:24:26",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Florian also encourages testing ICP filters while product-market fit is still being established."
+    },
+    {
+      "claim": "Build an account point of view from person-level and company-level evidence. Hiring, technology, visits, trials and a former customer's job change can jointly suggest the strongest entry point into an account.",
+      "start_timestamp": "00:24:30",
+      "end_timestamp": "00:25:22",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The listed signals are examples; the objective is an account-specific hypothesis rather than mechanically accumulating a fixed number of signals."
+    },
+    {
+      "claim": "Social engagement becomes more useful when paired with a company-level reason to buy. A person's interaction with a post and a website visit can make outreach timely, but revenue still requires a relevant organizational problem.",
+      "start_timestamp": "00:26:12",
+      "end_timestamp": "00:28:13",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Requires prospects active on the monitored social channels. The Aligned mutual-action-plan example is an illustrative play, not a reported customer result."
+    },
+    {
+      "claim": "Florian describes Common Room monitoring keywords, hashtags, accounts and subreddit activity, then attempting identity matching across platforms using clues such as reused avatars.",
+      "start_timestamp": "00:28:34",
+      "end_timestamp": "00:29:57",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Capabilities and platform-access characterizations are as stated at the time of recording. Florian acknowledges that de-anonymization is not always successful; no accuracy data is supplied."
+    },
+    {
+      "claim": "The person generating a signal does not have to be the person sales contacts. Activity from an individual contributor may justify researching the account and approaching a more appropriate buyer.",
+      "start_timestamp": "00:30:15",
+      "end_timestamp": "00:31:00",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Individual activity suggests a possible account problem; it does not prove that an executive has purchase intent."
+    },
+    {
+      "claim": "Pete frames some visitor activity as evidence of brand awareness and suggests spreading that awareness to additional champions and influencers within the organization.",
+      "start_timestamp": "00:31:00",
+      "end_timestamp": "00:31:32",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Pete's interpretation of the signal, not a direct Adam statement or a measured account-expansion result."
+    },
+    {
+      "claim": "Common Room uses ground-swell prospecting: provide useful resources to end users, learn how their organization operates and use that information to form a hypothesis for executive outreach.",
+      "start_timestamp": "00:31:35",
+      "end_timestamp": "00:33:31",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Florian says peer conversations are easier when selling to salespeople and may work poorly with developers. He particularly highlights midmarket and enterprise accounts."
+    },
+    {
+      "claim": "Early-stage founders can honestly invite industry participants to provide advice or feedback. A useful discovery conversation may reveal product fit without making the initial approach an aggressive sales request.",
+      "start_timestamp": "00:33:31",
+      "end_timestamp": "00:34:25",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "SaaS building",
+      "caveat": "Pete conditions the framing on genuinely seeking feedback; he gives no quantified conversion results."
+    },
+    {
+      "claim": "Treat shared playbooks as experimental inputs. Florian recommends continually testing signal combinations, while recognizing that traffic and customer volume limit how often some combinations will occur.",
+      "start_timestamp": "00:34:31",
+      "end_timestamp": "00:35:29",
+      "speaker": "Pete Crowley and Florian Tatulia",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Synthesis of Pete's warning against prescriptive advice and Florian's iteration guidance; not an Adam principle."
+    },
+    {
+      "claim": "When the desired buying condition is not directly observable, reverse-engineer proxies for it. At a previous company, Pete combined an online shopping cart, website traffic or ranking, and logistics-related job changes to identify potentially high-volume shippers receptive to a pitch.",
+      "start_timestamp": "00:35:29",
+      "end_timestamp": "00:37:02",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical host experience at an unnamed company. Traffic and job changes were proxies, not verified shipping expenditure or purchase readiness."
+    },
+    {
+      "claim": "Pete uses AI to brainstorm copy and ideas, but says signal recommendations need company-specific context and experimentation. AI-generated suggestions are starting points for exploration rather than authoritative answers.",
+      "start_timestamp": "00:37:32",
+      "end_timestamp": "00:39:16",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Pete's own AI usage and opinion; his shipping example predates his use of ChatGPT."
+    },
+    {
+      "claim": "Visitor identification covers only part of traffic, and resolution varies with the richness of the audience's online business profiles. Filtering identified contacts for ICP relevance reduces the usable prospect pool further.",
+      "start_timestamp": "00:39:32",
+      "end_timestamp": "00:42:35",
+      "speaker": "Pete Crowley and Florian Tatulia",
+      "claim_type": "interpretation",
+      "pillar": "SaaS building",
+      "caveat": "Combines Pete's RB2B explanation and Florian's Common Room explanation. Their reported coverage ranges use different wording and should not be treated as equivalent measurements."
+    },
+    {
+      "claim": "Visitor identity can help diagnose traffic quality before teams blame landing-page conversion. Pete describes a campaign whose clicks came from outside its intended audience; Florian suggests using such evidence to inform SEO and social content strategy.",
+      "start_timestamp": "00:42:45",
+      "end_timestamp": "00:44:16",
+      "speaker": "Pete Crowley and Florian Tatulia",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "The campaign is an unnamed third-party anecdote, and the strategy implications are suggestions rather than measured outcomes."
+    },
+    {
+      "claim": "Outreach requires an effective combination of audience, message and medium. Pete declines to endorse a universal email, LinkedIn and phone cadence, recommending testing which combinations actually reach the intended people.",
+      "start_timestamp": "00:44:19",
+      "end_timestamp": "00:45:57",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "His own preference for email or LinkedIn post tags illustrates individual variation; it does not establish Adam's preferences."
+    },
+    {
+      "claim": "Signal-based selling can apply to services as well as products when the signals indicate a relevant problem or desired outcome. The practical limitation is whether the target buyers leave observable digital traces.",
+      "start_timestamp": "00:46:01",
+      "end_timestamp": "00:48:33",
+      "speaker": "Pete Crowley and Florian Tatulia",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Pete emphasizes the benefit being sold. Florian says Common Room is less suited to customers whose buyers lack a substantial online footprint; occupational examples are broad generalizations."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Pete says he runs growth at RB2B and is hosting in Adam's place because Adam and other team members are attending an executive offsite.",
+      "start_timestamp": "00:01:05",
+      "end_timestamp": "00:01:26",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Adam's absence and offsite attendance are reported by Pete. The exact event dates are not independently established."
+    },
+    {
+      "claim": "Florian says he joined Common Room because the signals space interested him and describes a sustained focus on pipeline and prospecting across several technology companies.",
+      "start_timestamp": "00:02:39",
+      "end_timestamp": "00:03:05",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest career history and motivation, not Adam's biography."
+    },
+    {
+      "claim": "Common Room uses RB2B despite having its own visitor-identification product. Florian says the two sources identify largely different people and favors combining tools to broaden coverage.",
+      "start_timestamp": "00:02:03",
+      "end_timestamp": "00:02:36",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Self-reported customer relationship and qualitative overlap observation, without a measured overlap rate."
+    },
+    {
+      "claim": "Florian recounts strong negative reactions when selling into engineering or security audiences and uses those experiences to justify tailoring outreach to the recipient's expectations.",
+      "start_timestamp": "00:07:46",
+      "end_timestamp": "00:08:14",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Captions garble the description of a cease-and-desist-type response; no legal action or outcome is established."
+    },
+    {
+      "claim": "Pete openly questions whether RB2B's documented timing recommendation should change after hearing a faster approach from Florian.",
+      "start_timestamp": "00:21:40",
+      "end_timestamp": "00:23:03",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Concrete instance of Pete reconsidering operational advice, not evidence of a stable Adam value or a completed policy change."
+    },
+    {
+      "claim": "Pete describes solving a prospecting problem at his previous company by finding indirect evidence of shipping volume and organizational openness to change.",
+      "start_timestamp": "00:35:29",
+      "end_timestamp": "00:37:02",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "The company, his title and the dates are unspecified; this experience must not be imported into Adam's career history."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "At recording, Florian reports approximately six months at Common Room and about ten years of technology prospecting experience across four companies.",
+      "start_timestamp": "00:02:39",
+      "end_timestamp": "00:02:56",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest self-report. Approximate tenure and career duration, not exact start dates."
+    },
+    {
+      "claim": "Common Room reportedly receives reply rates above 15% on many of its signal-based sequences.",
+      "start_timestamp": "00:08:50",
+      "end_timestamp": "00:09:05",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Company self-report as of recording; no sample size, measurement window or definition of positive versus total replies."
+    },
+    {
+      "claim": "Florian says Common Room has grown its 'AR' by about 3x during the year to date, apparently referring to ARR in 2024.",
+      "start_timestamp": "00:09:02",
+      "end_timestamp": "00:09:23",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Captions render the metric as 'AR'; ARR is likely but not confirmed from audio. No starting or ending dollar amount is given. The stated 3x wording is preserved without converting it to a percentage increase. This is Common Room's reported growth, not RB2B's."
+    },
+    {
+      "claim": "Florian says Common Room customers, including large organizations, usually have three to five plays that work particularly well.",
+      "start_timestamp": "00:11:04",
+      "end_timestamp": "00:11:23",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate customer observation as of recording, not a benchmark from a specified study."
+    },
+    {
+      "claim": "For Common Room's visitor-identification-only sequence, Florian describes performance relative to standard outbound with an unclear phrase captioned as 'a two ... maybe a little bit more.'",
+      "start_timestamp": "00:12:46",
+      "end_timestamp": "00:13:03",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The unit and exact comparison are not recoverable from the supplied text. Do not convert this into a verified 2x lift or a 2% rate."
+    },
+    {
+      "claim": "Common Room reportedly sees 20–22% reply rates and 3x booking rates when website visits are combined with social engagement.",
+      "start_timestamp": "00:13:03",
+      "end_timestamp": "00:13:13",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Self-reported sequence results. The comparison baseline for 3x bookings, period and sample size are not explicitly defined."
+    },
+    {
+      "claim": "Common Room reportedly sees approximately 32% reply rates and 10–15% booking rates when website activity is combined with free trials.",
+      "start_timestamp": "00:13:13",
+      "end_timestamp": "00:13:23",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Self-reported results as of recording; cohort, denominator, period and qualification criteria are unspecified."
+    },
+    {
+      "claim": "An illustrative outreach example references a company hiring two account executives and an employee reaching 150% of quota in the previous year.",
+      "start_timestamp": "00:16:43",
+      "end_timestamp": "00:17:38",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Example prospect research, not Common Room or RB2B staffing or performance. The employee and company are not established in the transcript, and 'last year' should not be assigned a firm calendar year for the example."
+    },
+    {
+      "claim": "Florian recommends reaching identified visitors within approximately 15 minutes. Historically, his SDR teams had a one-hour SLA for demo requests while aiming to respond within ten minutes.",
+      "start_timestamp": "00:20:17",
+      "end_timestamp": "00:21:02",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Recommendation and historical operating targets, not measured response-time achievements. Earlier employers and dates are unspecified."
+    },
+    {
+      "claim": "Pete says RB2B's recommendation was approximately 24 hours, while some users waited 48 or 72 hours. He later describes an email and LinkedIn follow-up within 24 hours after connection acceptance.",
+      "start_timestamp": "00:21:40",
+      "end_timestamp": "00:22:54",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Reported guidance and observed delays, not an achieved company SLA. The timing reference shifts between the website visit, connection request and acceptance."
+    },
+    {
+      "claim": "Pete reports that RB2B identifies, on average, approximately 20–30% of US-based website visitors.",
+      "start_timestamp": "00:39:47",
+      "end_timestamp": "00:40:28",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "SaaS building",
+      "caveat": "Company representative's self-report at recording, not Adam's statement or an independently audited rate. Pete says coverage varies by audience and online profile richness."
+    },
+    {
+      "claim": "Pete recounts a traffic discrepancy in which a user claimed 20,000 US visitors over the past month, RB2B identified 17 people, and another tool appeared to show only 90 US visitors over the past 30 days.",
+      "start_timestamp": "00:40:33",
+      "end_timestamp": "00:41:13",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "SaaS building",
+      "caveat": "Illustrative or anecdotal customer figures with no site, dates or reconciled definitions. The other tool's name is garbled as 'HR'/'HRS'. Pete explicitly says this is an observation, not a diagnosis, and cautions against turning it into a public post."
+    },
+    {
+      "claim": "Florian says Common Room usually describes its de-anonymization coverage as approximately 15–30% of traffic.",
+      "start_timestamp": "00:41:35",
+      "end_timestamp": "00:42:08",
+      "speaker": "Florian Tatulia",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Company self-report at recording. Geography is not specified here, and the subsequent explanation mixes identification coverage with ICP filtering; it should not be treated as a precise funnel calculation."
+    },
+    {
+      "claim": "Pete describes the RB2B Insiders community as holding coaching calls every Tuesday and refers to one held that morning.",
+      "start_timestamp": "00:05:45",
+      "end_timestamp": "00:06:02",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Reported cadence at recording. Together with the closing promise to publish the next day, this suggests recording preceded publication, but does not independently establish an exact event date."
+    },
+    {
+      "claim": "Pete reads approximately 110–112 attendees near the opening and 101 people remaining near the end of the Q&A.",
+      "start_timestamp": "00:00:22",
+      "end_timestamp": "00:48:49",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Live-event audience snapshots at 00:00:22–00:00:28 and 00:48:41–00:48:49, not unique registrants, total viewers or Adam's social following."
+    },
+    {
+      "claim": "Pete says Florian's LinkedIn profile shows approximately 67,000 followers, a Top Voice badge and 670 mutual connections with Pete.",
+      "start_timestamp": "00:49:35",
+      "end_timestamp": "00:49:53",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Host-reported guest social proof as of recording, not independently verified and not Adam's audience."
+    }
+  ],
+  "tensions_and_corrections": [
+    "Channel ownership does not establish speaker identity: Adam is explicitly absent. No claim in this source should be classified as adam_self_report or adam_opinion.",
+    "Publication occurred on 2024-12-11. References to a Tuesday coaching call that morning and publication 'tomorrow' suggest an earlier recording, but publication is not an independently verified event date.",
+    "Florian's warning against mentioning website tracking includes exceptions for visitor-identification vendors and differences between buyer personas. It should not be reduced to an unconditional rule.",
+    "Pete's original timing advice prioritizes LinkedIn familiarity and distance from the website visit; Florian prioritizes reaching prospects while interest is current. Pete reconsiders the guidance, but no controlled comparison or completed documentation update is shown.",
+    "Speed and customization create an operational dependency: rapid, relevant outreach requires accessible research, routing and appropriate signals. Neither speaker demonstrates that every small team can perform all of this within 15 minutes.",
+    "Common Room's 15%+, 20–22% and 32% reply figures describe different levels or combinations of sequence activity. They are not necessarily contradictory, but their cohorts and periods are unspecified.",
+    "The 3x booking comparison has no explicit baseline, while the website-only comparison is garbled. No normalized lift calculation is justified.",
+    "The annual growth metric is captioned 'AR'. It may mean ARR, but the transcript alone does not support silently replacing the term or treating it as revenue, profit or cash.",
+    "RB2B's 20–30% US-visitor identification claim and Common Room's 15–30% traffic claim are not directly comparable because geography, populations and methodology are not aligned.",
+    "The 20,000-versus-90 traffic discrepancy remains unresolved. Florian discusses ICP filtering and identification methodology, which does not establish the cause of the analytics discrepancy Pete raised.",
+    "Florian's near-zero overlap claim supports his preference for multiple identification tools, but neither speaker explains or measures the difference. Pete acknowledges near the close that he does not know why they identify different people.",
+    "Social and ground-swell plays depend on audience behavior. Florian explicitly cautions that salespeople may cooperate more readily than developers and that buyers without digital traces produce fewer usable signals.",
+    "Pete's previous shipping-company experience, AI habits and communication preferences belong to Pete; Florian's career history, growth results and LinkedIn following belong to Florian or Common Room.",
+    "Pete's closing description of a shared mission is host language. It is not an approved Adam mission statement.",
+    "The source is publicly accessible but supplied for internal research. Public reuse is not cleared, and Pete adds a specific caution against publicizing his unverified traffic-discrepancy observation."
+  ],
+  "reusable_topics": [
+    "Why a website visit is a prioritization signal rather than proof of purchase intent",
+    "Combining visitor identification with hiring and technology research",
+    "Building an account point of view from person-level activity",
+    "Speed-to-lead versus LinkedIn-first outreach",
+    "Validating manual sales workflows before automation",
+    "Using social activity and product usage to strengthen prospect qualification",
+    "Moving from an individual contributor's interest to an executive conversation",
+    "Ground-swell prospecting and its audience-dependent limits",
+    "Finding proxy signals when buying conditions are hidden",
+    "Using AI to generate prospecting hypotheses",
+    "Distinguishing traffic volume, identification coverage and ICP fit",
+    "Diagnosing traffic quality before redesigning a landing page",
+    "Testing audience, message and channel combinations",
+    "Applying signal-based selling to service businesses",
+    "Product coverage limits for buyers with sparse digital footprints",
+    "Internal company teaching and customer education through live playbooks"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:51:07",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript only; no web search, audio review, slide inspection or external verification.",
+      "Automatic captions are not diarized and contain garbled names, product names and at least two material numerical or metric phrases.",
+      "Adam does not speak, so this source provides associated company and guest context rather than direct evidence of his personal beliefs, voice or biography.",
+      "Reported conversion and growth metrics lack sample sizes, exact measurement windows and independent validation.",
+      "The exact recording date is not explicitly stated.",
+      "No material bootstrapping-versus-VC discussion or direct Adam building-in-public testimony appears.",
+      "Internal wiki synthesis only; no clearance for reuse in public copy."
+    ]
+  }
+}

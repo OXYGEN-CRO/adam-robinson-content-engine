@@ -1,0 +1,632 @@
+{
+  "video_id": "HIuvLo23R2M",
+  "title": "Most Cold Emails Are Trash. Here’s What Jason Bay Is Doing Instead.",
+  "published": "2025-06-10T19:00:56+00:00",
+  "speakers_and_attribution": "Adam Robinson does not speak in this transcript. Pete Crowley introduces himself as RB2B’s head of growth and says Adam is flying back from an executive offsite. Pete hosts Jason Bay of Outbound Squad. Audience guests are Curtis Triber, pitching Super Send, and Lewis, founder of Get Responding; Lewis’s surname is unclear in the captions. Audience comments are sometimes read aloud by Pete or Jason. Captions are not diarized, so attribution follows introductions and conversational context. All strategies and personal experiences below belong to their identified speakers, not automatically to Adam. References to Adam’s attendance and writing practices are third-party statements.",
+  "summary": "Pete Crowley and Jason Bay discuss outbound offers that deliver useful expertise, benchmarks or custom analysis before asking buyers to invest time. A live consultation with Get Responding explores stalled deals, buyer authority, concrete business outcomes and narrower targeting. The final third covers coordinated email, phone and social outreach; interpreting engagement metrics; dialing tools; medium selection; and concerns about synthetic personalization. Super Send also presents its multichannel outreach product. This source provides extensive guest and host go-to-market context, but no direct evidence of Adam’s beliefs or achievements.",
+  "key_learnings": [
+    {
+      "claim": "Curtis positions Super Send around combining email, LinkedIn and Twitter in one sequence, preserving a consistent sender identity and reducing the work of coordinating separate tools. He also describes onboarding assistance through the first live campaign.",
+      "start_timestamp": "00:05:33",
+      "end_timestamp": "00:07:27",
+      "speaker": "Curtis Triber",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Vendor pitch describing intended product benefits; no independent performance verification. Captions alternate between Super Send and superend."
+    },
+    {
+      "claim": "Curtis says Super Send addresses LinkedIn automation concerns with activity limits and a dedicated mobile proxy per connected profile. He expands inbox rotation into rotation of sender profiles across channels.",
+      "start_timestamp": "00:07:30",
+      "end_timestamp": "00:08:39",
+      "speaker": "Curtis Triber",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Vendor description, not evidence that accounts cannot be restricted or that these practices satisfy platform rules."
+    },
+    {
+      "claim": "Jason argues that buyers outside an active purchase process need a valuable reason to engage: access to a demo or a seller’s calendar is insufficient value by itself.",
+      "start_timestamp": "00:10:30",
+      "end_timestamp": "00:11:56",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Jason supports this with reported research and a market-readiness estimate whose underlying methods are not supplied."
+    },
+    {
+      "claim": "Jason evaluates an outbound offer by the value the prospect receives relative to the effort required. A larger commitment needs a correspondingly stronger benefit.",
+      "start_timestamp": "00:11:56",
+      "end_timestamp": "00:12:42",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Conceptual framework explained using a screen-shared graphic; the transcript supplies the explanation, not the visual itself."
+    },
+    {
+      "claim": "The expertise-based offer sells what a prospect can learn from the person they will meet. Jason suggests emphasizing a founder’s experience, an account executive’s relevant customer knowledge or a sales engineer’s technical expertise.",
+      "start_timestamp": "00:12:45",
+      "end_timestamp": "00:13:59",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The account executive named Adam in the welding example is part of a sample pitch and must not be identified as Adam Robinson."
+    },
+    {
+      "claim": "Reusable reports and benchmarks can make outreach compelling by revealing something about a prospect’s performance relative to peers. Jason illustrates this with an ecommerce client that commissioned comparative customer-support research.",
+      "start_timestamp": "00:14:02",
+      "end_timestamp": "00:15:49",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest client anecdote. The sample prospect’s inferior response time is illustrative, not a verified finding about a named company."
+    },
+    {
+      "claim": "Custom audits can create a stronger individual offer by identifying specific missed opportunities before the meeting. Jason’s ecommerce example examines checkout, abandoned-cart messages and upsells; Pete associates this effort with high-priority accounts.",
+      "start_timestamp": "00:15:51",
+      "end_timestamp": "00:17:23",
+      "speaker": "Jason Bay, with Pete Crowley",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Jason supplies the audit strategy; Pete supplies the enterprise and account-based targeting interpretation. No conversion results are given."
+    },
+    {
+      "claim": "For reporting software, Jason suggests turning anonymized customer data and customer interviews into comparative insights that prospects can use during an initial call.",
+      "start_timestamp": "00:17:26",
+      "end_timestamp": "00:18:31",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Hypothetical advice for an audience member selling to private-equity funds. Jason explicitly says he does not know that industry well."
+    },
+    {
+      "claim": "Events work as offers when they provide distinctive experiences, relevant peers and credible customers. Jason favors an unusual activity over a generic expensive dinner and suggests a virtual lunch-and-learn as a lower-budget alternative.",
+      "start_timestamp": "00:18:58",
+      "end_timestamp": "00:20:43",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The cooking event is a reported example; the virtual format is a suggestion. Neither has quantified commercial outcomes."
+    },
+    {
+      "claim": "Jason describes Outbound Squad’s strongest offer as an outbound performance audit that compares a team with reference brands, identifies lost meeting opportunities and leaves the buyer with an actionable plan.",
+      "start_timestamp": "00:20:43",
+      "end_timestamp": "00:21:11",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest assessment of his own service offer; no comparative test establishing it as the best offer is provided."
+    },
+    {
+      "claim": "Jason builds messaging around four buyer dimensions: priorities, current solutions, problems with those solutions and aspirations. Asking what would make an engagement feel successful months later helps uncover the buyer’s desired outcomes.",
+      "start_timestamp": "00:21:12",
+      "end_timestamp": "00:22:57",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Examples involving AI adoption and cybersecurity are hypothetical applications, not reported achievements."
+    },
+    {
+      "claim": "Pete believes the seller should provide value first. He says generic requests for time fail to show him a benefit, and describes using Google Gemini to find tools once he has an identified need.",
+      "start_timestamp": "00:22:59",
+      "end_timestamp": "00:24:12",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Pete’s personal buying behavior and sales philosophy; this is not Adam’s behavior or a universal buyer journey."
+    },
+    {
+      "claim": "Pete warns that vague pain language can obscure the problem a product solves. In Get Responding’s case, he questions whether the website makes proposal-related difficulties concrete enough for buyers to recognize.",
+      "start_timestamp": "00:28:36",
+      "end_timestamp": "00:30:03",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Live website impression. Pete infers that similar vagueness might affect sales calls without reviewing those calls."
+    },
+    {
+      "claim": "Jason treats stalled conversion as potentially a targeting problem: the company may be reaching the wrong organizations or appealing to users who do not control purchasing. He recommends mapping the message to the actual buyer’s objectives.",
+      "start_timestamp": "00:30:07",
+      "end_timestamp": "00:31:58",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Provisional diagnosis based on limited information. His classification of the sales motion also depends on an internally inconsistent price passage."
+    },
+    {
+      "claim": "Jason recommends connecting operational improvements to business results by quantifying current performance, the cost of inaction and a plausible return. For RFP software, he suggests investigating win rates and response times rather than relying only on convenience claims.",
+      "start_timestamp": "00:32:25",
+      "end_timestamp": "00:33:03",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The suggested win-rate improvements are illustrative placeholders, not measured Get Responding results."
+    },
+    {
+      "claim": "Closed-lost reasons should guide diagnosis: a competitor win, lack of budget and continuation with the status quo require different responses. Lewis reports that his deals mostly fade after positive initial conversations rather than ending in explicit rejection.",
+      "start_timestamp": "00:33:03",
+      "end_timestamp": "00:33:35",
+      "speaker": "Jason Bay and Lewis",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Jason recommends the analysis; Lewis supplies the qualitative loss pattern. No CRM data or loss-category counts are shown."
+    },
+    {
+      "claim": "Jason links ghosting to insufficient access to decision-making authority and failure to connect the product with a business priority. He explains that an operational pain such as slow proposals becomes more compelling when connected to lost business, competitive losses or a product launch.",
+      "start_timestamp": "00:34:36",
+      "end_timestamp": "00:36:23",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "General practitioner diagnosis, not a demonstrated causal explanation for every stalled Get Responding deal."
+    },
+    {
+      "claim": "The consultation distinguishes interest from strong need. Jason suggests organizations facing mandatory RFP processes, while Pete recommends starting with a narrow segment where the pain is acute and expanding after establishing traction.",
+      "start_timestamp": "00:33:49",
+      "end_timestamp": "00:37:56",
+      "speaker": "Pete Crowley, with Jason Bay",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Logistics and consulting suggestions partly come from audience anecdotes. Pete explicitly labels his own experience as a sample of one."
+    },
+    {
+      "claim": "Jason identifies four contributors to attention: volume, offer, messaging relevance and delivery. He argues that volume becomes less effective as a channel fills with competing outreach and that live delivery can add persuasive force.",
+      "start_timestamp": "00:39:44",
+      "end_timestamp": "00:41:09",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His description of email saturation and renewed phone opportunity is a publication-era assessment, not a permanent channel ranking."
+    },
+    {
+      "claim": "Jason recommends coordinating phone, email and social as one campaign. His starting cadence distributes touches over three weeks and is intended to be adjusted based on observed performance.",
+      "start_timestamp": "00:41:11",
+      "end_timestamp": "00:43:29",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A recommended starting pattern, not a measured optimum for every audience. The exact counts and clarification are recorded in the metric ledger."
+    },
+    {
+      "claim": "A voicemail can support email engagement even without a callback. Jason recommends giving a relevant reason to read the email and identifying its subject line instead of asking the prospect to return the call.",
+      "start_timestamp": "00:41:53",
+      "end_timestamp": "00:42:44",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The reported reply-rate benefit comes from research Jason attributes to Gong; the transcript does not establish causality or supply study details."
+    },
+    {
+      "claim": "Jason recommends a separate domain for cold outreach, a gradual warm-up and restrained daily sending volume. Pete adds that teams can prepare multiple domain variations.",
+      "start_timestamp": "00:43:36",
+      "end_timestamp": "00:45:05",
+      "speaker": "Jason Bay, with Pete Crowley",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical practitioner recommendations from this source, not verified current deliverability requirements or guarantees."
+    },
+    {
+      "claim": "Jason recommends studying the first contacts in recent won deals to choose an entry point. He often starts with directors or enablement leaders at larger organizations, while recommending the owner as an initial contact for smaller businesses.",
+      "start_timestamp": "00:45:54",
+      "end_timestamp": "00:46:40",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Access to an executive remains important later; the first meeting need not always be with that executive."
+    },
+    {
+      "claim": "Pete tailors offers to each persona and the immediate next step in the sales process. A useful offer for an account executive may differ from one for a VP, and trying to sell too much in one interaction can muddy the message.",
+      "start_timestamp": "00:46:44",
+      "end_timestamp": "00:47:49",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Host practice and opinion. His statement that an email should sell a meeting describes the objective, while Jason’s earlier advice concerns how to frame the ask."
+    },
+    {
+      "claim": "Jason treats open rate as a rough diagnostic rather than a reliable success metric because automated spam-filter activity can register opens. A low rate may still signal a deliverability problem.",
+      "start_timestamp": "00:48:10",
+      "end_timestamp": "00:48:44",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His threshold is a rule of thumb, and he explicitly questions the metric’s reliability."
+    },
+    {
+      "claim": "For calling infrastructure, Jason suggests checking how a dialer number appears on one’s own phone and using a platform that can change numbers. He recommends testing local dialing rather than assuming a local area code improves pickup.",
+      "start_timestamp": "00:50:03",
+      "end_timestamp": "00:51:48",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Jason discloses that his recommended dialer, captioned variably as Oram, ORM and Orum, sponsors him. His study summary is not independently verified."
+    },
+    {
+      "claim": "Jason distinguishes click-to-dial, sequential power dialing and parallel dialing. He cautions that enterprise outreach needs sufficient account research available when a call connects, which can make parallel dialing harder to prepare.",
+      "start_timestamp": "00:51:52",
+      "end_timestamp": "00:53:00",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The limitation concerns preparation and relevance, not a blanket rejection of parallel dialers."
+    },
+    {
+      "claim": "Jason allows that some audiences may respond well enough to email or social without phone. He still recommends testing the combined campaign impact because low pickup rates can conceal voicemail’s contribution to replies.",
+      "start_timestamp": "00:53:03",
+      "end_timestamp": "00:53:42",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "This qualifies his earlier emphatic instruction to use phone; the multichannel statistic he cites is a third-party study claim."
+    },
+    {
+      "claim": "Jason uses engagement with his posts as a prompt for direct outreach through email, LinkedIn or phone. He favors phone for quickly conveying personality and expertise, but finds voice notes burdensome for his busy buyers.",
+      "start_timestamp": "00:53:44",
+      "end_timestamp": "00:54:45",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest self-reported practice and preference. He explicitly encourages others to test voice notes rather than universalizing his results."
+    },
+    {
+      "claim": "Jason now favors video when visual demonstration improves the message, such as showing an ecommerce checkout audit. He says generic talking-head introductions have lost the novelty they had when he promoted video prospecting in 2017–2018.",
+      "start_timestamp": "00:54:45",
+      "end_timestamp": "00:55:28",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Explicit evolution in Jason’s advice, based on his experience; not an abandonment of all video outreach."
+    },
+    {
+      "claim": "Jason expresses discomfort with presenting synthetic AI content as real, while recommending prerecorded voicemail drops and remaining open to testing AI voicemail tools he has not used.",
+      "start_timestamp": "00:55:35",
+      "end_timestamp": "00:56:37",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "His ethical concern and willingness to experiment coexist; the transcript does not support a categorical anti-AI position."
+    },
+    {
+      "claim": "Pete says virtually all LinkedIn content from Adam and other company posters is manually written, and argues that the B2B SaaS audience remains sensitive to recognizable AI content.",
+      "start_timestamp": "00:56:40",
+      "end_timestamp": "00:57:26",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Third-party description of company practice. Pete softens an initial absolute claim to 'for the most part' and 'virtually everything'; this establishes neither an approved voice nor Adam’s personal AI policy."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Pete identifies himself as RB2B’s head of growth and says Adam is absent because he is flying back from their executive offsite.",
+      "start_timestamp": "00:00:33",
+      "end_timestamp": "00:00:47",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Third-party context about Adam; the recording date and offsite details are not established."
+    },
+    {
+      "claim": "Pete selects audience pitches based on fit with the show’s audience, explaining that unrelated markets would make the segment less useful to participants.",
+      "start_timestamp": "00:02:52",
+      "end_timestamp": "00:03:19",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "A concrete editorial decision by Pete, not evidence of Adam’s personal mission."
+    },
+    {
+      "claim": "Jason says he helped organize an Austin sales-leader cooking competition in February and that Adam attended.",
+      "start_timestamp": "00:18:58",
+      "end_timestamp": "00:19:25",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Adam’s attendance is guest-reported. February likely refers to 2025 given the release context, but the spoken passage does not state the year."
+    },
+    {
+      "claim": "Lewis says Get Responding grew from his own frustration with searching past material, manually writing responses and copying content for RFPs. He describes it as his first major business and says he came from delivery before moving into enterprise sales.",
+      "start_timestamp": "00:26:08",
+      "end_timestamp": "00:28:33",
+      "speaker": "Lewis",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Guest founder backstory, not Adam’s. The assistant’s name appears as Eevee, Evie and EV in automatic captions."
+    },
+    {
+      "claim": "Lewis describes learning through mistakes and revising his process. He says recent discovery analysis clarified pain by role and informed a revised outbound campaign, while his website had not yet caught up.",
+      "start_timestamp": "00:35:20",
+      "end_timestamp": "00:35:54",
+      "speaker": "Lewis",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Reported process changes; no subsequent conversion improvement is demonstrated in this passage."
+    },
+    {
+      "claim": "Pete says he began his sales and marketing career more than a decade earlier with high-volume phone and email outreach, and recalls a later disruption in that approach around the COVID period.",
+      "start_timestamp": "00:38:46",
+      "end_timestamp": "00:39:41",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Pete’s career history and retrospective impression. He is explicitly uncertain about the timing of the market shift."
+    },
+    {
+      "claim": "Jason remembers manually following up cold emails before sequence tools existed and says automation initially felt like a major shortcut.",
+      "start_timestamp": "00:40:14",
+      "end_timestamp": "00:40:32",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest career recollection without a specific date."
+    },
+    {
+      "claim": "Jason discloses his sponsorship and partnership when recommending a dialer, and separately states a personal objection to disguising synthetic AI content as authentic human content.",
+      "start_timestamp": "00:51:13",
+      "end_timestamp": "00:56:37",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Disclosure occurs at 51:21–51:25; AI concern at 56:00–56:10. These are Jason’s values and commercial relationship, not Adam’s."
+    },
+    {
+      "claim": "Jason says Outbound Squad recruits trainers with prior sales leadership and high-performing sales backgrounds, including former Outreach sales leaders and President’s Club earners.",
+      "start_timestamp": "00:58:13",
+      "end_timestamp": "00:58:50",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Company self-description in a closing promotional segment; no names, headcount or employment arrangements are supplied."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Jason Bay: Pete credits him with training more than 1,000 sales reps and building teams at ZoomInfo and Gong. Pete also calls Jason the audience’s favorite guest of 2024 and says his prior August appearance generated the most recording requests.",
+      "start_timestamp": "00:00:52",
+      "end_timestamp": "00:01:18",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Host-provided social proof, not independently verified or Adam’s achievement. Training accumulation period and recording-request counts are unspecified; prior August appears to mean August 2024."
+    },
+    {
+      "claim": "RB2B show pitch segment: Pete says a good pitch usually produces one to two dozen demos, describes a greater-than-60% positive poll threshold for merchandise, and observes three demo requests during Curtis’s segment.",
+      "start_timestamp": "00:04:44",
+      "end_timestamp": "00:09:06",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "The 12–24 range is a host-reported norm with no sample period. Three is an interim chat observation, not confirmed completed or booked demos. Final poll results are not stated."
+    },
+    {
+      "claim": "Cold email research attributed to Gong: Jason reports that asking for a meeting reduces reply rate by 44%, while a compelling offer increases reply rate by 28%.",
+      "start_timestamp": "00:10:46",
+      "end_timestamp": "00:11:56",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Third-party research relayed by Jason, reportedly not yet released and associated with a course under development. Baselines, sample size, study period and percentage-point versus relative-change definitions are absent."
+    },
+    {
+      "claim": "Market-readiness estimate: Jason says 3% of a market is actively buying and frames the remaining 97% as the audience that useful offers can help engage.",
+      "start_timestamp": "00:11:12",
+      "end_timestamp": "00:11:38",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Unsourced general estimate, not a measured share of RB2B’s or Outbound Squad’s market."
+    },
+    {
+      "claim": "Unnamed ecommerce-serving client: Jason says its marketing team and a third party mystery-shopped 300 ecommerce companies to benchmark support channels and response times.",
+      "start_timestamp": "00:14:11",
+      "end_timestamp": "00:14:49",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest-reported client project; date and research design are unspecified. This is a research sample count, not a customer count."
+    },
+    {
+      "claim": "Jason’s Austin event: approximately 18 sales leaders plus a few other attendees participated in a cooking competition hosted by four chefs in February.",
+      "start_timestamp": "00:18:58",
+      "end_timestamp": "00:19:25",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate guest self-report. Spoken year is absent; February 2025 is only a contextual inference. No event cost or pipeline result is given."
+    },
+    {
+      "claim": "Get Responding product claims: Lewis says the assistant saves 20 hours per RFP, RFI or tender response. He reports speaking with more than 100 businesses, finding about one week to a first draft, and producing a tailored first draft in 90 seconds or a couple of minutes with his product.",
+      "start_timestamp": "00:26:08",
+      "end_timestamp": "00:27:05",
+      "speaker": "Lewis",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Founder-reported product claims, not independently tested. First-draft generation time is not the same as total approved-response time; the research period and averaging method are unspecified."
+    },
+    {
+      "claim": "Get Responding traction at recording: Lewis says the first customer has just onboarded and two additional customers are looking to go live in the next quarter.",
+      "start_timestamp": "00:27:07",
+      "end_timestamp": "00:27:43",
+      "speaker": "Lewis",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "One customer is reported achieved; two are prospective, not completed wins. 'Next quarter' is relative to an unspecified recording date. His nearby YC-funded reference concerns another business in the market, not established funding for Get Responding."
+    },
+    {
+      "claim": "Get Responding founder experience: Lewis says he has spent the preceding 12 months in enterprise sales after a delivery background.",
+      "start_timestamp": "00:28:04",
+      "end_timestamp": "00:28:33",
+      "speaker": "Lewis",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest self-report measured backward from the recording, not a precise calendar interval or Adam’s experience."
+    },
+    {
+      "claim": "Get Responding pricing: captions record an average deal of about £55,000 followed by £4,200 for a five-person team, with an annual or 12-month term confirmed.",
+      "start_timestamp": "00:30:17",
+      "end_timestamp": "00:30:38",
+      "speaker": "Lewis, with Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Material numerical inconsistency or caption error. Preserve both figures without selecting a corrected amount. These are deal/pricing statements, not company ARR or realized revenue; Jason nevertheless classifies the motion as SMB."
+    },
+    {
+      "claim": "Get Responding access to decision makers: Lewis estimates less than 10% across the business’s history, 30–40% in the past three months, and seven or eight of the last ten initial demos involving key decision makers.",
+      "start_timestamp": "00:31:42",
+      "end_timestamp": "00:32:23",
+      "speaker": "Lewis",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate founder estimates using different time windows and potentially different denominators. They are not a single reconciled conversion metric."
+    },
+    {
+      "claim": "Get Responding target segment: Lewis defines its current ICP as businesses with 100–1,000 employees across software, IT services, marketing and logistics.",
+      "start_timestamp": "00:37:00",
+      "end_timestamp": "00:37:23",
+      "speaker": "Lewis",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Target-account employee range, not Get Responding’s own headcount or an achieved customer distribution."
+    },
+    {
+      "claim": "Cold calling benchmark: Jason says top reps turn 16–25% of connected calls into meetings.",
+      "start_timestamp": "00:41:11",
+      "end_timestamp": "00:41:19",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Denominator is connected calls, not total dials. Study source, period, sample and definition of top reps are not supplied."
+    },
+    {
+      "claim": "Recommended outreach cadence: Jason initially says 12–15 touches over three weeks, then specifies and reiterates 15: six phone calls, six emails and three social touches, equivalent to two calls, two emails and one social touch each week.",
+      "start_timestamp": "00:41:24",
+      "end_timestamp": "00:43:29",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Prescription, not an achieved company metric. Pete’s description of an even split across channels is corrected by the explicit 6/6/3 allocation."
+    },
+    {
+      "claim": "Gong sequence comparison: Jason says sequences including calls and voicemails have twice the email reply rate of sequences without them.",
+      "start_timestamp": "00:42:18",
+      "end_timestamp": "00:42:44",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Third-party study claim without baseline, sample, period or controls; not demonstrated Outbound Squad or RB2B performance."
+    },
+    {
+      "claim": "Email infrastructure recommendation: Jason suggests warming a new email/domain for two to three weeks and sending no more than 50 emails daily per domain.",
+      "start_timestamp": "00:43:51",
+      "end_timestamp": "00:44:44",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Source-era recommendation, not a universal safe threshold. The exchange explicitly settles on per domain, despite an initially unfinished phrase about a single sender."
+    },
+    {
+      "claim": "Email open-rate heuristic: Jason gives 40% or higher as a guiding benchmark and says below 40% can indicate deliverability problems.",
+      "start_timestamp": "00:48:10",
+      "end_timestamp": "00:48:44",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He immediately cautions that spam-filter opens distort the metric. This is a diagnostic rule of thumb, not a verified customer result."
+    },
+    {
+      "claim": "Pete’s historical calling experience: he places his last phone campaigns around 2021 and recalls new numbers abruptly appearing as spam, tentatively using June 2021 as an example.",
+      "start_timestamp": "00:49:03",
+      "end_timestamp": "00:50:00",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Uncertain retrospective date; employer and campaign scale are unspecified. Do not attribute the experience to Adam or necessarily to RB2B."
+    },
+    {
+      "claim": "Phone-number repetition: Jason says pickup rates decline substantially after the third or fourth dial from the same number and recommends changing the number each week within his three-week sequence.",
+      "start_timestamp": "00:50:15",
+      "end_timestamp": "00:50:38",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "No quantified decline, source or observation period is supplied."
+    },
+    {
+      "claim": "Dialer-sponsored research: Jason says a study covering millions of outbound dials found a slightly lower pickup rate when local numbers were used.",
+      "start_timestamp": "00:51:13",
+      "end_timestamp": "00:51:48",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Exact sample, effect size and study period are absent. Tool name varies in captions; Jason discloses his sponsorship and partnership."
+    },
+    {
+      "claim": "Salesloft research: Jason reports a 3.1-times increase in contact rate from combining phone, email and social channels.",
+      "start_timestamp": "00:53:03",
+      "end_timestamp": "00:53:42",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Third-party comparison relayed by Jason; contact definition, baseline, sample and period are not specified. Contact rate is not revenue or meeting conversion."
+    },
+    {
+      "claim": "Jason’s outreach history: he says prospecting videos were a major focus of his advice in 2017 and 2018, before generic introductions became less novel.",
+      "start_timestamp": "00:54:45",
+      "end_timestamp": "00:55:28",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical guest self-report, contrasted with his view at recording; no quantified decline in performance is supplied."
+    }
+  ],
+  "tensions_and_corrections": [
+    "Adam is absent. Channel ownership and the title do not make Pete’s or Jason’s claims Adam’s beliefs, strategies or achievements.",
+    "Publication metadata specifies 2025-06-10T19:00:56+00:00, while the transcript header says Published: 20250611. The metadata timestamp is preserved; the discrepancy is unresolved and neither establishes the recording date.",
+    "The Get Responding pricing passage gives about £55,000 and £4,200 for a five-person team with annual timing. These cannot safely be reconciled from captions; Jason’s SMB-motion conclusion must retain that uncertainty.",
+    "Lewis’s decision-maker access estimates use lifetime, recent-three-month and last-ten-demo windows. Apparent improvement is plausible, but the figures are not directly comparable.",
+    "The title and Pete’s opening emphasize offers over AI, relevance and volume. Jason later explicitly includes volume, relevance and delivery alongside offer, so the discussion does not support discarding those other factors.",
+    "Jason initially says phone is essential, then acknowledges that some customer bases may respond sufficiently through email or social and recommends testing.",
+    "Jason’s cadence begins as 12–15 touches and is clarified to 15 with a 6/6/3 channel split. Pete’s description of equal distribution across channels does not match that split.",
+    "Access to authority is presented as essential for conversion, but Jason says larger-company first meetings often begin with directors or enablement leaders. Initial contact and eventual decision-making access are different stages.",
+    "The website critique is provisional: Lewis says his recent discovery findings had already changed outbound messaging but had not yet been applied to the website.",
+    "Jason’s rejection of synthetic content presented as real coexists with support for templated voicemail drops that sound customized and openness to testing untried AI voicemail tools. Preserve this tension rather than inventing a consistent blanket policy.",
+    "Pete corrects his own absolute manual-writing statement to a qualified claim that virtually everything is manually written. This is third-party evidence about Adam’s content production, not Adam’s own stated policy.",
+    "The suggested 10–20% RFP win-rate improvement, an example involving 100 software-development clients, hypothetical audit findings and illustrative executive experience are not achieved results.",
+    "No Adam/RB2B ARR, revenue, profit, cash, fundraising or staffing figures are reported. Get Responding’s customer counts and product claims, and Outbound Squad’s client references, belong to those guests.",
+    "Pete first predicts replay availability tomorrow or in two days, then relays the producer’s correction that the YouTube replay starts immediately at 58:53–59:04.",
+    "Automatic captions vary product, company and personal names, including Super Send/superend, Evie/Eevee/EV and Orum/Oram/ORM. Names and figures should be checked against audio before precise public reuse."
+  ],
+  "reusable_topics": [
+    "Guest framework: making outbound meetings valuable before a purchase decision",
+    "Expertise, shared benchmarks and custom audits as three offer formats",
+    "Turning customer data into useful comparative content",
+    "Distinctive peer events and virtual alternatives as outbound offers",
+    "Diagnosing stalled demos through targeting, authority and business outcomes",
+    "Connecting operational pain to revenue priorities and the cost of inaction",
+    "Using closed-lost analysis to distinguish different conversion problems",
+    "Choosing a narrow initial market based on acute need",
+    "Coordinating phone, email and social around a single prospect",
+    "Measuring voicemail by its effect on email replies",
+    "Choosing the first contact from actual won-deal history",
+    "Separating an offer’s immediate objective from the eventual sale",
+    "Why open rates can mislead",
+    "Research preparation as a constraint on parallel dialing",
+    "Choosing video when the visual demonstration adds value",
+    "Jason’s changing advice on generic prospecting videos",
+    "Authenticity concerns and the limits of synthetic personalization",
+    "Third-party evidence about Adam’s manual content production",
+    "RB2B’s audience pitch and live problem-solving show formats"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:59:25",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript, including introductory pitch, middle consultation, final tactical discussion and closing remarks.",
+      "No web search, tools, external verification, file access or edits were used.",
+      "Automatic captions lack speaker labels; attribution relies on conversational context and speaker introductions.",
+      "Screen-shared graphics, website visuals, chat contents and referenced studies were not independently available beyond their spoken descriptions.",
+      "Study figures and company claims remain attributed reports, with missing methodologies and periods explicitly noted.",
+      "There is no direct Adam testimony and no substantive bootstrapping-versus-VC discussion.",
+      "This is internal wiki research only; public accessibility does not establish clearance for new public copy."
+    ]
+  }
+}

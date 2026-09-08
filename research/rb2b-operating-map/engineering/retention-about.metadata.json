@@ -1,0 +1,28 @@
+{
+  "url": "https://retention.com/about-r",
+  "captured_at": "2026-09-08T14:15:19.577654+00:00",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Retention.com",
+      "url": "https://retention.com",
+      "logo": "https://retention.com/favicon.png",
+      "sameAs": [
+        "https://www.linkedin.com/company/retention-com",
+        "https://twitter.com/retention_com"
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Retention.com",
+      "url": "https://retention.com",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://retention.com/blog?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  ]
+}

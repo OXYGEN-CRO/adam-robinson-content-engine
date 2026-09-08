@@ -1,0 +1,115 @@
+{
+  "ok": true,
+  "data": {
+    "table": {
+      "id": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+      "slug": "adam-robinson-linkedin-continuations-2026-09-08",
+      "displayName": "Adam Robinson LinkedIn continuations - 2026-09-08",
+      "kind": "table",
+      "projectId": "0c3e45ef-d87c-43a7-83d8-b220dbbce32b",
+      "project": {
+        "id": "0c3e45ef-d87c-43a7-83d8-b220dbbce32b",
+        "slug": "general",
+        "displayName": "General",
+        "physicalSchema": "t_4257983c406e4658b899d7ba3cc760a6"
+      },
+      "physicalSchema": "t_4257983c406e4658b899d7ba3cc760a6",
+      "physicalTableName": "tbl_22c7aa812c634d7791a5e780",
+      "tags": [],
+      "createdAt": "2026-09-08T08:04:00.670Z",
+      "updatedAt": "2026-09-08T08:04:00.670Z"
+    },
+    "columns": [
+      {
+        "id": "4b9555e6-22d3-4832-9d24-983c364847ff",
+        "tableId": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+        "key": "comment_id",
+        "label": "Comment ID",
+        "physicalColumnName": "comment_id",
+        "kind": "manual",
+        "dataType": "text",
+        "semanticType": null,
+        "position": 0
+      },
+      {
+        "id": "a770b9b2-87a4-468b-92a0-da3b861808da",
+        "tableId": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+        "key": "post_id",
+        "label": "Post ID",
+        "physicalColumnName": "post_id",
+        "kind": "manual",
+        "dataType": "text",
+        "semanticType": null,
+        "position": 1
+      },
+      {
+        "id": "880d9875-4261-4d9e-ba8d-13818a263430",
+        "tableId": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+        "key": "url",
+        "label": "URL",
+        "physicalColumnName": "url",
+        "kind": "manual",
+        "dataType": "text",
+        "semanticType": null,
+        "position": 2
+      },
+      {
+        "id": "ec6502bb-9e37-4e99-9d1c-01e5ccccf12f",
+        "tableId": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+        "key": "author_name",
+        "label": "Author",
+        "physicalColumnName": "author_name",
+        "kind": "manual",
+        "dataType": "text",
+        "semanticType": null,
+        "position": 3
+      },
+      {
+        "id": "3f908948-e0ac-4bbb-b970-7ff24a678c8d",
+        "tableId": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+        "key": "content",
+        "label": "Content",
+        "physicalColumnName": "content",
+        "kind": "manual",
+        "dataType": "text",
+        "semanticType": null,
+        "position": 4
+      },
+      {
+        "id": "c68dac32-2a0d-4fe1-935b-73120072d834",
+        "tableId": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+        "key": "posted_at",
+        "label": "Published",
+        "physicalColumnName": "posted_at",
+        "kind": "manual",
+        "dataType": "text",
+        "semanticType": null,
+        "position": 5
+      },
+      {
+        "id": "91dd4b97-f1fe-487e-b42e-6f9b23d0c0ab",
+        "tableId": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+        "key": "source_payload",
+        "label": "Source payload",
+        "physicalColumnName": "source_payload",
+        "kind": "manual",
+        "dataType": "jsonb",
+        "semanticType": null,
+        "position": 6
+      }
+    ],
+    "requestedSlug": "adam-robinson-linkedin-continuations-2026-09-08",
+    "slugStatus": "exact",
+    "table_id": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+    "table_slug": "adam-robinson-linkedin-continuations-2026-09-08",
+    "requested_slug": "adam-robinson-linkedin-continuations-2026-09-08",
+    "slug_status": "exact",
+    "web_url": "https://oxygen-agent.com/workspaces/4257983c-406e-4658-b899-d7ba3cc760a6/tables/22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+    "deepLink": "https://oxygen-agent.com/workspaces/4257983c-406e-4658-b899-d7ba3cc760a6/tables/22c7aa81-2c63-4d77-91a5-e780b9f07ab9"
+  },
+  "meta": {
+    "command": "tables create",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

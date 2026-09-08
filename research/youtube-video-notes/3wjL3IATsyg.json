@@ -1,0 +1,587 @@
+{
+  "video_id": "3wjL3IATsyg",
+  "title": "Cold Email Is NOT Dead—You're Just Doing It Wrong | Andy Mewborn",
+  "published": "2025-03-31T21:05:54+00:00",
+  "speakers_and_attribution": "Andy Mewborn is the principal guest and supplies most email infrastructure, nurturing, copywriting and sequence advice. Adam Robinson contributes his planned LinkedIn workflow, founder-name outreach advice, differentiation philosophy, RB2B rebrand discussion and some closing remarks. Pete, whose surname is not established, moderates and describes the team supporting Adam's brand. Audience participant Leslie describes Pando and her own outreach results. Captions are not diarized; attribution follows explicit handoffs and conversational context, with uncertainty flagged where needed. The opening is an edited teaser, and the material after 00:53:25 appears to be an incomplete appended segment. Guest advice is not evidence of Adam's own practices or beliefs.",
+  "summary": "The conversation presents cold email as a system involving deliverability, sender recognition, relevant insights and a low-friction offer. Andy recommends nurturing prospects through content and describes a three-email sequence: pattern interrupt, perspective shift and an offer of a tailored product example. Adam's substantive contributions concern a LinkedIn warming plan he says he was not implementing, scaling outreach around an already recognized founder, differentiation through product positioning and design, and using webinar attendance to inform content. There is no reliable Adam/company ARR figure in this transcript and little substantive discussion of bootstrapping versus VC.",
+  "key_learnings": [
+    {
+      "claim": "Andy prioritizes inbox placement before sender recognition and then copy or subject-line optimization; a strong message cannot work if it never reaches the recipient.",
+      "start_timestamp": "00:02:06",
+      "end_timestamp": "00:05:38",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A guest's operating framework, not a measured ranking of causal effects. The discussion concerns outbound messages resembling individual Gmail or Outlook emails."
+    },
+    {
+      "claim": "Andy sees personal-brand recognition as a way to improve the reception of outbound email because recipients recognize the sender before evaluating the subject line.",
+      "start_timestamp": "00:05:38",
+      "end_timestamp": "00:06:12",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He mentions Adam as another advocate, but that reference does not establish Adam's exact view or a quantified uplift."
+    },
+    {
+      "claim": "Andy prefers a personal sender name unless the company already has a brand recipients actively like; Liquid Death is his example of a company-name exception.",
+      "start_timestamp": "00:06:36",
+      "end_timestamp": "00:07:15",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Conditional advice based on recognition and affinity, not a universal rule against company senders."
+    },
+    {
+      "claim": "Adam describes an Alec Paul playbook: connect with target buyers, publish increasingly useful content, let familiarity accumulate, then start a conversation later.",
+      "start_timestamp": "00:07:31",
+      "end_timestamp": "00:08:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Adam explicitly says he was not doing this at the time; it had been his plan before his LinkedIn presence grew substantially. The end of the explanation is interrupted by connectivity problems."
+    },
+    {
+      "claim": "Andy frames acquisition as a long-term nurture problem because only a small share of the market is ready to buy at once; connections and industry insights build recognition for future outreach.",
+      "start_timestamp": "00:09:37",
+      "end_timestamp": "00:11:29",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His 3–5% buying-readiness figure is an uncited heuristic. He recommends relevant industry insights rather than assuming any personal content will nurture buyers."
+    },
+    {
+      "claim": "Andy argues that high-touch sales sequences became less effective as widespread adoption filled inboxes with similar follow-ups, while sales leaders kept repeating the playbooks they originally learned.",
+      "start_timestamp": "00:12:11",
+      "end_timestamp": "00:14:11",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His historical explanation draws on early Outreach experience; it does not establish that every longer sequence is ineffective."
+    },
+    {
+      "claim": "Andy recommends warming outbound inboxes before use and distributing sends across secondary domains to limit the damage from individual sender or domain reputation problems.",
+      "start_timestamp": "00:15:35",
+      "end_timestamp": "00:18:18",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical guest advice, not independently verified deliverability guidance. He calls provider-controlled warmup exchanges hacky, and the discussion acknowledges eventual flagging rather than guaranteed inbox placement."
+    },
+    {
+      "claim": "Andy describes connecting RB2B website-visitor identification to outbound tools so an identified visitor matching the ICP can enter an email sequence automatically.",
+      "start_timestamp": "00:18:28",
+      "end_timestamp": "00:18:56",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A described workflow with a hypothetical visitor; no conversion result, implementation detail or current integration verification is supplied."
+    },
+    {
+      "claim": "In response to Leslie's weaker results relative to her influential founder, Adam recommends scaling outreach under the founder's identity because the existing response difference indicates what is working.",
+      "start_timestamp": "00:21:40",
+      "end_timestamp": "00:22:04",
+      "speaker": "Adam Robinson, probable attribution",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "The handoff strongly suggests Adam, but captions do not label him. He explicitly describes acting as the CEO; the transcript does not establish authorization arrangements or results from adopting the suggestion."
+    },
+    {
+      "claim": "Andy recommends experimenting until a distribution channel works, then improving and expanding that channel instead of abandoning it for the next tactic.",
+      "start_timestamp": "00:22:08",
+      "end_timestamp": "00:23:29",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He warns against novelty-seeking after finding traction, not against initial experimentation or all later diversification."
+    },
+    {
+      "claim": "Andy credits Adam's LinkedIn personal brand as the central channel behind RB2B's growth, while Pete describes the webinar as part of a continuing brand investment.",
+      "start_timestamp": "00:23:29",
+      "end_timestamp": "00:24:12",
+      "speaker": "Andy Mewborn and Pete",
+      "claim_type": "interpretation",
+      "pillar": "building in public",
+      "caveat": "This is their characterization, not independently established attribution of growth. Personal-brand publishing is not by itself evidence of transparent operational disclosure."
+    },
+    {
+      "claim": "Pete says scaling Adam's brand requires a supporting team because Adam cannot personally answer every LinkedIn message or handle all outreach.",
+      "start_timestamp": "00:24:12",
+      "end_timestamp": "00:24:50",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Pete reports a video producer, his own involvement and consultants. Their employment status, hours and total headcount are not established."
+    },
+    {
+      "claim": "Andy designs the first email to interrupt familiar sales patterns, accepting that a noticeably different message may feel less conventionally professional.",
+      "start_timestamp": "00:26:57",
+      "end_timestamp": "00:27:59",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Difference is an attention mechanism in his framework, not proof of relevance, trust or conversion."
+    },
+    {
+      "claim": "Andy builds a swipe file from ads that stop his own scrolling and adapts their messaging concepts for his product.",
+      "start_timestamp": "00:28:02",
+      "end_timestamp": "00:29:54",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He explicitly distinguishes adapting concepts from copying ads verbatim. Attention and visible engagement do not independently establish business performance."
+    },
+    {
+      "claim": "Andy uses the Facebook Ads Library to study competitors and treats ads running for more than a month as candidates for effective messaging worth investigating.",
+      "start_timestamp": "00:29:56",
+      "end_timestamp": "00:31:23",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Longevity is his proxy for effectiveness, not verified profitability. He says examples should fit the relevant niche and be adapted to the product."
+    },
+    {
+      "claim": "Adam argues that a differentiated product can attract buyers who self-select for its particular features, while a similar but better product must compete directly for the same deals.",
+      "start_timestamp": "00:33:26",
+      "end_timestamp": "00:33:51",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "A positioning argument, not evidence that product quality never matters or that all forms of difference create demand."
+    },
+    {
+      "claim": "Adam presents RB2B's robot imagery and unusually bright green rebrand as a concrete attempt to stand apart, and praises No Boring Design for delivering consistent visual impact.",
+      "start_timestamp": "00:34:33",
+      "end_timestamp": "00:35:25",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "The transcript describes a rebrand preview and a printing difficulty; it contains no measured brand or revenue outcome and does not approve these elements as current wiki brand rules."
+    },
+    {
+      "claim": "Pete recommends conversational email language resembling a practical note to a neighbor, reducing formal phrasing that immediately signals a sales approach.",
+      "start_timestamp": "00:36:51",
+      "end_timestamp": "00:37:25",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Pete's writing advice, not an approved Adam voice standard or a tested result."
+    },
+    {
+      "claim": "Andy defines a perspective-shift email as teaching an unfamiliar insight, using evidence to challenge the buyer's existing belief and offer a different way to understand the problem.",
+      "start_timestamp": "00:37:32",
+      "end_timestamp": "00:39:30",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He acknowledges that some recipients reject the challenge. The intended mechanism is education, not unsupported contrarianism."
+    },
+    {
+      "claim": "Pete looks for common patterns across examples and explores the opposite direction; Andy supplements that process with AI-assisted research into possible pattern interrupts and perspective shifts.",
+      "start_timestamp": "00:39:32",
+      "end_timestamp": "00:40:43",
+      "speaker": "Pete and Andy Mewborn",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "These are distinct practices described by each speaker. Andy names Perplexity and mentions other tools, but no prompt, research output or validation process is provided."
+    },
+    {
+      "claim": "For Distribute, Andy challenges fixation on lead volume by arguing that improving middle-of-funnel conversion can be more valuable than acquiring additional leads.",
+      "start_timestamp": "00:40:43",
+      "end_timestamp": "00:42:03",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A Distribute sales narrative and guest opinion. The claimed roughly tenfold advantage is unsupported by a worked example or baseline funnel data."
+    },
+    {
+      "claim": "Pete uses an Adam post about cutting demand-generation spending before a strong growth month as an example of creating curiosity through an apparent contradiction.",
+      "start_timestamp": "00:42:03",
+      "end_timestamp": "00:42:34",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Pete paraphrases another source, leaves growth as an unspecified percentage and does not name the company. This supports the rhetorical example more strongly than the underlying performance claim."
+    },
+    {
+      "claim": "Andy presents his three-email framework as one of several formulas and says cold email requires ongoing testing rather than reliance on a single template.",
+      "start_timestamp": "00:43:07",
+      "end_timestamp": "00:43:35",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His testing process and comparative sequence results are not demonstrated."
+    },
+    {
+      "claim": "In this particular sequence, Andy delays the product pitch until email three: the first two supply attention and insight, and the third connects those ideas to the product.",
+      "start_timestamp": "00:43:35",
+      "end_timestamp": "00:44:37",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A description of one formula, not a claim that every campaign should withhold a pitch until the third email."
+    },
+    {
+      "claim": "Andy replaces an immediate meeting request with a dynamic lead magnet: a tailored example of Distribute's deal room showing how it would work for the prospect.",
+      "start_timestamp": "00:44:37",
+      "end_timestamp": "00:45:43",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He explicitly clarifies that this is a product example, not a free trial. No production cost or conversion rate is given."
+    },
+    {
+      "claim": "Andy wants prospects to request meetings after receiving useful examples, treating their willingness to approach him as feedback on the appeal of the offer and product.",
+      "start_timestamp": "00:45:41",
+      "end_timestamp": "00:45:56",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "His diagnostic is incomplete on its own: earlier discussion identifies delivery and recognition as additional constraints on response."
+    },
+    {
+      "claim": "Andy keeps the three emails in one thread, puts the call to action only in the third and usually leaves two days between sends.",
+      "start_timestamp": "00:46:11",
+      "end_timestamp": "00:48:14",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He sometimes uses a one-day gap and says interesting content can still receive spam complaints; these settings are defaults, not proven optima."
+    },
+    {
+      "claim": "Andy considers superficial personalization overrated when it reads like fabricated AI familiarity; he favors a relevant, emotionally compelling message for the ICP.",
+      "start_timestamp": "00:48:16",
+      "end_timestamp": "00:49:48",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Pete agrees and supplies an example. The critique targets shallow biographical personalization, while Andy still endorses audience targeting and tailored product examples."
+    },
+    {
+      "claim": "The closing discussion frames effective copy as transferring emotion, with suggestions to choose an intended emotion, consult an emotion wheel and specify the emotion in AI prompts.",
+      "start_timestamp": "00:49:48",
+      "end_timestamp": "00:50:56",
+      "speaker": "Adam Robinson, probable attribution for the copywriting principle and emotion wheel; Andy Mewborn for prompting advice",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Rapid speaker changes make sentence-level attribution less certain. Audience descriptions of Adam's posts are not an approved voice profile."
+    },
+    {
+      "claim": "Adam says the team will use the strong attendance for this sales-and-email session to guide future content choices.",
+      "start_timestamp": "00:51:26",
+      "end_timestamp": "00:51:45",
+      "speaker": "Adam Robinson, probable attribution",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "A stated programming intention based on one session; unique attendance is estimated, and no longer-term content outcome is reported."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Adam says he works with Alec Paul and had planned a deliberate outbound LinkedIn connection-and-content program, but was not implementing it because his LinkedIn presence had already grown sharply.",
+      "start_timestamp": "00:07:42",
+      "end_timestamp": "00:08:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "No start date, audience size or measured inbound volume is supplied. Connectivity loss obscures the end of his explanation."
+    },
+    {
+      "claim": "Adam's recommendation to Leslie demonstrates a preference for scaling an existing source of response—the founder's recognized identity—before trying to create equivalent recognition for another employee.",
+      "start_timestamp": "00:21:40",
+      "end_timestamp": "00:22:04",
+      "speaker": "Adam Robinson, probable attribution",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "An interpretation of a specific recommendation, not an established general mission or evidence that Leslie implemented it."
+    },
+    {
+      "claim": "Pete reports that Adam's public presence is supported by a video producer, Pete's brand work and consultants rather than Adam handling every interaction personally.",
+      "start_timestamp": "00:24:12",
+      "end_timestamp": "00:24:50",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "The producer's name is captioned as 'Johnny Elie' and may be misheard. This is Pete's account; there is no complete staffing or employment-status breakdown."
+    },
+    {
+      "claim": "Adam expresses a preference for meaningful differentiation over incremental superiority and points to RB2B's distinctive rebrand as a concrete design decision consistent with that preference.",
+      "start_timestamp": "00:33:26",
+      "end_timestamp": "00:35:25",
+      "speaker": "Adam Robinson",
+      "claim_type": "interpretation",
+      "pillar": "cross-cutting",
+      "caveat": "Links an explicit opinion to a self-reported project decision. It does not establish a universal personal value or approve a reusable brand system."
+    },
+    {
+      "claim": "Adam says he had asked to appear on My First Million roughly two years earlier and recounts being told that the producer favored guests with hundreds of thousands of Twitter followers; he planned to raise the subject with the next guest.",
+      "start_timestamp": "00:52:21",
+      "end_timestamp": "00:52:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "A retrospective anecdote about another person's reported response, not a verified podcast booking policy. Names are captioned as 'Sean Puri' and 'Sam Par'; spellings are not independently checked."
+    },
+    {
+      "claim": "Andy says he was early at Outreach, spent about a decade building email-related systems and feels partly responsible for the high-touch sequence practices he now criticizes.",
+      "start_timestamp": "00:01:49",
+      "end_timestamp": "00:02:03",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest backstory only. His explicit acknowledgment of helping create the problem appears at 00:12:11–00:12:26; neither statement establishes Adam's employment history."
+    },
+    {
+      "claim": "Andy describes deliberately keeping Spanish or Spanglish and donkey imagery in Distribute's branding despite comments suggesting the language was an accidental omission.",
+      "start_timestamp": "00:35:29",
+      "end_timestamp": "00:35:59",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "A guest's design decision, not Adam's identity, heritage or brand convention."
+    },
+    {
+      "claim": "Andy says company merchandise should be something he would personally want to wear, explaining his emphasis on distinctive, wearable design.",
+      "start_timestamp": "00:36:13",
+      "end_timestamp": "00:36:40",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest preference only; praise of RB2B merchandise does not transfer this backstory to Adam."
+    },
+    {
+      "claim": "Leslie says she is not Pando's founder, works closely with the founder and brought extensive sales experience to a full-time role that began in September.",
+      "start_timestamp": "00:20:00",
+      "end_timestamp": "00:21:22",
+      "speaker": "Leslie",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Audience-participant backstory. Her surname and the year of the September start are not stated."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Andy reports approximately 10 years building email-related systems as of the recording and says he was early at Outreach.",
+      "start_timestamp": "00:01:49",
+      "end_timestamp": "00:02:03",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest self-report; not necessarily 10 years of employment at Outreach. Recording date is not established separately from publication."
+    },
+    {
+      "claim": "Andy's initial infrastructure recommendation is 10, 20 or 30 emails per domain; later he describes approximately 30 emails per inbox per day.",
+      "start_timestamp": "00:02:24",
+      "end_timestamp": "00:02:34",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Recommendations, not achieved sending-volume metrics. The later wording at 00:17:51–00:18:04 changes the unit from domain to inbox and adds a daily period."
+    },
+    {
+      "claim": "Adam's unused LinkedIn plan involves a target list described as a dream 100, approximately 10–20 connection requests per day and a conversational follow-up about 60 days after warming through content.",
+      "start_timestamp": "00:07:42",
+      "end_timestamp": "00:08:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Planned process parameters attributed to Alec Paul's playbook, not Adam's achieved activity, conversion or audience metrics."
+    },
+    {
+      "claim": "Andy estimates that about 3–5% of a market is ready to buy at any given moment.",
+      "start_timestamp": "00:10:02",
+      "end_timestamp": "00:10:47",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Uncited market heuristic; no product category, study period or measurement definition is provided."
+    },
+    {
+      "claim": "Andy recalls early Outreach-era sequences with roughly 15 touchpoints and an operating expectation that sequencing 100 people per day would produce four meetings.",
+      "start_timestamp": "00:12:29",
+      "end_timestamp": "00:13:06",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical guest self-report, not a current benchmark. The meeting-production window, sample size and precise organization-level scope are unspecified."
+    },
+    {
+      "claim": "Andy recommends at least two weeks of inbox warmup before outbound sending.",
+      "start_timestamp": "00:15:35",
+      "end_timestamp": "00:15:57",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A minimum-duration recommendation as spoken in this source, not a verified requirement or achieved performance metric."
+    },
+    {
+      "claim": "Leslie says Pando had existed for about four years at the time of the recording.",
+      "start_timestamp": "00:20:00",
+      "end_timestamp": "00:20:07",
+      "speaker": "Leslie",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Audience-participant self-report. No exact founding date is given, and publication should not be treated as the exact recording date."
+    },
+    {
+      "claim": "Leslie reports sending well over 6,000 emails since joining Pando full-time in September, with weaker response than the founder receives.",
+      "start_timestamp": "00:20:38",
+      "end_timestamp": "00:21:00",
+      "speaker": "Leslie",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Pando employee self-report, not Adam/company proof. September's year is unstated; no exact response rate, meeting count or revenue outcome is given."
+    },
+    {
+      "claim": "When Andy asks about Adam's ARR, a brief response is captioned as '20' and '25', followed by obviously exaggerated joking numbers.",
+      "start_timestamp": "00:23:29",
+      "end_timestamp": "00:23:47",
+      "speaker": "Adam Robinson, probable brief response; Andy Mewborn joking",
+      "claim_type": "uncertain_speaker",
+      "pillar": "SaaS building",
+      "caveat": "No reliable ARR amount can be extracted. Currency, magnitude, company and period are unresolved; the surrounding 'gajillion' figures are jokes, not social proof."
+    },
+    {
+      "claim": "Pete reports that Adam's brand support includes a video producer, Pete and some consultants.",
+      "start_timestamp": "00:24:12",
+      "end_timestamp": "00:24:39",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "A partial role inventory, not a headcount metric. No distinction between FTE, contractors or shared support can be established."
+    },
+    {
+      "claim": "Andy uses more than one month of continuous ad running as a threshold for investigating potentially effective competitor ads.",
+      "start_timestamp": "00:30:21",
+      "end_timestamp": "00:31:06",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Research heuristic, not evidence of a specific advertiser's profitability."
+    },
+    {
+      "claim": "Andy claims that improving middle-of-funnel conversion by a few percentage points can be worth about 10 times more than concentrating on additional top-of-funnel leads.",
+      "start_timestamp": "00:40:49",
+      "end_timestamp": "00:42:03",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Illustrative claim used in Distribute messaging; no baseline, denominator or period is supplied. The comparison lead count is captioned incompletely as 'a,000' and cannot be reliably extracted."
+    },
+    {
+      "claim": "Pete paraphrases an Adam post as saying demand-generation channels were shut off in December, saving 100K per month, followed by a January described as the best month ever with an unspecified growth percentage.",
+      "start_timestamp": "00:42:03",
+      "end_timestamp": "00:42:27",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Secondhand report of company performance, not direct Adam confirmation here. Company, currency, years, growth measure and percentage are unstated. Savings are a spending reduction, not ARR, revenue or profit. December 2024/January 2025 would be contextual inference only."
+    },
+    {
+      "claim": "Andy says the presented three-email sequence is one of approximately 20 formulas he has.",
+      "start_timestamp": "00:43:07",
+      "end_timestamp": "00:43:25",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest self-report about his repertoire; no claim that all formulas have equal evidence or effectiveness."
+    },
+    {
+      "claim": "Andy's sequence has three emails in one thread, a call to action only in the third email and a default delay of two days, occasionally one day.",
+      "start_timestamp": "00:46:11",
+      "end_timestamp": "00:48:14",
+      "speaker": "Andy Mewborn",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Workflow settings, not campaign outcome metrics. Exceptions are explicitly acknowledged."
+    },
+    {
+      "claim": "An early live audience count is spoken as 579.",
+      "start_timestamp": "00:00:42",
+      "end_timestamp": "00:00:54",
+      "speaker": "Host, uncertain whether Adam Robinson or Pete",
+      "claim_type": "uncertain_speaker",
+      "pillar": "building in public",
+      "caveat": "Likely a live attendance snapshot from surrounding context, but the unit is not explicitly restated in that utterance."
+    },
+    {
+      "claim": "The closing attendance report gives 595 maximum concurrent viewers and estimates approximately 650–700 unique attendees for this webinar.",
+      "start_timestamp": "00:51:26",
+      "end_timestamp": "00:51:45",
+      "speaker": "Adam Robinson, probable attribution",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "595 is explicitly clarified after an initial caption rendering of '5.95'. The unique count is expressly an estimate, not verified analytics; concurrent and unique attendance are different units."
+    },
+    {
+      "claim": "Adam dates his earlier My First Million appearance request to roughly two years before the recording and recounts a purported threshold of hundreds of thousands of Twitter followers.",
+      "start_timestamp": "00:52:21",
+      "end_timestamp": "00:52:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Relative date and reported gatekeeping criterion only. This is not Adam's follower count or an independently confirmed podcast policy."
+    },
+    {
+      "claim": "The hosts announce a session with the person captioned as Sam Par for the following week.",
+      "start_timestamp": "00:52:05",
+      "end_timestamp": "00:52:20",
+      "speaker": "Pete, probable attribution, with Andy Mewborn interjecting",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "A plan relative to the recording, not proof the session occurred or an exact event date. The name is retained as captioned."
+    }
+  ],
+  "tensions_and_corrections": [
+    "The title centers on cold email, but most tactical claims belong to guest Andy Mewborn. They must not become Adam's achievements, strategies or beliefs without separate evidence.",
+    "Andy introduces Adam as having a LinkedIn system he uses; Adam immediately clarifies that he is not currently doing it and that it was a plan before his LinkedIn growth accelerated.",
+    "The opening repeats later material as a teaser. It is not a separate corroborating source or additional instance of results.",
+    "Sending limits shift from 10–30 emails per domain to approximately 30 per inbox per day. Preserve the differing units rather than silently standardizing them.",
+    "Andy confidently recommends warmup and domain distribution, but also calls the mechanism hacky; the panel acknowledges eventual sender flagging. No guaranteed deliverability outcome is established.",
+    "The advice to scale founder-name outreach is explicit, including language about acting as the CEO. The transcript does not establish the operational authorization or disclosure arrangements.",
+    "The apparent ARR exchange is too fragmentary and jokey to support any Adam or RB2B ARR figure. Do not convert '20' and '25' into millions or infer which company is meant.",
+    "Pete's demand-generation example is a paraphrase of an unseen Adam post. The company, years, currency and January growth percentage are missing, and spending savings must not be relabeled as revenue or profit.",
+    "The midfunnel 'about 10x' claim is not supported with arithmetic, and the lead-count comparison is corrupted in captions. It should remain a guest claim with unresolved assumptions.",
+    "The criticism of personalization concerns shallow, apparently fabricated familiarity. Andy simultaneously recommends ICP targeting and a customized deal-room example, so this is not a rejection of all tailoring.",
+    "The three-email framework is one of Andy's approximately 20 formulas. He explicitly calls for continued testing, which limits any universal interpretation of its order, timing or CTA placement.",
+    "Adam's preference for differentiation is illustrated with self-selection into a feature set and a distinctive rebrand. It should not be flattened into a general claim that quality is unimportant.",
+    "The attendance figures are compatible: 579 is an early likely snapshot, 595 is stated peak concurrency and 650–700 is estimated unique attendance. The transcript itself clarifies the captioned '5.95' as 595.",
+    "The final fragment at 00:53:25–00:53:42 appears disconnected from the completed webinar. It mentions public figures' travel seeming exhausting, but speaker attribution is uncertain and the final statement about why companies fail is unfinished; neither supports a complete Adam value or business lesson.",
+    "The source establishes no funding history, bootstrapping-versus-VC position, approved author mission or approved voice. Public availability does not provide clearance to reuse the material in new public copy."
+  ],
+  "reusable_topics": [
+    "Deliverability, sender recognition and copy as separate constraints on outbound performance",
+    "When personal names versus company brands help email recognition",
+    "Planned versus actually implemented LinkedIn nurture workflows",
+    "How saturation erodes formerly predictable sales sequences",
+    "Scaling a working distribution channel before chasing another tactic",
+    "The team operating behind a founder's public brand",
+    "Founder-name outreach and the operational questions it leaves unresolved",
+    "Studying advertising patterns to improve outbound messaging",
+    "Differentiation that attracts buyers through feature self-selection",
+    "RB2B's rebrand as a concrete positioning decision",
+    "Teaching a perspective shift before making a sales pitch",
+    "Middle-of-funnel conversion versus more lead volume",
+    "Dynamic product examples as alternatives to immediate meeting requests",
+    "Superficial AI personalization versus relevant audience targeting",
+    "Testing email sequences without treating templates as universal rules",
+    "Emotion and curiosity in educational sales copy",
+    "Using live attendance to choose future content",
+    "Separating direct company proof from host paraphrases and guest comparisons"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:53:42",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript, including the opening teaser, audience segment, middle and final thirds, closing banter and incomplete appended fragment.",
+      "Only the supplied text and metadata were used; no web search, shell actions, file access, edits or outside verification were performed.",
+      "Automatic captions are not diarized. Several brief interjections and closing remarks have only probable speaker attribution.",
+      "Connectivity interruptions obscure part of Adam's LinkedIn explanation around 00:08:40–00:09:29.",
+      "Visual examples, chat contents and linked pages were discussed but are not included as independently inspectable evidence.",
+      "Publication time is known; the exact recording date and the calendar years of several retrospective references are not explicitly established.",
+      "Names and numeric fragments may be miscaptioned. Unresolved figures were not repaired into factual claims.",
+      "This synthesis is for internal wiki research; no public-use clearance, approved voice or mission is inferred."
+    ]
+  }
+}

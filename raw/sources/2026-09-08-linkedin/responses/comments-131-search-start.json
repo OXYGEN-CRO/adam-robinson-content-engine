@@ -1,0 +1,132 @@
+{
+  "ok": true,
+  "data": {
+    "id": "5cccff4c-ea1e-438d-8546-0999ab22f880",
+    "runId": "ecaa4e55-39fe-45e6-8358-b27684dab41d",
+    "tableId": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+    "tableSlug": "adam-robinson-linkedin-continuations-2026-09-08",
+    "actorUserId": "9d986a83-95db-4e0e-9e2d-e12bf9775d00",
+    "connectionId": null,
+    "sourceType": "tool_page",
+    "mode": "upsert",
+    "upsertKey": "comment_id",
+    "status": "queued",
+    "expectedItemCount": null,
+    "maxConcurrency": 1,
+    "metadata": {
+      "search": {
+        "credits": {
+          "reason": "scraper_managed_provider",
+          "credits_per_page": 16,
+          "estimated_total_credits": 16
+        },
+        "plan_id": "search_plan_jrbpat",
+        "route_id": "source_specific_scrape",
+        "route_kind": "source_specific_scrape",
+        "max_credits": 16,
+        "route_label": "Source-specific scrape",
+        "provider_order": [
+          {
+            "role": "primary",
+            "status": "available",
+            "tool_id": "scraper.linkedin_post_comments",
+            "position": 1
+          }
+        ]
+      },
+      "source": "cli",
+      "command": "search run"
+    },
+    "lastError": null,
+    "cancelRequestedAt": null,
+    "startedAt": null,
+    "completedAt": null,
+    "createdAt": "2026-09-08T08:04:13.008Z",
+    "updatedAt": "2026-09-08T08:04:13.008Z",
+    "counts": {
+      "total": 1,
+      "pending": 1,
+      "leased": 0,
+      "completed": 0,
+      "failed": 0,
+      "skipped": 0,
+      "canceled": 0,
+      "rows": 0,
+      "inserted": 0,
+      "updated": 0,
+      "duplicates": 0,
+      "skippedRows": 0
+    },
+    "web_url": "https://oxygen-agent.com/workspaces/4257983c-406e-4658-b899-d7ba3cc760a6/tables/22c7aa81-2c63-4d77-91a5-e780b9f07ab9/ingestions/5cccff4c-ea1e-438d-8546-0999ab22f880",
+    "queue_backend": "postgres",
+    "effect_outcome": "pending",
+    "changed": false,
+    "message": "No rows have been written yet; the ingestion run is still active.",
+    "next_step": "Wait for the ingestion run to reach a terminal status, then inspect its effect_outcome and counts.",
+    "search_run_id": "5cccff4c-ea1e-438d-8546-0999ab22f880",
+    "route": {
+      "id": "source_specific_scrape",
+      "kind": "source_specific_scrape",
+      "label": "Source-specific scrape",
+      "description": "Use a specialized adapter for a known source such as LinkedIn posts or source-specific web data.",
+      "table_role": "pages",
+      "preflight": [
+        "Use source-specific adapters only when the target source is explicit.",
+        "Confirm the URL pattern and row scope before live execution.",
+        "Avoid public side effects; scraping is read-only but may still consume credits."
+      ],
+      "approval": {
+        "requires_live_approval": true,
+        "requires_max_credits": true,
+        "default_mode": "dry_run",
+        "default_page_cap": 3
+      },
+      "unavailable_provider_candidates": [],
+      "primary_tool_id": "scraper.linkedin_post_comments",
+      "provider_order": [
+        {
+          "tool_id": "scraper.linkedin_post_comments",
+          "role": "primary",
+          "position": 1,
+          "status": "available"
+        }
+      ],
+      "ingestion": {
+        "rows_path": "response.raw.elements",
+        "cursor_path": null,
+        "cursor_request_key": null,
+        "row_mapping": {
+          "comment_id": "id",
+          "post_id": "postId",
+          "url": "linkedinUrl",
+          "author_name": "actor.name",
+          "content": "commentary",
+          "posted_at": "createdAt",
+          "source_payload": ""
+        },
+        "default_upsert_key": "comment_id",
+        "default_max_pages": 1,
+        "tool_id": "scraper.linkedin_post_comments",
+        "tool_ids": [
+          "scraper.linkedin_post_comments"
+        ]
+      }
+    },
+    "credits": {
+      "credits_per_page": 16,
+      "estimated_total_credits": 16,
+      "reason": "scraper_managed_provider"
+    },
+    "data_status": {
+      "status": "pending",
+      "reason": "provider_call_deferred",
+      "message": "No provider rows have been fetched yet, so Oxygen cannot yet say whether scraper.linkedin_post_comments returns usable records, plan-masked previews, or nothing at all.",
+      "next_step": "Inspect the ingestion run at https://oxygen-agent.com/workspaces/4257983c-406e-4658-b899-d7ba3cc760a6/tables/22c7aa81-2c63-4d77-91a5-e780b9f07ab9/ingestions/5cccff4c-ea1e-438d-8546-0999ab22f880 — its outcome and item outputs are what the provider actually returned — before treating the resulting rows as a complete list."
+    }
+  },
+  "meta": {
+    "command": "search run",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

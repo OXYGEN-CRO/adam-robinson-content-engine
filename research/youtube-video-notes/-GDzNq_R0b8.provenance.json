@@ -1,0 +1,13 @@
+{
+  "id": "-GDzNq_R0b8",
+  "source_sha256": "ff9c0d60e322ec1bac67a98a9406bffa7ea320364acb0f6445bbeace02ea7b98",
+  "source_characters": 76123,
+  "source_word_count": 11262,
+  "prompt_sha256": "3087cfbdc838b99ab3fa0e4f2f8663ecffb576cde1570d2621b42a4bc5a0b2a8",
+  "started_at": "2026-09-08T08:54:07.294496+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/-GDzNq_R0b8/-GDzNq_R0b8.md",
+  "pid": 72270,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:59:24.950492+00:00"
+}

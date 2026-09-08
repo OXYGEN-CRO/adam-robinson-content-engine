@@ -1,0 +1,6 @@
+/* All layers remain readable without JS. JS sets precise state for preview/render. */
+[data-enter] { will-change:transform,opacity; }
+.ms-motion-controls { display:flex; flex-wrap:wrap; gap:16px; align-items:center; padding:24px; background:var(--ms-bg-elevated); font:400 16px/1.5 var(--ms-font); }
+.ms-motion-controls input { flex:1; min-width:180px; accent-color:var(--ms-brand); }
+.ms-motion-controls button { --component-size:16px; }
+@media(prefers-reduced-motion:reduce) { [data-enter] { will-change:auto; } }

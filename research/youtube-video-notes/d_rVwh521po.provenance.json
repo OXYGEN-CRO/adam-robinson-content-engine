@@ -1,0 +1,13 @@
+{
+  "id": "d_rVwh521po",
+  "source_sha256": "6baaa8118a539e4dd60854156fa7d6908aeb2059cfeba1199014c46f0aa058a5",
+  "source_characters": 72488,
+  "source_word_count": 10657,
+  "prompt_sha256": "53b3b139eee5567ed7855c02c6f3886fe3e8df5a04422a3043b4104beef81aa0",
+  "started_at": "2026-09-08T08:21:53.231707+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/d_rVwh521po/d_rVwh521po.md",
+  "pid": 24264,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:27:57.960371+00:00"
+}

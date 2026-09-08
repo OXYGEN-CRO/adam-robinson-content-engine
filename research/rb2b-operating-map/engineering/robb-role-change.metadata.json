@@ -1,0 +1,76 @@
+{
+  "url": "https://www.linkedin.com/posts/robbclarke_2025-was-a-friggin-wild-year-ive-been-activity-7411426340568088577-kej_",
+  "captured_at": "2026-09-08T14:15:22.269176+00:00",
+  "json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "SocialMediaPosting",
+      "@id": "https://www.linkedin.com/posts/robbclarke_2025-was-a-friggin-wild-year-ive-been-activity-7411426340568088577-kej_",
+      "datePublished": "2025-12-29T15:22:17.217Z",
+      "headline": "2025 was a friggin' wild year.",
+      "comment": [
+        {
+          "@type": "Comment",
+          "datePublished": "2025-12-30T06:52:13.955Z",
+          "text": "This is exactly what everyone says they want from AI but almost nobody is actually pulling off at scale. The gap between involved and resolved that a major shift, When AI moves from supporting to actually carrying workload at this level, it really changes everything.\nExcited to see where this direction takes you \ud83d\ude4c\ud83c\udffb",
+          "author": {
+            "@type": "Person",
+            "name": "Yahya Abu Al Shikhe"
+          },
+          "interactionStatistic": {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/LikeAction",
+            "userInteractionCount": 0
+          }
+        },
+        {
+          "@type": "Comment",
+          "datePublished": "2026-01-02T15:38:10.057Z",
+          "text": "Never have I cheered so hard from the sidelines. Maybe a little too hard if my LinkedIn wrapped is to be believed \ud83d\ude05",
+          "author": {
+            "@type": "Person",
+            "name": "Kate Sugrue"
+          },
+          "interactionStatistic": {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/LikeAction",
+            "userInteractionCount": 1
+          }
+        }
+      ],
+      "commentCount": 2,
+      "articleBody": "2025 was a friggin' wild year.\n\nI've been thinking a lot about the changes that RB2B went through and really, how AI has impacted my career growth over the last year. I went from Technical Operations Manager to Head of AI this past summer. \n\nBut you know what? AI didn't change my job title.\n\nIt changed the direction of my career.\n\nMost of my career has been built by saying yes before I had everything figured out. Front-end development. Customer work. Product decisions. I learned by doing, then kept moving forward.\n\nAI followed the same pattern.\n\nI didn't start by trying to overhaul everything. I started with the work I dreaded most. The repetitive support questions. The tedious spreadsheets. The tasks that ate time without adding much value. I trained AI to handle those first.\n\nThat shift gave me something more important than efficiency.\n\nIt gave me time.\n\nWhen we brought on Fin, support was largely handled, I could focus on product, testing, and improving how people actually experience what we build. My role moved away from reacting to problems and toward preventing them altogether. \n\nSupport became less about answering tickets and more about managing knowledge and improving the system behind it.\n\nAI didn't replace my work. It widened it.\n\nI\u2019m now able to go deeper into areas I didn't formally come from, without burning out or stretching myself thin. The human parts of the job matter more. The thinking, the judgment, the decisions.\n\nThe biggest change wasn't technical.\n\nIt was how I approached the tool.\n\nAI works best when you treat it like something you can learn alongside, not something you need to fear. I trained it, and in the process, it trained me. It filled gaps, saved time, and made me better at the work I already cared about.\n\nMy advice to anyone unsure where to start is simple.\n\nFind the most painful part of your job and let AI take a swing at it.\n\nSay yes.\n\nThen figure it out.",
+      "author": {
+        "name": "Robb Clarke",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D5603AQGwiFdCOj0evw/profile-displayphoto-scale_200_200/B56Z7caHUwIMAc-/0/1781814294555?e=2147483647&v=beta&t=yUSmcHroRipiDHmcOvRVpgiNTdBpw77dyx9tW6miBT4",
+          "@type": "ImageObject"
+        },
+        "url": "https://ca.linkedin.com/in/robbclarke",
+        "@type": "Person",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": "http://schema.org/FollowAction",
+          "userInteractionCount": 4923
+        }
+      },
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": "http://schema.org/LikeAction",
+          "userInteractionCount": 24
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": "https://schema.org/CommentAction",
+          "userInteractionCount": 2
+        }
+      ],
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".details"
+      }
+    }
+  ]
+}

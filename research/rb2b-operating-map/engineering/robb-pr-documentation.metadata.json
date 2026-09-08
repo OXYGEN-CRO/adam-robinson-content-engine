@@ -1,0 +1,175 @@
+{
+  "url": "https://robbclarke.com/applied-ai/how-we-got-our-ai-support-agent-to",
+  "captured_at": "2026-09-08T14:15:20.614603+00:00",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://robbclarke.com/#website",
+          "url": "https://robbclarke.com",
+          "name": "Robb Clarke",
+          "description": "AI Consultant helping SaaS teams build AI support agents that resolve tickets",
+          "publisher": {
+            "@id": "https://robbclarke.com/#person"
+          },
+          "inLanguage": "en-CA"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://robbclarke.com/#person",
+          "name": "Robb Clarke",
+          "givenName": "Robert",
+          "familyName": "Clarke",
+          "alternateName": "Robert Clarke",
+          "jobTitle": [
+            "AI Consultant",
+            "Head of AI"
+          ],
+          "description": "AI consultant helping SaaS and B2B teams build AI support agents that resolve tickets, not just answer questions. Previously worked with Google, YouTube, Coca-Cola, Volkswagen, Toyota, Adidas, and Salesforce.",
+          "image": "https://robbclarke.com/resource/img/family.webp",
+          "url": "https://robbclarke.com",
+          "nationality": "Canadian",
+          "knowsAbout": [
+            "AI Support Agents",
+            "AI Implementation",
+            "Customer Support Automation",
+            "SaaS",
+            "Machine Learning"
+          ],
+          "alumniOf": [
+            {
+              "@type": "CollegeOrUniversity",
+              "name": "St. Thomas University",
+              "sameAs": "https://en.wikipedia.org/wiki/St._Thomas_University_(New_Brunswick)"
+            },
+            {
+              "@type": "CollegeOrUniversity",
+              "name": "Centre for Arts and Technology",
+              "sameAs": "https://digitalartschool.com/"
+            }
+          ],
+          "worksFor": [
+            {
+              "@type": "Organization",
+              "name": "RB2B",
+              "url": "https://rb2b.com/"
+            },
+            {
+              "@type": "Organization",
+              "name": "MoltSets",
+              "url": "https://moltsets.com/"
+            },
+            {
+              "@type": "Organization",
+              "name": "Retention.com",
+              "url": "https://retention.com/"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fredericton",
+            "addressRegion": "NB",
+            "addressCountry": "CA"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/robbclarke",
+            "https://robbclarke.substack.com",
+            "https://instagram.com/robbclarke",
+            "https://facebook.com/robbclarke",
+            "https://www.amazon.ca/stores/Robb-Clarke/author/B00N6XRU5G"
+          ]
+        },
+        {
+          "@type": "ProfessionalService",
+          "@id": "https://robbclarke.com/#service",
+          "name": "Robb Clarke - AI Consulting",
+          "description": "Fredericton-based AI consulting for SaaS and B2B teams. Build AI support agents that resolve tickets, not just answer questions.",
+          "url": "https://robbclarke.com",
+          "provider": {
+            "@id": "https://robbclarke.com/#person"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fredericton",
+            "addressRegion": "New Brunswick",
+            "addressCountry": "CA"
+          },
+          "areaServed": [
+            {
+              "@type": "City",
+              "name": "Fredericton"
+            },
+            {
+              "@type": "State",
+              "name": "New Brunswick"
+            },
+            {
+              "@type": "Country",
+              "name": "Canada"
+            },
+            {
+              "@type": "Country",
+              "name": "United States"
+            }
+          ],
+          "serviceType": [
+            "AI Consulting"
+          ],
+          "priceRange": "$$$"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://robbclarke.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Applied AI",
+          "item": "https://robbclarke.com/applied-ai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "How We Got Our AI Support Agent to Replace a Full-Time Human Role (and the Unglamorous Work It Actually Took)",
+          "item": "https://robbclarke.com/applied-ai/how-we-got-our-ai-support-agent-to"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "How We Got Our AI Support Agent to Replace a Full-Time Human Role (and the Unglamorous Work It Actually Took)",
+      "description": "Our AI support agent now saves us 100% of a human agent's time. Not 80%. Not 'mostly handles things.' A full human role \u2014 and it took unglamorous work to\u2026",
+      "image": "https://robbclarke.com/applied-ai/_content/how-we-got-our-ai-support-agent-to/social.jpg",
+      "datePublished": "2026-02-03",
+      "dateModified": "2026-02-03",
+      "author": {
+        "@type": "Person",
+        "@id": "https://robbclarke.com/#person",
+        "name": "Robb Clarke",
+        "url": "https://robbclarke.com"
+      },
+      "publisher": {
+        "@id": "https://robbclarke.com/#person"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://robbclarke.com/applied-ai/how-we-got-our-ai-support-agent-to"
+      },
+      "url": "https://robbclarke.com/applied-ai/how-we-got-our-ai-support-agent-to",
+      "isPartOf": {
+        "@id": "https://robbclarke.com/#website"
+      }
+    }
+  ]
+}

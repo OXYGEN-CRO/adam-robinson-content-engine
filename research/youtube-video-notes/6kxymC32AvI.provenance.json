@@ -1,0 +1,13 @@
+{
+  "id": "6kxymC32AvI",
+  "source_sha256": "5bdf834e1614e645349c2c14709553ad03864ec278809cdc3d037f57959b7380",
+  "source_characters": 73804,
+  "source_word_count": 10967,
+  "prompt_sha256": "c37d79bd6df48891f2acc8a7556ad218af62427e50c79154c9e1298e7aee37a4",
+  "started_at": "2026-09-08T08:59:24.952794+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/6kxymC32AvI/6kxymC32AvI.md",
+  "pid": 5946,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:04:45.149148+00:00"
+}

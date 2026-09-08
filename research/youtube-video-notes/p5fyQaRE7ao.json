@@ -1,0 +1,724 @@
+{
+  "video_id": "p5fyQaRE7ao",
+  "title": "SaaS Attribution Is a Scam (And Emir Atli Proves It)",
+  "published": "2025-06-24T19:04:47+00:00",
+  "speakers_and_attribution": "Adam Robinson is the principal host. Emir Atli, identified by the title and introduction as HockeyStack's co-founder and CRO, supplies the HockeyStack operating history, metrics and strategies. His name, title and company are repeatedly garbled by automatic captions. Pete is explicitly addressed as a co-host; other hosting turns cannot always be separated confidently from Pete or another panelist, so they are marked as unidentified host where appropriate. Lux pitches StreamAlive. Jeffrey is an audience participant and newly appointed BDR manager. Brief agreement, praise and questions do not establish that Adam independently endorses every guest claim.",
+  "summary": "The discussion primarily examines HockeyStack's move from strong inbound demand to a substantial outbound operation: validating a painful problem, refining cold-call openings, building a data foundation, training SDRs and developing relationships over time. The final third covers adjacent-market expansion and a qualified defense of attribution as incomplete but useful decision support. Adam contributes his LinkedIn growth experience, an RB2B AI sales-assistant experiment and questions about expanding RB2B beyond B2B SaaS. The title overstates the attribution argument: Emir acknowledges measurement gaps while defending attribution's usefulness for complex marketing organizations. HockeyStack's achievements belong to Emir's company, not Adam's.",
+  "key_learnings": [
+    {
+      "claim": "Adam links his improved LinkedIn growth to better content and creative direction. He describes Alec Paul as someone who directs and critiques content rather than writing it, and says the expense requires a credible path from stronger LinkedIn performance to substantial revenue growth.",
+      "start_timestamp": "00:03:00",
+      "end_timestamp": "00:04:10",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "His experience is anecdotal; the transcript does not isolate the consultant's causal contribution or establish the economics for other founders."
+    },
+    {
+      "claim": "Adam describes deploying an AI version of himself on RB2B's website to answer sales questions, then reviewing its conversation transcripts with Rob every day. He asks the audience to test it and provide feedback.",
+      "start_timestamp": "00:04:19",
+      "end_timestamp": "00:04:56",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "This is an early experiment and operating practice, not evidence of conversion improvement, accuracy or labor savings. The request for feedback recurs at 00:54:53–00:54:57."
+    },
+    {
+      "claim": "HockeyStack began in marketing reporting, found product-market fit there and subsequently expanded into an offering combining reporting, sales account intelligence and workflows using structured and unstructured go-to-market data.",
+      "start_timestamp": "00:01:49",
+      "end_timestamp": "00:02:23",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Guest description of his own product and its development; some product-category terms are garbled in the captions."
+    },
+    {
+      "claim": "Emir started publishing regularly on LinkedIn before the product existed and credits both his own profile and other employees' posting with contributing to inbound demand.",
+      "start_timestamp": "00:02:26",
+      "end_timestamp": "00:02:58",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "The company-wide inbound contribution is described further at 00:13:38–00:14:09. His historical twice-daily posting schedule is not presented as a validated current algorithm rule."
+    },
+    {
+      "claim": "StreamAlive's pitch demonstrates turning an audience's existing chat behavior into interactive presentation material: a geographic map, summarized responses and participant selection. Lux frames this as reducing the friction of audience participation.",
+      "start_timestamp": "00:07:38",
+      "end_timestamp": "00:10:31",
+      "speaker": "Lux, StreamAlive presenter",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Guest product demonstration and positioning; no measured engagement or sales uplift is supplied."
+    },
+    {
+      "claim": "Emir began building outbound while inbound was still strong because dependence on platforms exposed HockeyStack to unexplained pipeline fluctuations. A mentor's warning and early signs of volatility prompted action before a complete inbound collapse.",
+      "start_timestamp": "00:13:38",
+      "end_timestamp": "00:15:57",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Inbound still fluctuated at the time of the conversation. Outbound diversified exposure; it did not eliminate market conditions or platform dependence."
+    },
+    {
+      "claim": "Comparing inbound and outbound performance gives Emir an additional diagnostic signal: when both weaken together, broader market timing may explain the change better than a problem isolated to an inbound channel.",
+      "start_timestamp": "00:15:18",
+      "end_timestamp": "00:15:54",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Quarter-end and holiday examples are illustrative explanations, not a demonstrated causal attribution method."
+    },
+    {
+      "claim": "HockeyStack's initial sales follow-up targeted people who had supplied an email to use its internally built interactive demo. Emir contacted those people through email and LinkedIn before the broader cold-outbound system was established.",
+      "start_timestamp": "00:15:57",
+      "end_timestamp": "00:16:26",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "These were existing product-engagement leads, so this first step should not be described as entirely cold prospecting."
+    },
+    {
+      "claim": "For its outbound data foundation, HockeyStack combined multiple data providers in a MongoDB instance and refreshed the information daily. Emir explicitly limits this infrastructure recommendation to companies planning to scale.",
+      "start_timestamp": "00:16:49",
+      "end_timestamp": "00:17:34",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "No cost, engineering headcount or independent data-accuracy comparison is supplied. This is not a recommendation that every small team build its own data platform."
+    },
+    {
+      "claim": "While building the data foundation, HockeyStack concentrated on cold-call scripts, changing them daily until one operator could book meetings manually. Hiring and dialer-assisted scaling followed that initial validation.",
+      "start_timestamp": "00:17:29",
+      "end_timestamp": "00:18:23",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The sequence describes HockeyStack's experience, not a controlled comparison of manual versus automated selling."
+    },
+    {
+      "claim": "Emir sees strong product-market fit as a prerequisite for effective outbound. Script refinement should express a widely felt customer problem quickly enough to earn a conversation; it cannot substitute for underlying demand.",
+      "start_timestamp": "00:18:28",
+      "end_timestamp": "00:19:36",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His numerical examples of pain recognition, readiness and product-market-fit scores are explanatory illustrations, not audited funnel metrics."
+    },
+    {
+      "claim": "HockeyStack's effective opening centers on marketers' difficulty connecting brand awareness to revenue. Reps can vary the greeting and surrounding wording, while preserving the problem statement that earns permission to continue.",
+      "start_timestamp": "00:19:39",
+      "end_timestamp": "00:20:38",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "This is specific to HockeyStack's audience and product. Its reported booking rate applies to people who allow the conversation to continue, not all dial attempts."
+    },
+    {
+      "claim": "Emir says his sales leader corrected his impulse to add more features to the opening. The first objective is another short interval of attention; deeper explanation and a demo request come later.",
+      "start_timestamp": "00:21:34",
+      "end_timestamp": "00:22:35",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The captions muddle who initially proposed extra features, but the surrounding explanation attributes the incremental-attention coaching to Alex."
+    },
+    {
+      "claim": "A host extends the incremental-attention principle to email: the subject earns an open, the first sentence earns continued reading and the call to action asks for the next small commitment.",
+      "start_timestamp": "00:22:38",
+      "end_timestamp": "00:23:26",
+      "speaker": "Unidentified host",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "This hosting turn cannot be confidently assigned to Adam from the undiarized captions. It is a sales heuristic, not quantified evidence."
+    },
+    {
+      "claim": "HockeyStack makes coaching a daily operating practice through paired human role-play and end-of-day call reviews that require reps to explain both successful and unsuccessful calls.",
+      "start_timestamp": "00:24:31",
+      "end_timestamp": "00:25:15",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Emir explicitly confirms human-to-human rather than AI role-play at 00:29:04–00:29:14. No isolated training-effect estimate is provided."
+    },
+    {
+      "claim": "Emir treats outbound as building a reusable body of relationships and account knowledge. Repeated contact, learning from other buying-committee members and following people across jobs can make later activity more productive than the initial outreach.",
+      "start_timestamp": "00:25:25",
+      "end_timestamp": "00:26:40",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His description of exponential growth is qualitative. He also cautions against becoming overly annoying; the source does not establish a universal follow-up frequency."
+    },
+    {
+      "claim": "HockeyStack hires SDRs seeking advancement and offers a transparent path toward account-executive work. Emir says the relationships developed as an SDR remain useful after promotion.",
+      "start_timestamp": "00:27:19",
+      "end_timestamp": "00:27:58",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "This is HockeyStack's hiring preference and stated career path, not a reported promotion or retention outcome. Adam's preceding question explores retention without asserting that he uses this approach."
+    },
+    {
+      "claim": "HockeyStack's outreach scale rests partly on a broad addressable market, two products with different ideal customer profiles and differentiated channels by geography.",
+      "start_timestamp": "00:28:01",
+      "end_timestamp": "00:29:01",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "No total account or contact count is supplied. This breadth limits how directly its call-volume approach transfers to a narrow-market business."
+    },
+    {
+      "claim": "HockeyStack uses its own account product for signals, workflows, stakeholder maps and account plans, alongside external enrichment, calling and email-orchestration tools.",
+      "start_timestamp": "00:29:19",
+      "end_timestamp": "00:30:31",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Several vendor names are unclear in the captions. The source establishes internal product use, not that this stack caused the reported pipeline results."
+    },
+    {
+      "claim": "In advising a new BDR manager, a host prioritizes message and offer quality over changing the technology stack, first asking whether reps lead with a common customer problem.",
+      "start_timestamp": "00:32:55",
+      "end_timestamp": "00:34:17",
+      "speaker": "Unidentified host",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "The team had only just been assigned to Jeffrey, and neither the panel nor Jeffrey had yet established its actual messaging practices."
+    },
+    {
+      "claim": "For an early outbound operation, Emir recommends starting with a somewhat narrower ICP and enough calling volume to learn which messages work before adding sophisticated signals or competitor-engagement scraping.",
+      "start_timestamp": "00:34:39",
+      "end_timestamp": "00:35:35",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The initial objective is market feedback. His later expansive language about calling everyone should be read alongside the earlier instruction to constrain the ICP."
+    },
+    {
+      "claim": "Emir values calls as a faster source of diagnostic feedback than unanswered email or LinkedIn messages. Silence leaves delivery, attention, relevance and timing unresolved; a live response can expose the objection.",
+      "start_timestamp": "00:35:39",
+      "end_timestamp": "00:36:32",
+      "speaker": "Emir Atli, with an unidentified host",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A call still may not produce useful feedback. This is a learning-speed argument, not evidence that calling always converts better."
+    },
+    {
+      "claim": "The dialer discussion introduces a trade-off between volume and connection experience. Jeffrey concludes that a power dialer may suit his smaller available prospect pool better than maximizing simultaneous dialing.",
+      "start_timestamp": "00:37:21",
+      "end_timestamp": "00:40:04",
+      "speaker": "Emir Atli, unidentified hosts and Jeffrey",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "The speakers contradict one another on dialer definitions and give inconsistent multipliers. Preserve the trade-off without treating the technical descriptions or volume estimates as verified."
+    },
+    {
+      "claim": "Adam says most RB2B signups are B2B SaaS businesses but questions whether that is actually the product's best market. He asks how to test willingness to pay in other industries.",
+      "start_timestamp": "00:40:15",
+      "end_timestamp": "00:41:00",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "This is an explicit uncertainty and research question, not a conclusion that other segments perform better or a commitment to enter them."
+    },
+    {
+      "claim": "HockeyStack expanded within B2B SaaS from SMB into midmarket and enterprise through repeated building and selling, because use cases differed by customer size.",
+      "start_timestamp": "00:41:44",
+      "end_timestamp": "00:42:08",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "No segment-level revenue, retention or implementation-cost evidence is supplied."
+    },
+    {
+      "claim": "Unexpected inbound from staffing, recruiting and IT services revealed adjacent customers operating with similar CRMs, advertising and sales processes. HockeyStack then concentrated effort on those similarities and used an AI-assisted exercise to identify more candidate industries.",
+      "start_timestamp": "00:42:08",
+      "end_timestamp": "00:43:26",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The AI tool's name is garbled. Candidate generation should not be mistaken for market validation; Emir describes pursuing only one or two industries at a time."
+    },
+    {
+      "claim": "Adjacent-market expansion requires product authority and investment, because even similar verticals need changes. Emir advises identifying the operational conditions that make a product useful before assuming another industry will buy it.",
+      "start_timestamp": "00:43:28",
+      "end_timestamp": "00:45:07",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "His claim that this requires a founder is better understood as requiring authority to change product direction. Adam's suggestion of recruiting, staffing and IT is exploratory, not a validated RB2B expansion result."
+    },
+    {
+      "claim": "HockeyStack receives inbound from other industries through LinkedIn and Google advertising, but Emir says this is still early and not yet demonstrably scalable.",
+      "start_timestamp": "00:45:10",
+      "end_timestamp": "00:46:08",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Do not describe cross-industry inbound as a proven scaled channel or attribute all of it to Emir's organic LinkedIn audience."
+    },
+    {
+      "claim": "Emir defends attribution as directional support for investment and operating decisions rather than precise assignment of causality. Its usefulness increases with channel and organizational complexity; a simple founder-led acquisition model may not need it.",
+      "start_timestamp": "00:46:11",
+      "end_timestamp": "00:49:34",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A host introduces the panel as attribution skeptics. Emir's hypothetical RB2B example is not a verified description of RB2B's current staffing or complete channel mix."
+    },
+    {
+      "claim": "Emir acknowledges that private recommendations and other touchpoints can be invisible while arguing that observable buyer journeys still have value. He says HockeyStack supports multiple attribution models and configurable models rather than only first or last touch.",
+      "start_timestamp": "00:48:45",
+      "end_timestamp": "00:50:27",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Guest product claims; neither model accuracy nor incremental revenue impact is demonstrated. Observing a touchpoint does not prove that it caused a purchase."
+    },
+    {
+      "claim": "When Adam presses for the mechanism connecting brand activity to revenue, Emir describes combining available evidence such as webinar attendee lists, self-reported discovery, imports and sales-call transcripts into a buyer journey.",
+      "start_timestamp": "00:50:37",
+      "end_timestamp": "00:53:42",
+      "speaker": "Emir Atli, responding to Adam Robinson",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Webinar attendance can be matched from a supplied list; podcast exposure may depend on a buyer mentioning it. The answer does not establish universal person-level or device-level tracking."
+    },
+    {
+      "claim": "Emir argues that forcing every marketing interaction into a Salesforce campaign and emphasizing last touch can exclude meaningful brand activity. He presents flexible data ingestion as a way to represent more of the journey.",
+      "start_timestamp": "00:51:21",
+      "end_timestamp": "00:52:14",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "This includes a competitive claim about an Adobe-owned product whose name is captioned as 'visible.' The characterization is not independently verified and should not be generalized to every competing platform."
+    },
+    {
+      "claim": "Adam expresses interest in learning how B2B companies use TikTok and user-generated content, identifying the forthcoming ClickUp conversation as an opportunity to investigate those practices.",
+      "start_timestamp": "00:54:27",
+      "end_timestamp": "00:54:45",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "This establishes curiosity, not an implemented TikTok strategy or an approved content direction for Adam."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Adam reports spending roughly a year posting twice daily with modest subscriber growth before working with Alec Paul. He describes the subsequent period as a major improvement in audience growth.",
+      "start_timestamp": "00:03:00",
+      "end_timestamp": "00:03:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "This establishes a historical publishing and coaching experience. It does not establish an approved voice, mission or causal growth formula."
+    },
+    {
+      "claim": "Adam describes a concrete review habit for the RB2B AI sales assistant: he and Rob inspect conversations daily and invite external feedback on the experience.",
+      "start_timestamp": "00:04:19",
+      "end_timestamp": "00:04:56",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "The behavior supports an interpretation of hands-on experimentation, but the transcript does not authorize elevating that interpretation into a permanent personal-value claim."
+    },
+    {
+      "claim": "Adam publicly acknowledges that RB2B's dominant customer segment may reflect where its audience comes from rather than the product's best possible market.",
+      "start_timestamp": "00:40:28",
+      "end_timestamp": "00:41:00",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "He is questioning fit, not reporting evidence that the current segment is wrong."
+    },
+    {
+      "claim": "Adam asks follow-up questions about exactly how a podcast appearance becomes attribution data, including whether the evidence attaches to individuals or device identifiers.",
+      "start_timestamp": "00:50:37",
+      "end_timestamp": "00:53:02",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "This records the questioning behavior in this episode. It is not proof of a settled rejection or adoption of attribution software."
+    },
+    {
+      "claim": "Emir says he owns HockeyStack's overall go-to-market responsibilities and started building his LinkedIn presence before the product existed.",
+      "start_timestamp": "00:01:49",
+      "end_timestamp": "00:02:58",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Guest biography only. His spoken title is garbled, while the introduction identifies him as CRO."
+    },
+    {
+      "claim": "After a mentor warned about reliance on inbound, Emir initially did follow-up himself, then recruited Alex Choy. He says Alex moved from Los Angeles to San Francisco because HockeyStack worked in person.",
+      "start_timestamp": "00:14:09",
+      "end_timestamp": "00:16:46",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Alex's exact title and prior employer are unclear in the captions. The relocation and in-person policy belong to HockeyStack, not Adam's companies."
+    },
+    {
+      "claim": "Emir acknowledges that he had not previously built SDR teams and describes learning from Alex to prioritize a relatable opening over a feature-heavy pitch.",
+      "start_timestamp": "00:21:34",
+      "end_timestamp": "00:22:35",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest learning experience. One sentence has tangled attribution, but the overall account clearly credits Alex's coaching."
+    },
+    {
+      "claim": "Emir says HockeyStack expects demanding work from SDRs, recruits for career ambition and deliberately uses human-to-human role-play.",
+      "start_timestamp": "00:27:19",
+      "end_timestamp": "00:29:14",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "This is a guest's stated management preference, not Adam's hiring philosophy or evidence of employee satisfaction."
+    },
+    {
+      "claim": "Jeffrey says he wants call-volume expectations that are fair to his newly assigned team as well as commercially appropriate, and chooses to investigate a lower-volume dialer approach because his market is limited.",
+      "start_timestamp": "00:37:06",
+      "end_timestamp": "00:39:59",
+      "speaker": "Jeffrey, audience participant",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Audience participant's management concern and intended next step; no subsequent implementation or result is known."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Adam's LinkedIn audience: he reports posting twice daily for roughly a year while adding about 500 subscribers per month, then starting work with Alec Paul at 20,000 subscribers and reaching 135,000 subscribers 18 months later, at the time of speaking.",
+      "start_timestamp": "00:03:00",
+      "end_timestamp": "00:03:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Self-reported historical growth and latest-at-speaking count. Adam says 'subscribers'; the transcript does not establish whether he means followers or a specific subscription product. No exact collaboration start date is given."
+    },
+    {
+      "claim": "Alec Paul's consulting price: Adam says the service costs $12,000 per month at the time of speaking and does not include writing posts.",
+      "start_timestamp": "00:03:34",
+      "end_timestamp": "00:04:10",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Reported service price, not verified Adam or RB2B expense, revenue or ROI. No contract terms are supplied."
+    },
+    {
+      "claim": "RB2B AI sales assistant: Adam says it launched 'last week on Thursday,' receives approximately 50 chats per day and is reviewed by him and Rob for about one hour each day.",
+      "start_timestamp": "00:04:19",
+      "end_timestamp": "00:04:56",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Early self-reported usage, not paid users or conversions. The hour describes a shared review activity, not a verified total of person-hours. The relative launch date is not converted into a calendar date."
+    },
+    {
+      "claim": "Unfuck My Startup: Adam estimates that the series has produced approximately 75 episodes by this conversation.",
+      "start_timestamp": "00:00:04",
+      "end_timestamp": "00:00:23",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Approximate series-history count, not a verified episode number."
+    },
+    {
+      "claim": "Live show audience: Pete reports 502 people on Zoom during the pitch setup; Lux later refers to 516 people in the audience. Additional X and YouTube viewers are mentioned without counts.",
+      "start_timestamp": "00:05:09",
+      "end_timestamp": "00:08:25",
+      "speaker": "Pete and Lux",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Separate live snapshots, not necessarily inconsistent. They are not unique-viewer totals, registrations or combined cross-platform reach."
+    },
+    {
+      "claim": "Pitch segment social proof: a host says the previous record was 25 booked demos. Hosts express interest in StreamAlive and predict a possible record, but no final booked-demo total for Lux is reported.",
+      "start_timestamp": "00:05:31",
+      "end_timestamp": "00:12:45",
+      "speaker": "Pete and other hosting turns",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical show record. Chat messages requesting a demo and an intention to book are not verified completed calendar bookings."
+    },
+    {
+      "claim": "HockeyStack LinkedIn history: Emir says he began posting before the product approximately two years earlier, initially twice daily, and started working with Alec in July of the previous year.",
+      "start_timestamp": "00:02:26",
+      "end_timestamp": "00:02:58",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Guest self-report. Relative to the source's 2025 context, these indicate approximately 2023 and July 2024, but no exact product or posting launch date is established."
+    },
+    {
+      "claim": "HockeyStack outbound pipeline: a host states that a five-person sales team generates $74 million in pipeline per year from outbound alone, and Emir confirms the summary. The host also says HockeyStack had sent no cold email at the equivalent time the previous year, which Emir confirms.",
+      "start_timestamp": "00:12:54",
+      "end_timestamp": "00:13:24",
+      "speaker": "Unidentified host, confirmed by Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest-confirmed company self-report, not independently verified. Pipeline is not closed revenue, ARR, profit or cash. The source does not establish whether $74 million is trailing-year actual pipeline or an annualized run rate. The five-person description is later framed around the SDR team; total company support and employment arrangements are unspecified."
+    },
+    {
+      "claim": "HockeyStack advertising: Emir reports a seven-figure ad budget that varies by month and quarter.",
+      "start_timestamp": "00:13:38",
+      "end_timestamp": "00:14:09",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Budget self-report. The budget period, currency and actual spend are not specified; do not label it monthly or annual."
+    },
+    {
+      "claim": "HockeyStack at outbound launch: Emir estimates ARR at roughly $5 million to $6 million when the company began its outbound journey.",
+      "start_timestamp": "00:23:31",
+      "end_timestamp": "00:23:52",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical, approximate self-reported ARR, not latest-at-publication ARR or recognized annual revenue. The exact outbound start date is not supplied."
+    },
+    {
+      "claim": "HockeyStack setup timing: Emir says the initial recruitment process with Alex took about three days, Alex moved the following week, and building the consolidated data foundation took roughly one and a half months.",
+      "start_timestamp": "00:16:27",
+      "end_timestamp": "00:17:34",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Approximate historical durations. These do not establish engineering effort, staffing cost or a repeatable implementation timeline."
+    },
+    {
+      "claim": "HockeyStack early outbound productivity: Emir says Alex reached two to three booked meetings per day using manual calling before a parallel dialer was added.",
+      "start_timestamp": "00:17:38",
+      "end_timestamp": "00:18:09",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical single-operator self-report. Number of dials, persistence period, meeting attendance and closed revenue are not provided."
+    },
+    {
+      "claim": "HockeyStack SDR headcount: Emir says the team grew to five and was being expanded to nine at the time of speaking.",
+      "start_timestamp": "00:18:07",
+      "end_timestamp": "00:18:23",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Five is the reported existing team; nine is a growth plan or hiring process, not a confirmed achieved headcount. FTE status, management inclusion, contractors and shared support are not specified."
+    },
+    {
+      "claim": "HockeyStack cold-call funnel: Emir says the central problem statement earns a chance to continue about nine times out of ten and that roughly 30% of prospects who give that opportunity book a meeting.",
+      "start_timestamp": "00:19:39",
+      "end_timestamp": "00:20:49",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate self-reported rates with no sample size or measurement period. The denominator excludes unconnected dial attempts. Earlier figures of 90% pain recognition and 2% immediate readiness are illustrative and should not be merged into this funnel."
+    },
+    {
+      "claim": "HockeyStack calls: Emir reports an average conversation duration of approximately four minutes, with some calls lasting about 23 minutes.",
+      "start_timestamp": "00:22:01",
+      "end_timestamp": "00:22:24",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Self-report with no sample window or precise population definition; not an average across all attempted calls."
+    },
+    {
+      "claim": "HockeyStack current rep activity: Emir describes roughly 2,000–4,000 parallel-dialer attempts per rep per day and approximately 50–60 conversations where the person gives more than the initial 10–20 seconds.",
+      "start_timestamp": "00:24:02",
+      "end_timestamp": "00:24:30",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate self-report; Emir explicitly qualifies the conversation estimate with uncertainty. Dial attempts are not unique prospects or meetings."
+    },
+    {
+      "claim": "HockeyStack training cadence: paired role-play runs for 30 minutes at 9 a.m. every day; each SDR sends two good calls and two unsuccessful calls with explanations to Emir and Alex at day's end.",
+      "start_timestamp": "00:24:42",
+      "end_timestamp": "00:25:15",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Self-reported operating cadence at the time of speaking. The 9 a.m. time zone is unspecified."
+    },
+    {
+      "claim": "HockeyStack relationship development: Emir describes a book of business developing after approximately four to six months and says one of the company's largest deals closed 'yesterday' after repeated contact and account learning.",
+      "start_timestamp": "00:25:25",
+      "end_timestamp": "00:26:40",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate experience, not a guaranteed ramp period. No deal value is supplied, and 'yesterday' cannot safely be assigned an exact date. His separate claim that sales and marketing people usually move within one and a half years is an unsupported generalization."
+    },
+    {
+      "claim": "HockeyStack career pathway: Emir describes recruiting SDRs who want to become account executives within approximately 6–18 months, depending on seniority.",
+      "start_timestamp": "00:27:19",
+      "end_timestamp": "00:27:58",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Aspiration and stated pathway, not observed average promotion time or a guarantee. SDR and AE role names are garbled in the captions."
+    },
+    {
+      "claim": "HockeyStack target market: Emir describes selling to companies ranging from approximately 20–30 employees to 15,000–20,000 employees, with cold calling concentrated in the US, Canada and UK and other regions approached more through email and LinkedIn. Two products serve different ICPs.",
+      "start_timestamp": "00:28:14",
+      "end_timestamp": "00:28:45",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Reported target range, not a verified distribution of paying customers, company headcount or total addressable account count."
+    },
+    {
+      "claim": "Jeffrey's operating context: he has two BDRs plus himself and says he received the team the previous day. He recalls 150 calls per day as a respectable historical manual-calling benchmark.",
+      "start_timestamp": "00:32:05",
+      "end_timestamp": "00:37:18",
+      "speaker": "Jeffrey, audience participant",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Participant self-report from an unnamed company. The 150 calls are a recalled benchmark, not his team's current output or an Adam metric."
+    },
+    {
+      "claim": "Emir's suggested activity benchmarks: about 2,000–3,000 parallel-dialer attempts during five to six calling hours, with roughly two hours for administration and enablement; approximately 100–150 manual attempts per day. He also gives a lower beginner range captioned as 'one to 2500.'",
+      "start_timestamp": "00:37:21",
+      "end_timestamp": "00:38:21",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Recommendations, not additional achieved HockeyStack results. The beginner range is unclear and must not be silently normalized. Conversation length and dialer type change the benchmark."
+    },
+    {
+      "claim": "A host recalls making approximately 150 manual calls per day early in his career, says a power dialer roughly doubles that, and subsequently cites a comparison of two to three times output for power dialing versus two to 300 times for parallel dialing.",
+      "start_timestamp": "00:38:48",
+      "end_timestamp": "00:39:45",
+      "speaker": "Unidentified host or hosts",
+      "claim_type": "uncertain_speaker",
+      "pillar": "go-to-market",
+      "caveat": "Do not assign the career history to Adam. The parallel-dialer multiplier is internally suspect, may reflect caption error and is secondhand, attributed to Kevin Dorsy/Dorsey and a shared video."
+    },
+    {
+      "claim": "RB2B prospective pricing test: Adam asks whether a hypothetical segment such as local accountants would pay an amount captioned as '3.49 a month.'",
+      "start_timestamp": "00:40:40",
+      "end_timestamp": "00:41:00",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Hypothetical willingness-to-pay question, not achieved sales or verified RB2B pricing. The figure is ambiguous and should not be repaired to $349 or $3.49 without another source."
+    },
+    {
+      "claim": "Scale AI comparison: Emir refers to an approximately $14 billion Meta transaction involving '51%' and says Scale initially served an autonomous-vehicle labeling market of perhaps nine companies.",
+      "start_timestamp": "00:41:02",
+      "end_timestamp": "00:41:44",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Unverified guest comparison, not a HockeyStack or Adam achievement. Transaction amount, ownership percentage, transaction structure and initial market size must remain as stated with uncertainty."
+    },
+    {
+      "claim": "HockeyStack adjacent-market testing: Emir describes concentrating on one or two industries at a time, with results sometimes taking about a quarter.",
+      "start_timestamp": "00:42:43",
+      "end_timestamp": "00:43:26",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate process and elapsed-time estimate, not a promised payback period or quantified segment result."
+    },
+    {
+      "claim": "CRM market comparison: Emir says Salesforce and Microsoft Dynamics report new seven- and eight-figure deals each quarter and uses this to argue that more industries are adopting relevant infrastructure.",
+      "start_timestamp": "00:44:37",
+      "end_timestamp": "00:45:07",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "No earnings report, quarter, currency or contract-duration basis is supplied. His inference that these buyers previously had no CRM is not established by the deal sizes."
+    },
+    {
+      "claim": "Attribution complexity illustration: Emir contrasts a business with about five employees with one having about 1,000 employees, a captioned 50% marketing share, 12 channels and roughly five people per channel.",
+      "start_timestamp": "00:48:02",
+      "end_timestamp": "00:48:41",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Hypothetical illustration, not RB2B or HockeyStack staffing. The marketing-share wording is garbled and the figures should not be reconciled into a real organization chart."
+    },
+    {
+      "claim": "Website-identification comparison: Emir mentions approximately 20–25% identification and a company-level figure captioned as '7 80%,' then refers to missing 20–25%.",
+      "start_timestamp": "00:48:45",
+      "end_timestamp": "00:49:06",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Ambiguous guest analogy involving RB2B/Clearbit, not verified product performance. Identification level, denominators and complementary percentages are unclear and internally inconsistent."
+    },
+    {
+      "claim": "Podcast self-reporting estimate: Emir suggests a 90% or higher chance that someone who heard and liked RB2B on a podcast would mention it on a form.",
+      "start_timestamp": "00:53:02",
+      "end_timestamp": "00:53:19",
+      "speaker": "Emir Atli",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Unsupported conversational estimate, not measured attribution coverage or a validated form-completion rate."
+    },
+    {
+      "claim": "Show scheduling: a host announces no show the following week, references Canada Day on Tuesday and July 4 on Friday, and says Adam and the host will return July 8 with Kyle Coleman of ClickUp.",
+      "start_timestamp": "00:53:46",
+      "end_timestamp": "00:54:29",
+      "speaker": "Unidentified host",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Announced future schedule in the source's 2025 context, not verified subsequent events. Kyle's role is first described as VP of marketing and then revised or garbled as global marketing."
+    }
+  ],
+  "tensions_and_corrections": [
+    "The title frames attribution as a scam, but the spoken conclusion is conditional: Emir agrees that attribution misses activity and may be unnecessary for simple businesses, while defending its directional value for more complex teams.",
+    "The canonical metadata gives release time 2025-06-24T19:04:47+00:00, while the transcript header says Published: 20250625. Preserve the metadata timestamp and flag the header discrepancy; neither establishes the precise recording date.",
+    "Relative expressions such as 'last week on Thursday,' 'yesterday' and 'this time last year' are left relative to the recording because its exact date is not supplied.",
+    "The $74 million claim is annual outbound pipeline, not ARR or realized revenue. The $5–6 million ARR claim refers to the earlier outbound starting point; the transcript supplies no latest HockeyStack ARR.",
+    "The opening describes five people as a sales team, while the operating discussion focuses on SDRs and planned growth to nine. Total staffing, sales-management inclusion, FTE status and supporting labor are unresolved.",
+    "HockeyStack's earliest follow-up targeted interactive-demo users. That warm-lead activity differs from the cold calling and cold email subsequently discussed.",
+    "Inbound diversification did not remove inbound volatility. Emir explicitly says that fluctuation remains, and that new-industry inbound is not yet clearly scalable.",
+    "Emir's initial wish to add more product features to the call opening is corrected by Alex's incremental-attention approach. The opening's most relatable benefit need not be the product's largest or only capability.",
+    "Headline outbound activity should not be converted into a linear meeting forecast. Emir emphasizes accumulated relationships and account knowledge, and the reported conversion percentages use narrower denominators than all dials.",
+    "The panel is inconsistent about power versus parallel dialers, including how many numbers they dial and the claimed output multipliers. Jeffrey's smaller prospect pool also creates a boundary condition for the highest-volume approach.",
+    "Adam's apparent suggestion that staffing, recruiting and IT should fit RB2B is followed by Emir's qualification: identify the underlying operational requirements first. Similarity to B2B SaaS alone is not validation.",
+    "Emir initially says almost all brand channels leave a footprint, but the concrete podcast example depends on self-reporting or a sales-call mention. This does not establish complete exposure tracking or causal proof.",
+    "The 90% podcast self-report estimate, website-identification percentages, Scale AI transaction figures and CRM-deal inferences are unverified guest claims and include caption or reasoning uncertainties.",
+    "Automatic captions garble Emir Atli, HockeyStack, SDR/AE roles, several vendors, an AI assistant's name and the hypothetical RB2B monthly price. Unclear terms and figures have not been silently repaired.",
+    "A host characterizes Adam and himself as attribution skeptics, but Adam's own visible contribution is to ask for operational detail. The episode does not establish that he rejected attribution outright or adopted HockeyStack.",
+    "There is no substantive evidence here about Adam's bootstrapping-versus-VC position, approved mission or approved voice. HockeyStack's budget and growth should not be used to infer its financing model or Adam's preferences.",
+    "Public accessibility is not public-use clearance. These findings are for internal wiki synthesis; reuse in new public copy remains unapproved."
+  ],
+  "reusable_topics": [
+    "Founder publishing: creative direction, content quality and the economics of expert help",
+    "Reviewing an AI sales assistant through daily customer conversations",
+    "Building outbound before inbound becomes unreliable",
+    "Starting with engaged product users before scaling cold outreach",
+    "Validating a cold-call problem statement before scaling automation",
+    "Earning attention in small increments rather than overloading the opener",
+    "Daily human role-play and rep-led call review",
+    "Outbound relationships and account knowledge as compounding assets",
+    "SDR advancement paths and continuity of customer relationships",
+    "Matching dialer choice to prospect-pool size and conversation quality",
+    "Using early calls to learn before adding complex intent signals",
+    "Expanding TAM through operationally similar industries",
+    "Why vertical expansion often requires product changes",
+    "Distinguishing audience-driven demand from the best possible customer segment",
+    "Attribution as incomplete decision support rather than causal certainty",
+    "Combining observed journeys, self-reporting and sales-call evidence",
+    "Separating pipeline, ARR, budgets, targets and achieved results",
+    "Low-friction audience interaction as a product demonstration",
+    "Exploring TikTok and user-generated content for B2B"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:55:13",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript, including the StreamAlive pitch, audience coaching and final attribution discussion; no external sources or files were consulted.",
+      "The final supplied caption begins at 00:55:13 and ends mid-sentence; metadata gives a duration of 3,315 seconds.",
+      "Automatic captions are not diarized. Some hosting turns cannot be assigned confidently to Adam, Pete or another panelist.",
+      "All operating results remain speaker self-reports or host claims confirmed by the guest; none were independently audited.",
+      "Several figures lack measurement windows, denominators, currency, staffing definitions or precise dates.",
+      "No audiovisual review was performed to resolve names, figures, displayed product features or speaker identities.",
+      "The source supports internal research only and does not establish permission for reuse in public copy."
+    ]
+  }
+}

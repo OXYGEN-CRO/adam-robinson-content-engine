@@ -1,0 +1,194 @@
+{
+  "tested_at": "2026-09-08T09:57:22.361046+00:00",
+  "helper_sha256": "099503d068ba9f0a9398b8d74c3867b86490849baa49c16f7361a3c650d5ca50",
+  "input_hashes": {
+    "research/youtube-video-notes/wYFjORZCtug.json": "3a658dcddaf0245d7160c36e05084c1d3d36c17edb37091d60371ef39f084fe7",
+    "research/youtube-coverage-reviews.json": "e7501c659493aa8eef94ec1534b37a93926277664a4f71ed8418c6d3251b1c11",
+    "research/youtube-video-notes/Y63QI4BKEcg.json": "78b4259883303c8f7763a259c5e1cfa548262f583222eabf4c176724e67ad257",
+    "scripts/verify_youtube_manual_reviews.py": "099503d068ba9f0a9398b8d74c3867b86490849baa49c16f7361a3c650d5ca50",
+    "research/youtube-synthesis-audit.json": "f04258fbb7591d8ec8b1536045ad542e6c85970be9cfd77eb0ab488a9535a1e5",
+    "research/youtube-video-notes/D-8umeDdYP0.json": "3cfd48ad775d36dc7e9469adaa1a815308dcb0a14367c102813d109da2b593d4",
+    "raw/sources/2026-09-08-youtube/videos/D-8umeDdYP0/D-8umeDdYP0.md": "5f3410502c2fe7d38d6941b87dbaaebe45ecd8ff2e47c48687d7ecb673d3c685",
+    "raw/sources/2026-09-08-youtube/selected-100.json": "6ac44cc9a19e0ec99b4f81b556c5dc3525d277a37f40df7ef8cc95bc1c3e20ac",
+    "raw/sources/2026-09-08-youtube/videos/Y63QI4BKEcg/Y63QI4BKEcg.md": "0572732915c88e723e4dfa7fe6f442bbe50971679cba080da7ab832dd7110073",
+    "raw/sources/2026-09-08-youtube/videos/wYFjORZCtug/wYFjORZCtug.md": "21fe158a53cc88d4eaa0e6dc8b6450ef059a50d1f420ccc45b299487225f3d1e"
+  },
+  "cases": [
+    {
+      "name": "stale_source_bytes",
+      "expected_error": "review_hash_mismatch",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "review_hash_mismatch",
+          "detail": "review[0]: source_path bytes changed or declared hash is stale"
+        },
+        {
+          "code": "automatic_source_snapshot_stale",
+          "detail": "review[0]: D-8umeDdYP0"
+        }
+      ]
+    },
+    {
+      "name": "stale_note_bytes",
+      "expected_error": "review_hash_mismatch",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "review_hash_mismatch",
+          "detail": "review[1]: note_path bytes changed or declared hash is stale"
+        }
+      ]
+    },
+    {
+      "name": "new_unreviewed_flag",
+      "expected_error": "unreviewed_automatic_flag",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "unreviewed_automatic_flag",
+          "detail": "D-8umeDdYP0 runtime_diagnostic: DISPOSABLE unreviewed flag"
+        }
+      ]
+    },
+    {
+      "name": "missing_review_record",
+      "expected_error": "unreviewed_automatic_flag",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "unreviewed_automatic_flag",
+          "detail": "Y63QI4BKEcg thin_claim: metrics_and_dates[11]: Dave describes himself as a nine-time entrepreneur."
+        }
+      ]
+    },
+    {
+      "name": "mismatched_claim_path",
+      "expected_error": "review_claim_detail_mismatch",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "review_claim_detail_mismatch",
+          "detail": "review[1]: Claim path/text does not match exact recorded thin_claim detail"
+        }
+      ]
+    },
+    {
+      "name": "mismatched_exact_thin_claim_detail",
+      "expected_error": "review_claim_detail_mismatch",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "review_claim_detail_mismatch",
+          "detail": "review[1]: Claim path/text does not match exact recorded thin_claim detail"
+        },
+        {
+          "code": "review_flag_match_not_unique",
+          "detail": "review[1]: Expected one matching current flag unit, found 0"
+        },
+        {
+          "code": "unreviewed_automatic_flag",
+          "detail": "wYFjORZCtug thin_claim: metrics_and_dates[1]: Retention.com: Adam reports 60 employees at recording."
+        }
+      ]
+    },
+    {
+      "name": "mismatched_flagged_gap_interval",
+      "expected_error": "review_flag_interval_mismatch",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "review_flag_interval_mismatch",
+          "detail": "review[0]: Recorded flagged interval does not exactly match the automatic gap"
+        },
+        {
+          "code": "review_flag_match_not_unique",
+          "detail": "review[0]: Expected one matching current flag unit, found 0"
+        },
+        {
+          "code": "unreviewed_automatic_flag",
+          "detail": "D-8umeDdYP0 large_lesson_anchor_gap: Long spans between meaningful lesson anchors: [(0.719, 739.5)]; introductions/outros can explain some gaps, inspect the actual source"
+        }
+      ]
+    },
+    {
+      "name": "incomplete_raw_read_interval",
+      "expected_error": "review_interval_incomplete",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "evidence_outside_read_interval",
+          "detail": "review[0]: [694.0, 785.0]"
+        },
+        {
+          "code": "review_interval_incomplete",
+          "detail": "review[0]: Read interval does not cover the entire automatic flagged gap"
+        }
+      ]
+    },
+    {
+      "name": "empty_evidence",
+      "expected_error": "review_invalid",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "review_invalid",
+          "detail": "review[0]: Nonempty evidence list required"
+        },
+        {
+          "code": "unreviewed_automatic_flag",
+          "detail": "D-8umeDdYP0 large_lesson_anchor_gap: Long spans between meaningful lesson anchors: [(0.719, 739.5)]; introductions/outros can explain some gaps, inspect the actual source"
+        }
+      ]
+    },
+    {
+      "name": "wrong_canonical_note_path",
+      "expected_error": "review_invalid",
+      "detected": true,
+      "exit_code": 1,
+      "current_flags_reviewed": false,
+      "errors": [
+        {
+          "code": "review_invalid",
+          "detail": "review[1]: note_path must exactly equal selected canonical path research/youtube-video-notes/wYFjORZCtug.json"
+        },
+        {
+          "code": "unreviewed_automatic_flag",
+          "detail": "wYFjORZCtug thin_claim: metrics_and_dates[1]: Retention.com: Adam reports 60 employees at recording."
+        }
+      ]
+    }
+  ],
+  "baseline": {
+    "status": "current_flags_reviewed_automatic_snapshot_incomplete_or_invalid",
+    "exit_code": 2,
+    "current_flags_reviewed": true,
+    "all_100_complete_in_automatic_snapshot": false,
+    "automatic_error_count_preserved": 22,
+    "automatic_flag_count_preserved": 3,
+    "top_level_errors_preserved_exactly": true,
+    "per_note_errors_preserved_exactly": true
+  },
+  "all_cases_detected": true,
+  "disposable_fixture_removed": true,
+  "live_inputs_unchanged": true,
+  "changed_live_paths": []
+}

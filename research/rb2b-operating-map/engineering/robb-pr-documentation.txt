@@ -1,0 +1,135 @@
+How We Got Our AI Support Agent to Replace a Full-Time Human Role (and the Unglamorous Work It Actually Took) | Robb Clarke
+Robb Clarke
+×
+About
+AI Consulting
+Applied AI
+Appearances
+Novels
+Contact
+Case Studies
+How We Got Our AI Support Agent to Replace a Full-Time Human Role (and the Unglamorous Work It Actually Took)
+February 3, 2026
+Share
+Our AI support agent now saves us 100% of a human agent’s time.
+Not 80%. Not “mostly handles things.” A full human role.
+I’m sharing exactly how we got here because most companies are nowhere close to this, and I think it’s because they’re not doing the boring, tedious work that actually moves the needle.
+Everyone wants to talk about which AI model to use, what prompting techniques work best, or how to architect the perfect RAG system. That stuff matters, but it’s not why most AI support implementations fail.
+They fail because companies aren’t willing to do the unglamorous work of making them actually good.
+Here’s what worked for us in 2025:
+1. We review every single mediocre interaction
+We track a Customer Experience (CX) score for every AI conversation (rated out of 5). Every conversation that scores 3 or lower gets manually reviewed by me. Not weekly. Not “when we have time.” Every single one.
+When a customer rates their experience as “meh” or worse, there’s a reason. Maybe the AI gave technically correct information in a confusing way. Maybe it missed context from earlier in the conversation. Maybe our documentation contradicted itself. Maybe the tone felt robotic or dismissive.
+Each review leads to specific changes: updating AI guidance, rewriting help docs, adjusting tone, adding edge case handling, fixing broken links, clarifying ambiguous instructions.
+This isn’t exciting work. It’s reading through failed conversations and figuring out what went wrong. Sometimes it’s painfully obvious (“the AI sent them to a page that doesn’t exist”). Sometimes it’s subtle (“the AI answered the literal question but missed what they were actually trying to accomplish”).
+But it’s the only way to know
+why
+your AI isn’t working.
+Here’s what surprised me: the patterns repeat. You’ll see the same confusion points come up over and over. A particular phrase that customers interpret differently than you intended. A workflow that makes sense to your team but baffles users. A feature that people don’t know exists.
+Once you see these patterns, you can fix them systematically. But you have to look.
+Most companies check their AI’s performance in aggregate. “Our CSAT is 4.2, we’re doing great!” But aggregate scores hide all the actual problems. The devil is in the 3-star ratings.
+2. We treat escalations as product problems
+When a ticket gets escalated to our human team, we don’t just handle it and move on. We ask: “Why did this need a human?”
+Sometimes it’s unavoidable. A billing dispute that requires judgment. A custom contract question. An edge case so specific that it would be absurd to train the AI for it. That’s fine. Those escalations are working as intended.
+But often there’s a pattern. And patterns mean there’s something we can fix.
+We noticed customers were escalating when they couldn’t figure out how to configure a specific integration. The AI had the right answer. It was sending them to the right documentation. But people were still getting stuck and asking for help.
+So we dug deeper. Turned out the setup process itself was confusing. The UI wasn’t clear about which step came next. The error messages were vague. Customers were following the instructions correctly and still hitting dead ends.
+The solution wasn’t better AI responses. It was redesigning that flow in the product.
+Now those tickets don’t happen.
+This is the thing nobody talks about: the best AI support isn’t better AI responses. It’s fewer reasons to need support in the first place.
+Every escalation is a signal. Maybe it’s a signal that your product is confusing. Maybe it’s a signal that your onboarding is incomplete. Maybe it’s a signal that you’re not communicating changes effectively.
+We keep a running log of escalation themes. Every week, we look at it and ask: “What can we prevent?” Sometimes the answer is product changes. Sometimes it’s better documentation. Sometimes it’s proactive communication (“hey, we’re sunsetting this feature, here’s how to migrate”).
+The goal isn’t just to handle support efficiently. It’s to need less of it.
+3. We keep our docs obsessively current
+This sounds obvious until you actually try to do it.
+Every product update. Every process change. Every new edge case we discover. Every UI change, no matter how small. It all goes into our documentation and changelog immediately. Not “at the end of the sprint.” Not “when we do our monthly docs review.” The same day.
+This is harder than it sounds. It requires discipline. It requires that documentation isn’t something the marketing team “owns” or that engineering does “when they have time.” It has to be part of the actual workflow.
+Here’s how we do it: every pull request that changes user-facing functionality requires a documentation update before it can be merged. Every process change requires updating the relevant help article. Every customer conversation that reveals a gap in our docs gets flagged and addressed within 24 hours.
+Because an AI is only as good as the information it has access to. If your docs are two weeks out of date, your AI is giving two-week-old answers. And your team (human or AI) is fielding tickets about problems you already fixed or features that work differently now.
+This compounds over time. One outdated article is a minor annoyance. Fifty outdated articles across your entire knowledge base means your AI is fundamentally unreliable. Customers stop trusting it. They start going straight to your human team, even for things the AI could handle.
+We also version our documentation. When we make a significant product change, we don’t just update the docs. We keep the old version accessible and clearly marked. Because inevitably, some customers are on older versions or haven’t migrated yet, and they need answers for the product as it exists for them right now.
+We treat documentation like critical infrastructure because it is. It’s not a nice-to-have. It’s not something you get around to eventually. It’s the foundation everything else is built on.
+Here’s What It Really Takes
+None of this is revolutionary. There’s no secret prompt engineering trick. No magic AI model. No architectural breakthrough.
+It’s just consistent, unglamorous work: reviewing failures, fixing root causes, keeping information current.
+Most companies don’t get AI support to actually work because they’re not willing to do this work. They set up the AI, hope for the best, and then wonder why it plateaus at 60% effectiveness.
+I’ve talked to dozens of founders who are frustrated with their AI support. The conversation always goes the same way:
+“Our AI handles the easy stuff, but anything remotely complex goes to our team.”
+“How often do you review the conversations where it fails?”
+“Uh, we look at the dashboard metrics pretty regularly?”
+That’s the gap. Metrics tell you
+that
+something is wrong. They don’t tell you
+what
+is wrong or
+how
+to fix it.
+The difference between an AI that “kind of helps” and one that genuinely replaces a full-time role is about 200 hours of reviewing bad conversations, updating docs, and fixing the sharp edges in your product.
+We did that work. That’s why ours works.
+What We’re Still Working On
+We’re not done. There are still things our AI struggles with.
+Complex multi-step troubleshooting where the next step depends on what happened in the previous step. Emotional conversations where someone is frustrated and needs empathy more than information. Situations where the right answer is “I don’t know, but let me find out” rather than confidently providing the most likely answer.
+We’re getting better at these, but they’re hard problems. The temptation is to just route these to humans and call it good enough. But we keep pushing because every conversation that requires human intervention is a conversation where we’re not yet at 100%.
+And honestly, that’s the mindset that matters most. Not “our AI is pretty good.” But “where is it still failing, and how do we fix that?”
+If You’re Building This
+A few things I wish someone had told me when we started:
+Your AI will never be better than your documentation. If your docs are mediocre, your AI will be mediocre. This is not a problem you can prompt-engineer your way out of.
+Aggregate metrics lie. A 4.2 average CSAT score can hide the fact that 20% of your customers are having terrible experiences. You have to look at the individual failures.
+The best improvements come from talking to customers, not from talking to your AI vendor. Your vendor can make their model better, but only you can make your product less confusing.
+Speed matters less than you think. Customers would rather wait five seconds for a correct answer than get an instant answer that’s wrong or incomplete.
+Your AI should sound like your company. If your brand is friendly and casual, your AI should be too. If your brand is professional and precise, same thing. Don’t let it default to generic corporate speak.
+Most importantly: this is not a “set it and forget it” project. It’s ongoing work. The day you stop reviewing conversations and updating docs is the day your AI starts getting worse.
+Let’s Compare Notes
+If you’re building AI support and want to compare notes (or if you think we’re missing something obvious), I’d genuinely love to hear from you. We’re still learning, and there’s probably a version of this post I’ll write in six months about what we got wrong.
+The worst thing about working on this stuff is how much of it happens in isolation. Everyone’s trying to figure out the same problems, but nobody’s talking about the boring operational details that actually matter.
+So let’s change that. What’s working for you? What isn’t? What did I miss?
+Ebook
+How to Train an AI Support Agent That Actually Resolves Tickets
+The playbook behind going from 31% to 80%+ resolution rates.
+Get the Book
+More from Applied AI
+Case Studies
+How MoltSets' AI Support Agent Resolves 90% of Tickets
+August 25, 2026
+Case Studies
+People are nicer to things that look like people. Go figure.
+April 15, 2026
+Case Studies
+I gave our AI support agent a face and a name. Here's what happened.
+March 13, 2026
+Back to Applied AI
+Written by
+Robb Clarke
+Head of AI at RB2B and AI strategy consultant with 20+ years in development. I help SaaS companies build AI support systems that actually resolve tickets — writing about what works, not just what's possible.
+LinkedIn
+About Me
+Work With Me
+I help SaaS teams design, train, and optimize AI support agents that actually resolve tickets—not just answer questions.
+View Services
+Get in Touch
+Have a question about AI implementation or want to discuss your support operations? I'd love to hear from you.
+Start a Conversation
+×
+Ebook
+How to Train an AI Support Agent That Actually Resolves Tickets
+The playbook behind going from 31% to 80%+ resolution rates.
+Get the Book
+Robb Clarke
+AI consultant helping SaaS teams build AI support agents that resolve tickets, not just answer questions.
+Explore
+About
+AI Consulting
+Appearances
+Novels
+Contact
+Get in Touch
+Based in Fredericton, NB.
+Serving clients worldwide.
+Send me an email
+.
+© 2026 Robb Clarke. All rights reserved. |
+Privacy Policy
+This site uses cookies for analytics and to understand how visitors interact with our site. See our
+Privacy Policy
+for details.
+Okay

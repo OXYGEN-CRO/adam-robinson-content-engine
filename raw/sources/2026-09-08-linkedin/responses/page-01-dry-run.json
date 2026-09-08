@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "data": {
+    "result": {
+      "provider": "scraper",
+      "operation": "linkedin_profile_posts",
+      "request": {
+        "profile": "https://www.linkedin.com/in/retentionadam",
+        "page": 1
+      },
+      "meta": {
+        "backend": "native_rest",
+        "method": "GET",
+        "path": "/linkedin/profile-posts",
+        "headers": {},
+        "query": {
+          "profile": "https://www.linkedin.com/in/retentionadam",
+          "page": "1"
+        },
+        "body": null,
+        "credential": "managed",
+        "credential_slot": "api_key",
+        "mode": "dry_run",
+        "ok": true,
+        "side_effect_class": "paid_provider",
+        "latency_band": "1-5s",
+        "docs_url": "https://oxygen-agent.com/docs/providers/linkedin-scraper",
+        "provider_call": false,
+        "billing": {
+          "credential_mode": "managed",
+          "managed_credit_estimate": 16,
+          "category": "managed_enrichment"
+        },
+        "access": {
+          "status": "available",
+          "reasons": [],
+          "credential_mode": "managed",
+          "integration_id": "scraper",
+          "connection_id": null,
+          "capability_tags": [
+            "cookieless",
+            "linkedin_posts",
+            "linkedin_public_read",
+            "native_linkedin_scraper"
+          ],
+          "access_requirements": {
+            "credential_modes": [
+              "managed"
+            ],
+            "runtime_env_required": [
+              "HARVEST_API_KEY"
+            ]
+          }
+        }
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "results": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "post_url": {
+                  "type": "string",
+                  "description": "Permalink of the post."
+                },
+                "content": {
+                  "type": "string",
+                  "description": "Post text."
+                },
+                "posted_at": {
+                  "type": "string",
+                  "description": "When the post was published."
+                },
+                "likes": {
+                  "type": "number"
+                },
+                "comments": {
+                  "type": "number"
+                },
+                "shares": {
+                  "type": "number"
+                },
+                "author_name": {
+                  "type": "string"
+                },
+                "author_url": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": true
+            }
+          },
+          "pagination": {
+            "type": "object",
+            "additionalProperties": true
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "dry_run": true,
+    "preview": {
+      "provider_call": false,
+      "message": "Preview only — no provider call was made and no data was fetched.",
+      "next_step": "Re-run with --mode live --approved --max-credits 16 to execute."
+    },
+    "credits": {
+      "estimated_credits": 16,
+      "credits_remaining": 2104385.225,
+      "monthly_cap_remaining": null,
+      "billing_url": "https://oxygen-agent.com/billing"
+    },
+    "web_url": "https://oxygen-agent.com/observability?trace_id=21934ac4-5a11-4dfa-8e8b-d3b4619c0bb3",
+    "deepLink": "https://oxygen-agent.com/observability?trace_id=21934ac4-5a11-4dfa-8e8b-d3b4619c0bb3"
+  },
+  "meta": {
+    "command": "tools run",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

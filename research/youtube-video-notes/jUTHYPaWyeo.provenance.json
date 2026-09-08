@@ -1,0 +1,13 @@
+{
+  "id": "jUTHYPaWyeo",
+  "source_sha256": "8cf40767f2406cad4224cca53f6261d74021366b5793c382637e30573f669998",
+  "source_characters": 75638,
+  "source_word_count": 11023,
+  "prompt_sha256": "71350cb6526f79e2e598d453022c6d1648cc9f852eb7460201ea8181dae1ba63",
+  "started_at": "2026-09-08T10:26:55.349105+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/jUTHYPaWyeo/jUTHYPaWyeo.md",
+  "pid": 79556,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T10:31:54.649121+00:00"
+}

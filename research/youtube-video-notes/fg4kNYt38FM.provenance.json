@@ -1,0 +1,13 @@
+{
+  "id": "fg4kNYt38FM",
+  "source_sha256": "816948522f41f848ddbbc5dd1043173b1c5aaf1b231c3db89d6444b83703cee7",
+  "source_characters": 73184,
+  "source_word_count": 11183,
+  "prompt_sha256": "26b69f03c602c6bedce942bc4b1f2f4e8c2286272421aa4bc53f951295c857a7",
+  "started_at": "2026-09-08T09:55:45.457377+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/fg4kNYt38FM/fg4kNYt38FM.md",
+  "pid": 94160,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T10:01:40.285649+00:00"
+}

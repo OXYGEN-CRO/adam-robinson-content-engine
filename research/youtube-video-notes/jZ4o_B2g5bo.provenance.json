@@ -1,0 +1,13 @@
+{
+  "id": "jZ4o_B2g5bo",
+  "source_sha256": "59dc2375a9f031c5472edcd1b58f5f8c411553ee1b266dd84301f6c86bcae76e",
+  "source_characters": 77935,
+  "source_word_count": 11730,
+  "prompt_sha256": "cb8a42c56122a659e1138164e9cbfd03dc1b87d72907d546aece3e980e36616e",
+  "started_at": "2026-09-08T08:33:06.894029+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/jZ4o_B2g5bo/jZ4o_B2g5bo.md",
+  "pid": 99750,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:38:35.279835+00:00"
+}

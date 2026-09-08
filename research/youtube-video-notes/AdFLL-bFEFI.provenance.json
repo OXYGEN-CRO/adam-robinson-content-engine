@@ -1,0 +1,13 @@
+{
+  "id": "AdFLL-bFEFI",
+  "source_sha256": "4a2ac480c264bf6558f5f45126cbdc30de6ebb4ab0e33819636f67257c74796f",
+  "source_characters": 14085,
+  "source_word_count": 1989,
+  "prompt_sha256": "d251d39e641b50eab5183b26785e79f39268e5c75498f8a2f1cde023b7ac1bd3",
+  "started_at": "2026-09-08T08:02:28.037396+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/AdFLL-bFEFI/AdFLL-bFEFI.md",
+  "pid": 96706,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:05:27.062064+00:00"
+}

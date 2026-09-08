@@ -1,0 +1,60 @@
+# Why You Need a Troubleshooting Section — research extraction
+
+- Video ID: Wr1-CoTwg8s
+- Published: 2025-07-30T17:24:02+00:00
+- Source: [[raw/sources/2026-09-08-youtube/videos/Wr1-CoTwg8s/Wr1-CoTwg8s]]
+- Status: draft machine synthesis; verify evidence before public use.
+- Input SHA-256: 33f7da90b328f737ac21a9f4f852dbdaa06fb2790af312456d0d680e8ad1da4e
+
+## Summary
+
+The discussion explains how troubleshooting documentation can support both users and AI support bots: separate general problems from installation-specific errors, connect diagnostic messages to remedies, and organize possible causes into sequential checks ordered by likelihood. One speaker reports strong AI-assisted script activation results, but supplies no measured success rate. The excerpt provides operational lessons about SaaS support, with no verified Adam biography or company performance metrics.
+
+## Speakers and attribution
+
+The captions contain multiple speaking turns but no verified speaker identities. The opening questioner acts as a host. The documentation respondent is likely Rob, based on the later direct address and response, but this is not confirmed. The speakers at 02:11 and 02:58 cannot confidently be identified as Adam or as distinct individuals from earlier speakers. Channel ownership does not establish attribution; no claim below is treated as a verified Adam statement.
+
+## Learnings
+
+- **00:00:04–00:00:24 · Opening questioner; identity unverified · host_statement · SaaS building:** Troubleshooting may require a bot to guide a user through sequential checks rather than optimize solely for the fastest response. Caveat: Presented as the host's framing of the problem, not a measured comparison of support approaches.
+- **00:00:25–00:00:59 · Documentation respondent, likely Rob · uncertain_speaker · SaaS building:** The described documentation system separates common account or collection problems from troubleshooting specific to script installation. Caveat: A report of the respondent's team's practice; company identity and speaker identity are not established.
+- **00:00:52–00:01:20 · Documentation respondent, likely Rob · uncertain_speaker · SaaS building:** A script validator can make troubleshooting more specific by checking an installation, displaying an error message, and linking that error conceptually to documentation explaining its likely cause and remedy. Caveat: The speaker describes matching documentation for validation errors, but does not establish that the tool automatically links to or retrieves it.
+- **00:01:23–00:01:40 · Documentation respondent, likely Rob · uncertain_speaker · SaaS building:** A useful troubleshooting guide names the problem, gives ordered resolution steps, and explains what the user should inspect and which nuances matter. Caveat: Describes the intended structure of these guides; no outcome comparison is provided.
+- **00:01:40–00:02:10 · Documentation respondent, likely Rob · uncertain_speaker · SaaS building:** A single symptom such as no collection can have several causes. The described checks include whether collection has ever occurred, whether the account is offline, whether a cap has been reached, whether the trial has ended, and whether the script remains installed. Caveat: These are product-specific diagnostic examples, not a complete or universally applicable checklist.
+- **00:02:11–00:02:42 · Speaker entering at 02:11; identity unverified · uncertain_speaker · SaaS building:** One speaker sees AI-guided troubleshooting as especially valuable because it can perform an interaction normally associated with a human support representative, using script activation as the example. Caveat: An enthusiastic assessment supported by an unquantified success claim. Captions render the product or company as 'RBDB' and the bot as 'Finn'; neither spelling is verified.
+- **00:02:42–00:02:56 · Speaker entering at 02:11; identity unverified · uncertain_speaker · SaaS building:** A dedicated troubleshooting section can address an application's recurring setup failure, using lists that users can work through interactively. Caveat: The speaker generalizes from a script-installation example to other applications; the claim that users respond well to lists is not backed by study data.
+- **00:02:58–00:03:47 · Questioner at 02:58 and documentation respondent, likely Rob · uncertain_speaker · SaaS building:** Clearly pairing each possible cause with its solution may help a bot follow the same diagnostic sequence as a human. The documentation respondent confirms intentionally ordering causes from more likely to less likely. Caveat: The questioner proposes the benefit for bot comprehension; the respondent confirms the ordering decision, not a measured improvement in bot performance.
+
+## Backstory and values
+
+- **00:03:35–00:03:47 · Documentation respondent, likely Rob · uncertain_speaker · SaaS building:** The documentation respondent says they deliberately arranged troubleshooting causes by likelihood, providing concrete evidence of a practical diagnostic design choice. Caveat: This decision belongs to the respondent and cannot be assigned to Adam. It does not establish a broader personal value, mission, or biography.
+
+## Metrics and dates
+
+- **00:00:25–00:00:59 · Documentation respondent, likely Rob · uncertain_speaker · SaaS building:** The documentation respondent reports approximately three or four core troubleshooting documents covering common user issues, alongside additional specialized documentation. Caveat: Approximate self-reported document count for an unnamed company at recording time. Recording date is unknown; publication was 2025-07-30. This is not the total documentation count or verified Adam/company social proof.
+- **00:02:30–00:02:39 · Speaker entering at 02:11; identity unverified · uncertain_speaker · SaaS building:** For the product captioned as 'RBDB,' a speaker reports that the bot captioned as 'Finn' can get users' scripts activated without Rob in almost every case. Caveat: Unverified operational report with no percentage, denominator, measurement window, or case-selection criteria. It concerns script activation, not all support cases. Names may be transcription errors. The claim is framed as current at recording, not independently verified as of publication.
+
+## Tensions and corrections
+
+- Speed versus guided diagnosis: the opening suggests that resolving troubleshooting problems may require deliberate sequential interaction, even when bots generally aim to resolve requests quickly.
+- The respondent confirms ordering causes by likelihood; the suggested benefit for AI comprehension remains the questioner's interpretation.
+- The claim of success in almost every script-activation case lacks measurement details and should not become a numerical resolution rate or a claim that human support is unnecessary.
+- The captions' 'RBDB' and 'Finn' are uncertain transcriptions and have not been silently normalized.
+- No explicit change of mind or numerical contradiction appears in the supplied transcript.
+
+## Reusable topics
+
+- Designing troubleshooting documentation for AI support
+- Mapping script-validation errors to actionable remedies
+- Diagnosing multiple causes behind one user-visible symptom
+- Ordering support checks by likelihood
+- Balancing fast bot responses with step-by-step guidance
+- Separating observed support success from measured resolution rates
+
+## Coverage
+
+{"first_timestamp_reviewed": "00:00:04", "last_timestamp_reviewed": "00:03:47", "full_transcript_reviewed": true, "limitations": ["Reviewed the entire supplied transcript, including the closing exchange; supplied duration is 235 seconds, while the last caption begins at 03:47.", "Automatic captions are not diarized; Adam's participation and individual speaker identities cannot be verified from the supplied text.", "No verified Adam personal backstory, financial metrics, staffing figures, or company growth metrics are present.", "Publication date is known; recording and operational measurement dates are not.", "The source supports internal wiki research only; reuse in new public copy is not approved."]}
+
+## Source Notes
+
+- [[raw/sources/2026-09-08-youtube/videos/Wr1-CoTwg8s/Wr1-CoTwg8s]] — full transcript provided to the reader; exact captions remain unchanged. This extraction is interpretation, not raw evidence.

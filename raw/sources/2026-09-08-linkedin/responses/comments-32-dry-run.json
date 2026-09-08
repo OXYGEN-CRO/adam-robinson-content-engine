@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "data": {
+    "result": {
+      "provider": "scraper",
+      "operation": "linkedin_post_comments",
+      "request": {
+        "post": "https://www.linkedin.com/posts/retentionadam_koala-dead-warmly-dead-common-room-activity-7482856108223590400-7hcL",
+        "sort_by": "relevance",
+        "page": 1
+      },
+      "meta": {
+        "backend": "native_rest",
+        "method": "GET",
+        "path": "/linkedin/post-comments",
+        "headers": {},
+        "query": {
+          "post": "https://www.linkedin.com/posts/retentionadam_koala-dead-warmly-dead-common-room-activity-7482856108223590400-7hcL",
+          "sortBy": "relevance",
+          "page": "1"
+        },
+        "body": null,
+        "credential": "managed",
+        "credential_slot": "api_key",
+        "mode": "dry_run",
+        "ok": true,
+        "side_effect_class": "paid_provider",
+        "latency_band": "1-5s",
+        "docs_url": "https://oxygen-agent.com/docs/providers/linkedin-scraper",
+        "provider_call": false,
+        "billing": {
+          "credential_mode": "managed",
+          "managed_credit_estimate": 16,
+          "category": "managed_enrichment"
+        },
+        "access": {
+          "status": "available",
+          "reasons": [],
+          "credential_mode": "managed",
+          "integration_id": "scraper",
+          "connection_id": null,
+          "capability_tags": [
+            "cookieless",
+            "linkedin_post_engagers",
+            "linkedin_posts",
+            "linkedin_public_read",
+            "native_linkedin_scraper"
+          ],
+          "access_requirements": {
+            "credential_modes": [
+              "managed"
+            ],
+            "runtime_env_required": [
+              "HARVEST_API_KEY"
+            ]
+          }
+        }
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "results": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Engager full name."
+                },
+                "headline": {
+                  "type": "string",
+                  "description": "Engager LinkedIn headline / position."
+                },
+                "linkedin_url": {
+                  "type": "string",
+                  "description": "Engager LinkedIn profile URL (may be in profile-id form; resolve via linkedin_profile for a public slug)."
+                },
+                "profile_id": {
+                  "type": "string",
+                  "description": "Stable LinkedIn profile id."
+                },
+                "picture_url": {
+                  "type": "string",
+                  "description": "Profile picture URL."
+                },
+                "comment": {
+                  "type": "string",
+                  "description": "Comment text."
+                },
+                "created_at": {
+                  "type": "string",
+                  "description": "ISO 8601 comment timestamp."
+                },
+                "is_post_author": {
+                  "type": "boolean",
+                  "description": "True when the commenter authored the post."
+                }
+              },
+              "additionalProperties": true
+            }
+          },
+          "pagination": {
+            "type": "object",
+            "additionalProperties": true
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "dry_run": true,
+    "preview": {
+      "provider_call": false,
+      "message": "Preview only — no provider call was made and no data was fetched.",
+      "next_step": "Re-run with --mode live --approved --max-credits 16 to execute."
+    },
+    "credits": {
+      "estimated_credits": 16,
+      "credits_remaining": 2104305.225,
+      "monthly_cap_remaining": null,
+      "billing_url": "https://oxygen-agent.com/billing"
+    },
+    "web_url": "https://oxygen-agent.com/observability?trace_id=dd25e141-a3b9-430a-ba91-ba370cd06f9e",
+    "deepLink": "https://oxygen-agent.com/observability?trace_id=dd25e141-a3b9-430a-ba91-ba370cd06f9e"
+  },
+  "meta": {
+    "command": "tools run",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

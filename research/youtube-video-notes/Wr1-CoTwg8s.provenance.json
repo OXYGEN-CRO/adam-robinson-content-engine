@@ -1,0 +1,13 @@
+{
+  "id": "Wr1-CoTwg8s",
+  "source_sha256": "33f7da90b328f737ac21a9f4f852dbdaa06fb2790af312456d0d680e8ad1da4e",
+  "source_characters": 4788,
+  "source_word_count": 587,
+  "prompt_sha256": "3f03dd6498d9ee2065601658010444fd50a16f4ad3455c6008b10868c7d0473f",
+  "started_at": "2026-09-08T08:38:58.726586+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/Wr1-CoTwg8s/Wr1-CoTwg8s.md",
+  "pid": 57291,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:40:24.164303+00:00"
+}

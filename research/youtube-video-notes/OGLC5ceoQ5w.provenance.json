@@ -1,0 +1,13 @@
+{
+  "id": "OGLC5ceoQ5w",
+  "source_sha256": "c207bba8be7ff91cae143ed403a7ce7a61b8c505c720eef4fb74f2e8abd64a1f",
+  "source_characters": 72682,
+  "source_word_count": 10854,
+  "prompt_sha256": "a85d9377be9ce244ad14f8499dfa9352301d184ccba3759fe5643330cd008454",
+  "started_at": "2026-09-08T09:16:08.534263+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/OGLC5ceoQ5w/OGLC5ceoQ5w.md",
+  "pid": 23422,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:22:02.020259+00:00"
+}

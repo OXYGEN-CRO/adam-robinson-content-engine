@@ -1,0 +1,13 @@
+{
+  "id": "lF2axpN3mic",
+  "source_sha256": "b40f04e7bbec24e08a0a96b44eda6e6d854a67db02ef507685352d51f54c91c6",
+  "source_characters": 73436,
+  "source_word_count": 10614,
+  "prompt_sha256": "363f5af7c6199d8e7c71ed64a75b1cb82a115edfd0d003ed2874b1af91fb0427",
+  "started_at": "2026-09-08T09:13:37.093136+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/lF2axpN3mic/lF2axpN3mic.md",
+  "pid": 3264,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:18:12.723701+00:00"
+}

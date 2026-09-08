@@ -1,0 +1,73 @@
+{
+  "ok": true,
+  "data": {
+    "id": "38778251-2f4b-48a4-8294-3e666617c9aa",
+    "runId": "2977852f-5cae-48b6-b05d-f7296eff909c",
+    "tableId": "c0c5e684-f06b-4e52-924c-cad5799495d8",
+    "tableSlug": "adam-robinson-linkedin-corpus-2026-09-08",
+    "actorUserId": "9d986a83-95db-4e0e-9e2d-e12bf9775d00",
+    "connectionId": null,
+    "sourceType": "tool_page",
+    "mode": "upsert",
+    "upsertKey": "post_id",
+    "status": "completed",
+    "expectedItemCount": null,
+    "maxConcurrency": 1,
+    "metadata": {
+      "search": {
+        "credits": {
+          "reason": "scraper_managed_provider",
+          "credits_per_page": 16,
+          "estimated_total_credits": 48
+        },
+        "plan_id": "search_plan_jrbpat",
+        "route_id": "source_specific_scrape",
+        "route_kind": "source_specific_scrape",
+        "max_credits": 48,
+        "route_label": "Source-specific scrape",
+        "provider_order": [
+          {
+            "role": "primary",
+            "status": "available",
+            "tool_id": "scraper.linkedin_profile_posts",
+            "use_for": "User-requested Oxygen native managed scraper for Adam Robinson public recent posts",
+            "position": 1
+          }
+        ]
+      },
+      "source": "cli",
+      "command": "search run"
+    },
+    "lastError": null,
+    "cancelRequestedAt": null,
+    "startedAt": "2026-09-08T07:40:46.849Z",
+    "completedAt": "2026-09-08T07:41:15.899Z",
+    "createdAt": "2026-09-08T07:40:45.221Z",
+    "updatedAt": "2026-09-08T07:41:15.899Z",
+    "counts": {
+      "total": 3,
+      "pending": 0,
+      "leased": 0,
+      "completed": 3,
+      "failed": 0,
+      "skipped": 0,
+      "canceled": 0,
+      "rows": 150,
+      "inserted": 150,
+      "updated": 0,
+      "duplicates": 0,
+      "skippedRows": 0
+    },
+    "web_url": "https://oxygen-agent.com/workspaces/4257983c-406e-4658-b899-d7ba3cc760a6/tables/c0c5e684-f06b-4e52-924c-cad5799495d8/ingestions/38778251-2f4b-48a4-8294-3e666617c9aa",
+    "queue_backend": "postgres",
+    "effect_outcome": "applied",
+    "changed": true,
+    "message": "150 rows have been written.",
+    "search_run_id": "38778251-2f4b-48a4-8294-3e666617c9aa"
+  },
+  "meta": {
+    "command": "search runs get",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

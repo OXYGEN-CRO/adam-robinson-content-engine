@@ -1,0 +1,30 @@
+/**
+ * Background music track. One continuous clip that plays under everything
+ * at a low volume so it doesn't compete with narration.
+ *
+ * Edit the prompt → run `npm run generate-music` → re-generates if hashed
+ * prompt changed.
+ */
+
+export interface MusicTrack {
+  /** ElevenLabs music prompt. */
+  prompt: string;
+  /** Track length in milliseconds. ElevenLabs Music API caps at 5 minutes. */
+  durationMs: number;
+  /** Mix volume (0–1). Keep low so narration sits on top. */
+  volume: number;
+}
+
+export const MUSIC: MusicTrack = {
+  prompt:
+    "Modern electronic underscore for a software product video. Steady mid-tempo pulse, clean synth bass, sparse plucky arpeggio, restrained percussion. Tech-leaning and confident but understated, not a trailer, not advertisement music, no big drops. Background texture sitting under a voiceover. Purely instrumental, no vocals, no speech. Forty seconds long, even energy throughout.",
+  durationMs: 40000,
+  volume: 0.12,
+};
+
+export const MUSIC_AUDIO_SUBDIR = "audio/music";
+export const MUSIC_FILENAME = "background.mp3";
+
+export function musicPath(): string {
+  return `${MUSIC_AUDIO_SUBDIR}/${MUSIC_FILENAME}`;
+}

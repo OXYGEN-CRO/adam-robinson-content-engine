@@ -1,0 +1,637 @@
+{
+  "video_id": "c5DvcHlt1c8",
+  "title": "Reigniting Outbound with Jason Bay",
+  "published": "2024-08-28T14:00:28+00:00",
+  "speakers_and_attribution": "Adam Robinson hosts, Jason Bay of Outbound Squad presents the outbound framework and most tactical advice, and a co-host addressed as Santosh asks questions. Santosh's surname is not supplied. John appears to support polls and logistics; the transcript does not establish a substantive speaking role for him. Captions are not diarized, so attribution follows introductions, direct address and conversational continuity. Jason's clients, career, business and performance examples are not Adam's achievements. Audience questions are sometimes read aloud by the speakers.",
+  "summary": "This webinar examines outbound for smaller SaaS companies competing with larger brands in 2024. Jason Bay teaches coordinated outreach across channels, valuable offers, customer-informed messaging, concise emails, executive participation and content-supported prospecting. The final Q&A covers paid demos, rescheduling boundaries, prerequisites for outbound, buyer education, AI and LinkedIn. Adam contributes a historical admission that Retention.com's 2023 BDR expansion failed, describes the influence of offer design on RB2B, and explains his belief that consistent LinkedIn content builds familiarity before outreach. The source supplies no Adam-company ARR, revenue, profit or growth figures.",
+  "key_learnings": [
+    {
+      "claim": "Adam says Retention.com's unsuccessful attempt to scale BDRs in 2023 prompted his strong interest in inbound-led outbound, while he still recognizes that outbound can work.",
+      "start_timestamp": "00:00:17",
+      "end_timestamp": "00:00:58",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Historical self-report; he does not quantify the program, define failure or establish its causes."
+    },
+    {
+      "claim": "Jason's outbound equation organizes response generation around the call to action, relevance and medium. The offer should provide useful value for little prospect effort, address buyer priorities and use appropriate channels.",
+      "start_timestamp": "00:04:24",
+      "end_timestamp": "00:06:02",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest framework, not a validated mathematical equation or an Adam-originated strategy."
+    },
+    {
+      "claim": "Jason recommends coordinating phone, email and social touches closely in time. His triple tap means a call with voicemail, a LinkedIn request and an email within an hour, rather than repeated dialing.",
+      "start_timestamp": "00:06:34",
+      "end_timestamp": "00:08:19",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His categorical rejection of single-channel outreach is presented as a 2024 operating view; the transcript does not establish universal applicability."
+    },
+    {
+      "claim": "Voicemail should direct the prospect to a specific email and subject line rather than demand a callback. Jason then prioritizes further calling toward prospects who engage with email.",
+      "start_timestamp": "00:08:30",
+      "end_timestamp": "00:12:29",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The sequence is Jason's recommendation; supporting engagement statistics are secondhand and unverified."
+    },
+    {
+      "claim": "Adam says his team's 2023 phone effort did not use the voicemail-to-email coordination Jason describes, and he finds that approach reasonable and appealing.",
+      "start_timestamp": "00:09:52",
+      "end_timestamp": "00:10:21",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "This establishes a missing tactic and Adam's interest, not subsequent adoption or evidence that it would have fixed the failed program."
+    },
+    {
+      "claim": "Jason is cautious about cold SMS because it can encourage number blocking and raises legal concerns. He considers texting more appropriate after some engagement has been established.",
+      "start_timestamp": "00:10:50",
+      "end_timestamp": "00:11:15",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest opinion; prior engagement is not established here as legally sufficient consent, and this is not legal guidance."
+    },
+    {
+      "claim": "A useful pre-outreach audit can make the meeting offer compelling. Jason describes Shopify tooling that compares site performance with competitors and connects slow loading to conversion problems.",
+      "start_timestamp": "00:13:26",
+      "end_timestamp": "00:14:45",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Jason particularly recommends this for mid-market or enterprise deals above roughly $20,000; he supplies no measured conversion lift from the example."
+    },
+    {
+      "claim": "Original competitor research can serve both marketing and outbound. Jason describes a chat vendor mystery-shopping target accounts, then offering prospects a comparison of their customer experience with peers.",
+      "start_timestamp": "00:14:54",
+      "end_timestamp": "00:16:27",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Unnamed guest client example; The North Face is described as that vendor's customer, not Adam's or necessarily Jason's direct customer."
+    },
+    {
+      "claim": "Jason recommends ending cold emails with an easy expression-of-interest question. Specific scheduling demands and broad questions about how a business operates require more effort from the recipient.",
+      "start_timestamp": "00:16:30",
+      "end_timestamp": "00:18:01",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His cited Gong result has an imprecisely described success metric; it should not be restated as a proven doubling of bookings."
+    },
+    {
+      "claim": "Adam credits a book captioned as Alex Hormozi's $100M Offers with changing his thinking about business. He says he spent substantial time making RB2B's core offer compelling and sees offer design as central to sales, marketing and product virality.",
+      "start_timestamp": "00:18:10",
+      "end_timestamp": "00:19:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Author and title are phonetically garbled in captions. A sentence about RB2B doing well or poorly is contradictory in the transcript; no performance outcome is inferred from it."
+    },
+    {
+      "claim": "Brand recognition reduces the perceived risk of spending time with a seller. Jason argues that smaller, unfamiliar companies can still compete by giving prospects useful work that large brands often fail to provide.",
+      "start_timestamp": "00:20:00",
+      "end_timestamp": "00:21:39",
+      "speaker": "Jason Bay, responding to Santosh",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Jason acknowledges that a strong offer can work even better for a recognized brand; he does not claim small companies erase the brand advantage."
+    },
+    {
+      "claim": "Former executives in the target buyer role can help a startup understand buyer concerns and critique its messaging through a small consulting engagement.",
+      "start_timestamp": "00:21:57",
+      "end_timestamp": "00:23:05",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest recommendation illustrated by an unnamed security client; suggested consulting rates are examples, not verified market prices."
+    },
+    {
+      "claim": "Recorded customer conversations can improve sales messaging and onboarding. Jason favors questions about daily work, priorities, obstacles and previous approaches over requests for product praise.",
+      "start_timestamp": "00:23:08",
+      "end_timestamp": "00:24:09",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His preference that salespeople conduct these interviews rather than product marketing is a guest prescription, not an established organizational rule."
+    },
+    {
+      "claim": "Competitor case studies, podcasts and webinars can reveal useful buyer language. Conference agendas can identify current priorities and potential expert advisers without requiring attendance.",
+      "start_timestamp": "00:24:12",
+      "end_timestamp": "00:25:17",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Research inputs are proposed as messaging inspiration; they do not replace direct customer validation."
+    },
+    {
+      "claim": "Even businesses selling custom solutions can organize outreach around recurring customer problems and goals. Jason frames his own work around pipeline shortfalls and seller dependence on SDRs or marketing, rather than the category of sales training.",
+      "start_timestamp": "00:25:25",
+      "end_timestamp": "00:26:09",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "This assumes meaningful similarities among the buyers and their problems."
+    },
+    {
+      "claim": "A short video can preview an audit effectively when there is something visual to demonstrate, such as checkout friction and its possible business impact.",
+      "start_timestamp": "00:26:09",
+      "end_timestamp": "00:26:34",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Conditional recommendation for visually demonstrable findings; no comparison with PDFs or other formats is measured."
+    },
+    {
+      "claim": "Jason's cold-email structure uses a plain subject, a specific reason for reaching out, a likely problem, relevant proof and one easy call to action. Short paragraphs and compact copy aim to make mobile reading and replying easier.",
+      "start_timestamp": "00:26:43",
+      "end_timestamp": "00:30:40",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He wants a personal feel without writing every email from scratch. The clinical-operations example is partly slide-dependent and its full wording is absent."
+    },
+    {
+      "claim": "Small companies can involve their executives directly in prospecting and early deal development. Jason suggests rep-drafted executive emails and executive-to-executive outreach to add stakeholders after an initial meeting.",
+      "start_timestamp": "00:30:49",
+      "end_timestamp": "00:32:42",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The examples assigning Adam and Santosh executive roles are hypothetical; title-based responsiveness is Jason's generalization."
+    },
+    {
+      "claim": "For companies that have venture investors, a short relationship chain between rep, founder and investor can make introductions easier to obtain.",
+      "start_timestamp": "00:32:45",
+      "end_timestamp": "00:33:18",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "This tactic assumes investor relationships. It does not establish that Adam raised venture capital or endorses doing so."
+    },
+    {
+      "claim": "Jason views marketing quality, brand awareness and social proof as constraints on outbound success. He recommends customer webinars, reusable clips, prospect podcast invitations and systematic re-engagement of people already in the company's ecosystem.",
+      "start_timestamp": "00:33:21",
+      "end_timestamp": "00:34:46",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The claim that marketing sets the ceiling is a strategic opinion, not a quantified causal finding."
+    },
+    {
+      "claim": "An existing LinkedIn relationship can make prospecting a short, natural continuation of an interaction. Jason illustrates this with a Square executive who invited a conversation after Jason commented on a post.",
+      "start_timestamp": "00:34:49",
+      "end_timestamp": "00:35:40",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest anecdote involving a connection established over years; no closed deal or revenue outcome is reported."
+    },
+    {
+      "claim": "Jason dislikes paying prospects to attend demos because modest rewards do not address the value executives place on their time. He allows that creative, humorous direct mail can attract attention.",
+      "start_timestamp": "00:37:01",
+      "end_timestamp": "00:38:40",
+      "speaker": "Jason Bay; Santosh expresses agreement near the end",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "This is not an absolute rejection of gifting. The empty-donut-box example is credited to another practitioner whose name is uncertain in captions."
+    },
+    {
+      "claim": "Jason sets a personal boundary around repeated last-minute rescheduling. To reduce cancellations, he titles meetings around the buyer's priority and writes an agenda using the buyer's stated challenges and expected takeaways.",
+      "start_timestamp": "00:38:42",
+      "end_timestamp": "00:40:59",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Three reschedules is his own threshold, explicitly adjustable by others; the scheduling approach has no measured show-rate result here."
+    },
+    {
+      "claim": "Jason wants paying, renewing customers, a clear ICP, understood personas and a clear problem/value proposition before scaling outbound. He also recommends building content and social proof first, and describes his engagement as requiring a sales leader working with reps.",
+      "start_timestamp": "00:41:30",
+      "end_timestamp": "00:43:26",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "These are Jason's operating and client-selection criteria, not Adam's definition of product-market fit or proof that all early customer discovery needs these prerequisites."
+    },
+    {
+      "claim": "Consultative outreach should help buyers evaluate risk and learn from peers. Jason argues that executives respond better to relevant problems and examples of strong execution than to feature descriptions.",
+      "start_timestamp": "00:43:30",
+      "end_timestamp": "00:46:14",
+      "speaker": "Jason Bay, responding to Santosh",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His supporting buyer-remorse and change-failure figures are recalled uncertainly. He distinguishes enterprise prospecting from faster SMB cycles."
+    },
+    {
+      "claim": "A technical finding needs translation into an operational consequence. Jason's HubSpot example contrasts mentioning duplicate contacts with explaining wasted spending, unclear engagement data and missed marketing-qualified leads.",
+      "start_timestamp": "00:46:14",
+      "end_timestamp": "00:47:25",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The duplicate-contact counts shift in his telling and should not be treated as a clean business metric. The broader claim that lower contact rates require better skills is his interpretation."
+    },
+    {
+      "claim": "Jason recommends using AI for execution and research assistance under human direction. He is skeptical, at the time of the webinar, of autonomous AI reliably winning senior-level meetings for larger deals and worries that extra message volume will reduce channel responsiveness.",
+      "start_timestamp": "00:47:26",
+      "end_timestamp": "00:50:57",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Time-bound 2024 opinion and forecast, not a current capability assessment. He allows that automated mass outreach may work for very cheap offers and attributes part of his argument to another speaker whose name is unclear."
+    },
+    {
+      "claim": "Adam describes trying a Hyperbound sales-practice bot using his voice and persona. He finds it funny and reasonably convincing, while noticing lag and finding the experience of hearing his own simulated responses surreal.",
+      "start_timestamp": "00:48:44",
+      "end_timestamp": "00:49:55",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "This is a role-play experience, not evidence that autonomous outbound works. The product to be sold is captioned as 'six cents,' likely a proper name but not verified."
+    },
+    {
+      "claim": "Jason recommends using LinkedIn to begin conversations and giving a new connection useful content before asking for anything. He suggests building ungated material with customers around their urgent problems and repurposing it into several formats.",
+      "start_timestamp": "00:51:00",
+      "end_timestamp": "00:53:24",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His criticism of large-company content is a broad opinion. The example involving 25 ecommerce stores is hypothetical, not a completed research project."
+    },
+    {
+      "claim": "Adam believes LinkedIn connection campaigns become more effective when paired with consistent content about direct and adjacent customer problems. Over time, recipients can feel they know the creator well enough that a casual message receives a response.",
+      "start_timestamp": "00:53:27",
+      "end_timestamp": "00:54:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "His repeated 60-day illustration is rhetorical, not a measured guarantee. The mechanism he emphasizes is familiarity through content, not simply follower count or indiscriminate outreach."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Adam openly describes Retention.com's 2023 BDR expansion as unsuccessful and connects it to his subsequent interest in inbound-led outbound.",
+      "start_timestamp": "00:00:32",
+      "end_timestamp": "00:00:58",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "A concrete instance of discussing failure publicly; it does not establish an approved overarching value or mission."
+    },
+    {
+      "claim": "Adam says an offer-design book changed his business thinking and that he invested substantial time in RB2B's core offer.",
+      "start_timestamp": "00:18:10",
+      "end_timestamp": "00:19:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "No date, detailed offer terms or attributable financial outcome is supplied; captions garble the author, title and one performance sentence."
+    },
+    {
+      "claim": "Adam uses audience roles, business stage and open-ended descriptions of obstacles to guide webinar material and future guest selection.",
+      "start_timestamp": "00:35:48",
+      "end_timestamp": "00:36:54",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Role and ARR polling also appear earlier. This documents a feedback practice for this program, not a settled audience definition for the wiki."
+    },
+    {
+      "claim": "When asking how Jason works with early-stage teams, Adam frames the relevant situation as lean, bootstrapped and cost-conscious.",
+      "start_timestamp": "00:41:27",
+      "end_timestamp": "00:41:49",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "The collective framing may include the audience; it is not a complete financing history of Adam's companies."
+    },
+    {
+      "claim": "Adam admits the webinar team is still experimenting with formats and says he learned from Jason's preparation, data and templates.",
+      "start_timestamp": "00:54:49",
+      "end_timestamp": "00:55:09",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Specific feedback on this session; no approved voice attributes are inferred."
+    },
+    {
+      "claim": "Adam tried the bot modeled on himself before the webinar and later says he could not keep it from hanging up on him during the sales exercise.",
+      "start_timestamp": "00:56:00",
+      "end_timestamp": "00:56:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "Informal self-report about a simulated sales challenge; it supplies no product effectiveness metric."
+    },
+    {
+      "claim": "Adam announces a planned debate with a guest captioned as Mark Coslo, saying its focus has shifted from inbound versus outbound toward VC versus bootstrapping.",
+      "start_timestamp": "00:56:26",
+      "end_timestamp": "00:57:06",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "A future programming intention relative to the recording, not evidence the debate occurred. The guest's surname is uncertain and Adam does not develop his financing argument here."
+    },
+    {
+      "claim": "Jason says his sales career began as a college freshman selling house-painting services door to door. He later built a prospecting business and says he previously ran the business with his wife.",
+      "start_timestamp": "00:01:16",
+      "end_timestamp": "00:02:06",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Entirely guest backstory. The business-start account appears at 00:06:44–00:07:02 and the reference to working with his wife at 00:28:08–00:28:13."
+    },
+    {
+      "claim": "Jason describes a personal limit on repeated last-minute rescheduling, linking healthy pipeline generation with being able to decline appointments that disregard his time.",
+      "start_timestamp": "00:38:57",
+      "end_timestamp": "00:39:20",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Jason's personal boundary, not Adam's stated policy."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Retention.com: Adam says an attempt to scale BDRs in 2023 failed. No headcount, spend, pipeline, bookings or revenue figure is given.",
+      "start_timestamp": "00:00:32",
+      "end_timestamp": "00:00:41",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Historical company self-report; 2023 is the program year, not publication year."
+    },
+    {
+      "claim": "Outbound Squad/Jason's practice: he says roughly half his client base consists of small teams with 3–15 sales reps, and names Zoom, Gong and Shopify among companies he has worked with.",
+      "start_timestamp": "00:01:45",
+      "end_timestamp": "00:02:06",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate guest self-report at recording; named relationships may be historical. No client count or independently verified outcomes are supplied."
+    },
+    {
+      "claim": "Webinar audience: Adam reports 273 people live, 35% founders and 26% growth/marketing; the remaining sales/other percentages are garbled.",
+      "start_timestamp": "00:02:59",
+      "end_timestamp": "00:03:17",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Snapshot during this webinar, not channel audience size. Captions say '30 37% sales to other'; do not silently reconstruct the percentages or assume all attendees answered."
+    },
+    {
+      "claim": "Jason dates the start of his company's done-for-you prospecting and appointment-setting work to approximately 2015–2016 and describes 8–9 years of focus on systematic B2B outreach.",
+      "start_timestamp": "00:06:34",
+      "end_timestamp": "00:07:02",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest historical self-report; the 8–9-year description occurs at 00:01:29–00:01:45. No exact founding date is established."
+    },
+    {
+      "claim": "Outbound benchmark: Jason says contact can require 3–15 touches and that coordinated touches across channels can triple contact rates.",
+      "start_timestamp": "00:07:11",
+      "end_timestamp": "00:07:58",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He references a provider captioned as Salesoft for surrounding channel data; the exact source, denominator, measurement period and attribution of the 3x claim are not established."
+    },
+    {
+      "claim": "Recommended cadence: 15 touches over 3 weeks, comprising 6 emails, 6 phone calls and 3 social touches.",
+      "start_timestamp": "00:08:04",
+      "end_timestamp": "00:08:28",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A proposed baseline, not an achieved campaign result."
+    },
+    {
+      "claim": "Voicemail benchmarks: Jason cites about 90% opens, a 25.8% increase in later pickup rates after leaving a first-call voicemail, and roughly 7 million calls analyzed in a study from a provider captioned as ORM.",
+      "start_timestamp": "00:08:30",
+      "end_timestamp": "00:08:56",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Secondhand statistics; provider spelling, study dates, open definition and whether 25.8% is relative uplift are unverified."
+    },
+    {
+      "claim": "Gong comparison: Jason says reps leaving voicemails in a sequence had twice the reply rate of reps who did not.",
+      "start_timestamp": "00:08:54",
+      "end_timestamp": "00:09:05",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest's account of external research; no study period, sample detail or causal design is given."
+    },
+    {
+      "claim": "Channel comparison: Jason recalls voicemail opens above 90%, email opens around 33–40% and cold-call pickup around 3–4%.",
+      "start_timestamp": "00:11:40",
+      "end_timestamp": "00:12:03",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate, differently defined engagement measures from unspecified periods and populations; not directly comparable conversion rates."
+    },
+    {
+      "claim": "Audit economics example: Jason particularly recommends scalable audits for deals above $20,000 and describes a Shopify site audit taking about a minute and comparing five competitors.",
+      "start_timestamp": "00:13:50",
+      "end_timestamp": "00:14:31",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Deal-size threshold is a recommendation; currency, contract period and whether value means annual or total contract value are not specified."
+    },
+    {
+      "claim": "Unnamed chat vendor: Jason says its marketing team mystery-shopped a couple hundred target accounts; the illustrative offer compares a prospect with ten nearby competitors.",
+      "start_timestamp": "00:14:54",
+      "end_timestamp": "00:15:51",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate guest client example with no project date; the ten-competitor language is a sample pitch, not a verified standard report size."
+    },
+    {
+      "claim": "CTA comparison: Jason attributes roughly twice the success with an interest-based email CTA to a Gong study.",
+      "start_timestamp": "00:16:30",
+      "end_timestamp": "00:17:32",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The wording repeats 'when you get a reply,' leaving the exact success measure unclear. No measurement period is supplied."
+    },
+    {
+      "claim": "Buyer-adviser example: an unnamed security client has three former-CISO consultants, including one described as a former Coca-Cola CISO. Jason suggests budgeting approximately $500–$1,000 per hour for a few hours monthly.",
+      "start_timestamp": "00:22:26",
+      "end_timestamp": "00:23:05",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The three consultants are guest-reported client personnel, not Adam's employees; proposed hourly rates are not confirmed actual compensation."
+    },
+    {
+      "claim": "Cold-email guidance: subject lines under five words, about 75 words or less in the body, one-to-two-sentence paragraphs and one call to action.",
+      "start_timestamp": "00:27:13",
+      "end_timestamp": "00:29:23",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Recommended format; Jason cites Lavender and says millions of sales emails pass through it monthly, without supplying a study date or exact sample."
+    },
+    {
+      "claim": "Unnamed clinical-operations campaign: Jason reports double-digit reply rates from a relevant first email followed by two bumps on the same thread.",
+      "start_timestamp": "00:29:48",
+      "end_timestamp": "00:30:31",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest-reported campaign result; no exact percentage, period, recipient count, positive-reply rate, meeting rate or revenue outcome is supplied."
+    },
+    {
+      "claim": "Square: Jason says the company has more than 1,000 reps and that he had been connected with the executive in his example for a couple of years.",
+      "start_timestamp": "00:34:49",
+      "end_timestamp": "00:35:21",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Approximate guest comparison at recording; neither employment categories nor a resulting commercial engagement are established."
+    },
+    {
+      "claim": "Jason's content operation: he calls himself a content/marketing team of one, while explicitly acknowledging help from an operations person and an agency assisting with webinars.",
+      "start_timestamp": "00:35:21",
+      "end_timestamp": "00:35:40",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest self-report at recording; 'one' refers to the core content role, not total FTE, contractors or company headcount."
+    },
+    {
+      "claim": "An unnamed client's desired inbound/outbound mix was 50/50, which Jason used in a meeting title.",
+      "start_timestamp": "00:39:50",
+      "end_timestamp": "00:40:26",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A client priority or target, not an achieved mix; the denominator could be pipeline or another measure and is not specified."
+    },
+    {
+      "claim": "Webinar feedback: Adam reports 79 responses to the open-ended audience-obstacle question.",
+      "start_timestamp": "00:41:09",
+      "end_timestamp": "00:41:24",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Live response count for this question; not customer count or a representative market survey."
+    },
+    {
+      "claim": "Outbound Squad engagement: Jason describes an initial six-week accelerator covering messaging, talk tracks, objections, sequences, playbook infrastructure and team training.",
+      "start_timestamp": "00:43:03",
+      "end_timestamp": "00:43:26",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest's offer at recording; no price or guaranteed outcome is stated."
+    },
+    {
+      "claim": "Buyer-risk figures: Jason tentatively recalls 56% of B2B buyers reporting buyer's remorse from Gartner and seven in ten change initiatives failing from a source he cannot identify confidently.",
+      "start_timestamp": "00:44:16",
+      "end_timestamp": "00:44:46",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Explicitly uncertain secondary recollections. He mentions sources captioned as McKenzie or Forester; dates, definitions and applicability to software purchases are unverified."
+    },
+    {
+      "claim": "HubSpot anecdote: Jason first mentions 35 duplicate contacts, later refers to 2,900 people, and illustrates one person appearing five times.",
+      "start_timestamp": "00:46:16",
+      "end_timestamp": "00:47:05",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Counts do not reconcile in the transcript and mix anecdote with illustration; do not turn them into a clean CRM-size or deduplication metric."
+    },
+    {
+      "claim": "AI boundary: Jason specifically doubts autonomous outreach for VP or C-suite meetings on deals larger than $50,000.",
+      "start_timestamp": "00:49:56",
+      "end_timestamp": "00:50:19",
+      "speaker": "Jason Bay",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A 2024 opinion using an illustrative deal threshold; contract period and currency are not explicitly established, and no test sample is provided."
+    },
+    {
+      "claim": "LinkedIn familiarity: Adam repeatedly uses 60 days of consistent content after connecting as an illustration of when casual outreach might receive a response.",
+      "start_timestamp": "00:53:27",
+      "end_timestamp": "00:54:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "Not an observed average, guaranteed timeline or measured conversion rate."
+    },
+    {
+      "claim": "Scheduling context: Adam says the recording will be on YouTube by 9 a.m. Central / 10 a.m. Eastern the following day and promotes a debate for the following week.",
+      "start_timestamp": "00:55:31",
+      "end_timestamp": "00:57:06",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Relative plans at recording. The supplied publication timestamp is 2024-08-28T14:00:28+00:00; it should not be treated as the recording date or proof of the later debate."
+    }
+  ],
+  "tensions_and_corrections": [
+    "Adam's failed 2023 BDR expansion does not establish that outbound is ineffective. He explicitly hosts the session to understand approaches that still work and acknowledges a tactic his team had not used.",
+    "The captioned sentence at 00:18:55–00:19:05 says RB2B 'isn't doing so well,' while surrounding comments praise its core offer. Preserve the ambiguity rather than silently changing it into a growth claim.",
+    "The role-poll percentages are garbled. Only the 273 live attendees, 35% founders and 26% growth/marketing figures are intelligible without reconstruction.",
+    "Jason's introductory description includes clients still figuring out product-market fit, while his later engagement criteria require paying and renewing customers and a clear ICP. These may describe different degrees of readiness; the transcript does not resolve the difference.",
+    "Jason's 'team of one' explicitly includes operational and agency assistance. It is not a one-person-company or zero-support claim.",
+    "Jason strongly favors multiple channels and a prior marketing engine, but supplies limited study detail and acknowledges distinct enterprise, SMB and low-price conditions. His prescriptions should remain attributed and conditional.",
+    "Jason rejects simple cash incentives for demos but allows creative gifting and humorous mailers; these are distinct positions.",
+    "Jason's skeptical AI forecast and Adam's favorable reaction to a voice-based practice bot concern different use cases. The role-play example does not demonstrate autonomous sales performance.",
+    "The HubSpot anecdote moves from 35 duplicates to 2,900 people without explaining the relationship. Neither figure should be selected as the corrected fact.",
+    "External benchmark claims are reported by Jason, not independently verified. The remorse and change-failure figures have explicit source uncertainty, and distinct measures should not be merged into a general software-failure rate.",
+    "Caption errors affect names and terms, including the offer-design book, the call-data provider, the AI opinion's credited originator, the direct-mail practitioner, the next guest and the product captioned as 'six cents.' Probable identifications remain uncertain.",
+    "The ARR poll asks about audience stage but no results are supplied. The $10 million reference is an audience-segmentation example, not Adam-company ARR; the book title is also not a financial achievement.",
+    "The VC introduction tactic belongs to Jason. Adam's planned VC-versus-bootstrap debate does not supply a developed financing thesis or establish a financing event.",
+    "This public source is designated for private research. The extraction establishes neither public-copy clearance nor an approved brand voice, mission or audience."
+  ],
+  "reusable_topics": [
+    "What Retention.com's failed BDR expansion led Adam to investigate",
+    "Offer design as a connection between sales, marketing and product adoption",
+    "Voicemail and email as coordinated parts of one outreach sequence",
+    "Turning audits and competitor research into useful meeting offers",
+    "Customer interviews that uncover outreach language",
+    "Competing with larger brands through useful content and executive access",
+    "The difference between an interest question and a high-effort email ask",
+    "Product-market fit, renewal evidence and outbound readiness",
+    "Customer content as support for prospecting and re-engagement",
+    "Buyer-priority agendas and boundaries around rescheduling",
+    "Translating product features into operational consequences",
+    "Jason's 2024 distinction between AI assistance and autonomous selling",
+    "Adam's experience testing a sales bot modeled on himself",
+    "LinkedIn familiarity: becoming known well through consistent content",
+    "Audience feedback and experiments in webinar programming",
+    "Investor introductions as a conditional advantage of venture relationships"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:57:13",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript only; no web search, tools, external sources or linked files were used.",
+      "Automatic captions are not diarized, and speaker attribution relies on conversational context.",
+      "Slides, charts, full example emails, chat messages and poll displays are not included; visible-only evidence cannot be recovered from the transcript.",
+      "The publication date is supplied metadata; the exact recording date and dates of many historical examples are unstated.",
+      "Most quantitative outbound benchmarks are Jason's secondhand reports without study dates, definitions or verification.",
+      "No material Adam-company ARR, revenue, profit, cash, customer-count or headcount figures are supplied.",
+      "Research is for internal wiki synthesis; public reuse is not approved."
+    ]
+  }
+}

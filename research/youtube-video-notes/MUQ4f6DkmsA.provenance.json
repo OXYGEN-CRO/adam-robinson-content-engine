@@ -1,0 +1,13 @@
+{
+  "id": "MUQ4f6DkmsA",
+  "source_sha256": "72f5f12a7b565494a7b449435f4470c68e336dc4be4035fa2b1fa896f35f3cb9",
+  "source_characters": 72542,
+  "source_word_count": 11016,
+  "prompt_sha256": "837b657b2daf1824f18959ba41288167c6c6c86407aabf4f08f555810178ff36",
+  "started_at": "2026-09-08T09:27:10.289277+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/MUQ4f6DkmsA/MUQ4f6DkmsA.md",
+  "pid": 19089,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:31:46.168791+00:00"
+}

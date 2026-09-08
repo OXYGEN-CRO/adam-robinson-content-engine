@@ -1,0 +1,13 @@
+{
+  "id": "r47Q4Cfit5s",
+  "source_sha256": "250c88f210886c62e82c365c2d87f4c5a12adcbaafd553721401e634092112bb",
+  "source_characters": 22099,
+  "source_word_count": 2905,
+  "prompt_sha256": "8a5fa6972d10aeeeff407c4e38c961f62404763a1a99fb63203ce49eb569918a",
+  "started_at": "2026-09-08T08:05:13.587079+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/r47Q4Cfit5s/r47Q4Cfit5s.md",
+  "pid": 13820,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:09:15.943308+00:00"
+}

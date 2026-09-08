@@ -1,0 +1,234 @@
+{
+  "video_id": "dBmCgPPA2iA",
+  "title": "THE IMPORTANCE OF CHANGELOGS",
+  "url": "https://www.youtube.com/watch?v=dBmCgPPA2iA",
+  "upload_date": "20250730",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:41:59.756381+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/dBmCgPPA2iA/dBmCgPPA2iA.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 4240,
+      "duration_ms": 5120,
+      "text": "All right. So, um, we have this huge"
+    },
+    {
+      "start_ms": 7120,
+      "duration_ms": 5920,
+      "text": "knowledge base or in RBDB's case about"
+    },
+    {
+      "start_ms": 9360,
+      "duration_ms": 6560,
+      "text": "400 support articles. Now, if RB2B goes"
+    },
+    {
+      "start_ms": 13040,
+      "duration_ms": 4960,
+      "text": "through and makes some changes to the"
+    },
+    {
+      "start_ms": 15920,
+      "duration_ms": 4320,
+      "text": "software, it would be really annoying to"
+    },
+    {
+      "start_ms": 18000,
+      "duration_ms": 5519,
+      "text": "go through and fix every single article."
+    },
+    {
+      "start_ms": 20240,
+      "duration_ms": 5199,
+      "text": "Um, so where do change logs come in and"
+    },
+    {
+      "start_ms": 23519,
+      "duration_ms": 3121,
+      "text": "and sort of help with contextualizing"
+    },
+    {
+      "start_ms": 25439,
+      "duration_ms": 4080,
+      "text": "this info for the bot?"
+    },
+    {
+      "start_ms": 26640,
+      "duration_ms": 5280,
+      "text": ">> Yeah. So, I mean, it's more than just"
+    },
+    {
+      "start_ms": 29519,
+      "duration_ms": 4161,
+      "text": "the bot. It's also again the the human"
+    },
+    {
+      "start_ms": 31920,
+      "duration_ms": 3520,
+      "text": "reader, the the user that's going to go"
+    },
+    {
+      "start_ms": 33680,
+      "duration_ms": 3680,
+      "text": "look at the change log and see when"
+    },
+    {
+      "start_ms": 35440,
+      "duration_ms": 6400,
+      "text": "changes happen. But again, it's it's"
+    },
+    {
+      "start_ms": 37360,
+      "duration_ms": 8480,
+      "text": "wildly important for the AI um to show"
+    },
+    {
+      "start_ms": 41840,
+      "duration_ms": 6559,
+      "text": "what changed and when um because if"
+    },
+    {
+      "start_ms": 45840,
+      "duration_ms": 7120,
+      "text": "there was a bug that was fixed at a"
+    },
+    {
+      "start_ms": 48399,
+      "duration_ms": 7521,
+      "text": "certain point, um that can give context"
+    },
+    {
+      "start_ms": 52960,
+      "duration_ms": 5599,
+      "text": "to a user problem. Oh, we weren't"
+    },
+    {
+      "start_ms": 55920,
+      "duration_ms": 4880,
+      "text": "profiles weren't going from A to B, but"
+    },
+    {
+      "start_ms": 58559,
+      "duration_ms": 6401,
+      "text": "suddenly they are. What changed? And the"
+    },
+    {
+      "start_ms": 60800,
+      "duration_ms": 6400,
+      "text": "AI can go, oh, well, on July 7th, we did"
+    },
+    {
+      "start_ms": 64960,
+      "duration_ms": 6000,
+      "text": "this change to the Apollo integration"
+    },
+    {
+      "start_ms": 67200,
+      "duration_ms": 6320,
+      "text": "and this fixed it. Um"
+    },
+    {
+      "start_ms": 70960,
+      "duration_ms": 5199,
+      "text": "so it give it gives context to the"
+    },
+    {
+      "start_ms": 73520,
+      "duration_ms": 6080,
+      "text": "evolution of our product uh not only for"
+    },
+    {
+      "start_ms": 76159,
+      "duration_ms": 6081,
+      "text": "the AI but also for the user and shows"
+    },
+    {
+      "start_ms": 79600,
+      "duration_ms": 6000,
+      "text": "when and how and why things were updated"
+    },
+    {
+      "start_ms": 82240,
+      "duration_ms": 7120,
+      "text": "and changed. And again that context is"
+    },
+    {
+      "start_ms": 85600,
+      "duration_ms": 5280,
+      "text": "key to the AI's understanding of exactly"
+    },
+    {
+      "start_ms": 89360,
+      "duration_ms": 3759,
+      "text": "how everything works."
+    },
+    {
+      "start_ms": 90880,
+      "duration_ms": 5279,
+      "text": ">> Moral of the story, it's a very low lift"
+    },
+    {
+      "start_ms": 93119,
+      "duration_ms": 5841,
+      "text": "to keep a change log and it will help in"
+    },
+    {
+      "start_ms": 96159,
+      "duration_ms": 4401,
+      "text": "very nuanced ways substantially. So just"
+    },
+    {
+      "start_ms": 98960,
+      "duration_ms": 2880,
+      "text": "look at our change log and keep"
+    },
+    {
+      "start_ms": 100560,
+      "duration_ms": 4000,
+      "text": "something like that. Every time there's"
+    },
+    {
+      "start_ms": 101840,
+      "duration_ms": 5680,
+      "text": "a code push or a bug fix, just make a"
+    },
+    {
+      "start_ms": 104560,
+      "duration_ms": 4400,
+      "text": "bullet and describe what it is. You will"
+    },
+    {
+      "start_ms": 107520,
+      "duration_ms": 4800,
+      "text": "be yourself."
+    },
+    {
+      "start_ms": 108960,
+      "duration_ms": 6640,
+      "text": ">> Three very big components of a knowledge"
+    },
+    {
+      "start_ms": 112320,
+      "duration_ms": 6079,
+      "text": "base, frequently asked questions, an FAQ"
+    },
+    {
+      "start_ms": 115600,
+      "duration_ms": 5199,
+      "text": "section, troubleshooting section, and"
+    },
+    {
+      "start_ms": 118399,
+      "duration_ms": 6360,
+      "text": "then three, a change log. And that is"
+    },
+    {
+      "start_ms": 120799,
+      "duration_ms": 3960,
+      "text": "going to help the bot substantially."
+    }
+  ]
+}

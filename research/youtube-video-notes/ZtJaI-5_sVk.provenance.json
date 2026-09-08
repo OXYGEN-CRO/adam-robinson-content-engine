@@ -1,0 +1,13 @@
+{
+  "id": "ZtJaI-5_sVk",
+  "source_sha256": "3624bbf646bc5aed00e67d56daf486355de52ce1d6a913c46b13d15bc95eedfe",
+  "source_characters": 3474,
+  "source_word_count": 408,
+  "prompt_sha256": "4ca429c9c5a5cf0a3effe12f91f21d0c02eeb513d4dc658170025a18896c381b",
+  "started_at": "2026-09-08T08:40:24.166832+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/ZtJaI-5_sVk/ZtJaI-5_sVk.md",
+  "pid": 71346,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:41:31.438000+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "Kk52hBf2LE8",
+  "source_sha256": "bf15846e006aa4f74ca72adb00aac892ccfcacc1d421c9e898d9921c912ff665",
+  "source_characters": 14283,
+  "source_word_count": 1877,
+  "prompt_sha256": "e047841c85df26e8b9880c72b6909ea265acc0e5908356d0142f0ba582ee5d7b",
+  "started_at": "2026-09-08T08:11:57.733387+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/Kk52hBf2LE8/Kk52hBf2LE8.md",
+  "pid": 52986,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:14:53.764535+00:00"
+}

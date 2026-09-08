@@ -1,0 +1,13 @@
+{
+  "id": "cxke-F1XL3w",
+  "source_sha256": "334681a0d6fad9745a267144993af69cde4714760646dcd9ee501b8e3cf263fc",
+  "source_characters": 75052,
+  "source_word_count": 11563,
+  "prompt_sha256": "3b43b65d754891a294d77c17676a40dbfb898b31f4d78e52976310a692887431",
+  "started_at": "2026-09-08T10:22:49.681937+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/cxke-F1XL3w/cxke-F1XL3w.md",
+  "pid": 57645,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T10:28:16.457203+00:00"
+}

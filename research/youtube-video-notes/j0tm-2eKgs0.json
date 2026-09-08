@@ -1,0 +1,574 @@
+{
+  "video_id": "j0tm-2eKgs0",
+  "title": "Cold Outreach for beginners",
+  "published": "2024-10-09T14:00:32+00:00",
+  "speakers_and_attribution": "Pete Crowley identifies himself as RB2B's head of growth and hosts the webinar. The guest identifies himself as Cold IQ's founder and CEO; captions render his name as 'Michelle Leeban,' with spelling unverified. He is labeled 'Cold IQ founder' below. Adam Robinson does not speak in the supplied transcript. Descriptions of Adam's beliefs, reputation and role are Pete's or the guest's statements, not Adam self-reports. Audience questions are relayed by Pete. Speaker turns are inferred from introductions and conversational context because the automatic captions are not diarized.",
+  "summary": "Pete Crowley and Cold IQ's founder explain a modern outbound workflow spanning data selection, enrichment, AI qualification, deliverability, multichannel engagement and content-led nurturing. The detailed demonstration routes RB2B website visitors through Clay, verifies contact data, qualifies companies and people separately, and assigns appropriate outreach. The final discussion addresses restrained account expansion, agency software economics and selling to e-commerce businesses. Adam-specific context is limited to secondhand descriptions of his outbound position and RB2B's use of his public presence to build trust. No Adam revenue, growth or personal backstory metrics are established.",
+  "key_learnings": [
+    {
+      "claim": "Pete frames the discussion as an expansion of Adam's claim that outbound has died: the webinar's position is that outbound is changing substantially and requires a different operating approach.",
+      "start_timestamp": "00:02:32",
+      "end_timestamp": "00:03:39",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "This is Pete's characterization of Adam, followed by Pete's reframing; it does not establish Adam's precise position or a change of mind."
+    },
+    {
+      "claim": "The guest separates outbound effectiveness into distinct challenges: reaching the inbox, earning attention, making the message relevant and establishing confidence in the sender. Tools address only part of that chain.",
+      "start_timestamp": "00:05:01",
+      "end_timestamp": "00:07:49",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest framework, not an Adam belief or a measured funnel analysis."
+    },
+    {
+      "claim": "Sender familiarity can influence responses independently of email wording; the guest predicts Adam would outperform him with an identical message because more recipients recognize Adam.",
+      "start_timestamp": "00:07:15",
+      "end_timestamp": "00:07:49",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Hypothetical comparison expressing the guest's view of Adam's recognition; no response-rate experiment or numerical uplift is supplied."
+    },
+    {
+      "claim": "Pete recommends concise, conversational outreach because overtly professional sales language, long explanations and recognizable pitch openings can cause recipients to skip messages immediately.",
+      "start_timestamp": "00:07:51",
+      "end_timestamp": "00:09:02",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Based partly on Pete's own inbox behavior; this is not an approved writing voice for Adam."
+    },
+    {
+      "claim": "A timely offer tied to an observable problem is more compelling than generic personalization. The guest illustrates this with an editor approaching him after a poorly edited YouTube upload and offering a free improved version.",
+      "start_timestamp": "00:09:08",
+      "end_timestamp": "00:10:14",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest anecdote; he does not report hiring the editor or quantify the result."
+    },
+    {
+      "claim": "Start the outbound stack with reliable prospect data, then enrich it with information that creates a business reason to contact each prospect. Basic firmographic filters alone do not supply that context.",
+      "start_timestamp": "00:11:18",
+      "end_timestamp": "00:14:32",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Advertising activity and installed competitor technology are illustrative targeting ideas, not documented RB2B campaigns or verified product comparisons."
+    },
+    {
+      "claim": "When the ideal qualification variable is unavailable, an observable proxy can help construct the ICP. Pete describes using website traffic to estimate e-commerce shipping activity, while the guest suggests traffic can indicate potential value from visitor identification.",
+      "start_timestamp": "00:14:35",
+      "end_timestamp": "00:16:41",
+      "speaker": "Pete Crowley and Cold IQ founder",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Synthesis of Pete's prior-company example and the guest's hypothetical application. Traffic does not directly establish shipping spend, sales or identifiable visitors."
+    },
+    {
+      "claim": "Define the data needed for qualification and push providers for meaningful sample data before committing to a long contract.",
+      "start_timestamp": "00:16:44",
+      "end_timestamp": "00:17:27",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Procurement advice from Pete; no named provider's contractual practices are substantiated."
+    },
+    {
+      "claim": "The minimum outbound stack is a data source plus an engagement platform. Enrichment tools add relevance, while website or profile activity can trigger campaigns around observed interest.",
+      "start_timestamp": "00:17:32",
+      "end_timestamp": "00:19:00",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The guest treats behavioral activity as intent, but a visit or profile view does not establish purchase readiness. Several product names are garbled in captions."
+    },
+    {
+      "claim": "Existing CRM records can be a strong starting point because they contain relationship history and past objections. Enrichment can reveal changed circumstances that justify re-engagement.",
+      "start_timestamp": "00:19:29",
+      "end_timestamp": "00:20:33",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A funding event removing a budget objection is a hypothetical inference, not an observed customer result or proof of available buying budget."
+    },
+    {
+      "claim": "Use multiple channels for valuable prospects when the audience actually uses those channels. The guest differentiates tools for combined email, LinkedIn and calling from tools focused on email volume.",
+      "start_timestamp": "00:21:15",
+      "end_timestamp": "00:24:13",
+      "speaker": "Cold IQ founder and Pete Crowley",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Both speakers support channel experimentation. Product recommendations and capabilities describe the recording period and have not been independently checked."
+    },
+    {
+      "claim": "The speakers treat deliverability as infrastructure work involving secondary domains, restrained sending, plain text and account warmup. Pete says RB2B does not send sales emails from rb2b.com.",
+      "start_timestamp": "00:24:14",
+      "end_timestamp": "00:26:08",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "RB2B practice is reported by its head of growth. The warmup explanation is the host's account, not independently validated guidance or a guarantee of inbox placement; the guest introduces related practices at 00:05:21–00:05:33."
+    },
+    {
+      "claim": "The guest prefers AI for researching and qualifying prospects over generating generic compliments. He still allows context-grounded personalized lines as a useful secondary application.",
+      "start_timestamp": "00:26:41",
+      "end_timestamp": "00:30:07",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A preference with an explicit exception, not a claim that AI personalization never works."
+    },
+    {
+      "claim": "AI research can search company pages for specific qualification evidence and return its research steps. The guest illustrates this by checking whether companies publicly discuss sustainability before approaching them with a related offer.",
+      "start_timestamp": "00:27:16",
+      "end_timestamp": "00:29:14",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Illustrative workflow; website language is evidence of public positioning, not proof of spending, operational commitment or buying intent."
+    },
+    {
+      "claim": "For company-specific news research, Cold IQ uses AI to find and summarize relevant developments before outreach and had not yet needed a separate social-listening tool.",
+      "start_timestamp": "00:30:20",
+      "end_timestamp": "00:31:16",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Describes the guest's stack at recording; it does not establish that AI research covers every social-listening use case."
+    },
+    {
+      "claim": "Personalized outreach can operate at high volume, but broadening the audience makes consistent relevance harder. The guest explicitly rejects volume as the best strategy in every situation.",
+      "start_timestamp": "00:32:23",
+      "end_timestamp": "00:33:08",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Cold IQ's sending capacity is self-reported; no corresponding deliverability, meeting or revenue outcomes are provided."
+    },
+    {
+      "claim": "Choose outreach volume and research effort in relation to total addressable market, buyer persona, problem awareness and channel habits. Pete contrasts a small finite market with a broad market for a more commoditized product.",
+      "start_timestamp": "00:33:10",
+      "end_timestamp": "00:34:25",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Conditional planning advice; the small-market example concerns unnamed RB2B users, not RB2B's own TAM."
+    },
+    {
+      "claim": "The demonstrated workflow combines visitor identity and page history from RB2B with enrichment in Clay, then routes prospects into different engagement sequences based on company fit and pages viewed.",
+      "start_timestamp": "00:35:23",
+      "end_timestamp": "00:36:35",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "This is Cold IQ's demonstrated use of RB2B, not an Adam-built workflow. The supplied material includes narration but no visual verification."
+    },
+    {
+      "claim": "Before qualification, Cold IQ cleans company names and uses AI to fill missing company domains from employment information, inspecting explanations and confidence alongside the returned result.",
+      "start_timestamp": "00:36:40",
+      "end_timestamp": "00:37:57",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The example includes a retired person's previous employer, so inferred domains do not reliably establish current employment. Captions also disagree on the example domain."
+    },
+    {
+      "claim": "Verify supplied email addresses and use sequential fallback providers when addresses are missing or fail verification, rather than relying entirely on one data source.",
+      "start_timestamp": "00:38:01",
+      "end_timestamp": "00:39:07",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Cold IQ workflow description; no measured match-rate improvement, cost saving or verification accuracy is given."
+    },
+    {
+      "claim": "Cold IQ qualifies companies with explicit business criteria: B2B fit, whether the offer can be sold online and high lifetime value. It places larger B2B software companies in its preferred tier based on its claimed success with SaaS clients.",
+      "start_timestamp": "00:39:11",
+      "end_timestamp": "00:41:20",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Cold IQ's ICP criteria and claimed client experience; no quantified SaaS results are provided and these are not RB2B's qualification rules."
+    },
+    {
+      "claim": "Company fit and individual seniority are scored separately, then combined into a gate that stops further enrichment and outreach for unqualified records.",
+      "start_timestamp": "00:41:21",
+      "end_timestamp": "00:42:35",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The captions' phrase 'at least two in each category' is ambiguous because tier one is described as strongest. The precise formula cannot be reconstructed confidently."
+    },
+    {
+      "claim": "For qualified accounts, Cold IQ finds additional relevant sales leaders through Apollo and adds colleagues alongside the original visitor to a restrained LinkedIn connection sequence.",
+      "start_timestamp": "00:42:39",
+      "end_timestamp": "00:44:31",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Colleagues are additional contacts, not verified website visitors. Their inclusion is not evidence of individual intent."
+    },
+    {
+      "claim": "Page-specific follow-up should reflect the visitor's likely task: Cold IQ offers help with sales tools to tools-page visitors and maintains separate campaigns for its homepage, accelerator, newsletter and blog.",
+      "start_timestamp": "00:44:32",
+      "end_timestamp": "00:46:03",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Page history is a relevance cue; the transcript supplies no conversion comparison across campaigns."
+    },
+    {
+      "claim": "The guest explicitly labels colleague familiarity as an unproven theory. Because he cannot establish that additional contacts know the content or share the visitor's interest, he uses a simple connection and light offer of help.",
+      "start_timestamp": "00:46:05",
+      "end_timestamp": "00:47:47",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "This is a boundary condition on account expansion, not proof that website interest transfers across a buying committee."
+    },
+    {
+      "claim": "Pete favors introducing a recognizable person through LinkedIn before subsequent outreach, provided the audience uses LinkedIn, and says he has seen response rates improve after building personal awareness.",
+      "start_timestamp": "00:48:38",
+      "end_timestamp": "00:49:38",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Unquantified host observation; neither a controlled comparison nor an Adam achievement."
+    },
+    {
+      "claim": "The guest prefers a longer nurturing interval that lets content do part of the selling before a sales conversation, rather than maximizing immediate meeting bookings with prospects who have little context.",
+      "start_timestamp": "00:49:40",
+      "end_timestamp": "00:50:30",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "The example of a month of content exposure illustrates his preference; it is not a required sequence duration or measured optimum."
+    },
+    {
+      "claim": "Pete describes RB2B's founder-centered acquisition approach: campaigns go out through Adam, whose content is intended to establish trust before sales conversations. Pete connects this with ongoing nurturing and value delivery.",
+      "start_timestamp": "00:50:32",
+      "end_timestamp": "00:52:10",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Operational description and brand interpretation from Pete. His characterization of Adam as candid and trusted does not establish an approved voice, mission or independently measured trust outcome."
+    },
+    {
+      "claim": "For agencies with limited budgets, the guest proposes either a smaller paid stack or client-owned software subscriptions. Affiliate referrals can add recurring income and, in his experience, sometimes continue after the services engagement ends.",
+      "start_timestamp": "00:53:41",
+      "end_timestamp": "00:56:07",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest agency economics, not Adam's business model or evidence of bootstrapping. Prices, referral terms and continuing commissions are contextual claims from the recording."
+    },
+    {
+      "claim": "The guest considers e-commerce prospects particularly difficult because many vendors compete for their attention, but says recommendations depend on the actual offer. He suggests relevant multichannel outreach; Pete adds that new agency and channel engagements require a ramp-up period.",
+      "start_timestamp": "00:56:15",
+      "end_timestamp": "00:58:00",
+      "speaker": "Cold IQ founder and Pete Crowley",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Guest experience and host observation, not a universal finding that e-commerce outbound fails. No niche-level benchmarks or ramp-up duration are provided."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Pete identifies himself as RB2B's head of growth, responsible for creator relationships and work involving SEO, paid ads, email marketing and his own content. He says he has roughly a decade of outbound experience and has built sales teams.",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:01:35",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Pete's role and career history, not Adam's biography; the transcript gives no employment dates."
+    },
+    {
+      "claim": "The guest identifies himself as Cold IQ's founder and CEO and describes the company as a sales prospecting agency using newer sales technologies for clients.",
+      "start_timestamp": "00:00:48",
+      "end_timestamp": "00:01:11",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest self-report. Captions render his name as 'Michelle Leeban'; the exact spelling is unverified."
+    },
+    {
+      "claim": "Pete recalls using website traffic as a proxy for shipping activity when targeting e-commerce businesses at a previous company, which used ZoomInfo and later Apollo.",
+      "start_timestamp": "00:14:55",
+      "end_timestamp": "00:15:56",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Previous employer is unnamed. This history must not be filed as an RB2B or Adam campaign."
+    },
+    {
+      "claim": "Cold IQ's founder chooses to stop enrichment and outreach when a record fails his qualification gate, demonstrating an operational preference for fit before contact volume.",
+      "start_timestamp": "00:41:57",
+      "end_timestamp": "00:42:35",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Concrete guest decision; the preference is grounded in this workflow and should not be generalized into an Adam value."
+    },
+    {
+      "claim": "The guest deliberately softens outreach when familiarity is uncertain and accepts slower conversion in exchange for prospects having more exposure to his content.",
+      "start_timestamp": "00:46:32",
+      "end_timestamp": "00:50:30",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Guest decision and stated preference; no quantified sales-cycle or close-rate effect is established."
+    },
+    {
+      "claim": "Pete says he sends RB2B campaigns through Adam and describes Adam as the company's public figure whose content supports trust in RB2B and 'retention.'",
+      "start_timestamp": "00:50:32",
+      "end_timestamp": "00:51:33",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Secondhand Adam/company context. The spoken 'retention' is not expanded into a verified company name, and Pete's intended positioning is not an approved identity statement."
+    },
+    {
+      "claim": "The guest reports that Cold IQ has retained affiliate income from software used by a client after that client stopped buying its services.",
+      "start_timestamp": "00:55:40",
+      "end_timestamp": "00:56:07",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest anecdote without date, client identity or earnings amount; not Adam's recurring revenue."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Pete Crowley reports approximately 10 years of outbound experience as of the recording and says he has built sales teams.",
+      "start_timestamp": "00:01:23",
+      "end_timestamp": "00:01:35",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Host self-report; not Adam tenure. Recording date is unspecified, so an exact career start year cannot be inferred from publication."
+    },
+    {
+      "claim": "Pete characterizes Adam's outbound-decline narrative as covering the preceding 18 months to two years.",
+      "start_timestamp": "00:02:32",
+      "end_timestamp": "00:02:45",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Secondhand description with an approximate relative period, not a dated Adam statement or a measured market decline."
+    },
+    {
+      "claim": "The webinar poll reports that 73% of respondents selected the view that traditional outbound is changing rather than dead; Pete says roughly two-thirds of attendees participated.",
+      "start_timestamp": "00:02:48",
+      "end_timestamp": "00:03:14",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Informal attendee poll with no respondent count, sampling controls or independently available results. It is not a market-wide statistic."
+    },
+    {
+      "claim": "Cold IQ's founder says the agency makes more than two million per year in revenue.",
+      "start_timestamp": "00:11:18",
+      "end_timestamp": "00:11:40",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest self-report presented as current at recording. Currency, fiscal period and calculation basis are unspecified; this is revenue, not stated ARR, profit or cash, and belongs to Cold IQ rather than Adam or RB2B."
+    },
+    {
+      "claim": "The guest gives 10,000 monthly website visitors as an example minimum filter for prospects likely to obtain value from a visitor-identification product.",
+      "start_timestamp": "00:15:57",
+      "end_timestamp": "00:16:41",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Hypothetical ICP threshold, not an RB2B requirement, observed customer traffic figure or demonstrated value threshold."
+    },
+    {
+      "claim": "The guest describes a 15-day email-account warmup and says Instantly is expected to introduce prewarmed accounts 'today or tomorrow.'",
+      "start_timestamp": "00:22:22",
+      "end_timestamp": "00:22:44",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Recording-relative expectation and guest recommendation, not a verified release date or achieved deliverability outcome."
+    },
+    {
+      "claim": "Pete describes approximately three weeks without sales emails while warming a new sending domain or account.",
+      "start_timestamp": "00:24:55",
+      "end_timestamp": "00:25:33",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Illustrative operating timeline; differs from the guest's 15-day account warmup. Neither is established as a universal technical requirement."
+    },
+    {
+      "claim": "Pete says that before using AI, some highly researched outreach emails took him 20 minutes to prepare and send.",
+      "start_timestamp": "00:31:53",
+      "end_timestamp": "00:32:22",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Historical host self-report for some emails, not an average, an Adam productivity metric or a measured before-and-after comparison."
+    },
+    {
+      "claim": "Cold IQ's founder reports being able to send thousands of personalized emails per day for clients.",
+      "start_timestamp": "00:32:23",
+      "end_timestamp": "00:33:08",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Current-at-recording guest capacity claim; exact count and whether it is per client or across clients are unspecified. No response, meeting or revenue yield accompanies it."
+    },
+    {
+      "claim": "Pete says he has spoken with RB2B users whose total addressable markets are around 800, then frames the example as 800 possible companies.",
+      "start_timestamp": "00:33:28",
+      "end_timestamp": "00:33:54",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Anecdote about unnamed users, not RB2B's TAM. The initial unit is 'folks,' followed by 'companies,' so the unit is not fully consistent."
+    },
+    {
+      "claim": "The guest describes a waterfall using five different email-finding tools when an address is missing or fails verification.",
+      "start_timestamp": "00:38:16",
+      "end_timestamp": "00:39:01",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Cold IQ workflow configuration, not a fivefold performance improvement. The complete provider list is not intelligible from captions."
+    },
+    {
+      "claim": "Cold IQ's preferred company tier includes B2B software companies with headcount over 40.",
+      "start_timestamp": "00:40:28",
+      "end_timestamp": "00:41:01",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Prospect qualification threshold, not Cold IQ or RB2B staffing. Headcount is not defined as FTE versus contractors."
+    },
+    {
+      "claim": "The demonstrated account-expansion example adds one, two or three people from the same company to a campaign and describes a connection message two days after the connection-request step.",
+      "start_timestamp": "00:43:31",
+      "end_timestamp": "00:44:05",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Example workflow counts and timing, not reported campaign outcomes. Connection-acceptance conditions are not explained."
+    },
+    {
+      "claim": "Cold IQ's founder describes LinkedIn as one of its highest traffic sources and refers to daily LinkedIn content.",
+      "start_timestamp": "00:46:43",
+      "end_timestamp": "00:47:45",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Guest self-report at recording; traffic share, visitor volume and publishing history are unspecified. These are not Adam's traffic or cadence metrics."
+    },
+    {
+      "claim": "The guest uses a month of exposure to his content as an example of the nurturing interval he would prefer before a sales-team conversation.",
+      "start_timestamp": "00:49:40",
+      "end_timestamp": "00:50:30",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Preferred scenario, not a measured average sales cycle, completed experiment or mandatory waiting period."
+    },
+    {
+      "claim": "Pete repeats an earlier webinar participant's assertion that only 5% of an audience is in market to buy at any moment.",
+      "start_timestamp": "00:51:35",
+      "end_timestamp": "00:51:46",
+      "speaker": "Pete Crowley, relaying an unnamed earlier participant",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Secondhand heuristic with no supporting study, audience definition or market scope. It is not an Adam self-report or an RB2B funnel measurement."
+    },
+    {
+      "claim": "Pete announces an intended joint playbook with the guest within the next couple of weeks and a broader program of RB2B and partner playbooks.",
+      "start_timestamp": "00:52:14",
+      "end_timestamp": "00:52:31",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Future plan relative to recording, not evidence that the playbooks shipped; publication date does not establish the announcement's exact event date."
+    },
+    {
+      "claim": "For an agency asking about a budget below $1,000, the guest says a stack can cost under 1,000 per month, cites a Clay plan at 349 per month with API access and describes several other subscriptions as around 100 per month each.",
+      "start_timestamp": "00:53:41",
+      "end_timestamp": "00:54:34",
+      "speaker": "Cold IQ founder, answering a question relayed by Pete Crowley",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Historical price illustration, not Cold IQ's actual expense ledger or a complete costed stack. Dollar context comes from the question; currency and all usage costs are not separately specified."
+    },
+    {
+      "claim": "The guest contrasts agency services costing thousands with software costing hundreds when explaining why clients might retain software after ending a services contract.",
+      "start_timestamp": "00:55:40",
+      "end_timestamp": "00:56:07",
+      "speaker": "Cold IQ founder",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Approximate comparison; currency, billing interval, package and affiliate commission amount are unspecified. It does not establish RB2B's complete pricing."
+    },
+    {
+      "claim": "At the close, Pete says he intends to launch a show the following year, previews a guest session the following week and says this recording will be available the following day.",
+      "start_timestamp": "00:58:45",
+      "end_timestamp": "00:59:38",
+      "speaker": "Pete Crowley",
+      "claim_type": "host_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Recording-relative plans, not verified completed events. The metadata publication date is 2024-10-09, but the actual recording date is not supplied."
+    }
+  ],
+  "tensions_and_corrections": [
+    "Adam does not speak. This source supports secondhand context about his positioning and RB2B's operations, but cannot establish his personal backstory, approved voice, mission or direct beliefs.",
+    "Pete initially attributes an 'outbound has died' position to Adam, then describes the discussion as expanding Adam's belief that outbound is changing. This is a host-level reframing, not evidence that Adam reversed his view.",
+    "The guest describes 15 days of account warmup; Pete describes about three weeks for a new sending setup. Preserve both approximate timelines instead of silently standardizing them.",
+    "The guest prefers AI qualification to generic AI personalization but explicitly acknowledges that context-grounded personalization can work.",
+    "High-volume sending is presented as possible, while both speakers emphasize relevance, market size and buyer context as limits on whether it is desirable.",
+    "Visitor and profile activity are repeatedly called intent, but the guest later acknowledges that familiarity among additional colleagues is an unproven assumption and limits those messages accordingly.",
+    "The company/person qualification gate is verbally ambiguous: 'at least two' is difficult to reconcile with tier one being the preferred category. The exact inequality is not established by the transcript.",
+    "The AI domain example appears to return information about a retired person's prior employer. It does not substantiate a general claim that the process reliably finds current full-time employers; the example domain is also inconsistently captioned.",
+    "Pete introduces the small-TAM example as 800 'folks' and then 800 'companies.' The ledger preserves the unit ambiguity.",
+    "Pete is uncertain whether all named RB2B integrations are already live. The guest's claimed upcoming Instantly feature is also an expectation, not verified availability.",
+    "The guest's software recommendations appear alongside discussion of affiliate economics. The source establishes an affiliate revenue anecdote, but does not establish the commission arrangement behind each specific recommendation.",
+    "Captions repeatedly distort names and product labels, including the guest's name, RB2B, AI models and enrichment providers. Unclear spellings and feature claims should be checked against a clearer source before reuse.",
+    "The source publication timestamp is not the event date. Relative references such as 'today or tomorrow,' 'next week' and 'next year' remain recording-relative.",
+    "There is no substantive bootstrapping-versus-VC comparison or SaaS product-building narrative. Agency budgeting and targeting SaaS prospects should not be stretched into evidence for those pillars."
+  ],
+  "reusable_topics": [
+    "How founder recognition can support outbound response",
+    "RB2B's use of Adam as a public representative, as described by Pete",
+    "Separating inbox placement, attention, relevance and sender trust",
+    "AI research and qualification versus generic personalization",
+    "Designing a minimum viable outbound stack",
+    "Testing prospect data before signing contracts",
+    "Using proxies to define an actionable ICP",
+    "Reactivating CRM prospects when circumstances change",
+    "Matching outreach volume to market size",
+    "Visitor-based routing with separate company and person qualification",
+    "Stopping enrichment when a prospect fails qualification",
+    "Waterfall enrichment and the limits of inferred employment data",
+    "Page-specific follow-up and restrained account expansion",
+    "Using content to prepare prospects before sales conversations",
+    "Client-owned software and agency affiliate revenue",
+    "Why e-commerce outreach requires offer-specific targeting and ramp-up"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:59:46",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript, including the workflow demonstration, final Q&A and closing announcements.",
+      "Automatic captions are not diarized; attribution is inferred from conversational context, and several names, domains and formulas remain uncertain.",
+      "No audio, screen-share visuals, external sources or current product documentation were reviewed.",
+      "The recording date is unknown; publication is preserved separately as 2024-10-09T14:00:32+00:00.",
+      "All business performance figures are speaker reports without independent verification; no Adam financial or growth metrics are provided.",
+      "The transcript demonstrates an outbound process but supplies no controlled campaign results, close rates or quantified revenue impact.",
+      "Material is for internal wiki synthesis only. Public accessibility does not provide clearance to reuse it in new public copy."
+    ]
+  }
+}

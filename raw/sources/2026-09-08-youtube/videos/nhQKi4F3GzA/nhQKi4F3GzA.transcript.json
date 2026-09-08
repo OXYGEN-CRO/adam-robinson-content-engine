@@ -1,0 +1,684 @@
+{
+  "video_id": "nhQKi4F3GzA",
+  "title": "Guidance and Contextual AI Interactions",
+  "url": "https://www.youtube.com/watch?v=nhQKi4F3GzA",
+  "upload_date": "20250730",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:41:56.592146+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/nhQKi4F3GzA/nhQKi4F3GzA.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 4160,
+      "duration_ms": 4560,
+      "text": "So there are clearly questions and"
+    },
+    {
+      "start_ms": 6319,
+      "duration_ms": 4641,
+      "text": "things that pop up that you can just by"
+    },
+    {
+      "start_ms": 8720,
+      "duration_ms": 3999,
+      "text": "eye tell are things you need to tighten"
+    },
+    {
+      "start_ms": 10960,
+      "duration_ms": 4879,
+      "text": "up either in the language of your"
+    },
+    {
+      "start_ms": 12719,
+      "duration_ms": 5281,
+      "text": "snippets or your answers uh or holes in"
+    },
+    {
+      "start_ms": 15839,
+      "duration_ms": 5921,
+      "text": "your knowledge base. Um, but besides"
+    },
+    {
+      "start_ms": 18000,
+      "duration_ms": 6480,
+      "text": "sort of going by eye or by ear, uh,"
+    },
+    {
+      "start_ms": 21760,
+      "duration_ms": 5040,
+      "text": "usually bots and bot softwares will have"
+    },
+    {
+      "start_ms": 24480,
+      "duration_ms": 4000,
+      "text": "a section that will actually help lead"
+    },
+    {
+      "start_ms": 26800,
+      "duration_ms": 4160,
+      "text": "you to water here and actually tell you"
+    },
+    {
+      "start_ms": 28480,
+      "duration_ms": 5360,
+      "text": "where the holes are. Uh, for so for"
+    },
+    {
+      "start_ms": 30960,
+      "duration_ms": 4080,
+      "text": "Finn, for u for intercom, I believe"
+    },
+    {
+      "start_ms": 33840,
+      "duration_ms": 4719,
+      "text": "there's a feature right here."
+    },
+    {
+      "start_ms": 35040,
+      "duration_ms": 7679,
+      "text": ">> Yeah. So, guidance is a fantastic"
+    },
+    {
+      "start_ms": 38559,
+      "duration_ms": 7281,
+      "text": "feature that lets us give Finn more"
+    },
+    {
+      "start_ms": 42719,
+      "duration_ms": 4160,
+      "text": "context. Um, think of it like a prompt"
+    },
+    {
+      "start_ms": 45840,
+      "duration_ms": 5120,
+      "text": "really."
+    },
+    {
+      "start_ms": 46879,
+      "duration_ms": 8320,
+      "text": "uh in the past you"
+    },
+    {
+      "start_ms": 50960,
+      "duration_ms": 6640,
+      "text": "were relying completely on the articles"
+    },
+    {
+      "start_ms": 55199,
+      "duration_ms": 5281,
+      "text": "as how it interacted with people and"
+    },
+    {
+      "start_ms": 57600,
+      "duration_ms": 6080,
+      "text": "answered them. Um so if somebody had a"
+    },
+    {
+      "start_ms": 60480,
+      "duration_ms": 4959,
+      "text": "login issue um and went, \"Hey, I've got"
+    },
+    {
+      "start_ms": 63680,
+      "duration_ms": 4400,
+      "text": "a problem logging in.\" Well, it would go"
+    },
+    {
+      "start_ms": 65439,
+      "duration_ms": 3680,
+      "text": "reference the login doc and it could be"
+    },
+    {
+      "start_ms": 68080,
+      "duration_ms": 3200,
+      "text": "this, it could be this, it could be"
+    },
+    {
+      "start_ms": 69119,
+      "duration_ms": 4161,
+      "text": "this, it could be this. Here's all the"
+    },
+    {
+      "start_ms": 71280,
+      "duration_ms": 5440,
+      "text": "like depending on what your problem is."
+    },
+    {
+      "start_ms": 73280,
+      "duration_ms": 5760,
+      "text": "It's one of these. Well, guidance, you"
+    },
+    {
+      "start_ms": 76720,
+      "duration_ms": 5759,
+      "text": "can give it context and be like, \"Hey,"
+    },
+    {
+      "start_ms": 79040,
+      "duration_ms": 7119,
+      "text": "look, if somebody messages about a login"
+    },
+    {
+      "start_ms": 82479,
+      "duration_ms": 6000,
+      "text": "problem, ask for more information."
+    },
+    {
+      "start_ms": 86159,
+      "duration_ms": 5600,
+      "text": "Ask them exactly what's what the login"
+    },
+    {
+      "start_ms": 88479,
+      "duration_ms": 5121,
+      "text": "problem is. Is it that the email address"
+    },
+    {
+      "start_ms": 91759,
+      "duration_ms": 4881,
+      "text": "they're using isn't found? That they're"
+    },
+    {
+      "start_ms": 93600,
+      "duration_ms": 4879,
+      "text": "not getting the email that we send? What"
+    },
+    {
+      "start_ms": 96640,
+      "duration_ms": 3920,
+      "text": "What's the problem? Are they logging in"
+    },
+    {
+      "start_ms": 98479,
+      "duration_ms": 4801,
+      "text": "but then getting a 403 error? Are they"
+    },
+    {
+      "start_ms": 100560,
+      "duration_ms": 2720,
+      "text": "getting kicked out?\""
+    },
+    {
+      "start_ms": 103520,
+      "duration_ms": 5200,
+      "text": "login problem are they facing and when"
+    },
+    {
+      "start_ms": 106399,
+      "duration_ms": 4641,
+      "text": "they answer then provide the contextual"
+    },
+    {
+      "start_ms": 108720,
+      "duration_ms": 4719,
+      "text": "answer to that that problem instead of"
+    },
+    {
+      "start_ms": 111040,
+      "duration_ms": 6719,
+      "text": "going here's all the things it might be"
+    },
+    {
+      "start_ms": 113439,
+      "duration_ms": 8320,
+      "text": "good luck um but you can also give it"
+    },
+    {
+      "start_ms": 117759,
+      "duration_ms": 8320,
+      "text": "guidance on how to communicate with"
+    },
+    {
+      "start_ms": 121759,
+      "duration_ms": 6801,
+      "text": "users um when to say certain things what"
+    },
+    {
+      "start_ms": 126079,
+      "duration_ms": 5041,
+      "text": "to say what sources to reference when to"
+    },
+    {
+      "start_ms": 128560,
+      "duration_ms": 7360,
+      "text": "escalate when to link to a doc how to"
+    },
+    {
+      "start_ms": 131120,
+      "duration_ms": 8560,
+      "text": "handle edge cases um yeah we we've again"
+    },
+    {
+      "start_ms": 135920,
+      "duration_ms": 6720,
+      "text": "there's that login problem guidance um"
+    },
+    {
+      "start_ms": 139680,
+      "duration_ms": 5040,
+      "text": "or vague input from a user if the user's"
+    },
+    {
+      "start_ms": 142640,
+      "duration_ms": 3760,
+      "text": "description is too vague or lacks enough"
+    },
+    {
+      "start_ms": 144720,
+      "duration_ms": 5120,
+      "text": "detail prompt them for additional"
+    },
+    {
+      "start_ms": 146400,
+      "duration_ms": 8320,
+      "text": "context like ask leading questions guide"
+    },
+    {
+      "start_ms": 149840,
+      "duration_ms": 7200,
+      "text": "them into helping you the AI help them"
+    },
+    {
+      "start_ms": 154720,
+      "duration_ms": 4799,
+      "text": "um don't just"
+    },
+    {
+      "start_ms": 157040,
+      "duration_ms": 4479,
+      "text": "take a stab in the dark because"
+    },
+    {
+      "start_ms": 159519,
+      "duration_ms": 7601,
+      "text": "unfortunately human nature sometimes is"
+    },
+    {
+      "start_ms": 161519,
+      "duration_ms": 8481,
+      "text": "to throw a keyword or two at the AI and"
+    },
+    {
+      "start_ms": 167120,
+      "duration_ms": 4560,
+      "text": "hope for the best. Well, it's it's at"
+    },
+    {
+      "start_ms": 170000,
+      "duration_ms": 2959,
+      "text": "least here now we can kind of give it"
+    },
+    {
+      "start_ms": 171680,
+      "duration_ms": 5199,
+      "text": "some guidance. It's like rolling up to"
+    },
+    {
+      "start_ms": 172959,
+      "duration_ms": 6481,
+      "text": "McDonald's and going hungry. Well,"
+    },
+    {
+      "start_ms": 176879,
+      "duration_ms": 4481,
+      "text": "the the the person at the drive-thru is"
+    },
+    {
+      "start_ms": 179440,
+      "duration_ms": 5519,
+      "text": "going to be like, \"Well, what do you"
+    },
+    {
+      "start_ms": 181360,
+      "duration_ms": 5599,
+      "text": "want to eat there?\" But in the past, if"
+    },
+    {
+      "start_ms": 184959,
+      "duration_ms": 3681,
+      "text": "somebody yelled hungry at the AI, it"
+    },
+    {
+      "start_ms": 186959,
+      "duration_ms": 4961,
+      "text": "would be like, \"Well, here's our entire"
+    },
+    {
+      "start_ms": 188640,
+      "duration_ms": 4879,
+      "text": "menu.\" But now somebody yells hungry, it"
+    },
+    {
+      "start_ms": 191920,
+      "duration_ms": 2880,
+      "text": "knows to go, well, what do you want to"
+    },
+    {
+      "start_ms": 193519,
+      "duration_ms": 5041,
+      "text": "eat today? Do you want a burger? Do you"
+    },
+    {
+      "start_ms": 194800,
+      "duration_ms": 5600,
+      "text": "want chicken? Help me help you. But I"
+    },
+    {
+      "start_ms": 198560,
+      "duration_ms": 3679,
+      "text": "need more than hungry. So yeah, being"
+    },
+    {
+      "start_ms": 200400,
+      "duration_ms": 3600,
+      "text": "able to give that context and guide it"
+    },
+    {
+      "start_ms": 202239,
+      "duration_ms": 3920,
+      "text": "to"
+    },
+    {
+      "start_ms": 204000,
+      "duration_ms": 4720,
+      "text": "helping the helping the person help"
+    },
+    {
+      "start_ms": 206159,
+      "duration_ms": 3360,
+      "text": "themselves. It it really goes a long"
+    },
+    {
+      "start_ms": 208720,
+      "duration_ms": 3200,
+      "text": "way."
+    },
+    {
+      "start_ms": 209519,
+      "duration_ms": 4161,
+      "text": ">> So key areas on guidance, it's like"
+    },
+    {
+      "start_ms": 211920,
+      "duration_ms": 6560,
+      "text": "getting people to be less vague, which"
+    },
+    {
+      "start_ms": 213680,
+      "duration_ms": 7600,
+      "text": "is a huge problem with AI, right? Um"
+    },
+    {
+      "start_ms": 218480,
+      "duration_ms": 4319,
+      "text": "what was the one that intercom was like"
+    },
+    {
+      "start_ms": 221280,
+      "duration_ms": 6480,
+      "text": "oh yeah that was great."
+    },
+    {
+      "start_ms": 222799,
+      "duration_ms": 8000,
+      "text": ">> Yeah. Um so it's it's really obvious. Um"
+    },
+    {
+      "start_ms": 227760,
+      "duration_ms": 5199,
+      "text": "but at the same time we so all of our"
+    },
+    {
+      "start_ms": 230799,
+      "duration_ms": 5041,
+      "text": "support documentation which again is the"
+    },
+    {
+      "start_ms": 232959,
+      "duration_ms": 6640,
+      "text": "core knowledge a core part of the brain"
+    },
+    {
+      "start_ms": 235840,
+      "duration_ms": 6000,
+      "text": "of of Finn. Um the support documentation"
+    },
+    {
+      "start_ms": 239599,
+      "duration_ms": 6321,
+      "text": "because it's"
+    },
+    {
+      "start_ms": 241840,
+      "duration_ms": 6240,
+      "text": "intended also for the human reader. um"
+    },
+    {
+      "start_ms": 245920,
+      "duration_ms": 3360,
+      "text": "sometimes would say, \"Hey, if you've got"
+    },
+    {
+      "start_ms": 248080,
+      "duration_ms": 2879,
+      "text": "questions or concerns about this"
+    },
+    {
+      "start_ms": 249280,
+      "duration_ms": 4319,
+      "text": "feature, reach out to our support team"
+    },
+    {
+      "start_ms": 250959,
+      "duration_ms": 5201,
+      "text": "at supportrb2b.com.\""
+    },
+    {
+      "start_ms": 253599,
+      "duration_ms": 5760,
+      "text": "Cool. That makes sense to the human"
+    },
+    {
+      "start_ms": 256160,
+      "duration_ms": 4880,
+      "text": "reader. But then the human would be"
+    },
+    {
+      "start_ms": 259359,
+      "duration_ms": 3921,
+      "text": "interacting with Finn and then by"
+    },
+    {
+      "start_ms": 261040,
+      "duration_ms": 4000,
+      "text": "default it was because that was part of"
+    },
+    {
+      "start_ms": 263280,
+      "duration_ms": 4320,
+      "text": "the documentation. It would then tell"
+    },
+    {
+      "start_ms": 265040,
+      "duration_ms": 4320,
+      "text": "them to contact supportb2.com."
+    },
+    {
+      "start_ms": 267600,
+      "duration_ms": 3920,
+      "text": "Then they'd email us and then get Finn"
+    },
+    {
+      "start_ms": 269360,
+      "duration_ms": 4399,
+      "text": "and they go in this loop because every"
+    },
+    {
+      "start_ms": 271520,
+      "duration_ms": 3600,
+      "text": "time Finn was like, \"Hey, yeah, contact"
+    },
+    {
+      "start_ms": 273759,
+      "duration_ms": 3121,
+      "text": "support.\" And then the human will get"
+    },
+    {
+      "start_ms": 275120,
+      "duration_ms": 4400,
+      "text": "frustrated going, \"I'm already"
+    },
+    {
+      "start_ms": 276880,
+      "duration_ms": 5280,
+      "text": "contacting you.\" So really simple"
+    },
+    {
+      "start_ms": 279520,
+      "duration_ms": 5200,
+      "text": "guidance. If you're already talking to"
+    },
+    {
+      "start_ms": 282160,
+      "duration_ms": 4400,
+      "text": "the person, don't suggest that they"
+    },
+    {
+      "start_ms": 284720,
+      "duration_ms": 4000,
+      "text": "email you because they're already"
+    },
+    {
+      "start_ms": 286560,
+      "duration_ms": 4400,
+      "text": "talking to you. It doesn't do it"
+    },
+    {
+      "start_ms": 288720,
+      "duration_ms": 5360,
+      "text": "anymore. There's no more frustration."
+    },
+    {
+      "start_ms": 290960,
+      "duration_ms": 4799,
+      "text": "It's awesome. But yeah, really, really"
+    },
+    {
+      "start_ms": 294080,
+      "duration_ms": 3440,
+      "text": "simple, straightforward, obvious, but"
+    },
+    {
+      "start_ms": 295759,
+      "duration_ms": 4160,
+      "text": "again, the AI doesn't necessarily have"
+    },
+    {
+      "start_ms": 297520,
+      "duration_ms": 5119,
+      "text": "that context, right? Like it doesn't"
+    },
+    {
+      "start_ms": 299919,
+      "duration_ms": 4401,
+      "text": "know that it's supported RB2B. It's"
+    },
+    {
+      "start_ms": 302639,
+      "duration_ms": 3601,
+      "text": "saying, well, this is what the"
+    },
+    {
+      "start_ms": 304320,
+      "duration_ms": 4960,
+      "text": "documentation says to do. This is great."
+    },
+    {
+      "start_ms": 306240,
+      "duration_ms": 8640,
+      "text": "Go contact them. So, yeah, telling it"
+    },
+    {
+      "start_ms": 309280,
+      "duration_ms": 8000,
+      "text": "not to contact them. Again, it was huge."
+    },
+    {
+      "start_ms": 314880,
+      "duration_ms": 5120,
+      "text": ">> And would you say one of the best sort"
+    },
+    {
+      "start_ms": 317280,
+      "duration_ms": 4800,
+      "text": "of like uses of guidance is observing"
+    },
+    {
+      "start_ms": 320000,
+      "duration_ms": 3919,
+      "text": "loops and then writing something that"
+    },
+    {
+      "start_ms": 322080,
+      "duration_ms": 5119,
+      "text": "eliminates loops?"
+    },
+    {
+      "start_ms": 323919,
+      "duration_ms": 4801,
+      "text": ">> Yeah, absolutely. Uh yeah, if if a user"
+    },
+    {
+      "start_ms": 327199,
+      "duration_ms": 3761,
+      "text": "or"
+    },
+    {
+      "start_ms": 328720,
+      "duration_ms": 3840,
+      "text": "the AI gets into this feedback loop with"
+    },
+    {
+      "start_ms": 330960,
+      "duration_ms": 4160,
+      "text": "themselves,"
+    },
+    {
+      "start_ms": 332560,
+      "duration_ms": 6160,
+      "text": "find a way to get them out. Um but"
+    },
+    {
+      "start_ms": 335120,
+      "duration_ms": 5600,
+      "text": "again, that that was such an obvious but"
+    },
+    {
+      "start_ms": 338720,
+      "duration_ms": 6240,
+      "text": "really"
+    },
+    {
+      "start_ms": 340720,
+      "duration_ms": 6640,
+      "text": "simple win. Um was to just tell the AI"
+    },
+    {
+      "start_ms": 344960,
+      "duration_ms": 5519,
+      "text": "not to tell them to email them because"
+    },
+    {
+      "start_ms": 347360,
+      "duration_ms": 6520,
+      "text": "they're just going to get the AI again."
+    },
+    {
+      "start_ms": 350479,
+      "duration_ms": 3401,
+      "text": "It was great."
+    }
+  ]
+}

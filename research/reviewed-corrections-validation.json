@@ -1,0 +1,874 @@
+{
+  "audited_at": "2026-09-08T09:26:57.843641+00:00",
+  "registry_record_count": 9,
+  "affected_video_ids": [
+    "-GDzNq_R0b8",
+    "HIuvLo23R2M",
+    "RK1Kk1h783c",
+    "_ZK7wgkHuG4",
+    "meZrgsAZWos",
+    "p5fyQaRE7ao"
+  ],
+  "method": "Imported disposable byte-for-byte script copies without invoking main/work; mutation fixtures never point at live paths.",
+  "code_and_registry_hashes": {
+    "scripts/synthesize_youtube.py": "58ed45e6bade37e355906e078cb43dac7c7f4e5f2560909b5a6c58a86f6ac2e9",
+    "scripts/verify_youtube_synthesis.py": "ddbd05510120ab994ad1ec104833ba85c1686b3a35e22179e2639ad87fe90389",
+    "research/youtube-note-corrections.json": "3e91ee3eb033978150f48653bc6aee56450be7c26e6024b91a56a8c2be975c66"
+  },
+  "records": [
+    {
+      "index": 0,
+      "video_id": "p5fyQaRE7ao",
+      "field": "tensions_and_corrections",
+      "note_file_sha256": "fcd43d94fda1b91a40c15093cca5fed30d56bb005181c69b444dd13bd5f6c02f",
+      "original_field_canonical_sha256": "e766fdcf5bf2365b806400f535c656e43ab50aa1c6ecc8ede58b3821db65dd16",
+      "replacement_field_canonical_sha256": "00c739cd52a546ba4db7ea6a66272a6e47dc0d1aa54990594279f0ad6660ecb6",
+      "checks": {
+        "note_hash_matches": true,
+        "original_field_matches": true,
+        "evidence": [
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/p5fyQaRE7ao/p5fyQaRE7ao.info.json",
+            "sha256": "285d3373232a785629f3413d4fa439ee474d5edc67cd16832b52f7e2a48bf0d5",
+            "matches": true
+          }
+        ],
+        "source_fields_match": true
+      }
+    },
+    {
+      "index": 1,
+      "video_id": "_ZK7wgkHuG4",
+      "field": "tensions_and_corrections",
+      "note_file_sha256": "8b947d83aa42f8d13e4f3b65978e567a33f70c0ca8f0534490dfd39ecf9ab607",
+      "original_field_canonical_sha256": "3c643f23e7b744b37aa3a6f8ac55e8405c310c98444822147fd5344bd1e07c94",
+      "replacement_field_canonical_sha256": "3a90d31d13273b7c6e3eb2fac6a708a6179967f5f547d4a3f8feb5c983fb3c33",
+      "checks": {
+        "note_hash_matches": true,
+        "original_field_matches": true,
+        "evidence": [
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/_ZK7wgkHuG4/_ZK7wgkHuG4.info.json",
+            "sha256": "aa7dc973b5674672538bf8998c1591dd5623f79b7ce17e647e09dc179c9ff726",
+            "matches": true
+          }
+        ],
+        "source_fields_match": true
+      }
+    },
+    {
+      "index": 2,
+      "video_id": "HIuvLo23R2M",
+      "field": "tensions_and_corrections",
+      "note_file_sha256": "ae0e4f34cc49b202bf22d1bdc368fe5fa4b551716d884fba66f42d25d9bce99c",
+      "original_field_canonical_sha256": "1436772ffed96543fcb65cd2203393717197f774e585d4a5d1e02a5d7a2e8764",
+      "replacement_field_canonical_sha256": "ba5c9345b5b6341c8625b97ff30eaf4d097963b94ba92a10042c87533f2ec386",
+      "checks": {
+        "note_hash_matches": true,
+        "original_field_matches": true,
+        "evidence": [
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/HIuvLo23R2M/HIuvLo23R2M.info.json",
+            "sha256": "2a61c6da58fbe5ab30a2a2a080c3fbea701ac28ee32b39e41d7faeb46408c199",
+            "matches": true
+          }
+        ],
+        "source_fields_match": true
+      }
+    },
+    {
+      "index": 3,
+      "video_id": "_ZK7wgkHuG4",
+      "field": "coverage.limitations",
+      "note_file_sha256": "8b947d83aa42f8d13e4f3b65978e567a33f70c0ca8f0534490dfd39ecf9ab607",
+      "original_field_canonical_sha256": "a5562a50e6f9c6c5a183a6eb3a3dc40de4d6654d46a234b59b91bd3cbc6e4e35",
+      "replacement_field_canonical_sha256": "0caea8b5a77a8937a5f32684abb101b4e3f78e90d24bcba5e16bbedc249904ed",
+      "checks": {
+        "note_hash_matches": true,
+        "original_field_matches": true,
+        "evidence": [
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/_ZK7wgkHuG4/_ZK7wgkHuG4.info.json",
+            "sha256": "aa7dc973b5674672538bf8998c1591dd5623f79b7ce17e647e09dc179c9ff726",
+            "matches": true
+          }
+        ],
+        "source_fields_match": true
+      }
+    },
+    {
+      "index": 4,
+      "video_id": "RK1Kk1h783c",
+      "field": "key_learnings.31",
+      "note_file_sha256": "bbc70a99d39fce83028067a9a14f0853eee1a5cdfca6a11cf50e20d5a5be5f90",
+      "original_field_canonical_sha256": "360531dc80e89a02d71251954e108bae2632edfafe40addfa686f2dfbf4b5355",
+      "replacement_field_canonical_sha256": "796702a1b9279a781c69f99fcc34a63a980f6c0e8e0407fecac11b3d0c7f78f2",
+      "checks": {
+        "note_hash_matches": true,
+        "original_field_matches": true,
+        "evidence": [
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json",
+            "sha256": "6846faf6f81cdacd6fdf66259d1e3b0abf54d4780f8849bde34b7537e9774e37",
+            "matches": true
+          },
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.transcript.json",
+            "sha256": "03b6a13a99e16682d81471ae5018e0f8c0a14a66c43142251c60321ad1d4cb90",
+            "matches": true
+          },
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/M0VvUsyJQ-M/M0VvUsyJQ-M.transcript.json",
+            "sha256": "1289561a0e3a93138d57a11493aa30b4d1c96c65694a09706640d20afce199b2",
+            "matches": true
+          }
+        ],
+        "source_fields_match": true
+      }
+    },
+    {
+      "index": 5,
+      "video_id": "RK1Kk1h783c",
+      "field": "summary",
+      "note_file_sha256": "bbc70a99d39fce83028067a9a14f0853eee1a5cdfca6a11cf50e20d5a5be5f90",
+      "original_field_canonical_sha256": "41a7439bc7898b6dcb99bd7a98e84db124f254c06d0b99bd2103b065f9dccec6",
+      "replacement_field_canonical_sha256": "ae34bc3480c50361712283da00ebade6c64ec135dc49039b2bd0b9c3a3eef534",
+      "checks": {
+        "note_hash_matches": true,
+        "original_field_matches": true,
+        "evidence": [
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json",
+            "sha256": "6846faf6f81cdacd6fdf66259d1e3b0abf54d4780f8849bde34b7537e9774e37",
+            "matches": true
+          },
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.transcript.json",
+            "sha256": "03b6a13a99e16682d81471ae5018e0f8c0a14a66c43142251c60321ad1d4cb90",
+            "matches": true
+          },
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/M0VvUsyJQ-M/M0VvUsyJQ-M.transcript.json",
+            "sha256": "1289561a0e3a93138d57a11493aa30b4d1c96c65694a09706640d20afce199b2",
+            "matches": true
+          }
+        ],
+        "source_fields_match": true
+      }
+    },
+    {
+      "index": 6,
+      "video_id": "RK1Kk1h783c",
+      "field": "tensions_and_corrections",
+      "note_file_sha256": "bbc70a99d39fce83028067a9a14f0853eee1a5cdfca6a11cf50e20d5a5be5f90",
+      "original_field_canonical_sha256": "8a08542eb3cdf28b84dd1363e36e516a9a1ea7394b4099db8393329d76c5c745",
+      "replacement_field_canonical_sha256": "ef1496b3b75edf39cd29285c8dc9186ddcd79de0041e2a6da2a67f94af102bf6",
+      "checks": {
+        "note_hash_matches": true,
+        "original_field_matches": true,
+        "evidence": [
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json",
+            "sha256": "6846faf6f81cdacd6fdf66259d1e3b0abf54d4780f8849bde34b7537e9774e37",
+            "matches": true
+          },
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.transcript.json",
+            "sha256": "03b6a13a99e16682d81471ae5018e0f8c0a14a66c43142251c60321ad1d4cb90",
+            "matches": true
+          },
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/M0VvUsyJQ-M/M0VvUsyJQ-M.transcript.json",
+            "sha256": "1289561a0e3a93138d57a11493aa30b4d1c96c65694a09706640d20afce199b2",
+            "matches": true
+          }
+        ],
+        "source_fields_match": true
+      }
+    },
+    {
+      "index": 7,
+      "video_id": "meZrgsAZWos",
+      "field": "metrics_and_dates.16",
+      "note_file_sha256": "63c69c282c63fbcd44c017e691e7387814eea3fa59bc884635ac9c925bad0101",
+      "original_field_canonical_sha256": "411427433083ddaaed3bb9c3970f47c56f10beb54b59e1f9e5fe39bcd4aa1b66",
+      "replacement_field_canonical_sha256": "8505a48b23514004b75049b2c81ea2ff70453d4ce6ccf4e93a5bda6cfe6abc18",
+      "checks": {
+        "note_hash_matches": true,
+        "original_field_matches": true,
+        "evidence": [
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/meZrgsAZWos/meZrgsAZWos.transcript.json",
+            "sha256": "966e32930563cddda90f40805f9e18c8f37e9646d0d85088b025575a62a3cd65",
+            "matches": true
+          }
+        ],
+        "source_fields_match": true
+      }
+    },
+    {
+      "index": 8,
+      "video_id": "-GDzNq_R0b8",
+      "field": "tensions_and_corrections",
+      "note_file_sha256": "d8974a894136d1c72595737cc6c89ec7e0d180a9f86c424c262eee426d3fb545",
+      "original_field_canonical_sha256": "c265059177ff7af4138c1b31457f8438b2cb8974e33a675843ec09f16fc32aa2",
+      "replacement_field_canonical_sha256": "19f03d21d0923b7ae8508ea2916137a261d17fbf2675ecca57132245a6f3a3ff",
+      "checks": {
+        "note_hash_matches": true,
+        "original_field_matches": true,
+        "evidence": [
+          {
+            "path": "raw/sources/2026-09-08-youtube/videos/-GDzNq_R0b8/-GDzNq_R0b8.info.json",
+            "sha256": "614d66f7b9bfa56e3468b9c6a6abcd7d67d7c5ae10e35ca1ef53122e8707d1ef",
+            "matches": true
+          }
+        ],
+        "source_fields_match": true
+      }
+    }
+  ],
+  "baseline": [
+    {
+      "video_id": "-GDzNq_R0b8",
+      "renderer_matches_independent_derivative": true,
+      "verifier_matches_independent_derivative": true,
+      "input_object_unchanged": true,
+      "derivative_errors": [],
+      "promoted_wiki_matches_exact_render": true,
+      "promoted_wiki_sha256": "ca5d4382e732dad7eae46e479504000ae29f0ac65cae1d0b96f73e8a1fb6943a",
+      "original_note_sha256": "d8974a894136d1c72595737cc6c89ec7e0d180a9f86c424c262eee426d3fb545",
+      "original_provenance_sha256": "dd3c5f5ac78f687147a8ce78037e0ad80a5c259db044ae656517dccef2b3f8d1",
+      "audit": {
+        "id": "-GDzNq_R0b8",
+        "errors": [],
+        "manual_review": [],
+        "diagnostics": [
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+        ],
+        "checks": {
+          "extraction_present": true,
+          "source_caption_bounds": {
+            "first": 0.0,
+            "last_start": 3395.44,
+            "last_end": 3399.28,
+            "video_duration": 3398
+          },
+          "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+          "source_sha256": "ff9c0d60e322ec1bac67a98a9406bffa7ea320364acb0f6445bbeace02ea7b98",
+          "terminal_usage": {
+            "input_tokens": 47630,
+            "cached_input_tokens": 0,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 10203,
+            "reasoning_output_tokens": 267
+          },
+          "claim_counts": {
+            "key_learnings": 30,
+            "backstory_and_values": 9,
+            "metrics_and_dates": 32
+          },
+          "meaningful_lesson_anchors_by_third": {
+            "early": 10,
+            "middle": 12,
+            "late": 8
+          },
+          "broad_lessons_not_counted_as_local_coverage": 0,
+          "reviewed_derivative_fields": [
+            {
+              "field": "tensions_and_corrections",
+              "kind": "metadata_clarification",
+              "evidence_path": "raw/sources/2026-09-08-youtube/videos/-GDzNq_R0b8/-GDzNq_R0b8.info.json"
+            }
+          ],
+          "wiki_present": true,
+          "data_sha256": "5280c182785a4c122639d1312e422d0f821624b85de82e1c6fddb0059a4e35fb"
+        }
+      }
+    },
+    {
+      "video_id": "HIuvLo23R2M",
+      "renderer_matches_independent_derivative": true,
+      "verifier_matches_independent_derivative": true,
+      "input_object_unchanged": true,
+      "derivative_errors": [],
+      "promoted_wiki_matches_exact_render": true,
+      "promoted_wiki_sha256": "e67b301116783ee1a101a4ff985cbedc4c0b126c0c34d9b7e774b0553fd47baf",
+      "original_note_sha256": "ae0e4f34cc49b202bf22d1bdc368fe5fa4b551716d884fba66f42d25d9bce99c",
+      "original_provenance_sha256": "63219d168b29d229dc62bc6ed612607bb305b678aa5c8cfaecc1c081e706ddfc",
+      "audit": {
+        "id": "HIuvLo23R2M",
+        "errors": [],
+        "manual_review": [],
+        "diagnostics": [
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+        ],
+        "checks": {
+          "extraction_present": true,
+          "source_caption_bounds": {
+            "first": 0.08,
+            "last_start": 3565.2,
+            "last_end": 3567.599,
+            "video_duration": 3567
+          },
+          "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+          "source_sha256": "4b0079474bd77008f2c214b67d9c8dca9b54875697ac68cbc63a2f16db4094a7",
+          "terminal_usage": {
+            "input_tokens": 48372,
+            "cached_input_tokens": 0,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 9423,
+            "reasoning_output_tokens": 112
+          },
+          "claim_counts": {
+            "key_learnings": 32,
+            "backstory_and_values": 9,
+            "metrics_and_dates": 22
+          },
+          "meaningful_lesson_anchors_by_third": {
+            "early": 8,
+            "middle": 10,
+            "late": 14
+          },
+          "broad_lessons_not_counted_as_local_coverage": 0,
+          "reviewed_derivative_fields": [
+            {
+              "field": "tensions_and_corrections",
+              "kind": "metadata_clarification",
+              "evidence_path": "raw/sources/2026-09-08-youtube/videos/HIuvLo23R2M/HIuvLo23R2M.info.json"
+            }
+          ],
+          "wiki_present": true,
+          "data_sha256": "5bcf990dff1a95826d97e4acf7c0bac80842c04de9bcfbff0765f41fd4572730"
+        }
+      }
+    },
+    {
+      "video_id": "RK1Kk1h783c",
+      "renderer_matches_independent_derivative": true,
+      "verifier_matches_independent_derivative": true,
+      "input_object_unchanged": true,
+      "derivative_errors": [],
+      "promoted_wiki_matches_exact_render": true,
+      "promoted_wiki_sha256": "7f0626426a2679502aa18d1f62938f1d93663b5eb035195b06afce388b8a7a12",
+      "original_note_sha256": "bbc70a99d39fce83028067a9a14f0853eee1a5cdfca6a11cf50e20d5a5be5f90",
+      "original_provenance_sha256": "7dcce8fa1688f4305773b78c9be7d87883b9a326c5c9092d64d92170a56127e4",
+      "audit": {
+        "id": "RK1Kk1h783c",
+        "errors": [],
+        "manual_review": [],
+        "diagnostics": [
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+        ],
+        "checks": {
+          "extraction_present": true,
+          "source_caption_bounds": {
+            "first": 0.16,
+            "last_start": 3198.319,
+            "last_end": 3201.2,
+            "video_duration": 3200
+          },
+          "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+          "source_sha256": "388c106a27a5520770d8b68655b236d26e289d48fb49d9e39dce8f03b4691967",
+          "terminal_usage": {
+            "input_tokens": 46771,
+            "cached_input_tokens": 18560,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 10165,
+            "reasoning_output_tokens": 134
+          },
+          "claim_counts": {
+            "key_learnings": 32,
+            "backstory_and_values": 10,
+            "metrics_and_dates": 28
+          },
+          "meaningful_lesson_anchors_by_third": {
+            "early": 10,
+            "middle": 10,
+            "late": 12
+          },
+          "broad_lessons_not_counted_as_local_coverage": 0,
+          "reviewed_derivative_fields": [
+            {
+              "field": "key_learnings.31",
+              "kind": "attribution_clarification",
+              "evidence_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json"
+            },
+            {
+              "field": "summary",
+              "kind": "attribution_clarification",
+              "evidence_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json"
+            },
+            {
+              "field": "tensions_and_corrections",
+              "kind": "attribution_clarification",
+              "evidence_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json"
+            }
+          ],
+          "wiki_present": true,
+          "data_sha256": "dbdd2bd3917c7527a3180bcecfd0b2fe2720de6fdf354849fd40bcdfa7ba80a5"
+        }
+      }
+    },
+    {
+      "video_id": "_ZK7wgkHuG4",
+      "renderer_matches_independent_derivative": true,
+      "verifier_matches_independent_derivative": true,
+      "input_object_unchanged": true,
+      "derivative_errors": [],
+      "promoted_wiki_matches_exact_render": true,
+      "promoted_wiki_sha256": "31dd07e1591a1ccbdb814754e7f83bebe802356066a7b2ad48b513a7be904373",
+      "original_note_sha256": "8b947d83aa42f8d13e4f3b65978e567a33f70c0ca8f0534490dfd39ecf9ab607",
+      "original_provenance_sha256": "3c677a8f33e49207a06885558ed4c7326b90f261f20279d27ec67aae6c295ac1",
+      "audit": {
+        "id": "_ZK7wgkHuG4",
+        "errors": [],
+        "manual_review": [],
+        "diagnostics": [
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+        ],
+        "checks": {
+          "extraction_present": true,
+          "source_caption_bounds": {
+            "first": 0.0,
+            "last_start": 3500.319,
+            "last_end": 3504.16,
+            "video_duration": 3503
+          },
+          "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+          "source_sha256": "0f04276ad41d429e812e3da6a47ac919ad7e9fafbe74e4c25bd8d13f5ad7f0ba",
+          "terminal_usage": {
+            "input_tokens": 50291,
+            "cached_input_tokens": 18560,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 10159,
+            "reasoning_output_tokens": 134
+          },
+          "claim_counts": {
+            "key_learnings": 31,
+            "backstory_and_values": 9,
+            "metrics_and_dates": 27
+          },
+          "meaningful_lesson_anchors_by_third": {
+            "early": 9,
+            "middle": 11,
+            "late": 11
+          },
+          "broad_lessons_not_counted_as_local_coverage": 0,
+          "reviewed_derivative_fields": [
+            {
+              "field": "tensions_and_corrections",
+              "kind": "metadata_clarification",
+              "evidence_path": "raw/sources/2026-09-08-youtube/videos/_ZK7wgkHuG4/_ZK7wgkHuG4.info.json"
+            },
+            {
+              "field": "coverage.limitations",
+              "kind": "metadata_clarification",
+              "evidence_path": "raw/sources/2026-09-08-youtube/videos/_ZK7wgkHuG4/_ZK7wgkHuG4.info.json"
+            }
+          ],
+          "wiki_present": true,
+          "data_sha256": "6980242981a22838c1199fb6414040257b6acd8389ce1c2d35ec9453be1e60f7"
+        }
+      }
+    },
+    {
+      "video_id": "meZrgsAZWos",
+      "renderer_matches_independent_derivative": true,
+      "verifier_matches_independent_derivative": true,
+      "input_object_unchanged": true,
+      "derivative_errors": [],
+      "promoted_wiki_matches_exact_render": true,
+      "promoted_wiki_sha256": "8bff306b7cb2396a89e9a7156558beda44b39f29bb8562f4244547cb5508e61c",
+      "original_note_sha256": "63c69c282c63fbcd44c017e691e7387814eea3fa59bc884635ac9c925bad0101",
+      "original_provenance_sha256": "71ae5261d657a8acf55414cc042ef036a2541f98ebb8382d3e35013dd3ff74e1",
+      "audit": {
+        "id": "meZrgsAZWos",
+        "errors": [],
+        "manual_review": [],
+        "diagnostics": [
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+        ],
+        "checks": {
+          "extraction_present": true,
+          "source_caption_bounds": {
+            "first": 0.32,
+            "last_start": 3604.16,
+            "last_end": 3606.799,
+            "video_duration": 3605
+          },
+          "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+          "source_sha256": "c75b6b93cf612168357c664e020e9cf65836cf7ac534fd10b08b7cd80836e750",
+          "terminal_usage": {
+            "input_tokens": 47251,
+            "cached_input_tokens": 18560,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 10741,
+            "reasoning_output_tokens": 151
+          },
+          "claim_counts": {
+            "key_learnings": 31,
+            "backstory_and_values": 11,
+            "metrics_and_dates": 30
+          },
+          "meaningful_lesson_anchors_by_third": {
+            "early": 9,
+            "middle": 11,
+            "late": 11
+          },
+          "broad_lessons_not_counted_as_local_coverage": 0,
+          "reviewed_derivative_fields": [
+            {
+              "field": "metrics_and_dates.16",
+              "kind": "attribution_clarification",
+              "evidence_path": "raw/sources/2026-09-08-youtube/videos/meZrgsAZWos/meZrgsAZWos.transcript.json"
+            }
+          ],
+          "wiki_present": true,
+          "data_sha256": "744deeb7fefaa6a8b78e20bebada922bcb78c449301bff57af9903663988aa38"
+        }
+      }
+    },
+    {
+      "video_id": "p5fyQaRE7ao",
+      "renderer_matches_independent_derivative": true,
+      "verifier_matches_independent_derivative": true,
+      "input_object_unchanged": true,
+      "derivative_errors": [],
+      "promoted_wiki_matches_exact_render": true,
+      "promoted_wiki_sha256": "55cf8221e08508c6341adffc0eca2a4090f5acd6e8a699a6163229a460cef792",
+      "original_note_sha256": "fcd43d94fda1b91a40c15093cca5fed30d56bb005181c69b444dd13bd5f6c02f",
+      "original_provenance_sha256": "2034dc88e07381fcda0ec3fe3eff124abb10d662d5e0e848bfc094d20672dd46",
+      "audit": {
+        "id": "p5fyQaRE7ao",
+        "errors": [],
+        "manual_review": [],
+        "diagnostics": [
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "`--dangerously-bypass-hook-trust` is enabled. Enabled hooks may run without review for this invocation.",
+          "Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest."
+        ],
+        "checks": {
+          "extraction_present": true,
+          "source_caption_bounds": {
+            "first": 0.719,
+            "last_start": 3313.68,
+            "last_end": 3317.119,
+            "video_duration": 3315
+          },
+          "prompt_evidence": "reconstructed from current literal instructions and original source/metadata",
+          "source_sha256": "77079899be839c65834db6765dea16460989138fca4039ba8150e0b48138eb49",
+          "terminal_usage": {
+            "input_tokens": 45571,
+            "cached_input_tokens": 0,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 11519,
+            "reasoning_output_tokens": 332
+          },
+          "claim_counts": {
+            "key_learnings": 33,
+            "backstory_and_values": 9,
+            "metrics_and_dates": 31
+          },
+          "meaningful_lesson_anchors_by_third": {
+            "early": 10,
+            "middle": 12,
+            "late": 11
+          },
+          "broad_lessons_not_counted_as_local_coverage": 0,
+          "reviewed_derivative_fields": [
+            {
+              "field": "tensions_and_corrections",
+              "kind": "metadata_clarification",
+              "evidence_path": "raw/sources/2026-09-08-youtube/videos/p5fyQaRE7ao/p5fyQaRE7ao.info.json"
+            }
+          ],
+          "wiki_present": true,
+          "data_sha256": "a42dbabab517024f700f37a1b34fcfed191ff91287f9e46ea3d74e5b67177b4a"
+        }
+      }
+    }
+  ],
+  "mutation_cases": [
+    {
+      "name": "stale_original_note_bytes",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": true,
+      "renderer_error": "ValueError: Stale reviewed correction for meZrgsAZWos: model output changed",
+      "verifier_errors": [
+        {
+          "code": "reviewed_derivative_invalid",
+          "detail": "metrics_and_dates.16: Original model-output hash changed"
+        },
+        {
+          "code": "wiki_claim_render_mismatch",
+          "detail": "00:32:11: Mailchimp comparison: Adam recalls approximately eight years, framed as 2001–2009, to reach $1 milli"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "reviewed_derivative_invalid"
+      ],
+      "required_errors_detected": true,
+      "renderer_behavior_expected": true
+    },
+    {
+      "name": "stale_primary_evidence_bytes",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": true,
+      "renderer_error": "ValueError: Stale reviewed correction for meZrgsAZWos: evidence changed",
+      "verifier_errors": [
+        {
+          "code": "reviewed_derivative_invalid",
+          "detail": "metrics_and_dates.16: Evidence hash changed: raw/sources/2026-09-08-youtube/videos/meZrgsAZWos/meZrgsAZWos.transcript.json"
+        },
+        {
+          "code": "wiki_claim_render_mismatch",
+          "detail": "00:32:11: Mailchimp comparison: Adam recalls approximately eight years, framed as 2001–2009, to reach $1 milli"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "reviewed_derivative_invalid"
+      ],
+      "required_errors_detected": true,
+      "renderer_behavior_expected": true
+    },
+    {
+      "name": "stale_supporting_evidence_bytes",
+      "video_id": "RK1Kk1h783c",
+      "renderer_rejected": true,
+      "renderer_error": "ValueError: Stale reviewed correction for RK1Kk1h783c: evidence changed",
+      "verifier_errors": [
+        {
+          "code": "reviewed_derivative_invalid",
+          "detail": "key_learnings.31: Evidence hash changed: raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.transcript.json"
+        },
+        {
+          "code": "reviewed_derivative_invalid",
+          "detail": "summary: Evidence hash changed: raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.transcript.json"
+        },
+        {
+          "code": "reviewed_derivative_invalid",
+          "detail": "tensions_and_corrections: Evidence hash changed: raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.transcript.json"
+        },
+        {
+          "code": "wiki_context_omitted",
+          "detail": "summary"
+        },
+        {
+          "code": "wiki_claim_render_mismatch",
+          "detail": "00:52:52: Jesse closes by putting inbox placement ahead of subject-line optimization and uses a familiar sende"
+        },
+        {
+          "code": "wiki_tension_omitted",
+          "detail": "The source ends at 00:53:18 in the middle of Jesse's ranking of email priorities. His unfinished sec"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "reviewed_derivative_invalid"
+      ],
+      "required_errors_detected": true,
+      "renderer_behavior_expected": true
+    },
+    {
+      "name": "unsupported_field",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": true,
+      "renderer_error": "ValueError: Unsupported reviewed correction field for meZrgsAZWos: video_id",
+      "verifier_errors": [
+        {
+          "code": "reviewed_derivative_invalid",
+          "detail": "video_id: Unsupported derivative field video_id"
+        },
+        {
+          "code": "wiki_claim_render_mismatch",
+          "detail": "00:32:11: Mailchimp comparison: Adam recalls approximately eight years, framed as 2001–2009, to reach $1 milli"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "reviewed_derivative_invalid"
+      ],
+      "required_errors_detected": true,
+      "renderer_behavior_expected": true
+    },
+    {
+      "name": "original_field_mismatch",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": true,
+      "renderer_error": "ValueError: Reviewed correction no longer matches its original field for meZrgsAZWos",
+      "verifier_errors": [
+        {
+          "code": "reviewed_derivative_invalid",
+          "detail": "metrics_and_dates.16: Declared original differs from model field"
+        },
+        {
+          "code": "wiki_claim_render_mismatch",
+          "detail": "00:32:11: Mailchimp comparison: Adam recalls approximately eight years, framed as 2001–2009, to reach $1 milli"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "reviewed_derivative_invalid"
+      ],
+      "required_errors_detected": true,
+      "renderer_behavior_expected": true
+    },
+    {
+      "name": "invalid_replacement_claim_type",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": true,
+      "renderer_error": "ValueError: Invalid reviewed claim type for meZrgsAZWos",
+      "verifier_errors": [
+        {
+          "code": "reviewed_derivative_invalid",
+          "detail": "metrics_and_dates.16: Replacement claim has invalid attribution type"
+        },
+        {
+          "code": "wiki_claim_render_mismatch",
+          "detail": "00:32:11: Mailchimp comparison: Adam recalls approximately eight years, framed as 2001–2009, to reach $1 milli"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "reviewed_derivative_invalid"
+      ],
+      "required_errors_detected": true,
+      "renderer_behavior_expected": true
+    },
+    {
+      "name": "malformed_replacement_timestamp",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": false,
+      "renderer_error": null,
+      "verifier_errors": [
+        {
+          "code": "reviewed_derivative_invalid",
+          "detail": "metrics_and_dates.16: Invalid timestamp 'invalid-time'; expected MM:SS or HH:MM:SS"
+        },
+        {
+          "code": "wiki_claim_render_mismatch",
+          "detail": "00:32:11: Mailchimp comparison: Adam recalls approximately eight years, framed as 2001–2009, to reach $1 milli"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "reviewed_derivative_invalid"
+      ],
+      "required_errors_detected": true
+    },
+    {
+      "name": "out_of_bounds_replacement_timestamp",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": false,
+      "renderer_error": null,
+      "verifier_errors": [],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "claim_timestamp_out_of_bounds"
+      ],
+      "required_errors_detected": false
+    },
+    {
+      "name": "edited_original_with_rebound_registry_hash",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": false,
+      "renderer_error": null,
+      "verifier_errors": [
+        {
+          "code": "terminal_output_mismatch",
+          "detail": "Final terminal agent message does not match extraction JSON"
+        },
+        {
+          "code": "response_mismatch",
+          "detail": "Persisted model response differs from extraction; any correction requires recorded provenance"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "terminal_output_mismatch",
+        "response_mismatch"
+      ],
+      "required_errors_detected": true
+    },
+    {
+      "name": "provenance_source_hash_tamper",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": false,
+      "renderer_error": null,
+      "verifier_errors": [
+        {
+          "code": "provenance_mismatch",
+          "detail": "source_sha256: '0000000000000000000000000000000000000000000000000000000000000000' != 'c75b6b93cf612168357c664e020e9cf65836cf7ac534fd10b08b7cd80836e750'"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "provenance_mismatch"
+      ],
+      "required_errors_detected": true
+    },
+    {
+      "name": "wiki_reverted_to_original_attribution",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": false,
+      "renderer_error": null,
+      "verifier_errors": [
+        {
+          "code": "wiki_claim_render_mismatch",
+          "detail": "00:32:11: Mailchimp comparison: Adam recalls approximately eight years, framed as 2001–2009, to reach $1 milli"
+        }
+      ],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "wiki_claim_render_mismatch"
+      ],
+      "required_errors_detected": true
+    },
+    {
+      "name": "wiki_retains_stale_claim_alongside_correction",
+      "video_id": "meZrgsAZWos",
+      "renderer_rejected": false,
+      "renderer_error": null,
+      "verifier_errors": [],
+      "manual_review": [],
+      "input_object_unchanged": true,
+      "required_error_codes": [
+        "wiki_claim_render_mismatch"
+      ],
+      "required_errors_detected": false
+    }
+  ],
+  "live_inputs_unchanged_during_review": true,
+  "changed_live_paths": [],
+  "snapshot_file_count": 59,
+  "fixture_directory_removed": true,
+  "runner_sha256": "4b4e7381d5ae25844438f1be76e0054c0c718e6a804f44627bbb4a086e7e3df9",
+  "baseline_all_pass": true,
+  "cases_missing_expected_detection": [
+    "out_of_bounds_replacement_timestamp",
+    "wiki_retains_stale_claim_alongside_correction"
+  ]
+}

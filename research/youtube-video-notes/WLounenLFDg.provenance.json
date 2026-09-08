@@ -1,0 +1,13 @@
+{
+  "id": "WLounenLFDg",
+  "source_sha256": "5affae9dbb6482007eb49b37d69929b417847268cb354d6cf3c93da4984b8357",
+  "source_characters": 75313,
+  "source_word_count": 11596,
+  "prompt_sha256": "52dff8455db2d7c058b0b31a53c8480f36e1f00390f88d8c7c9347efee05ef36",
+  "started_at": "2026-09-08T09:28:32.246566+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/WLounenLFDg/WLounenLFDg.md",
+  "pid": 26978,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:34:26.456652+00:00"
+}

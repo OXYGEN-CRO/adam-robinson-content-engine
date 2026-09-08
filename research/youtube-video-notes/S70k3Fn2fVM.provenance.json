@@ -1,0 +1,13 @@
+{
+  "id": "S70k3Fn2fVM",
+  "source_sha256": "108faff13dd010a381d3b150053dfa2b9c5e3eed2f00466801d19dbe05803a24",
+  "source_characters": 73992,
+  "source_word_count": 10952,
+  "prompt_sha256": "e2c0c2e737d1056270f4a1f72e42074e61bc2fb4b83b61a396c3a861253f4fd0",
+  "started_at": "2026-09-08T09:50:06.831564+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/S70k3Fn2fVM/S70k3Fn2fVM.md",
+  "pid": 56674,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:55:45.453384+00:00"
+}

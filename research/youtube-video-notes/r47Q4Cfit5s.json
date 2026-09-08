@@ -1,0 +1,488 @@
+{
+  "video_id": "r47Q4Cfit5s",
+  "title": "If I Started a SaaS in 2026, I’d Do This (0 to 1,000+ Users)",
+  "published": "2025-12-31T16:01:26+00:00",
+  "speakers_and_attribution": "The transcript presents a single first-person narrator, contextually identifiable as Adam Robinson through references to building RB2B and his own content strategy. Captions are not diarized, so this identification is contextual rather than independently verified. No interviewer, co-host or guest speaks. Stories about BarkBox, Distribute and Chili Piper are Adam's retellings; their metrics and experiences are not his achievements. Names and tool names may contain automatic-caption errors.",
+  "summary": "Adam presents a hypothetical startup sequence: validate demand through paid commitments, deliver a minimal product manually, establish word of mouth, and then combine founder content, targeted outreach and retargeting. He supports it with RB2B launch anecdotes and third-party examples. His central boundaries are to avoid scaling before product-market fit, start audience building early, and use LinkedIn conversations to develop relationships before selling on calls. The final third covers outreach infrastructure, engagement-triggered messages, automation risks and informal video ads. This is a promotional, self-reported playbook, not a documented cohort study or a chronological account of reaching 1,000 paying customers.",
+  "key_learnings": [
+    {
+      "claim": "Validate a customer problem before substantial development. Adam recommends at least 50 discovery calls before writing code and treats actual prepayment as stronger evidence than verbal interest.",
+      "start_timestamp": "00:00:30",
+      "end_timestamp": "00:01:22",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "The call count is a prescribed heuristic. His claim that this explains most startup failure is not supported by evidence in the transcript."
+    },
+    {
+      "claim": "A visual mockup can test willingness to pay before a functioning product exists. Adam illustrates this with a BarkBox founder allegedly collecting payments from dog owners after showing a Photoshop concept.",
+      "start_timestamp": "00:01:23",
+      "end_timestamp": "00:02:05",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Third-party historical anecdote narrated by Adam, not his own experience. Founder spelling, chronology and sales figures are unverified."
+    },
+    {
+      "claim": "Recruit discovery participants from an existing network who match the ideal customer profile. Gift cards and paid advisory roles can make participation worthwhile; Adam says he has used advisory roles for director-level and more junior people.",
+      "start_timestamp": "00:02:07",
+      "end_timestamp": "00:03:00",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "The gift-card example belongs to Distribute. Adam's advisory-role experience has no company, date, cost or result attached."
+    },
+    {
+      "claim": "Use industry gatherings for face-to-face concept validation: show a simple drawing, ask whether someone would buy, and ask what would need to change. Adam's Chili Piper anecdote also emphasizes seeking influential participants.",
+      "start_timestamp": "00:03:03",
+      "end_timestamp": "00:03:43",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "This is Adam's account of another founder's approach. The captioned name 'Alina Vanderberg' is uncertain, and the method for identifying influence is anecdotal."
+    },
+    {
+      "claim": "Open discovery with a clear, differentiated one-sentence proposition. Then establish whether the prospect understands and experiences the problem, how they solve it now, whether they would pay immediately, what is missing and whether the proposed price works.",
+      "start_timestamp": "00:03:45",
+      "end_timestamp": "00:04:37",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "RB2B's person-level identification is his positioning example. His assertion that only company-level identification preceded it is an unverified market-history claim."
+    },
+    {
+      "claim": "Constrain the MVP to the core value proposition, using four to six weeks as a scope check. Perform work manually when possible so the team can reach customers earlier and learn before automating.",
+      "start_timestamp": "00:04:39",
+      "end_timestamp": "00:05:20",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "The delivery timeline and claimed iteration advantage are heuristics, not demonstrated universal limits. RB2B's five months of spreadsheet delivery is a separate self-reported example."
+    },
+    {
+      "claim": "Adam gates growth investment on three product-market-fit signals: at least one weekly referral from paying customers, customers who would be upset to lose the product, and organic growth without marketing.",
+      "start_timestamp": "00:05:22",
+      "end_timestamp": "00:05:48",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "He presents all three as necessary. The transcript does not establish these as a validated definition across products, markets or customer volumes."
+    },
+    {
+      "claim": "Look for unsolicited word of mouth as concrete evidence of demand: customer posts, public enthusiasm, referred prospects and customer-created content that produces signups.",
+      "start_timestamp": "00:05:50",
+      "end_timestamp": "00:06:15",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "His additional expectation of exponential growth without intervention is stronger than the observable signals and is not supported with a growth series."
+    },
+    {
+      "claim": "Start sharing the building journey on LinkedIn from day one, including wins, failures and pivots. Adam considers inbound website visits, ICP connection requests and product-related DMs useful signs that awareness is developing.",
+      "start_timestamp": "00:06:17",
+      "end_timestamp": "00:07:09",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "He explicitly says steady inbound is helpful but not required to advance. His attribution of RB2B's launch results to content is self-reported, without isolation of other causes."
+    },
+    {
+      "claim": "After product-market fit, combine content, outreach and retargeting: content generates awareness and traffic, outreach engages warm visitors, and retargeting revisits people who were not ready to buy.",
+      "start_timestamp": "00:07:12",
+      "end_timestamp": "00:07:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He calls this the magic triangle and warns that activating it too early wastes money. He restates the referral threshold here but previously required three signals."
+    },
+    {
+      "claim": "Design channels to compensate for one another's limitations. Adam argues that content alone takes too long, standalone cold outreach converts poorly, and retargeting depends on an audience already reached.",
+      "start_timestamp": "00:07:49",
+      "end_timestamp": "00:08:13",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "His categorical language about cold email is qualified later by his recommendation to continue narrowly targeted cold outreach."
+    },
+    {
+      "claim": "Use a founder's personal LinkedIn profile as a recurring source of awareness and familiarity. Adam recommends publishing at least three times weekly for his combined-channel approach.",
+      "start_timestamp": "00:08:15",
+      "end_timestamp": "00:08:43",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "Claims that this is the fastest startup growth route and that personal profiles grow ten times faster than company pages are unsourced."
+    },
+    {
+      "claim": "Adam describes his own content themes as transparent building updates, the future of go-to-market and contrarian bootstrapping-versus-VC views. He advises founders to identify their own themes and consistently reinforce a clear identity.",
+      "start_timestamp": "00:08:45",
+      "end_timestamp": "00:09:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "These are self-described content themes, not approval of a formal voice, mission or replacement wiki taxonomy. His claim that large companies cannot communicate this way is a generalization."
+    },
+    {
+      "claim": "Split outbound targeting between carefully selected ICP accounts and people who have visited the website. Adam says his team uses Apollo to find founders and marketers at SaaS companies with 5–200 employees and contacts three people per company.",
+      "start_timestamp": "00:09:50",
+      "end_timestamp": "00:10:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "This describes his team's targeting at the time of the video, not a universal ICP. The visitor-identification discussion promotes RB2B and does not establish identification coverage or accuracy."
+    },
+    {
+      "claim": "Adam treats sending infrastructure and email validation as prerequisites for scaled email outreach. He describes rotating many domains, using two inboxes per domain and sending two to ten emails per inbox daily, while validating addresses before sequences.",
+      "start_timestamp": "00:10:34",
+      "end_timestamp": "00:11:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "This records his prescription, not verified deliverability guidance or proof of his actual sending volume. The captioned sending tool 'Smartly' may be misheard. No controlled inbox-placement results are supplied."
+    },
+    {
+      "claim": "Keep outbound email concise: state the problem solved and provide a clear call to action.",
+      "start_timestamp": "00:11:21",
+      "end_timestamp": "00:11:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He introduces an RB2B example, but the supplied captions do not include its copy. Any on-screen example is outside the reviewed material."
+    },
+    {
+      "claim": "Use the same ICP and visitor lists for LinkedIn outreach. Adam recommends starting with 10–20 connection requests daily, potentially increasing to 50, and sending requests without attached messages.",
+      "start_timestamp": "00:11:30",
+      "end_timestamp": "00:12:04",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "These are suggested activity levels, not verified platform limits. His near-100% visitor acceptance claim lacks a sample, period and measurement method."
+    },
+    {
+      "claim": "After a prospect accepts a connection request, wait for a like or comment and use that engagement to start a conversational DM. If no engagement occurs after 60 days, send a gentle check-in.",
+      "start_timestamp": "00:12:06",
+      "end_timestamp": "00:12:36",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "The claimed response rate above 60% applies to engagement-triggered messages as described, not all DMs. No dataset or measurement window is provided."
+    },
+    {
+      "claim": "Adam uses LinkedIn messaging to establish rapport and earn a sales call. He advises against pitching in the first message.",
+      "start_timestamp": "00:12:36",
+      "end_timestamp": "00:12:49",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "His absolute instruction never to sell on LinkedIn is best read in the context of this relationship-to-call workflow, not as an established rule for every sales motion."
+    },
+    {
+      "claim": "Automation can support connection requests and follow-up sequences, but Adam cautions about account warnings and possible bans.",
+      "start_timestamp": "00:12:52",
+      "end_timestamp": "00:13:03",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Earlier, at 00:11:40–00:11:51, he explicitly says he does not know what follows a warning and speculates about shadowbanning. Tool names and platform limits are not verified."
+    },
+    {
+      "claim": "Reach the same prospects through email, connection requests and LinkedIn content to build familiarity and accommodate different communication preferences.",
+      "start_timestamp": "00:13:05",
+      "end_timestamp": "00:13:24",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "The claimed combined-channel advantage is a strategic rationale; the transcript provides no incremental conversion or attribution analysis."
+    },
+    {
+      "claim": "Use website audiences for retargeting and supplement them with customer-based lookalikes and matched prospect-list audiences across advertising platforms.",
+      "start_timestamp": "00:13:26",
+      "end_timestamp": "00:13:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He groups retargeting and audience-expansion tactics together, although lookalikes can reach new people. Platform capabilities and audience eligibility are not verified."
+    },
+    {
+      "claim": "For ads, Adam says he follows Russell Brunson's sequence of identifying the seller, the offer, the reason to buy and the way to obtain it. He generally uses informal selfie videos and says phone recordings perform best for him.",
+      "start_timestamp": "00:13:49",
+      "end_timestamp": "00:14:11",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Performance is self-reported without a metric, campaign period, spend level or comparison set."
+    },
+    {
+      "claim": "The closing product pitch frames visitor identification as a way to contact prospects while their interest is recent, with LinkedIn profiles delivered to Slack.",
+      "start_timestamp": "00:14:15",
+      "end_timestamp": "00:14:30",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "This is RB2B promotional positioning at publication. The transcript does not establish actual delivery latency, identification coverage or conversion outcomes."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Adam introduces himself as having built three software companies with more than 35 million in combined ARR.",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:00:12",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "The companies, currency, measurement date and whether all ARR figures are contemporaneous are unspecified. This establishes only his stated track record."
+    },
+    {
+      "claim": "Adam says he has recruited people within his ICP into paid advisory roles to obtain access to customer insight.",
+      "start_timestamp": "00:02:52",
+      "end_timestamp": "00:03:00",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "No timing, company, compensation or outcome is given; this is a concrete reported practice rather than a complete origin story."
+    },
+    {
+      "claim": "RB2B deliberately delivered spreadsheets by email for five months before putting up a website. Adam says the team could have automated but chose manual delivery to stay close to customers.",
+      "start_timestamp": "00:04:49",
+      "end_timestamp": "00:05:12",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "This supports a source-specific preference for early customer proximity and learning. Exact dates and the relationship between this phase and formal launch are not supplied."
+    },
+    {
+      "claim": "Adam says he spent months building publicly on LinkedIn before RB2B launched and credits that work with creating launch demand.",
+      "start_timestamp": "00:06:49",
+      "end_timestamp": "00:07:09",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "The number of prelaunch months is unspecified; the causal connection to revenue is his interpretation of his experience."
+    },
+    {
+      "claim": "Adam explicitly identifies himself as a bootstrapper and advocates taking as little outside money as possible during the company-building journey.",
+      "start_timestamp": "00:08:59",
+      "end_timestamp": "00:09:07",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "This expresses a funding preference, not proof that every company he built took no outside capital. No financing history or exceptions are discussed."
+    },
+    {
+      "claim": "Adam says his public content includes real numbers, failures and wins, and attributes its effectiveness to honesty and vulnerability.",
+      "start_timestamp": "00:08:45",
+      "end_timestamp": "00:09:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "This is his self-description in this source, not independent verification of complete transparency or an approved writing-voice specification."
+    },
+    {
+      "claim": "Adam says he built RB2B to identify website visitors so outreach could follow demonstrated interest.",
+      "start_timestamp": "00:10:12",
+      "end_timestamp": "00:10:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "This is a stated product motivation within a sales pitch, not a comprehensive account of the company's founding."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Adam's software-company portfolio: three companies and more than 35 million combined ARR, presented as his track record by publication.",
+      "start_timestamp": "00:00:05",
+      "end_timestamp": "00:00:12",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Unverified self-report. Currency, constituent companies and as-of date are absent; ARR is not cumulative revenue, profit or cash."
+    },
+    {
+      "claim": "Playbook target: progress from zero users to more than 1,000 paying customers; the closing section again refers to acquiring the first thousand customers.",
+      "start_timestamp": "00:00:18",
+      "end_timestamp": "00:00:26",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "A promised scope or target, not an achieved customer-count metric. The opening caption renders the number as 'a,000'; the wording at 00:14:08–00:14:13 supports the thousand-customer interpretation. No achievement date is stated."
+    },
+    {
+      "claim": "General startup benchmark asserted by Adam: 90% fail to reach 1 million ARR; he associates failure with building for 12–18 months before speaking to customers.",
+      "start_timestamp": "00:00:30",
+      "end_timestamp": "00:01:06",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Unsourced external statistic and causal explanation. No cohort, geography, observation period or currency is provided; this is not Adam-company performance."
+    },
+    {
+      "claim": "BarkBox historical anecdote: Adam places the concept test in 2010 and describes a proposed monthly delivery of five large dog toys for $29, with 50 paid purchases on the first day before a website existed.",
+      "start_timestamp": "00:01:23",
+      "end_timestamp": "00:02:05",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Third-party comparison reported by Adam, not a guest statement or Adam achievement. Founder name is captioned 'Matt Mer.' Dates, offer details and purchase count are unverified; his accompanying 'pre-Amazon Prime' and 'pre-e-commerce' chronology is questionable."
+    },
+    {
+      "claim": "Distribute outreach example: approximately 4,000 active users, with positioning of three times cheaper and ten times more user-friendly than named competitors; discovery participation is compensated with a $100 gift card.",
+      "start_timestamp": "00:02:17",
+      "end_timestamp": "00:02:50",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Adam relays another founder's message. Active users are not paying customers; the message date and activity window are unknown. Price and usability comparisons are marketing assertions. Name is captioned 'Andy Muborn' and may be misheard."
+    },
+    {
+      "claim": "Chili Piper comparison: Adam says the company is now at approximately 40 million ARR.",
+      "start_timestamp": "00:03:03",
+      "end_timestamp": "00:03:11",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Third-party figure reported by Adam, not independently verified or stated by a guest. 'Now' refers to the recording context, whose exact date is unknown; currency is unspecified."
+    },
+    {
+      "claim": "RB2B historical operating duration: five full months of emailing spreadsheets manually before putting up a website.",
+      "start_timestamp": "00:04:49",
+      "end_timestamp": "00:05:02",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Self-reported duration with no calendar dates. It does not establish staffing, contractor use, customer count or time to formal launch."
+    },
+    {
+      "claim": "Manual-MVP comparison: Adam claims manual work can allow ten-times-faster iteration and market entry months earlier than competitors prioritizing automation.",
+      "start_timestamp": "00:05:02",
+      "end_timestamp": "00:05:20",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Rhetorical performance comparison with no defined unit of iteration, baseline, measurement period or company-specific result."
+    },
+    {
+      "claim": "RB2B launch demand: a 1,600-person waitlist and 300 meetings booked with high-value customers for discovery by launch.",
+      "start_timestamp": "00:06:49",
+      "end_timestamp": "00:07:04",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Historical self-report. Launch date is absent; waitlist members are not paid customers, booked meetings are not completed calls, and 'high-value' has no numerical definition."
+    },
+    {
+      "claim": "RB2B historical revenue milestone: 1 million ARR reached within six weeks after launch.",
+      "start_timestamp": "00:07:04",
+      "end_timestamp": "00:07:09",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Self-reported ARR, not revenue collected during six weeks. Currency, launch date and ARR calculation method are unspecified. His credit to early content does not quantify other acquisition sources."
+    },
+    {
+      "claim": "LinkedIn comparison: personal profiles allegedly grow ten times faster than company pages and generate exponentially greater engagement.",
+      "start_timestamp": "00:08:15",
+      "end_timestamp": "00:08:35",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "Unsourced general claim, not Adam's measured account performance. Growth metric, baseline, population and period are undefined."
+    },
+    {
+      "claim": "Adam's team's stated outbound targeting parameters: founders and marketers at SaaS companies with 5–200 employees, reaching three people per company.",
+      "start_timestamp": "00:10:00",
+      "end_timestamp": "00:10:12",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Presented as current practice in the recording. The employee range describes target accounts, not RB2B headcount; it does not distinguish target-company FTEs from contractors."
+    },
+    {
+      "claim": "Proposed scaled-email configuration: hundreds of domains, two inboxes per domain and two to ten emails per inbox per day.",
+      "start_timestamp": "00:10:34",
+      "end_timestamp": "00:11:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Recommended operating parameters rather than a verified report of deployed infrastructure or actual daily sends. No deliverability measurements accompany them."
+    },
+    {
+      "claim": "LinkedIn connection benchmark asserted by Adam: acceptance of message-free requests to website visitors is near 100%.",
+      "start_timestamp": "00:11:51",
+      "end_timestamp": "00:12:04",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "No sample size, campaign dates or company attribution. He also says recognition from founder content improves acceptance, making the claim conditional on audience familiarity."
+    },
+    {
+      "claim": "Engagement-triggered LinkedIn DM benchmark: response rates are usually above 60% after the recipient likes or comments on content.",
+      "start_timestamp": "00:12:06",
+      "end_timestamp": "00:12:24",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "An asserted benchmark without a sample or period; responses are not booked meetings or sales. The claim is specifically tied to recent engagement."
+    },
+    {
+      "claim": "RB2B offer at recording: a free starting option, with setup described as taking a couple of minutes.",
+      "start_timestamp": "00:14:15",
+      "end_timestamp": "00:14:30",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Promotional offer and approximate setup claim as presented in a video published December 31, 2025. Free-tier scope, prerequisites and actual installation times are not supplied."
+    }
+  ],
+  "tensions_and_corrections": [
+    "The title frames the advice for 2026, while publication is December 31, 2025. The recording date and dates of the historical business events are unspecified.",
+    "The title says 1,000+ users, while the opening speaks about paying customers. Neither passage documents an achieved 1,000-customer cohort; the number defines the playbook's intended destination.",
+    "Adam initially requires all three product-market-fit signals, then emphasizes one weekly paying-customer referral when introducing the next phase. The later shorthand should not silently replace the earlier three-part condition.",
+    "He recommends posting from day one and conducting discovery outreach before product-market fit, while reserving the coordinated growth system for afterward. The phase boundary concerns scaling the combined system, not eliminating every early content or outreach activity.",
+    "He calls standalone cold email essentially dead but later prescribes ICP-specific cold email. His operational position distinguishes undifferentiated or isolated outreach from targeted outreach reinforced by content and other channels.",
+    "Prepayment is introduced as the strongest validation standard, but several discovery questions ask only about hypothetical willingness to pay. Positive answers are not equivalent to the paid commitments he initially requires.",
+    "The BarkBox retelling places the event in 2010 and describes that period as preceding Amazon Prime and e-commerce. This chronology is questionable and remains unverified rather than silently repaired.",
+    "Automatic captions may mishear names including 'Matt Mer,' 'Andy Muborn,' 'Alina Vanderberg,' 'Smartly' and 'Log Growth Machine'; one reference to RB2B appears as 'RBDB.' No external identity verification was performed.",
+    "He acknowledges uncertainty about the consequences of LinkedIn automation warnings, later warns of permanent bans, and still recommends automation tools. Preserve both the recommendation and his uncertainty; the suggested daily request counts are not verified platform rules.",
+    "He describes retargeting as reaching people already familiar with the business, then includes lookalike audiences that expand reach. His implementation groups existing-audience follow-up with acquisition tactics.",
+    "Large numerical claims such as ten-times-faster iteration, ten-times-faster profile growth, near-100% connection acceptance and above-60% DM responses lack measurement details. They should remain attributed claims, not wiki-verified benchmarks.",
+    "The source contains no directly conflicting pair of measured company results. The combined ARR headline cannot be reconciled with company-level history because the companies and measurement dates are unspecified.",
+    "RB2B appears both as supporting evidence and as the product promoted in repeated calls to action. Recommendations are commercially interested and do not establish comparative product superiority.",
+    "No explicit change of mind is narrated. Switching email tools based on what performs better is reported operational adaptation, not a documented reversal of strategy."
+  ],
+  "reusable_topics": [
+    "Prepayment as a stronger discovery signal than polite interest",
+    "Recruiting ICP participants through networks, incentives and advisory roles",
+    "Testing product concepts with mockups and in-person conversations",
+    "A discovery sequence covering pain, alternatives, missing requirements and price",
+    "Manual delivery as an early customer-learning practice",
+    "RB2B's five-month spreadsheet phase",
+    "Word of mouth as Adam's product-market-fit gate",
+    "Building a prelaunch audience through public progress updates",
+    "RB2B's waitlist, discovery bookings and six-week ARR milestone",
+    "Sequencing validation before coordinated acquisition spending",
+    "How content, outreach and retargeting reinforce one another",
+    "Founder content themes and a preference for minimal outside capital",
+    "ICP targeting versus following up with website visitors",
+    "Email infrastructure claims and their evidence limitations",
+    "Engagement-triggered LinkedIn conversations",
+    "Using LinkedIn rapport to earn a sales call",
+    "Automation convenience alongside acknowledged account risk",
+    "Coordinating email and LinkedIn touches",
+    "Retargeting, matched audiences and lookalike expansion",
+    "Informal phone-video ads using a four-question offer framework"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:14:35",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript through its final caption; no audio, video, on-screen examples, external sources or local files were consulted.",
+      "Metadata lists a duration of 878 seconds; the final supplied caption begins at 875 seconds. No additional spoken material was supplied for the remaining seconds.",
+      "Speaker identification is contextual because automatic captions are not diarized.",
+      "Company achievements and personal practices are self-reported; third-party examples and broad industry benchmarks are unverified.",
+      "Historical milestones generally lack calendar dates, and the opening combined ARR figure lacks a precise measurement period and currency.",
+      "No staffing, FTE, contractor, profit, cash or financing-amount metrics are supplied.",
+      "This extraction supports internal wiki research only. Public accessibility does not establish clearance to reuse the material in new public copy."
+    ]
+  }
+}

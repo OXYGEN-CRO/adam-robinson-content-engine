@@ -1,0 +1,48 @@
+import * as React from "react";
+import { Audio, Sequence, staticFile } from "remotion";
+import { SCRIPT, audioPath } from "./script";
+import { TIMINGS } from "./timings";
+import { SFX, sfxPath } from "./sfx";
+import { MUSIC, musicPath } from "./music";
+
+/**
+ * Combined audio track for the launch video:
+ *   - Music: single low-volume bed under the entire composition
+ *   - Narration: sequential per-beat clips (cumulative offsets)
+ *   - SFX: each clip at its anchored frame
+ */
+export function SoundDesign() {
+  let cumulative = 0;
+  const narration = SCRIPT.map((beat) => {
+    const t = TIMINGS[beat.id];
+    if (!t || t.durationFrames === 0) return null;
+    const from = cumulative;
+    cumulative += t.durationFrames;
+    return (
+      <Sequence key={`narr-${beat.id}`} from={from} durationInFrames={t.durationFrames}>
+        <Audio src={staticFile(audioPath(beat.id))} />
+      </Sequence>
+    );
+  });
+
+  return (
+    <>
+      {/* Background music — low volume bed across the whole composition */}
+      <Audio src={staticFile(musicPath())} volume={MUSIC.volume} />
+
+      {/* Narration */}
+      {narration}
+
+      {/* Sound effects — each anchored to a specific visual moment */}
+      {SFX.map((clip) => (
+        <Sequence
+          key={`sfx-${clip.id}`}
+          from={clip.fromFrame}
+          durationInFrames={Math.ceil(clip.durationSeconds * 30) + 8}
+        >
+          <Audio src={staticFile(sfxPath(clip.id))} volume={clip.volume ?? 0.6} />
+        </Sequence>
+      ))}
+    </>
+  );
+}

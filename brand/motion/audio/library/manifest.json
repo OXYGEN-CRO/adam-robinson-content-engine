@@ -1,0 +1,187 @@
+{
+  "captured_at": "2026-09-08T09:18:05.679740+00:00",
+  "source_repository": "/Users/timscheuer/oxygen-knowledge",
+  "source_head": "9edc7ae5e4ffab76d725e568de19c7fd04cffd99",
+  "commit_note": "Observed repository HEAD; per-file hashes identify the actual working-tree bytes copied.",
+  "purpose": "Candidates for the MoltSets launch film; not a new sonic identity.",
+  "assets": [
+    {
+      "id": "electronic-underscore",
+      "kind": "music",
+      "file": "brand/motion/audio/library/music/electronic-underscore.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/music/background.mp3",
+      "sha256": "ac6edb682817ef696109622946afbc498de70e1bfe663145c6fa1b9368d2cd68",
+      "bytes": 637013,
+      "measured_duration_seconds": 39.78,
+      "sample_peak_dbfs": -1.9,
+      "role": "Modern electronic pulse; primary candidate for the reveal and demo.",
+      "original_generation_metadata": {
+        "hash": "347240972380bdf6",
+        "durationSeconds": 39.811,
+        "generatedAt": "2026-04-27T13:54:01.431Z"
+      },
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    },
+    {
+      "id": "ambient-underscore",
+      "kind": "music",
+      "file": "brand/motion/audio/library/music/ambient-underscore.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/linkedin-sequencer-music/background.mp3",
+      "sha256": "68588aa7166f0fa9a2d94e778c38d9297962463e5970a6dc0f317645343894ed",
+      "bytes": 449350,
+      "measured_duration_seconds": 28.06,
+      "sample_peak_dbfs": -8.9,
+      "role": "Sparse ambient alternative; calmer and shorter.",
+      "original_generation_metadata": {
+        "hash": "c621346307ce1353",
+        "durationSeconds": 28.082,
+        "generatedAt": "2026-06-07T20:09:37.395Z"
+      },
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    },
+    {
+      "id": "typing",
+      "kind": "sfx",
+      "file": "brand/motion/audio/library/sfx/typing.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/sfx/typing.mp3",
+      "sha256": "05a722fdc8e1268594ed6b2a8de7bd6a4f60577eee4f01c039a3f47a602e162c",
+      "bytes": 24703,
+      "measured_duration_seconds": 1.52,
+      "sample_peak_dbfs": -6.9,
+      "role": "Visible prompt typing.",
+      "original_generation_metadata": {
+        "hash": "760750a3207ed360",
+        "durationSeconds": 1.541,
+        "generatedAt": "2026-04-25T16:41:41.037Z"
+      },
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    },
+    {
+      "id": "send-click",
+      "kind": "sfx",
+      "file": "brand/motion/audio/library/sfx/send-click.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/sfx/send-click.mp3",
+      "sha256": "f939f4dc26829b2a04e0a2bdb74a2588298105ab44c97231a2c33920ca5f8c48",
+      "bytes": 8821,
+      "measured_duration_seconds": 0.52,
+      "sample_peak_dbfs": -26.2,
+      "role": "Prompt submission.",
+      "original_generation_metadata": {
+        "hash": "f079e3b6d68a0e43",
+        "durationSeconds": 0.549,
+        "generatedAt": "2026-04-25T16:36:30.384Z"
+      },
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    },
+    {
+      "id": "success-chime",
+      "kind": "sfx",
+      "file": "brand/motion/audio/library/sfx/success-chime.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/sfx/enroll-click.mp3",
+      "sha256": "2b7affe51f33b37cf30a06fcb757cd2d9145ae7e0eb078c846adef72982a5539",
+      "bytes": 20106,
+      "measured_duration_seconds": 1.23,
+      "sample_peak_dbfs": -18.5,
+      "role": "Actual output confirmation.",
+      "original_generation_metadata": {
+        "hash": "8f697809a3a29ea3",
+        "durationSeconds": 1.254,
+        "generatedAt": "2026-04-25T16:36:31.886Z"
+      },
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    },
+    {
+      "id": "selection-tick",
+      "kind": "sfx",
+      "file": "brand/motion/audio/library/sfx/selection-tick.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/sfx/row-click.mp3",
+      "sha256": "962db36c4415b440718ae395dcbe0417112767319e4d7823a35cdf3067b8128a",
+      "bytes": 8821,
+      "measured_duration_seconds": 0.52,
+      "sample_peak_dbfs": -3.5,
+      "role": "Selection or credit-counting motif.",
+      "original_generation_metadata": {
+        "hash": "3a594a22b12c7480",
+        "durationSeconds": 0.549,
+        "generatedAt": "2026-04-25T16:36:35.359Z"
+      },
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    },
+    {
+      "id": "landing-tone",
+      "kind": "sfx",
+      "file": "brand/motion/audio/library/sfx/landing-tone.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/sfx/congrats-pop.mp3",
+      "sha256": "ee40ee4659530129cf4d76251134aa128d1f712e75dc62de34df33528250faf5",
+      "bytes": 26793,
+      "measured_duration_seconds": 1.65,
+      "sample_peak_dbfs": -12.9,
+      "role": "Optional CTA landing.",
+      "original_generation_metadata": {
+        "hash": "4cf1944242f5c150",
+        "durationSeconds": 1.672,
+        "generatedAt": "2026-04-25T16:36:37.597Z"
+      },
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    },
+    {
+      "id": "short-whoosh",
+      "kind": "sfx",
+      "file": "brand/motion/audio/library/sfx/short-whoosh.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/sfx-shorts/whoosh.mp3",
+      "sha256": "023d0226dc40967e30be645af0b360ddc6ebe9534ed80cedd38055ed7175edc0",
+      "bytes": 10493,
+      "measured_duration_seconds": 0.63,
+      "sample_peak_dbfs": 0.0,
+      "role": "Short scene transition.",
+      "original_generation_metadata": null,
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    },
+    {
+      "id": "short-riser",
+      "kind": "sfx",
+      "file": "brand/motion/audio/library/sfx/short-riser.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/sfx-shorts/riser.mp3",
+      "sha256": "fc6e7e9e7a7236ac70f144826138c7193943d6648a17dd31b3b74c81e53e52bd",
+      "bytes": 26793,
+      "measured_duration_seconds": 1.65,
+      "sample_peak_dbfs": -0.0,
+      "role": "Restrained pre-reveal tension.",
+      "original_generation_metadata": null,
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    },
+    {
+      "id": "short-impact",
+      "kind": "sfx",
+      "file": "brand/motion/audio/library/sfx/short-impact.mp3",
+      "source_file": "/Users/timscheuer/oxygen-knowledge/gtm-production/brand/motion/audio/sfx-shorts/impact.mp3",
+      "sha256": "590416676790d94516b7afbad8413d90fb848f6e998487e85cf8035bbcb86a88",
+      "bytes": 8821,
+      "measured_duration_seconds": 0.52,
+      "sample_peak_dbfs": -0.0,
+      "role": "Reveal accent; audition for phone playback.",
+      "original_generation_metadata": null,
+      "provider_attribution": "ElevenLabs, according to the source workflow and/or shorts-kit notes",
+      "rights_status": "Imported from owner-specified local repository; source files do not record the generating account or its commercial-use entitlement. Retain status until public-master selection.",
+      "audition_status": "Decoded and measured; not listened to in this planning pass."
+    }
+  ]
+}

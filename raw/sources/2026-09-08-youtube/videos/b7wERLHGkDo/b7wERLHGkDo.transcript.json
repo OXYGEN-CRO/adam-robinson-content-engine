@@ -1,0 +1,1679 @@
+{
+  "video_id": "b7wERLHGkDo",
+  "title": "I Let AI Run My $6M/yr SaaS For 7 Days (Here’s What Happened)",
+  "url": "https://www.youtube.com/watch?v=b7wERLHGkDo",
+  "upload_date": "20251010",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:41:43.010200+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/b7wERLHGkDo/b7wERLHGkDo.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 0,
+      "duration_ms": 5640,
+      "text": "Last month my entire team disappeared"
+    },
+    {
+      "start_ms": 2600,
+      "duration_ms": 5200,
+      "text": "for seven straight days and I let AI run"
+    },
+    {
+      "start_ms": 5640,
+      "duration_ms": 4480,
+      "text": "our entire 6 million ARR business with"
+    },
+    {
+      "start_ms": 7800,
+      "duration_ms": 3960,
+      "text": "zero human intervention. No one has ever"
+    },
+    {
+      "start_ms": 10120,
+      "duration_ms": 3600,
+      "text": "attempted this with a SaaS company over"
+    },
+    {
+      "start_ms": 11760,
+      "duration_ms": 4080,
+      "text": "5 million in ARR, so we're literally"
+    },
+    {
+      "start_ms": 13720,
+      "duration_ms": 4680,
+      "text": "making history here. Now, you might be"
+    },
+    {
+      "start_ms": 15840,
+      "duration_ms": 5000,
+      "text": "thinking that this sounds insane, but AI"
+    },
+    {
+      "start_ms": 18400,
+      "duration_ms": 5000,
+      "text": "had already been handling 85% of our"
+    },
+    {
+      "start_ms": 20840,
+      "duration_ms": 4680,
+      "text": "customer interactions across 60,000"
+    },
+    {
+      "start_ms": 23400,
+      "duration_ms": 4520,
+      "text": "users with just three people on our"
+    },
+    {
+      "start_ms": 25520,
+      "duration_ms": 4440,
+      "text": "team. I am Adam Robinson, founder of"
+    },
+    {
+      "start_ms": 27920,
+      "duration_ms": 4480,
+      "text": "RBTB, and in this video I'm going to"
+    },
+    {
+      "start_ms": 29960,
+      "duration_ms": 4120,
+      "text": "show you exactly how we completely"
+    },
+    {
+      "start_ms": 32400,
+      "duration_ms": 3960,
+      "text": "automated our business with AI"
+    },
+    {
+      "start_ms": 34080,
+      "duration_ms": 4240,
+      "text": "step-by-step so that you can just copy"
+    },
+    {
+      "start_ms": 36360,
+      "duration_ms": 3760,
+      "text": "our systems. Plus, I'll reveal what"
+    },
+    {
+      "start_ms": 38320,
+      "duration_ms": 3800,
+      "text": "happened during our week-long AI"
+    },
+    {
+      "start_ms": 40120,
+      "duration_ms": 4120,
+      "text": "experiment at the end. But before I"
+    },
+    {
+      "start_ms": 42120,
+      "duration_ms": 4280,
+      "text": "explain exactly how we set this up, if"
+    },
+    {
+      "start_ms": 44240,
+      "duration_ms": 4320,
+      "text": "you want to get our in-depth six-day"
+    },
+    {
+      "start_ms": 46400,
+      "duration_ms": 4560,
+      "text": "free email series and how we trained our"
+    },
+    {
+      "start_ms": 48560,
+      "duration_ms": 4400,
+      "text": "AI agents, then click the first link in"
+    },
+    {
+      "start_ms": 50960,
+      "duration_ms": 4640,
+      "text": "the description and now back to the"
+    },
+    {
+      "start_ms": 52960,
+      "duration_ms": 4880,
+      "text": "video. So, there's two AI tools that"
+    },
+    {
+      "start_ms": 55600,
+      "duration_ms": 4960,
+      "text": "handle the entirety of our customer"
+    },
+    {
+      "start_ms": 57840,
+      "duration_ms": 5520,
+      "text": "interaction. The first is called Delphi"
+    },
+    {
+      "start_ms": 60560,
+      "duration_ms": 4880,
+      "text": "AI and it handles everything before the"
+    },
+    {
+      "start_ms": 63360,
+      "duration_ms": 4960,
+      "text": "sign-up. Delphi allows me to create a"
+    },
+    {
+      "start_ms": 65440,
+      "duration_ms": 4680,
+      "text": "clone of myself that prospects can talk"
+    },
+    {
+      "start_ms": 68320,
+      "duration_ms": 3360,
+      "text": "to when they're browsing our marketing"
+    },
+    {
+      "start_ms": 70120,
+      "duration_ms": 4040,
+      "text": "site. It's perfect for our"
+    },
+    {
+      "start_ms": 71680,
+      "duration_ms": 4480,
+      "text": "influencer-led sales motion because most"
+    },
+    {
+      "start_ms": 74160,
+      "duration_ms": 4080,
+      "text": "of our leads come from my personal brand"
+    },
+    {
+      "start_ms": 76160,
+      "duration_ms": 3480,
+      "text": "on LinkedIn. People see me on LinkedIn,"
+    },
+    {
+      "start_ms": 78240,
+      "duration_ms": 4240,
+      "text": "they come to our website, and then they"
+    },
+    {
+      "start_ms": 79640,
+      "duration_ms": 4720,
+      "text": "can ask me questions. It answers around"
+    },
+    {
+      "start_ms": 82480,
+      "duration_ms": 3760,
+      "text": "a thousand questions per month from our"
+    },
+    {
+      "start_ms": 84360,
+      "duration_ms": 4040,
+      "text": "prospects, and it's got limited"
+    },
+    {
+      "start_ms": 86240,
+      "duration_ms": 4120,
+      "text": "reporting, but it works great for these"
+    },
+    {
+      "start_ms": 88400,
+      "duration_ms": 4440,
+      "text": "pre-sales conversations where the"
+    },
+    {
+      "start_ms": 90360,
+      "duration_ms": 3840,
+      "text": "questions are mostly the same. Now,"
+    },
+    {
+      "start_ms": 92840,
+      "duration_ms": 3400,
+      "text": "after the sign-up, it's something"
+    },
+    {
+      "start_ms": 94200,
+      "duration_ms": 4160,
+      "text": "different. Intercom Finn handles"
+    },
+    {
+      "start_ms": 96240,
+      "duration_ms": 4560,
+      "text": "everything after people create a free"
+    },
+    {
+      "start_ms": 98360,
+      "duration_ms": 4280,
+      "text": "account. Intercom can see customer data"
+    },
+    {
+      "start_ms": 100800,
+      "duration_ms": 4160,
+      "text": "that we're streaming to it directly from"
+    },
+    {
+      "start_ms": 102640,
+      "duration_ms": 4200,
+      "text": "our app. So, Finn knows what plan a"
+    },
+    {
+      "start_ms": 104960,
+      "duration_ms": 3600,
+      "text": "person's on, if they're out of credits,"
+    },
+    {
+      "start_ms": 106840,
+      "duration_ms": 4200,
+      "text": "and what their account status is. It"
+    },
+    {
+      "start_ms": 108560,
+      "duration_ms": 5320,
+      "text": "answers with specific context instead of"
+    },
+    {
+      "start_ms": 111040,
+      "duration_ms": 4920,
+      "text": "giving generic sort of like AI responses"
+    },
+    {
+      "start_ms": 113880,
+      "duration_ms": 4160,
+      "text": "that everybody hates. Finn also answers"
+    },
+    {
+      "start_ms": 115960,
+      "duration_ms": 5200,
+      "text": "around a thousand support tickets per"
+    },
+    {
+      "start_ms": 118040,
+      "duration_ms": 5440,
+      "text": "month and it's currently resolving 75%"
+    },
+    {
+      "start_ms": 121160,
+      "duration_ms": 4360,
+      "text": "of support tickets without any human"
+    },
+    {
+      "start_ms": 123480,
+      "duration_ms": 3960,
+      "text": "help. So, you might be asking yourself,"
+    },
+    {
+      "start_ms": 125520,
+      "duration_ms": 3599,
+      "text": "why do you guys use two different tools"
+    },
+    {
+      "start_ms": 127440,
+      "duration_ms": 4000,
+      "text": "instead of keeping it all in one place?"
+    },
+    {
+      "start_ms": 129119,
+      "duration_ms": 4641,
+      "text": "Well, the main reason is Delphi gives us"
+    },
+    {
+      "start_ms": 131440,
+      "duration_ms": 4440,
+      "text": "my personal clone capability that Finn"
+    },
+    {
+      "start_ms": 133760,
+      "duration_ms": 4880,
+      "text": "doesn't have. Finn is Finn and Delphi"
+    },
+    {
+      "start_ms": 135880,
+      "duration_ms": 5480,
+      "text": "becomes Adam Robinson, but Finn gives us"
+    },
+    {
+      "start_ms": 138640,
+      "duration_ms": 4840,
+      "text": "deep app integration that Delphi can't"
+    },
+    {
+      "start_ms": 141360,
+      "duration_ms": 4440,
+      "text": "match. If you only had to pick one and"
+    },
+    {
+      "start_ms": 143480,
+      "duration_ms": 4400,
+      "text": "you're not yourself an influencer, I"
+    },
+    {
+      "start_ms": 145800,
+      "duration_ms": 4880,
+      "text": "would go with Finn because being able to"
+    },
+    {
+      "start_ms": 147880,
+      "duration_ms": 5320,
+      "text": "see your actual customer data can make"
+    },
+    {
+      "start_ms": 150680,
+      "duration_ms": 5040,
+      "text": "all the difference to the AI response."
+    },
+    {
+      "start_ms": 153200,
+      "duration_ms": 5840,
+      "text": "So, what's crazy about RBTB is we have"
+    },
+    {
+      "start_ms": 155720,
+      "duration_ms": 6280,
+      "text": "60,000 users and all of the customers"
+    },
+    {
+      "start_ms": 159040,
+      "duration_ms": 4360,
+      "text": "get help from either me, Rob, or our AI."
+    },
+    {
+      "start_ms": 162000,
+      "duration_ms": 3320,
+      "text": "Tate's also on our team, he builds"
+    },
+    {
+      "start_ms": 163400,
+      "duration_ms": 4000,
+      "text": "everything, but Rob and I handle the"
+    },
+    {
+      "start_ms": 165320,
+      "duration_ms": 4120,
+      "text": "entire customer experience. I'm going to"
+    },
+    {
+      "start_ms": 167400,
+      "duration_ms": 4480,
+      "text": "share my screen and show you exactly how"
+    },
+    {
+      "start_ms": 169440,
+      "duration_ms": 4080,
+      "text": "the whole customer experience works."
+    },
+    {
+      "start_ms": 171880,
+      "duration_ms": 4560,
+      "text": "People usually start their customer"
+    },
+    {
+      "start_ms": 173520,
+      "duration_ms": 5800,
+      "text": "journey with RBTB by one of my posts"
+    },
+    {
+      "start_ms": 176440,
+      "duration_ms": 4200,
+      "text": "from LinkedIn landing in their feed. And"
+    },
+    {
+      "start_ms": 179320,
+      "duration_ms": 3640,
+      "text": "they'll usually read it, think it's"
+    },
+    {
+      "start_ms": 180640,
+      "duration_ms": 4800,
+      "text": "interesting, and then hit visit my"
+    },
+    {
+      "start_ms": 182960,
+      "duration_ms": 5040,
+      "text": "website. That takes them to rbtb.com"
+    },
+    {
+      "start_ms": 185440,
+      "duration_ms": 4720,
+      "text": "where they'll scroll the homepage, maybe"
+    },
+    {
+      "start_ms": 188000,
+      "duration_ms": 4400,
+      "text": "look at some product pages, and they'll"
+    },
+    {
+      "start_ms": 190160,
+      "duration_ms": 4520,
+      "text": "usually be left with some questions, in"
+    },
+    {
+      "start_ms": 192400,
+      "duration_ms": 5320,
+      "text": "which case they can talk to me, a clone"
+    },
+    {
+      "start_ms": 194680,
+      "duration_ms": 4840,
+      "text": "of me, and ask me either suggested"
+    },
+    {
+      "start_ms": 197720,
+      "duration_ms": 3160,
+      "text": "questions, can I get an RBTB demo, how"
+    },
+    {
+      "start_ms": 199520,
+      "duration_ms": 3960,
+      "text": "do plans and pricing work, or where can"
+    },
+    {
+      "start_ms": 200880,
+      "duration_ms": 5320,
+      "text": "I get SOC 2 docs, and it'll answer"
+    },
+    {
+      "start_ms": 203480,
+      "duration_ms": 6120,
+      "text": "enough of their questions or they could"
+    },
+    {
+      "start_ms": 206200,
+      "duration_ms": 4600,
+      "text": "type in like, you know, does this work"
+    },
+    {
+      "start_ms": 209600,
+      "duration_ms": 2560,
+      "text": "in"
+    },
+    {
+      "start_ms": 210800,
+      "duration_ms": 3400,
+      "text": "England."
+    },
+    {
+      "start_ms": 212160,
+      "duration_ms": 3680,
+      "text": "And I'm going to answer the questions"
+    },
+    {
+      "start_ms": 214200,
+      "duration_ms": 3280,
+      "text": "that they have, this is a clone of me,"
+    },
+    {
+      "start_ms": 215840,
+      "duration_ms": 3560,
+      "text": "to the point where they're ready to sign"
+    },
+    {
+      "start_ms": 217480,
+      "duration_ms": 4280,
+      "text": "up for a free trial. After they sign up"
+    },
+    {
+      "start_ms": 219400,
+      "duration_ms": 4880,
+      "text": "for a free trial, they'll be inside the"
+    },
+    {
+      "start_ms": 221760,
+      "duration_ms": 4520,
+      "text": "app and they will basically have the"
+    },
+    {
+      "start_ms": 224280,
+      "duration_ms": 3680,
+      "text": "ability to interact with our support,"
+    },
+    {
+      "start_ms": 226280,
+      "duration_ms": 2680,
+      "text": "which will help them get the script on"
+    },
+    {
+      "start_ms": 227960,
+      "duration_ms": 3960,
+      "text": "and get all their integrations"
+    },
+    {
+      "start_ms": 228960,
+      "duration_ms": 4720,
+      "text": "connected. And the support, for example,"
+    },
+    {
+      "start_ms": 231920,
+      "duration_ms": 3560,
+      "text": "how do I install the script on a Webflow"
+    },
+    {
+      "start_ms": 233680,
+      "duration_ms": 4840,
+      "text": "site? It's going to tell you, and this"
+    },
+    {
+      "start_ms": 235480,
+      "duration_ms": 5360,
+      "text": "is Finn answering this, exactly how you"
+    },
+    {
+      "start_ms": 238520,
+      "duration_ms": 8240,
+      "text": "install the script on a Webflow site."
+    },
+    {
+      "start_ms": 240840,
+      "duration_ms": 5920,
+      "text": "How do I connect RBTB to HubSpot?"
+    },
+    {
+      "start_ms": 247360,
+      "duration_ms": 4160,
+      "text": "Finn is going to tell you exactly how"
+    },
+    {
+      "start_ms": 249320,
+      "duration_ms": 4440,
+      "text": "you set up this HubSpot integration with"
+    },
+    {
+      "start_ms": 251520,
+      "duration_ms": 4520,
+      "text": "no human intervention. It's absolutely"
+    },
+    {
+      "start_ms": 253760,
+      "duration_ms": 6000,
+      "text": "amazing. And then all this takes on our"
+    },
+    {
+      "start_ms": 256040,
+      "duration_ms": 5560,
+      "text": "end is me managing all of these chats"
+    },
+    {
+      "start_ms": 259760,
+      "duration_ms": 3840,
+      "text": "with people, so I go in once a day and"
+    },
+    {
+      "start_ms": 261600,
+      "duration_ms": 3640,
+      "text": "for about 5 to 10 minutes I make sure"
+    },
+    {
+      "start_ms": 263600,
+      "duration_ms": 3040,
+      "text": "it's answering all of this stuff"
+    },
+    {
+      "start_ms": 265240,
+      "duration_ms": 3680,
+      "text": "correctly. How's it different than"
+    },
+    {
+      "start_ms": 266640,
+      "duration_ms": 4160,
+      "text": "Albacross? Give me exact language that I"
+    },
+    {
+      "start_ms": 268920,
+      "duration_ms": 3560,
+      "text": "can include in my privacy page, right?"
+    },
+    {
+      "start_ms": 270800,
+      "duration_ms": 3280,
+      "text": "So, I just make sure that these answers"
+    },
+    {
+      "start_ms": 272480,
+      "duration_ms": 4000,
+      "text": "are exactly what I want them to be, and"
+    },
+    {
+      "start_ms": 274080,
+      "duration_ms": 3960,
+      "text": "then Rob does the same thing in"
+    },
+    {
+      "start_ms": 276480,
+      "duration_ms": 4080,
+      "text": "Intercom. Right? He just makes sure"
+    },
+    {
+      "start_ms": 278040,
+      "duration_ms": 4760,
+      "text": "these responses are exactly what we want"
+    },
+    {
+      "start_ms": 280560,
+      "duration_ms": 5280,
+      "text": "them to be. So, here are the numbers of"
+    },
+    {
+      "start_ms": 282800,
+      "duration_ms": 5200,
+      "text": "the entire business that has led to 6.22"
+    },
+    {
+      "start_ms": 285840,
+      "duration_ms": 4160,
+      "text": "million ARR with three people in 18"
+    },
+    {
+      "start_ms": 288000,
+      "duration_ms": 3520,
+      "text": "months. I've gotten 16 million LinkedIn"
+    },
+    {
+      "start_ms": 290000,
+      "duration_ms": 3360,
+      "text": "impressions the last 12 months, so"
+    },
+    {
+      "start_ms": 291520,
+      "duration_ms": 3920,
+      "text": "that's 1.3 million impressions per"
+    },
+    {
+      "start_ms": 293360,
+      "duration_ms": 3600,
+      "text": "month. I spend around 10,000 per month"
+    },
+    {
+      "start_ms": 295440,
+      "duration_ms": 3760,
+      "text": "on retargeting ads and we're also"
+    },
+    {
+      "start_ms": 296960,
+      "duration_ms": 4280,
+      "text": "sending around 165,000"
+    },
+    {
+      "start_ms": 299200,
+      "duration_ms": 4800,
+      "text": "cold emails to prospects. We have a"
+    },
+    {
+      "start_ms": 301240,
+      "duration_ms": 4920,
+      "text": "weekly show and we get an average of 250"
+    },
+    {
+      "start_ms": 304000,
+      "duration_ms": 4040,
+      "text": "live attendees. We have a newsletter to"
+    },
+    {
+      "start_ms": 306160,
+      "duration_ms": 3960,
+      "text": "promote it, which has around 50,000"
+    },
+    {
+      "start_ms": 308040,
+      "duration_ms": 4960,
+      "text": "subscribers. So, that's all of the top"
+    },
+    {
+      "start_ms": 310120,
+      "duration_ms": 5600,
+      "text": "of funnel. That leads to 30,000 unique"
+    },
+    {
+      "start_ms": 313000,
+      "duration_ms": 4680,
+      "text": "visitors per month to rbtb.com. Of those"
+    },
+    {
+      "start_ms": 315720,
+      "duration_ms": 4920,
+      "text": "30,000 unique visitors, a thousand"
+    },
+    {
+      "start_ms": 317680,
+      "duration_ms": 4720,
+      "text": "people initiate AI clone chats with the"
+    },
+    {
+      "start_ms": 320640,
+      "duration_ms": 3080,
+      "text": "Adam Robinson clone that I just showed"
+    },
+    {
+      "start_ms": 322400,
+      "duration_ms": 4080,
+      "text": "you. Once they get their questions"
+    },
+    {
+      "start_ms": 323720,
+      "duration_ms": 5640,
+      "text": "answered, that leads to 2,000 free"
+    },
+    {
+      "start_ms": 326480,
+      "duration_ms": 6200,
+      "text": "sign-ups per month or around 6.66% of"
+    },
+    {
+      "start_ms": 329360,
+      "duration_ms": 6560,
+      "text": "traffic. 250 of those 2,000 people, or"
+    },
+    {
+      "start_ms": 332680,
+      "duration_ms": 6240,
+      "text": "around 12.5%, end up paying us an"
+    },
+    {
+      "start_ms": 335920,
+      "duration_ms": 5520,
+      "text": "average of $230 per month. And of those"
+    },
+    {
+      "start_ms": 338920,
+      "duration_ms": 5040,
+      "text": "people, a thousand people initiate"
+    },
+    {
+      "start_ms": 341440,
+      "duration_ms": 4520,
+      "text": "support tickets after they've signed up,"
+    },
+    {
+      "start_ms": 343960,
+      "duration_ms": 3520,
+      "text": "or it's around 50% of free sign-ups."
+    },
+    {
+      "start_ms": 345960,
+      "duration_ms": 3120,
+      "text": "Now, I like talking to customers,"
+    },
+    {
+      "start_ms": 347480,
+      "duration_ms": 3840,
+      "text": "Wednesday afternoons are my customer"
+    },
+    {
+      "start_ms": 349080,
+      "duration_ms": 3840,
+      "text": "talk times. I do 40 customer calls,"
+    },
+    {
+      "start_ms": 351320,
+      "duration_ms": 3200,
+      "text": "which is about 15% of our paying"
+    },
+    {
+      "start_ms": 352920,
+      "duration_ms": 3240,
+      "text": "customers, and just try to get a handle"
+    },
+    {
+      "start_ms": 354520,
+      "duration_ms": 3400,
+      "text": "on what people are upset about, what we"
+    },
+    {
+      "start_ms": 356160,
+      "duration_ms": 4120,
+      "text": "need to build, and, you know, the future"
+    },
+    {
+      "start_ms": 357920,
+      "duration_ms": 4560,
+      "text": "direction of RBTB. We also have 200"
+    },
+    {
+      "start_ms": 360280,
+      "duration_ms": 4320,
+      "text": "people cancel every month, which is far"
+    },
+    {
+      "start_ms": 362480,
+      "duration_ms": 4160,
+      "text": "less than the 250 that sign up. And if"
+    },
+    {
+      "start_ms": 364600,
+      "duration_ms": 6400,
+      "text": "you do that for 18 months, you have a"
+    },
+    {
+      "start_ms": 366640,
+      "duration_ms": 6120,
+      "text": "6.22 million ARR SaaS business. So, what"
+    },
+    {
+      "start_ms": 371000,
+      "duration_ms": 3160,
+      "text": "does this mean for your business? If"
+    },
+    {
+      "start_ms": 372760,
+      "duration_ms": 3760,
+      "text": "you're running your business entirely"
+    },
+    {
+      "start_ms": 374160,
+      "duration_ms": 4680,
+      "text": "with AI, your job changes from answering"
+    },
+    {
+      "start_ms": 376520,
+      "duration_ms": 4440,
+      "text": "tickets and handling inbound sales to"
+    },
+    {
+      "start_ms": 378840,
+      "duration_ms": 4400,
+      "text": "improving the system that answers"
+    },
+    {
+      "start_ms": 380960,
+      "duration_ms": 4880,
+      "text": "tickets and does inbound sales. You can"
+    },
+    {
+      "start_ms": 383240,
+      "duration_ms": 5280,
+      "text": "scale support and inbound sales without"
+    },
+    {
+      "start_ms": 385840,
+      "duration_ms": 5760,
+      "text": "hiring a single other body and customers"
+    },
+    {
+      "start_ms": 388520,
+      "duration_ms": 4520,
+      "text": "get help 24/7 instead of waiting hours"
+    },
+    {
+      "start_ms": 391600,
+      "duration_ms": 3040,
+      "text": "for you to get back to them. This was"
+    },
+    {
+      "start_ms": 393040,
+      "duration_ms": 3520,
+      "text": "not possible when I started my first"
+    },
+    {
+      "start_ms": 394640,
+      "duration_ms": 4160,
+      "text": "business in 2015. There was a company"
+    },
+    {
+      "start_ms": 396560,
+      "duration_ms": 4120,
+      "text": "that was trying to do this with overseas"
+    },
+    {
+      "start_ms": 398800,
+      "duration_ms": 3520,
+      "text": "support agents that you paid a dollar an"
+    },
+    {
+      "start_ms": 400680,
+      "duration_ms": 3360,
+      "text": "hour for them to get a question,"
+    },
+    {
+      "start_ms": 402320,
+      "duration_ms": 4440,
+      "text": "reference your support docs, and have a"
+    },
+    {
+      "start_ms": 404040,
+      "duration_ms": 5320,
+      "text": "human write back a response. This system"
+    },
+    {
+      "start_ms": 406760,
+      "duration_ms": 4240,
+      "text": "is 1,000 times better than that. I can"
+    },
+    {
+      "start_ms": 409360,
+      "duration_ms": 4000,
+      "text": "tell you because I've tried both. This"
+    },
+    {
+      "start_ms": 411000,
+      "duration_ms": 4840,
+      "text": "one is the future. So, let's talk about"
+    },
+    {
+      "start_ms": 413360,
+      "duration_ms": 5400,
+      "text": "why most companies fail at implementing"
+    },
+    {
+      "start_ms": 415840,
+      "duration_ms": 5120,
+      "text": "AI. The biggest lie about AI support is"
+    },
+    {
+      "start_ms": 418760,
+      "duration_ms": 4440,
+      "text": "that most people think you just flip on"
+    },
+    {
+      "start_ms": 420960,
+      "duration_ms": 4000,
+      "text": "an AI switch and you watch the magic"
+    },
+    {
+      "start_ms": 423200,
+      "duration_ms": 3720,
+      "text": "happen in front of your eyes. I will"
+    },
+    {
+      "start_ms": 424960,
+      "duration_ms": 4560,
+      "text": "tell you from experience that is"
+    },
+    {
+      "start_ms": 426920,
+      "duration_ms": 4640,
+      "text": "complete garbage. Now, here is the most"
+    },
+    {
+      "start_ms": 429520,
+      "duration_ms": 6280,
+      "text": "important point of the entire video."
+    },
+    {
+      "start_ms": 431560,
+      "duration_ms": 6160,
+      "text": "Your AI is only as good as the content"
+    },
+    {
+      "start_ms": 435800,
+      "duration_ms": 5440,
+      "text": "you feed it. Let me say that over again."
+    },
+    {
+      "start_ms": 437720,
+      "duration_ms": 5360,
+      "text": "Your AI is only as good as the content"
+    },
+    {
+      "start_ms": 441240,
+      "duration_ms": 3880,
+      "text": "you feed it. Now, we had early"
+    },
+    {
+      "start_ms": 443080,
+      "duration_ms": 4040,
+      "text": "challenges as we tried to implement this"
+    },
+    {
+      "start_ms": 445120,
+      "duration_ms": 4200,
+      "text": "AI system first on support. When we"
+    },
+    {
+      "start_ms": 447120,
+      "duration_ms": 4680,
+      "text": "first launched RBTB 18 months ago, Finn"
+    },
+    {
+      "start_ms": 449320,
+      "duration_ms": 5680,
+      "text": "was only resolving 25% of our inquiries."
+    },
+    {
+      "start_ms": 451800,
+      "duration_ms": 4600,
+      "text": "Now we're above a 75% resolution rate."
+    },
+    {
+      "start_ms": 455000,
+      "duration_ms": 3440,
+      "text": "The difference was we built the"
+    },
+    {
+      "start_ms": 456400,
+      "duration_ms": 4560,
+      "text": "foundation properly, which is what I"
+    },
+    {
+      "start_ms": 458440,
+      "duration_ms": 4400,
+      "text": "call the AI knowledge base. Most"
+    },
+    {
+      "start_ms": 460960,
+      "duration_ms": 3840,
+      "text": "companies skip this foundational step"
+    },
+    {
+      "start_ms": 462840,
+      "duration_ms": 4480,
+      "text": "and they wonder why their AI sounds like"
+    },
+    {
+      "start_ms": 464800,
+      "duration_ms": 4720,
+      "text": "a confused intern or a generic version"
+    },
+    {
+      "start_ms": 467320,
+      "duration_ms": 4200,
+      "text": "of ChatGPT. People are more worried"
+    },
+    {
+      "start_ms": 469520,
+      "duration_ms": 3400,
+      "text": "about whether to use ChatGPT 5.0 or"
+    },
+    {
+      "start_ms": 471520,
+      "duration_ms": 4240,
+      "text": "Claude or whatever else than the"
+    },
+    {
+      "start_ms": 472920,
+      "duration_ms": 5600,
+      "text": "fundamentals of what make AI agents"
+    },
+    {
+      "start_ms": 475760,
+      "duration_ms": 4800,
+      "text": "actually work. The knowledge base is key"
+    },
+    {
+      "start_ms": 478520,
+      "duration_ms": 3720,
+      "text": "to your AI success, and here's how to"
+    },
+    {
+      "start_ms": 480560,
+      "duration_ms": 2800,
+      "text": "build the knowledge base. Number one,"
+    },
+    {
+      "start_ms": 482240,
+      "duration_ms": 2800,
+      "text": "start with the most painful and"
+    },
+    {
+      "start_ms": 483360,
+      "duration_ms": 3320,
+      "text": "repetitive questions. You know those"
+    },
+    {
+      "start_ms": 485040,
+      "duration_ms": 2840,
+      "text": "questions that you get and you're like"
+    },
+    {
+      "start_ms": 486680,
+      "duration_ms": 2480,
+      "text": "banging your head against the wall,"
+    },
+    {
+      "start_ms": 487880,
+      "duration_ms": 2680,
+      "text": "you're like, I can't believe I'm having"
+    },
+    {
+      "start_ms": 489160,
+      "duration_ms": 3520,
+      "text": "to answer that again. Instead of"
+    },
+    {
+      "start_ms": 490560,
+      "duration_ms": 5200,
+      "text": "answering the question, make a post and"
+    },
+    {
+      "start_ms": 492680,
+      "duration_ms": 5600,
+      "text": "have a goal to make at least one article"
+    },
+    {
+      "start_ms": 495760,
+      "duration_ms": 4440,
+      "text": "per day. Why? Because in six months"
+    },
+    {
+      "start_ms": 498280,
+      "duration_ms": 4400,
+      "text": "you're going to have 180 articles"
+    },
+    {
+      "start_ms": 500200,
+      "duration_ms": 4480,
+      "text": "covering almost every possible question."
+    },
+    {
+      "start_ms": 502680,
+      "duration_ms": 3840,
+      "text": "And a great practice in the beginning is"
+    },
+    {
+      "start_ms": 504680,
+      "duration_ms": 4440,
+      "text": "when someone asks you a question,"
+    },
+    {
+      "start_ms": 506520,
+      "duration_ms": 5320,
+      "text": "instead of writing back an answer in the"
+    },
+    {
+      "start_ms": 509120,
+      "duration_ms": 4400,
+      "text": "ticket, write a support doc and respond"
+    },
+    {
+      "start_ms": 511840,
+      "duration_ms": 4079,
+      "text": "with a link to the support doc rather"
+    },
+    {
+      "start_ms": 513520,
+      "duration_ms": 4040,
+      "text": "than with the question. Why? Because you"
+    },
+    {
+      "start_ms": 515919,
+      "duration_ms": 4041,
+      "text": "can use that support doc forever and"
+    },
+    {
+      "start_ms": 517560,
+      "duration_ms": 4640,
+      "text": "it's exactly what your AI needs. So,"
+    },
+    {
+      "start_ms": 519960,
+      "duration_ms": 5240,
+      "text": "three sections that every knowledge base"
+    },
+    {
+      "start_ms": 522200,
+      "duration_ms": 4520,
+      "text": "needs. Okay, I cannot overemphasize the"
+    },
+    {
+      "start_ms": 525200,
+      "duration_ms": 3440,
+      "text": "importance of frequently asked"
+    },
+    {
+      "start_ms": 526720,
+      "duration_ms": 4000,
+      "text": "questions. We have frequently asked or"
+    },
+    {
+      "start_ms": 528640,
+      "duration_ms": 3760,
+      "text": "FAQ sections literally everywhere on our"
+    },
+    {
+      "start_ms": 530720,
+      "duration_ms": 2880,
+      "text": "website and in our support docs. They're"
+    },
+    {
+      "start_ms": 532400,
+      "duration_ms": 2600,
+      "text": "on our homepage, they're on our pricing"
+    },
+    {
+      "start_ms": 533600,
+      "duration_ms": 3200,
+      "text": "page, they're within our support docs,"
+    },
+    {
+      "start_ms": 535000,
+      "duration_ms": 3240,
+      "text": "and they're within each section of our"
+    },
+    {
+      "start_ms": 536800,
+      "duration_ms": 4320,
+      "text": "support docs. If you look at our support"
+    },
+    {
+      "start_ms": 538240,
+      "duration_ms": 4200,
+      "text": "docs, the Apollo integration has an FAQ."
+    },
+    {
+      "start_ms": 541120,
+      "duration_ms": 4560,
+      "text": "An important thing to keep in mind about"
+    },
+    {
+      "start_ms": 542440,
+      "duration_ms": 5240,
+      "text": "an FAQ is write the question exactly how"
+    },
+    {
+      "start_ms": 545680,
+      "duration_ms": 3720,
+      "text": "your customer would ask the question,"
+    },
+    {
+      "start_ms": 547680,
+      "duration_ms": 2960,
+      "text": "and then provide the response because"
+    },
+    {
+      "start_ms": 549400,
+      "duration_ms": 3040,
+      "text": "that is what will answer future"
+    },
+    {
+      "start_ms": 550640,
+      "duration_ms": 3760,
+      "text": "questions for you with AI. Also have"
+    },
+    {
+      "start_ms": 552440,
+      "duration_ms": 4160,
+      "text": "troubleshooting guides ordered from the"
+    },
+    {
+      "start_ms": 554400,
+      "duration_ms": 5520,
+      "text": "most likely to the least likely"
+    },
+    {
+      "start_ms": 556600,
+      "duration_ms": 5400,
+      "text": "scenario. Change logs are a hack because"
+    },
+    {
+      "start_ms": 559920,
+      "duration_ms": 4680,
+      "text": "a change log of everything that you've"
+    },
+    {
+      "start_ms": 562000,
+      "duration_ms": 4720,
+      "text": "done to improve your site allows the AI"
+    },
+    {
+      "start_ms": 564600,
+      "duration_ms": 3560,
+      "text": "to look at a question and then decide"
+    },
+    {
+      "start_ms": 566720,
+      "duration_ms": 2920,
+      "text": "that if it's a bug that's already been"
+    },
+    {
+      "start_ms": 568160,
+      "duration_ms": 3600,
+      "text": "fixed or not. If you can just keep a"
+    },
+    {
+      "start_ms": 569640,
+      "duration_ms": 4200,
+      "text": "change log of every little thing that"
+    },
+    {
+      "start_ms": 571760,
+      "duration_ms": 3440,
+      "text": "you do to improve your website, AI can"
+    },
+    {
+      "start_ms": 573840,
+      "duration_ms": 3160,
+      "text": "reference that and answer things a lot"
+    },
+    {
+      "start_ms": 575200,
+      "duration_ms": 4600,
+      "text": "better. People skip this step, but they"
+    },
+    {
+      "start_ms": 577000,
+      "duration_ms": 4880,
+      "text": "give crucial context to your AI. So,"
+    },
+    {
+      "start_ms": 579800,
+      "duration_ms": 4640,
+      "text": "here's how you prevent what I call AI"
+    },
+    {
+      "start_ms": 581880,
+      "duration_ms": 4200,
+      "text": "disaster. The worst AI experience"
+    },
+    {
+      "start_ms": 584440,
+      "duration_ms": 3400,
+      "text": "possible, and we've all had it, I've had"
+    },
+    {
+      "start_ms": 586080,
+      "duration_ms": 3760,
+      "text": "it a ton, is a customer asks for"
+    },
+    {
+      "start_ms": 587840,
+      "duration_ms": 4280,
+      "text": "something, the AI gets it wrong, then"
+    },
+    {
+      "start_ms": 589840,
+      "duration_ms": 4440,
+      "text": "the customer asks again, then the AI"
+    },
+    {
+      "start_ms": 592120,
+      "duration_ms": 5440,
+      "text": "gives the same wrong result, then the"
+    },
+    {
+      "start_ms": 594280,
+      "duration_ms": 6360,
+      "text": "customer asks for human help, and the AI"
+    },
+    {
+      "start_ms": 597560,
+      "duration_ms": 5240,
+      "text": "tells them to email support@rbb.com,"
+    },
+    {
+      "start_ms": 600640,
+      "duration_ms": 4040,
+      "text": "which is the same AI that responds to"
+    },
+    {
+      "start_ms": 602800,
+      "duration_ms": 4120,
+      "text": "them. This creates an infinite"
+    },
+    {
+      "start_ms": 604680,
+      "duration_ms": 4120,
+      "text": "frustration loop that destroys customer"
+    },
+    {
+      "start_ms": 606920,
+      "duration_ms": 3640,
+      "text": "relationships and will stop people from"
+    },
+    {
+      "start_ms": 608800,
+      "duration_ms": 4120,
+      "text": "onboarding and will ultimately lead to"
+    },
+    {
+      "start_ms": 610560,
+      "duration_ms": 4400,
+      "text": "churn. So, there are features in most"
+    },
+    {
+      "start_ms": 612920,
+      "duration_ms": 4760,
+      "text": "AIs to fix this. Intercom has this"
+    },
+    {
+      "start_ms": 614960,
+      "duration_ms": 5320,
+      "text": "incredible feature called guidance, and"
+    },
+    {
+      "start_ms": 617680,
+      "duration_ms": 5160,
+      "text": "it works like an advanced prompt for"
+    },
+    {
+      "start_ms": 620280,
+      "duration_ms": 4760,
+      "text": "your AI. It's overarching principles"
+    },
+    {
+      "start_ms": 622840,
+      "duration_ms": 4520,
+      "text": "that the AI acts on when it encounters"
+    },
+    {
+      "start_ms": 625040,
+      "duration_ms": 4280,
+      "text": "certain situations to avoid these loops."
+    },
+    {
+      "start_ms": 627360,
+      "duration_ms": 3560,
+      "text": "It tells AI when asked for more"
+    },
+    {
+      "start_ms": 629320,
+      "duration_ms": 4360,
+      "text": "information instead of guessing. It"
+    },
+    {
+      "start_ms": 630920,
+      "duration_ms": 4120,
+      "text": "prevents AI from suggesting customers"
+    },
+    {
+      "start_ms": 633680,
+      "duration_ms": 3840,
+      "text": "email support when they've already"
+    },
+    {
+      "start_ms": 635040,
+      "duration_ms": 4760,
+      "text": "talked to support, and it forces the AI"
+    },
+    {
+      "start_ms": 637520,
+      "duration_ms": 4320,
+      "text": "to ask clarifying questions instead of"
+    },
+    {
+      "start_ms": 639800,
+      "duration_ms": 4920,
+      "text": "giving vague responses. And all of this"
+    },
+    {
+      "start_ms": 641840,
+      "duration_ms": 6360,
+      "text": "leads to proper escalation to a human"
+    },
+    {
+      "start_ms": 644720,
+      "duration_ms": 5280,
+      "text": "and out of this AI to AI to AI loop. So,"
+    },
+    {
+      "start_ms": 648200,
+      "duration_ms": 3480,
+      "text": "here's the main principles of the"
+    },
+    {
+      "start_ms": 650000,
+      "duration_ms": 4200,
+      "text": "guidance that you need to give your AI."
+    },
+    {
+      "start_ms": 651680,
+      "duration_ms": 4880,
+      "text": "If your user input is vague, prompt it"
+    },
+    {
+      "start_ms": 654200,
+      "duration_ms": 4240,
+      "text": "for additional context. Ask leading"
+    },
+    {
+      "start_ms": 656560,
+      "duration_ms": 4400,
+      "text": "questions to help users answer"
+    },
+    {
+      "start_ms": 658440,
+      "duration_ms": 5240,
+      "text": "themselves, and never create loops that"
+    },
+    {
+      "start_ms": 660960,
+      "duration_ms": 5240,
+      "text": "frustrate customers. Make the AI sound"
+    },
+    {
+      "start_ms": 663680,
+      "duration_ms": 5600,
+      "text": "conversational. It's very important that"
+    },
+    {
+      "start_ms": 666200,
+      "duration_ms": 5200,
+      "text": "the AI is not robotic. So, what actually"
+    },
+    {
+      "start_ms": 669280,
+      "duration_ms": 4320,
+      "text": "happened when we let AI run our entire"
+    },
+    {
+      "start_ms": 671400,
+      "duration_ms": 4280,
+      "text": "business for 7 days? The result was"
+    },
+    {
+      "start_ms": 673600,
+      "duration_ms": 3840,
+      "text": "better than expected. Revenue stayed"
+    },
+    {
+      "start_ms": 675680,
+      "duration_ms": 4080,
+      "text": "consistent, customer satisfaction"
+    },
+    {
+      "start_ms": 677440,
+      "duration_ms": 4399,
+      "text": "remained high, and we had zero critical"
+    },
+    {
+      "start_ms": 679760,
+      "duration_ms": 3800,
+      "text": "issues that required human intervention."
+    },
+    {
+      "start_ms": 681839,
+      "duration_ms": 4401,
+      "text": "But, the crazy part is when we came"
+    },
+    {
+      "start_ms": 683560,
+      "duration_ms": 4680,
+      "text": "back, the AI had actually improved on"
+    },
+    {
+      "start_ms": 686240,
+      "duration_ms": 3800,
+      "text": "its own through conversations it had"
+    },
+    {
+      "start_ms": 688240,
+      "duration_ms": 3599,
+      "text": "while we were gone. This isn't just some"
+    },
+    {
+      "start_ms": 690040,
+      "duration_ms": 3600,
+      "text": "far-off future. This is happening right"
+    },
+    {
+      "start_ms": 691839,
+      "duration_ms": 3801,
+      "text": "now, and the businesses implementing"
+    },
+    {
+      "start_ms": 693640,
+      "duration_ms": 4120,
+      "text": "this today are creating advantages that"
+    },
+    {
+      "start_ms": 695640,
+      "duration_ms": 4440,
+      "text": "will be impossible to catch up to in 12"
+    },
+    {
+      "start_ms": 697760,
+      "duration_ms": 4280,
+      "text": "months. So, if you want to learn exactly"
+    },
+    {
+      "start_ms": 700080,
+      "duration_ms": 4520,
+      "text": "how we built this system step-by-step,"
+    },
+    {
+      "start_ms": 702040,
+      "duration_ms": 4520,
+      "text": "I've created a comprehensive 6-day email"
+    },
+    {
+      "start_ms": 704600,
+      "duration_ms": 3440,
+      "text": "series that goes way deeper than what I"
+    },
+    {
+      "start_ms": 706560,
+      "duration_ms": 3640,
+      "text": "could cover in this video. You'll get"
+    },
+    {
+      "start_ms": 708040,
+      "duration_ms": 4880,
+      "text": "the exact templates, the specific"
+    },
+    {
+      "start_ms": 710200,
+      "duration_ms": 5160,
+      "text": "guidance we used, Rob's custom ChatGPT,"
+    },
+    {
+      "start_ms": 712920,
+      "duration_ms": 4880,
+      "text": "and 15 detailed videos showing you how"
+    },
+    {
+      "start_ms": 715360,
+      "duration_ms": 4240,
+      "text": "to implement each piece. Just click the"
+    },
+    {
+      "start_ms": 717800,
+      "duration_ms": 4640,
+      "text": "first link in the description to get our"
+    },
+    {
+      "start_ms": 719600,
+      "duration_ms": 5040,
+      "text": "complete 6-day email series on AI"
+    },
+    {
+      "start_ms": 722440,
+      "duration_ms": 3920,
+      "text": "transformation for free. The link's in"
+    },
+    {
+      "start_ms": 724640,
+      "duration_ms": 3720,
+      "text": "the description below. Thanks for"
+    },
+    {
+      "start_ms": 726360,
+      "duration_ms": 4560,
+      "text": "watching, and I'll see you in the next"
+    },
+    {
+      "start_ms": 728360,
+      "duration_ms": 2560,
+      "text": "video."
+    }
+  ]
+}

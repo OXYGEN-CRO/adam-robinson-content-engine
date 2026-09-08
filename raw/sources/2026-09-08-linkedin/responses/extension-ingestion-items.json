@@ -1,0 +1,85 @@
+{
+  "ok": true,
+  "data": {
+    "items": [
+      {
+        "id": "e58f546c-d6d9-43b6-946f-bee2176616bd",
+        "ingestionRunId": "480cff7a-5611-4fb9-9858-8e5cc49309bc",
+        "tableId": "c0c5e684-f06b-4e52-924c-cad5799495d8",
+        "position": 0,
+        "status": "completed",
+        "attemptCount": 1,
+        "maxAttempts": 3,
+        "leaseToken": null,
+        "lockedBy": null,
+        "leaseExpiresAt": null,
+        "readyAt": "2026-09-08T07:42:03.824Z",
+        "startedAt": "2026-09-08T07:42:16.678Z",
+        "completedAt": "2026-09-08T07:42:21.910Z",
+        "sourceCursor": null,
+        "nextCursor": "dXJuOmxpOmFjdGl2aXR5OjczNTA5MjYzNzM1Mzc5MjcxNjgtMTc1MjU5NzQyMTAzMA==",
+        "payload": {
+          "request": {
+            "page": 5,
+            "profile": "https://www.linkedin.com/in/retentionadam",
+            "pagination_token": "[REDACTED FOR PUBLIC RELEASE]"
+          },
+          "tool_id": "scraper.linkedin_profile_posts",
+          "tool_ids": [
+            "scraper.linkedin_profile_posts"
+          ],
+          "max_pages": 1,
+          "rows_path": "response.raw.elements",
+          "cursor_path": "response.raw.pagination.paginationToken",
+          "max_credits": 16,
+          "row_mapping": {
+            "url": "linkedinUrl",
+            "content": "content",
+            "post_id": "id",
+            "posted_at": "postedAt.date",
+            "author_name": "author.name",
+            "source_payload": ""
+          },
+          "cursor_request_key": "pagination_token"
+        },
+        "rowCount": 50,
+        "insertedCount": 50,
+        "updatedCount": 0,
+        "duplicateCount": 0,
+        "skippedCount": 0,
+        "lastError": null,
+        "output": {
+          "page": 0,
+          "tool_id": "scraper.linkedin_profile_posts",
+          "max_pages": 1,
+          "row_count": 50,
+          "source_type": "tool_page",
+          "write_engine": "bulk_rows_v1",
+          "write_run_id": "3802fd46-59aa-49b0-8895-aa5ddcc931db",
+          "credits_spent": 16,
+          "effect_outcome": "applied",
+          "has_next_cursor": true,
+          "unchanged_count": 0,
+          "source_row_count": 50,
+          "provider_attempts": [
+            {
+              "status": "success",
+              "tool_id": "scraper.linkedin_profile_posts",
+              "latency_ms": 3715
+            }
+          ],
+          "staged_payload_id": "73d1d2b2-5197-4e68-b439-cc8e50f4f184",
+          "mapping_skipped_count": 0,
+          "reused_staged_payload": false
+        },
+        "createdAt": "2026-09-08T07:42:03.824Z",
+        "updatedAt": "2026-09-08T07:42:21.910Z"
+      }
+    ]
+  },
+  "meta": {
+    "command": "table-ingestions items",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

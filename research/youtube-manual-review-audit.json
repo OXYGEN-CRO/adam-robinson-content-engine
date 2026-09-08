@@ -1,0 +1,220 @@
+{
+  "audited_at": "2026-09-08T12:54:29.189133+00:00",
+  "helper_sha256": "099503d068ba9f0a9398b8d74c3867b86490849baa49c16f7361a3c650d5ca50",
+  "input_sha256": {
+    "research/youtube-synthesis-audit.json": "90f9ccd9ca357ccbb7c60d296d5541a692074d5d8d22156350914a34c71b6cc9",
+    "research/youtube-coverage-reviews.json": "e7501c659493aa8eef94ec1534b37a93926277664a4f71ed8418c6d3251b1c11",
+    "raw/sources/2026-09-08-youtube/selected-100.json": "6ac44cc9a19e0ec99b4f81b556c5dc3525d277a37f40df7ef8cc95bc1c3e20ac",
+    "raw/sources/2026-09-08-youtube/videos/D-8umeDdYP0/D-8umeDdYP0.md": "5f3410502c2fe7d38d6941b87dbaaebe45ecd8ff2e47c48687d7ecb673d3c685",
+    "research/youtube-video-notes/D-8umeDdYP0.json": "3cfd48ad775d36dc7e9469adaa1a815308dcb0a14367c102813d109da2b593d4",
+    "raw/sources/2026-09-08-youtube/videos/wYFjORZCtug/wYFjORZCtug.md": "21fe158a53cc88d4eaa0e6dc8b6450ef059a50d1f420ccc45b299487225f3d1e",
+    "research/youtube-video-notes/wYFjORZCtug.json": "3a658dcddaf0245d7160c36e05084c1d3d36c17edb37091d60371ef39f084fe7",
+    "raw/sources/2026-09-08-youtube/videos/Y63QI4BKEcg/Y63QI4BKEcg.md": "0572732915c88e723e4dfa7fe6f442bbe50971679cba080da7ab832dd7110073",
+    "research/youtube-video-notes/Y63QI4BKEcg.json": "78b4259883303c8f7763a259c5e1cfa548262f583222eabf4c176724e67ad257"
+  },
+  "errors": [],
+  "review_records": [
+    {
+      "review_index": 0,
+      "video_id": "D-8umeDdYP0",
+      "flag_code": "large_lesson_anchor_gap",
+      "errors": [],
+      "source_path": "raw/sources/2026-09-08-youtube/videos/D-8umeDdYP0/D-8umeDdYP0.md",
+      "source_sha256": "5f3410502c2fe7d38d6941b87dbaaebe45ecd8ff2e47c48687d7ecb673d3c685",
+      "note_path": "research/youtube-video-notes/D-8umeDdYP0.json",
+      "note_sha256": "3cfd48ad775d36dc7e9469adaa1a815308dcb0a14367c102813d109da2b593d4",
+      "raw_interval_read_seconds": [
+        0,
+        800
+      ],
+      "finding": "reviewed_no_material_gap",
+      "reason": "The heuristic counts only key-learning midpoints. This opening contains a repeated teaser, introductions and company/financing histories already captured under backstory_and_values and metrics_and_dates. The first substantive financing lesson is also anchored 11:34–13:05. No substantive omission was identified in the entire flagged interval.",
+      "evidence": [
+        {
+          "range": "00:00–01:34",
+          "treatment": "Repeated teaser of later 15:48–19:06 argument; existing key learnings0–1 and tensions preserve transaction dependence and speculative Clay comparison."
+        },
+        {
+          "range": "01:50–06:42",
+          "treatment": "Introductions/housekeeping plus content motivation. Backstory9 captures contentious-debate motivation; metric29 preserves38demo hostclaim; metric0 preserves hostthreepeople/nofunding introduction."
+        },
+        {
+          "range": "07:18–08:58",
+          "treatment": "Max companyhistory captured in backstory10 and metrics1–2, with guest attribution."
+        },
+        {
+          "range": "09:10–11:03",
+          "treatment": "Adam finance/roommates/Robly/literary influences captured in backstory0–2 and metric4."
+        },
+        {
+          "range": "11:34–13:05",
+          "treatment": "Max default-to-VC explanation captured in keylearning4 and accelerator/seed terms in metric3."
+        }
+      ],
+      "flagged_interval_seconds": [
+        0.719,
+        739.5
+      ]
+    },
+    {
+      "review_index": 1,
+      "video_id": "wYFjORZCtug",
+      "flag_code": "thin_claim",
+      "errors": [],
+      "source_path": "raw/sources/2026-09-08-youtube/videos/wYFjORZCtug/wYFjORZCtug.md",
+      "source_sha256": "21fe158a53cc88d4eaa0e6dc8b6450ef059a50d1f420ccc45b299487225f3d1e",
+      "note_path": "research/youtube-video-notes/wYFjORZCtug.json",
+      "note_sha256": "3a658dcddaf0245d7160c36e05084c1d3d36c17edb37091d60371ef39f084fe7",
+      "raw_interval_read_seconds": [
+        0,
+        190
+      ],
+      "finding": "reviewed_no_material_gap",
+      "reason": "The short claim is a complete scoped staffing observation, not an empty learning. At171.360 seconds Adam explicitly says Retention.com has60 employees. The note already identifies company, speaker, recording-relative time and the absence of an FTE/shared-role breakdown. The surrounding opening discusses the2023 journey and describes RB2B as two months old, so the publication date is not treated as the measurement date. No word-count padding or new numerical inference is warranted.",
+      "evidence": [
+        {
+          "range": "02:41–02:54",
+          "treatment": "metrics_and_dates[1] preserves the directly spoken Retention.com staffing report and its scope caveat."
+        },
+        {
+          "range": "02:15–03:02",
+          "treatment": "The surrounding2023 journey and early-RB2B references remain historical; summary and coverage already mark an earlier unspecified recording."
+        }
+      ],
+      "claim_path": "metrics_and_dates.1",
+      "exact_flag_detail": "metrics_and_dates[1]: Retention.com: Adam reports 60 employees at recording.",
+      "claim_interval_seconds": [
+        161.0,
+        174.0
+      ]
+    },
+    {
+      "review_index": 2,
+      "video_id": "Y63QI4BKEcg",
+      "flag_code": "thin_claim",
+      "errors": [],
+      "source_path": "raw/sources/2026-09-08-youtube/videos/Y63QI4BKEcg/Y63QI4BKEcg.md",
+      "source_sha256": "0572732915c88e723e4dfa7fe6f442bbe50971679cba080da7ab832dd7110073",
+      "note_path": "research/youtube-video-notes/Y63QI4BKEcg.json",
+      "note_sha256": "78b4259883303c8f7763a259c5e1cfa548262f583222eabf4c176724e67ad257",
+      "raw_interval_read_seconds": [
+        2143,
+        2210
+      ],
+      "finding": "reviewed_no_material_gap",
+      "reason": "The complete surrounding introduction identifies Dave as an audience participant, and at2173.960–2179.240 seconds he explicitly describes himself as a nine-time entrepreneur. The concise metric retains guest attribution and already states that companies, dates and outcomes are unspecified. It is not Adam’s biography and needs no invented detail or word-count padding.",
+      "evidence": [
+        {
+          "range": "35:43–36:50",
+          "treatment": "Complete surrounding introduction and claim read; metrics_and_dates[11] preserves the literal self-reported count and its evidentiary limits."
+        }
+      ],
+      "claim_path": "metrics_and_dates.11",
+      "exact_flag_detail": "metrics_and_dates[11]: Dave describes himself as a nine-time entrepreneur.",
+      "claim_interval_seconds": [
+        2173.0,
+        2180.0
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "video_id": "D-8umeDdYP0",
+      "automatic_flag_index": 0,
+      "code": "large_lesson_anchor_gap",
+      "detail": "Long spans between meaningful lesson anchors: [(0.719, 739.5)]; introductions/outros can explain some gaps, inspect the actual source",
+      "flagged_interval_seconds": [
+        0.719,
+        739.5
+      ],
+      "review_index": 0,
+      "review_status": "reviewed"
+    },
+    {
+      "video_id": "wYFjORZCtug",
+      "automatic_flag_index": 0,
+      "code": "thin_claim",
+      "detail": "metrics_and_dates[1]: Retention.com: Adam reports 60 employees at recording.",
+      "review_index": 1,
+      "review_status": "reviewed"
+    },
+    {
+      "video_id": "Y63QI4BKEcg",
+      "automatic_flag_index": 0,
+      "code": "thin_claim",
+      "detail": "metrics_and_dates[11]: Dave describes himself as a nine-time entrepreneur.",
+      "review_index": 2,
+      "review_status": "reviewed"
+    }
+  ],
+  "automatic_snapshot": {
+    "audited_at": "2026-09-08T12:53:58.829211+00:00",
+    "status": "manual_review_required",
+    "selected_count": 100,
+    "extraction_count": 100,
+    "promoted_count": 100,
+    "error_count": 0,
+    "manual_review_count": 3,
+    "structurally_valid_note_count": 100,
+    "errors": [],
+    "pipeline_code_sha256": "0e5e3c489e546fb78aa9b07edf8508df13573dc55b6b2f23eae9cd9d9365e67b",
+    "heuristics": {
+      "long_video": "duration >= 20 minutes OR transcript > 5,000 words",
+      "local_lesson": ">= 10 words; range <= max(180 sec,20% of caption extent)",
+      "third_coverage": "at least 2 local lesson midpoints in each chronological third",
+      "long_video_lesson_count": "15 meaningful key learnings is a review threshold, not an invented completeness guarantee"
+    },
+    "limitations": [
+      "Inputs and terminal outputs are checked, but a model assertion of reading the whole source does not prove exhaustive semantic understanding.",
+      "Temporal/count heuristics identify review candidates; they do not judge factual accuracy or attribution correctness.",
+      "The verifier does not silently clear review flags or manufacture metrics when a source has none.",
+      "When no prompt artifact exists, prompt hash is reconstructed from current literal instructions, supplied source and selected metadata. A changed historical prompt needs preserved evidence.",
+      "The pipeline may be running during this read-only audit. Missing artifacts are a snapshot, not proof that a live worker stopped.",
+      "Automatic captions may contain errors; source timestamp and hash checks do not verify against audio."
+    ]
+  },
+  "automatic_note_errors": [],
+  "automatic_flags": [
+    {
+      "id": "D-8umeDdYP0",
+      "manual_review": [
+        {
+          "code": "large_lesson_anchor_gap",
+          "detail": "Long spans between meaningful lesson anchors: [(0.719, 739.5)]; introductions/outros can explain some gaps, inspect the actual source"
+        }
+      ]
+    },
+    {
+      "id": "wYFjORZCtug",
+      "manual_review": [
+        {
+          "code": "thin_claim",
+          "detail": "metrics_and_dates[1]: Retention.com: Adam reports 60 employees at recording."
+        }
+      ]
+    },
+    {
+      "id": "Y63QI4BKEcg",
+      "manual_review": [
+        {
+          "code": "thin_claim",
+          "detail": "metrics_and_dates[11]: Dave describes himself as a nine-time entrepreneur."
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Original automatic flags and errors are preserved; this helper never suppresses them.",
+    "Valid hashes, paths and intervals identify recorded review evidence, not factual truth or proof of exhaustive semantic reading.",
+    "Completion refers only to the supplied automatic-audit snapshot, not a live inventory or independent rerun of extraction checks.",
+    "A manual finding resolves only its matched heuristic and does not override structural errors, terminal-output checks or source uncertainty."
+  ],
+  "current_flags_reviewed": true,
+  "automatic_error_count_preserved": 0,
+  "automatic_flag_count_preserved": 3,
+  "flag_unit_count": 3,
+  "reviewed_flag_unit_count": 3,
+  "all_100_complete_in_automatic_snapshot": true,
+  "status": "current_flags_reviewed_automatic_snapshot_complete_with_stated_limits",
+  "exit_code": 0
+}

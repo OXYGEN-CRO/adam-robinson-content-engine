@@ -1,0 +1,13 @@
+{
+  "id": "CqlO3vkU_zo",
+  "source_sha256": "f1c4506e26a015655ad14f06a72d16ed27afab5ffe40c411a736f893ebfa243b",
+  "source_characters": 57180,
+  "source_word_count": 8551,
+  "prompt_sha256": "de48af0d7e1b2ea32f80a82daa6fc36c7cf4457b48f6b566f92226f1fd32ed17",
+  "started_at": "2026-09-08T08:32:14.668925+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/CqlO3vkU_zo/CqlO3vkU_zo.md",
+  "pid": 92478,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:36:58.637922+00:00"
+}

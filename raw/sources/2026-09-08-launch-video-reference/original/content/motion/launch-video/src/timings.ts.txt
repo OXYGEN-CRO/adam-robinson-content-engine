@@ -1,0 +1,58 @@
+/**
+ * Loads measured beat durations from script.timings.json.
+ *
+ * The JSON is written by `generate-audio.ts` after each ElevenLabs render.
+ * Keys are beat ids; values include the text hash (so we skip regenerating
+ * when nothing changed) and the measured audio duration.
+ *
+ * Until you run the generator the file is `{}`, so every lookup returns
+ * `undefined` and downstream code falls back to estimates.
+ */
+
+import raw from "../script.timings.json";
+import { SCRIPT } from "./script";
+
+export interface BeatTiming {
+  hash: string;
+  durationSeconds: number;
+  durationFrames: number;
+  generatedAt: string;
+}
+
+export const TIMINGS: Record<string, BeatTiming> =
+  raw as Record<string, BeatTiming>;
+
+export function getDuration(beatId: string): BeatTiming | undefined {
+  return TIMINGS[beatId];
+}
+
+/** Cumulative frame offset where the given beat begins. Returns the total
+ * narration length if the id isn't found. Falls back to a sensible per-beat
+ * estimate so the composition still renders before audio exists. */
+const FALLBACK_FRAMES: Record<string, number> = {
+  hero: 138,
+  database: 200,
+  "ai-columns": 165,
+  enroll: 165,
+  schedule: 115,
+  "run-detail": 220,
+  memory: 165,
+  closing: 115,
+};
+
+export function beatStartFrame(beatId: string): number {
+  let offset = 0;
+  for (const beat of SCRIPT) {
+    if (beat.id === beatId) return offset;
+    offset += TIMINGS[beat.id]?.durationFrames ?? FALLBACK_FRAMES[beat.id] ?? 0;
+  }
+  return offset;
+}
+
+/** Total narration length in frames (sum of measured beats). */
+export function narrationDurationFrames(): number {
+  return SCRIPT.reduce(
+    (sum, beat) => sum + (TIMINGS[beat.id]?.durationFrames ?? 0),
+    0,
+  );
+}

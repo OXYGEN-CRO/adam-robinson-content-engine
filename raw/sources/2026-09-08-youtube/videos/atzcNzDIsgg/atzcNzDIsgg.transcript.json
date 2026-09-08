@@ -1,0 +1,7879 @@
+{
+  "video_id": "atzcNzDIsgg",
+  "title": "LIVE BUILD: We Vibe-Coded a SaaS App in 60 Minutes (No-Code Founder Builds a Business From Scratch)",
+  "url": "https://www.youtube.com/watch?v=atzcNzDIsgg",
+  "upload_date": "20250911",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:41:45.543828+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/atzcNzDIsgg/atzcNzDIsgg.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 80,
+      "duration_ms": 3040,
+      "text": "And now I could ship this app and"
+    },
+    {
+      "start_ms": 1839,
+      "duration_ms": 4561,
+      "text": "probably charge people for it."
+    },
+    {
+      "start_ms": 3120,
+      "duration_ms": 4960,
+      "text": ">> And when I when Jesse has shown me those"
+    },
+    {
+      "start_ms": 6400,
+      "duration_ms": 4640,
+      "text": "apps or I mean even what we're looking"
+    },
+    {
+      "start_ms": 8080,
+      "duration_ms": 4559,
+      "text": "at right now and he's doing it live like"
+    },
+    {
+      "start_ms": 11040,
+      "duration_ms": 2639,
+      "text": "this is another one this lead magic"
+    },
+    {
+      "start_ms": 12639,
+      "duration_ms": 3281,
+      "text": "command center."
+    },
+    {
+      "start_ms": 13679,
+      "duration_ms": 3841,
+      "text": ">> It took me like a day probably uh to"
+    },
+    {
+      "start_ms": 15920,
+      "duration_ms": 3119,
+      "text": "build. Basically I just wanted to track"
+    },
+    {
+      "start_ms": 17520,
+      "duration_ms": 5040,
+      "text": "every time somebody mentioned our"
+    },
+    {
+      "start_ms": 19039,
+      "duration_ms": 5601,
+      "text": "company uh on LinkedIn. So I just built"
+    },
+    {
+      "start_ms": 22560,
+      "duration_ms": 4000,
+      "text": "this basically and this was all a vibe"
+    },
+    {
+      "start_ms": 24640,
+      "duration_ms": 3440,
+      "text": "code right now. I could ship this app"
+    },
+    {
+      "start_ms": 26560,
+      "duration_ms": 2719,
+      "text": "and probably charge people for it. they"
+    },
+    {
+      "start_ms": 28080,
+      "duration_ms": 3599,
+      "text": "would probably buy it because it's"
+    },
+    {
+      "start_ms": 29279,
+      "duration_ms": 3841,
+      "text": "valuable and it updates every day. But"
+    },
+    {
+      "start_ms": 31679,
+      "duration_ms": 4001,
+      "text": "like this took me like a day to build"
+    },
+    {
+      "start_ms": 33120,
+      "duration_ms": 4800,
+      "text": "now and you know I would say this is on"
+    },
+    {
+      "start_ms": 35680,
+      "duration_ms": 5520,
+      "text": "par with any sort of SAS application"
+    },
+    {
+      "start_ms": 37920,
+      "duration_ms": 4720,
+      "text": "that's out there from a um you know just"
+    },
+    {
+      "start_ms": 41200,
+      "duration_ms": 5039,
+      "text": "looking at it. But this what I want to"
+    },
+    {
+      "start_ms": 42640,
+      "duration_ms": 5360,
+      "text": "track is like are they talking about us?"
+    },
+    {
+      "start_ms": 46239,
+      "duration_ms": 4241,
+      "text": "What are they saying about our company?"
+    },
+    {
+      "start_ms": 48000,
+      "duration_ms": 4320,
+      "text": "You know, we get a lot of uh inbound"
+    },
+    {
+      "start_ms": 50480,
+      "duration_ms": 4320,
+      "text": "leads just because people mention us,"
+    },
+    {
+      "start_ms": 52320,
+      "duration_ms": 5120,
+      "text": "but this is like an internal application"
+    },
+    {
+      "start_ms": 54800,
+      "duration_ms": 4880,
+      "text": "for our company, right? We have a CRM"
+    },
+    {
+      "start_ms": 57440,
+      "duration_ms": 5760,
+      "text": "that's internal. We basically just built"
+    },
+    {
+      "start_ms": 59680,
+      "duration_ms": 16479,
+      "text": "every app internally instead."
+    },
+    {
+      "start_ms": 63200,
+      "duration_ms": 12959,
+      "text": "[Music]"
+    },
+    {
+      "start_ms": 79759,
+      "duration_ms": 4720,
+      "text": "Welcome back to the show. Today I'm"
+    },
+    {
+      "start_ms": 82799,
+      "duration_ms": 4000,
+      "text": "super excited for this one. We are"
+    },
+    {
+      "start_ms": 84479,
+      "duration_ms": 4960,
+      "text": "joined by really one of the most elite"
+    },
+    {
+      "start_ms": 86799,
+      "duration_ms": 5201,
+      "text": "vibe coders around. Our guest today is"
+    },
+    {
+      "start_ms": 89439,
+      "duration_ms": 4561,
+      "text": "the founder and CEO of Lead Magic, Jesse"
+    },
+    {
+      "start_ms": 92000,
+      "duration_ms": 3920,
+      "text": "Wlette. Lead Magic is an online"
+    },
+    {
+      "start_ms": 94000,
+      "duration_ms": 4079,
+      "text": "platform. It takes your prospecting"
+    },
+    {
+      "start_ms": 95920,
+      "duration_ms": 4480,
+      "text": "data, turns it into customers, giving"
+    },
+    {
+      "start_ms": 98079,
+      "duration_ms": 5601,
+      "text": "you accurate emails, mobile numbers, and"
+    },
+    {
+      "start_ms": 100400,
+      "duration_ms": 5520,
+      "text": "validating all of your data seamlessly."
+    },
+    {
+      "start_ms": 103680,
+      "duration_ms": 3520,
+      "text": "Jesse, welcome to the show, my friend."
+    },
+    {
+      "start_ms": 105920,
+      "duration_ms": 3199,
+      "text": "how you doing?"
+    },
+    {
+      "start_ms": 107200,
+      "duration_ms": 3840,
+      "text": ">> Good chatting with you, man. Good to"
+    },
+    {
+      "start_ms": 109119,
+      "duration_ms": 4721,
+      "text": "good to talk to you again, Pete."
+    },
+    {
+      "start_ms": 111040,
+      "duration_ms": 4800,
+      "text": ">> Absolutely. Okay, now Jesse, we know"
+    },
+    {
+      "start_ms": 113840,
+      "duration_ms": 4239,
+      "text": "what we're going through today, but I"
+    },
+    {
+      "start_ms": 115840,
+      "duration_ms": 3760,
+      "text": "want to uh give the audience a big"
+    },
+    {
+      "start_ms": 118079,
+      "duration_ms": 3040,
+      "text": "context for what we're doing on this"
+    },
+    {
+      "start_ms": 119600,
+      "duration_ms": 5680,
+      "text": "show."
+    },
+    {
+      "start_ms": 121119,
+      "duration_ms": 8161,
+      "text": "Today, Jesse is going to live vibe code"
+    },
+    {
+      "start_ms": 125280,
+      "duration_ms": 6959,
+      "text": "a full SAS app, a full platform, and"
+    },
+    {
+      "start_ms": 129280,
+      "duration_ms": 4800,
+      "text": "actually launch the thing. So, for folks"
+    },
+    {
+      "start_ms": 132239,
+      "duration_ms": 5121,
+      "text": "who don't know what vibe coding is, if"
+    },
+    {
+      "start_ms": 134080,
+      "duration_ms": 5920,
+      "text": "this is a new term to you, AI has given"
+    },
+    {
+      "start_ms": 137360,
+      "duration_ms": 4640,
+      "text": "us the power to give text inputs and"
+    },
+    {
+      "start_ms": 140000,
+      "duration_ms": 4720,
+      "text": "have all of these incredible outputs."
+    },
+    {
+      "start_ms": 142000,
+      "duration_ms": 6000,
+      "text": "I'm sure we've all made videos,"
+    },
+    {
+      "start_ms": 144720,
+      "duration_ms": 5280,
+      "text": "pictures. Uh, I made a bunch of memes"
+    },
+    {
+      "start_ms": 148000,
+      "duration_ms": 3760,
+      "text": "for my fantasy football team last week."
+    },
+    {
+      "start_ms": 150000,
+      "duration_ms": 4080,
+      "text": "That was a good time. You can really do"
+    },
+    {
+      "start_ms": 151760,
+      "duration_ms": 6080,
+      "text": "anything with just this text input. Uh,"
+    },
+    {
+      "start_ms": 154080,
+      "duration_ms": 6799,
+      "text": "and something incredibly valuable is,"
+    },
+    {
+      "start_ms": 157840,
+      "duration_ms": 4479,
+      "text": "you know, text input to code output."
+    },
+    {
+      "start_ms": 160879,
+      "duration_ms": 3281,
+      "text": "Now, when I originally started doing"
+    },
+    {
+      "start_ms": 162319,
+      "duration_ms": 4401,
+      "text": "text input to code output, Jesse, it was"
+    },
+    {
+      "start_ms": 164160,
+      "duration_ms": 4079,
+      "text": "really just that HTML kind of stuff. I"
+    },
+    {
+      "start_ms": 166720,
+      "duration_ms": 4239,
+      "text": "could make nice I could kind of turn a"
+    },
+    {
+      "start_ms": 168239,
+      "duration_ms": 4561,
+      "text": "PDF into a nice web app. You're going"
+    },
+    {
+      "start_ms": 170959,
+      "duration_ms": 4161,
+      "text": "way deeper than that. You're actually"
+    },
+    {
+      "start_ms": 172800,
+      "duration_ms": 5360,
+      "text": "building functional SAS software with"
+    },
+    {
+      "start_ms": 175120,
+      "duration_ms": 7680,
+      "text": "robust backends, admin panels, the whole"
+    },
+    {
+      "start_ms": 178160,
+      "duration_ms": 5920,
+      "text": "bit. Uh, so that was the setup. Can you"
+    },
+    {
+      "start_ms": 182800,
+      "duration_ms": 2880,
+      "text": "tell the folks what we're going to build"
+    },
+    {
+      "start_ms": 184080,
+      "duration_ms": 3280,
+      "text": "today? What type of app is going to be"
+    },
+    {
+      "start_ms": 185680,
+      "duration_ms": 5680,
+      "text": "built here? And Yeah."
+    },
+    {
+      "start_ms": 187360,
+      "duration_ms": 6400,
+      "text": ">> Yeah. Yeah. So, uh, so really when you"
+    },
+    {
+      "start_ms": 191360,
+      "duration_ms": 4879,
+      "text": "think about it is the presentation layer"
+    },
+    {
+      "start_ms": 193760,
+      "duration_ms": 4880,
+      "text": "of his applications when you have them,"
+    },
+    {
+      "start_ms": 196239,
+      "duration_ms": 5441,
+      "text": "you you start to look at the, uh, like"
+    },
+    {
+      "start_ms": 198640,
+      "duration_ms": 7440,
+      "text": "what comes out to the user. And really"
+    },
+    {
+      "start_ms": 201680,
+      "duration_ms": 6080,
+      "text": "all of that is driven by APIs. And APIs"
+    },
+    {
+      "start_ms": 206080,
+      "duration_ms": 4000,
+      "text": "can come from really a lot of places,"
+    },
+    {
+      "start_ms": 207760,
+      "duration_ms": 5039,
+      "text": "right? Your web browser reads APIs and"
+    },
+    {
+      "start_ms": 210080,
+      "duration_ms": 4480,
+      "text": "then renders the graphics. But what"
+    },
+    {
+      "start_ms": 212799,
+      "duration_ms": 4800,
+      "text": "we're going to do today is one of the"
+    },
+    {
+      "start_ms": 214560,
+      "duration_ms": 4480,
+      "text": "things that a lot of people uh sort of"
+    },
+    {
+      "start_ms": 217599,
+      "duration_ms": 4640,
+      "text": "want to do is they use tools like"
+    },
+    {
+      "start_ms": 219040,
+      "duration_ms": 4400,
+      "text": "Lovable. They use Bolt V0. I'll just"
+    },
+    {
+      "start_ms": 222239,
+      "duration_ms": 3761,
+      "text": "show people how to use it with like"
+    },
+    {
+      "start_ms": 223440,
+      "duration_ms": 5840,
+      "text": "Vzero just just for the simplicity of"
+    },
+    {
+      "start_ms": 226000,
+      "duration_ms": 5519,
+      "text": "this thing today. But what what it is is"
+    },
+    {
+      "start_ms": 229280,
+      "duration_ms": 3679,
+      "text": "you really want to be able to get uh you"
+    },
+    {
+      "start_ms": 231519,
+      "duration_ms": 3761,
+      "text": "know so we we started with a prompt."
+    },
+    {
+      "start_ms": 232959,
+      "duration_ms": 3761,
+      "text": "We're building a champion tracker. uh"
+    },
+    {
+      "start_ms": 235280,
+      "duration_ms": 4239,
+      "text": "there's a lot of tools out there that do"
+    },
+    {
+      "start_ms": 236720,
+      "duration_ms": 5200,
+      "text": "this in the market and really it starts"
+    },
+    {
+      "start_ms": 239519,
+      "duration_ms": 6401,
+      "text": "with uh you know an API that you're"
+    },
+    {
+      "start_ms": 241920,
+      "duration_ms": 5519,
+      "text": "going to use to get the data and really"
+    },
+    {
+      "start_ms": 245920,
+      "duration_ms": 2959,
+      "text": "what you do is you think about it this"
+    },
+    {
+      "start_ms": 247439,
+      "duration_ms": 3601,
+      "text": "way you say all right I can make the"
+    },
+    {
+      "start_ms": 248879,
+      "duration_ms": 5920,
+      "text": "presentation layer it's going to be some"
+    },
+    {
+      "start_ms": 251040,
+      "duration_ms": 5520,
+      "text": "sort of uh sidebar so what I did is I"
+    },
+    {
+      "start_ms": 254799,
+      "duration_ms": 3361,
+      "text": "came into the application and I said all"
+    },
+    {
+      "start_ms": 256560,
+      "duration_ms": 4720,
+      "text": "right let's say I want to make a a"
+    },
+    {
+      "start_ms": 258160,
+      "duration_ms": 5759,
+      "text": "sidebar SAS where you know we'll share"
+    },
+    {
+      "start_ms": 261280,
+      "duration_ms": 4800,
+      "text": "this later but it's going to use an API"
+    },
+    {
+      "start_ms": 263919,
+      "duration_ms": 4081,
+      "text": "that exists which is documented. So"
+    },
+    {
+      "start_ms": 266080,
+      "duration_ms": 4240,
+      "text": "that's the best way to do it. Find one"
+    },
+    {
+      "start_ms": 268000,
+      "duration_ms": 3759,
+      "text": "that's documented and then what you're"
+    },
+    {
+      "start_ms": 270320,
+      "duration_ms": 3360,
+      "text": "going to do is you're going to say we're"
+    },
+    {
+      "start_ms": 271759,
+      "duration_ms": 3440,
+      "text": "going to get it out of that API and then"
+    },
+    {
+      "start_ms": 273680,
+      "duration_ms": 3040,
+      "text": "you're going to have statuses. You're"
+    },
+    {
+      "start_ms": 275199,
+      "duration_ms": 4961,
+      "text": "going to display that to the user. So"
+    },
+    {
+      "start_ms": 276720,
+      "duration_ms": 5520,
+      "text": "you're going to have that. Uh so I built"
+    },
+    {
+      "start_ms": 280160,
+      "duration_ms": 4880,
+      "text": "the prompt for people. This is a oneshot"
+    },
+    {
+      "start_ms": 282240,
+      "duration_ms": 5280,
+      "text": "sort of yellow type prompt. Uh yellow"
+    },
+    {
+      "start_ms": 285040,
+      "duration_ms": 4560,
+      "text": "stands for you only live once kind of"
+    },
+    {
+      "start_ms": 287520,
+      "duration_ms": 4160,
+      "text": "prompt. Uh developers might not like"
+    },
+    {
+      "start_ms": 289600,
+      "duration_ms": 4319,
+      "text": "this, but it's sort of easier now,"
+    },
+    {
+      "start_ms": 291680,
+      "duration_ms": 5280,
+      "text": "right? You can get these applications"
+    },
+    {
+      "start_ms": 293919,
+      "duration_ms": 3441,
+      "text": "built pretty quickly, right?"
+    },
+    {
+      "start_ms": 296960,
+      "duration_ms": 2320,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 297360,
+      "duration_ms": 4640,
+      "text": ">> Real quick, Jesse, could you shrink the"
+    },
+    {
+      "start_ms": 299280,
+      "duration_ms": 4479,
+      "text": "width of your screen? It'll make the"
+    },
+    {
+      "start_ms": 302000,
+      "duration_ms": 5520,
+      "text": "text bigger"
+    },
+    {
+      "start_ms": 303759,
+      "duration_ms": 6880,
+      "text": ">> uh for the folks. That is beautiful."
+    },
+    {
+      "start_ms": 307520,
+      "duration_ms": 5679,
+      "text": "How's that everybody? Is that good? Um"
+    },
+    {
+      "start_ms": 310639,
+      "duration_ms": 4481,
+      "text": "and so, and then just to so we have so"
+    },
+    {
+      "start_ms": 313199,
+      "duration_ms": 3521,
+      "text": "we're we have this yolo prompt, this"
+    },
+    {
+      "start_ms": 315120,
+      "duration_ms": 5280,
+      "text": "huge freaking prompt that you're going"
+    },
+    {
+      "start_ms": 316720,
+      "duration_ms": 5600,
+      "text": "to put into Vzero. So chat GBT is not"
+    },
+    {
+      "start_ms": 320400,
+      "duration_ms": 4079,
+      "text": "going to be doing the coding itself, but"
+    },
+    {
+      "start_ms": 322320,
+      "duration_ms": 4480,
+      "text": "what you're doing with chat GBT is"
+    },
+    {
+      "start_ms": 324479,
+      "duration_ms": 4801,
+      "text": "formulating this really really long"
+    },
+    {
+      "start_ms": 326800,
+      "duration_ms": 5440,
+      "text": "prompt that would take probably forever"
+    },
+    {
+      "start_ms": 329280,
+      "duration_ms": 5280,
+      "text": "and wouldn't be as clean for a another"
+    },
+    {
+      "start_ms": 332240,
+      "duration_ms": 5360,
+      "text": "bot to understand. So we're like having"
+    },
+    {
+      "start_ms": 334560,
+      "duration_ms": 5040,
+      "text": "one bot draftable prompt for another bot"
+    },
+    {
+      "start_ms": 337600,
+      "duration_ms": 4400,
+      "text": "and this as you described as the YOLO"
+    },
+    {
+      "start_ms": 339600,
+      "duration_ms": 4319,
+      "text": "prompt has everything. So what are the"
+    },
+    {
+      "start_ms": 342000,
+      "duration_ms": 4880,
+      "text": "the main sort of things in here? We have"
+    },
+    {
+      "start_ms": 343919,
+      "duration_ms": 4000,
+      "text": "the data and API integration."
+    },
+    {
+      "start_ms": 346880,
+      "duration_ms": 2640,
+      "text": "What else is in here?"
+    },
+    {
+      "start_ms": 347919,
+      "duration_ms": 3361,
+      "text": ">> So you get So basically for the"
+    },
+    {
+      "start_ms": 349520,
+      "duration_ms": 3440,
+      "text": "application, you know, and look, we took"
+    },
+    {
+      "start_ms": 351280,
+      "duration_ms": 3600,
+      "text": "a pretty big chance here by doing this"
+    },
+    {
+      "start_ms": 352960,
+      "duration_ms": 3120,
+      "text": "live. Of course, there could be bugs."
+    },
+    {
+      "start_ms": 354880,
+      "duration_ms": 3520,
+      "text": "We're not sure. That's why we want to"
+    },
+    {
+      "start_ms": 356080,
+      "duration_ms": 4640,
+      "text": "keep you in suspense here. But basically"
+    },
+    {
+      "start_ms": 358400,
+      "duration_ms": 5040,
+      "text": "what we're doing is we're building a an"
+    },
+    {
+      "start_ms": 360720,
+      "duration_ms": 4560,
+      "text": "application on uh you know, some of the"
+    },
+    {
+      "start_ms": 363440,
+      "duration_ms": 3840,
+      "text": "latest technologies that's out there."
+    },
+    {
+      "start_ms": 365280,
+      "duration_ms": 4800,
+      "text": "It's a champion tracker app. It's going"
+    },
+    {
+      "start_ms": 367280,
+      "duration_ms": 5359,
+      "text": "to have a login screen, a dashboard. uh"
+    },
+    {
+      "start_ms": 370080,
+      "duration_ms": 4320,
+      "text": "in there it's going to have sort of two"
+    },
+    {
+      "start_ms": 372639,
+      "duration_ms": 3201,
+      "text": "uh it's going to have like a dashboard"
+    },
+    {
+      "start_ms": 374400,
+      "duration_ms": 4400,
+      "text": "with a bunch of cards that are"
+    },
+    {
+      "start_ms": 375840,
+      "duration_ms": 4799,
+      "text": "summarizing a watch list. Now what a"
+    },
+    {
+      "start_ms": 378800,
+      "duration_ms": 4160,
+      "text": "watch list will be is that'll be your"
+    },
+    {
+      "start_ms": 380639,
+      "duration_ms": 4321,
+      "text": "your standard uh like champions that"
+    },
+    {
+      "start_ms": 382960,
+      "duration_ms": 3679,
+      "text": "you're watching. So some people have"
+    },
+    {
+      "start_ms": 384960,
+      "duration_ms": 3040,
+      "text": "used like user jams or things like that."
+    },
+    {
+      "start_ms": 386639,
+      "duration_ms": 3201,
+      "text": "I mean they have a lot more in their"
+    },
+    {
+      "start_ms": 388000,
+      "duration_ms": 4720,
+      "text": "platforms but this is similar to those"
+    },
+    {
+      "start_ms": 389840,
+      "duration_ms": 4560,
+      "text": "types of technologies right uh you know"
+    },
+    {
+      "start_ms": 392720,
+      "duration_ms": 3520,
+      "text": "they they kind of watch champions to see"
+    },
+    {
+      "start_ms": 394400,
+      "duration_ms": 3919,
+      "text": "if they move companies. That's sort of"
+    },
+    {
+      "start_ms": 396240,
+      "duration_ms": 4320,
+      "text": "the the mindset is is if your champion"
+    },
+    {
+      "start_ms": 398319,
+      "duration_ms": 5281,
+      "text": "moves to another company, you might be"
+    },
+    {
+      "start_ms": 400560,
+      "duration_ms": 7440,
+      "text": "able to sell them more technology."
+    },
+    {
+      "start_ms": 403600,
+      "duration_ms": 6640,
+      "text": "Um, so that's sort of where that goes."
+    },
+    {
+      "start_ms": 408000,
+      "duration_ms": 6800,
+      "text": "And then you're going to be able to add"
+    },
+    {
+      "start_ms": 410240,
+      "duration_ms": 6320,
+      "text": "uh some champions to the the to the list"
+    },
+    {
+      "start_ms": 414800,
+      "duration_ms": 3679,
+      "text": "and you give it the company name and"
+    },
+    {
+      "start_ms": 416560,
+      "duration_ms": 3919,
+      "text": "you'll they'll know then you know where"
+    },
+    {
+      "start_ms": 418479,
+      "duration_ms": 3681,
+      "text": "they've moved to."
+    },
+    {
+      "start_ms": 420479,
+      "duration_ms": 3761,
+      "text": ">> So"
+    },
+    {
+      "start_ms": 422160,
+      "duration_ms": 4000,
+      "text": "Oh yeah, sorry. Continue."
+    },
+    {
+      "start_ms": 424240,
+      "duration_ms": 3679,
+      "text": ">> Yeah. So just that that's the dashboard"
+    },
+    {
+      "start_ms": 426160,
+      "duration_ms": 3200,
+      "text": "side. So yeah, if you have any questions"
+    },
+    {
+      "start_ms": 427919,
+      "duration_ms": 3120,
+      "text": "there, that'll be like what's on the"
+    },
+    {
+      "start_ms": 429360,
+      "duration_ms": 4320,
+      "text": "dashboard."
+    },
+    {
+      "start_ms": 431039,
+      "duration_ms": 4880,
+      "text": ">> So what is the So and let's just connect"
+    },
+    {
+      "start_ms": 433680,
+      "duration_ms": 4160,
+      "text": "this back to the original prompt. So the"
+    },
+    {
+      "start_ms": 435919,
+      "duration_ms": 4161,
+      "text": "original prompt from you. So like you"
+    },
+    {
+      "start_ms": 437840,
+      "duration_ms": 3600,
+      "text": "have a prompt and we'll we'll guys we'll"
+    },
+    {
+      "start_ms": 440080,
+      "duration_ms": 3280,
+      "text": "find some way to give you this prompt"
+    },
+    {
+      "start_ms": 441440,
+      "duration_ms": 3520,
+      "text": "after the show. Maybe we'll follow Jesse"
+    },
+    {
+      "start_ms": 443360,
+      "duration_ms": 2959,
+      "text": "on LinkedIn and we'll we'll we'll"
+    },
+    {
+      "start_ms": 444960,
+      "duration_ms": 3760,
+      "text": "promote it or something and we'll send"
+    },
+    {
+      "start_ms": 446319,
+      "duration_ms": 5761,
+      "text": "it to you. But um let's connect this to"
+    },
+    {
+      "start_ms": 448720,
+      "duration_ms": 5039,
+      "text": "the the smaller prompt that we're going"
+    },
+    {
+      "start_ms": 452080,
+      "duration_ms": 4640,
+      "text": "to say prompt a billion times during"
+    },
+    {
+      "start_ms": 453759,
+      "duration_ms": 4401,
+      "text": "this show. the smaller prompt generated"
+    },
+    {
+      "start_ms": 456720,
+      "duration_ms": 4640,
+      "text": "this prompt which you're going to give"
+    },
+    {
+      "start_ms": 458160,
+      "duration_ms": 5520,
+      "text": "to v 0ero. What was the line in the"
+    },
+    {
+      "start_ms": 461360,
+      "duration_ms": 3839,
+      "text": "smaller prompt that sort of outlined"
+    },
+    {
+      "start_ms": 463680,
+      "duration_ms": 3519,
+      "text": "that that was what you needed?"
+    },
+    {
+      "start_ms": 465199,
+      "duration_ms": 4400,
+      "text": ">> Just I just put like a like build a"
+    },
+    {
+      "start_ms": 467199,
+      "duration_ms": 4720,
+      "text": "vzero prompt and then gave it sort of"
+    },
+    {
+      "start_ms": 469599,
+      "duration_ms": 5600,
+      "text": "the API information that I wanted to use"
+    },
+    {
+      "start_ms": 471919,
+      "duration_ms": 5680,
+      "text": "and then sort of inspiration of where I"
+    },
+    {
+      "start_ms": 475199,
+      "duration_ms": 4961,
+      "text": "wanted how I wanted to scaffold the the"
+    },
+    {
+      "start_ms": 477599,
+      "duration_ms": 4241,
+      "text": "actual application. So it started"
+    },
+    {
+      "start_ms": 480160,
+      "duration_ms": 3920,
+      "text": ">> there was a lot of invention from chat"
+    },
+    {
+      "start_ms": 481840,
+      "duration_ms": 4000,
+      "text": "GPT here like it it really kind of"
+    },
+    {
+      "start_ms": 484080,
+      "duration_ms": 3440,
+      "text": ">> Yeah. Yeah. Yeah, that's the key."
+    },
+    {
+      "start_ms": 485840,
+      "duration_ms": 3359,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 487520,
+      "duration_ms": 3679,
+      "text": ">> And this type of prompt, you could"
+    },
+    {
+      "start_ms": 489199,
+      "duration_ms": 3840,
+      "text": "convert it to Bolt, you could convert it"
+    },
+    {
+      "start_ms": 491199,
+      "duration_ms": 4400,
+      "text": "to Vzero, you could convert it to"
+    },
+    {
+      "start_ms": 493039,
+      "duration_ms": 5440,
+      "text": "lovable or whatever technology system"
+    },
+    {
+      "start_ms": 495599,
+      "duration_ms": 4561,
+      "text": "you wanted to, uh, you know, and build"
+    },
+    {
+      "start_ms": 498479,
+      "duration_ms": 3041,
+      "text": "whatever app. And this is where I think"
+    },
+    {
+      "start_ms": 500160,
+      "duration_ms": 3599,
+      "text": "it gets really interesting because"
+    },
+    {
+      "start_ms": 501520,
+      "duration_ms": 4079,
+      "text": "really anybody can build an app as good"
+    },
+    {
+      "start_ms": 503759,
+      "duration_ms": 4801,
+      "text": "as the ones that are out on the market"
+    },
+    {
+      "start_ms": 505599,
+      "duration_ms": 5841,
+      "text": "today, right? uh there is security and"
+    },
+    {
+      "start_ms": 508560,
+      "duration_ms": 4640,
+      "text": "there's some some other issues and I've"
+    },
+    {
+      "start_ms": 511440,
+      "duration_ms": 5200,
+      "text": "tried to like mitigate a lot of that in"
+    },
+    {
+      "start_ms": 513200,
+      "duration_ms": 5279,
+      "text": "this app but you know you'd want to uh"
+    },
+    {
+      "start_ms": 516640,
+      "duration_ms": 3759,
+      "text": "security governance operation you want"
+    },
+    {
+      "start_ms": 518479,
+      "duration_ms": 5440,
+      "text": "to be very careful there before you ship"
+    },
+    {
+      "start_ms": 520399,
+      "duration_ms": 5041,
+      "text": "it like completely ship it but there's"
+    },
+    {
+      "start_ms": 523919,
+      "duration_ms": 2721,
+      "text": "definitely services out there that could"
+    },
+    {
+      "start_ms": 525440,
+      "duration_ms": 2800,
+      "text": "do that. So, if you're like in your"
+    },
+    {
+      "start_ms": 526640,
+      "duration_ms": 4800,
+      "text": "career right now and you absolutely hate"
+    },
+    {
+      "start_ms": 528240,
+      "duration_ms": 5760,
+      "text": "your job, you might want to think about"
+    },
+    {
+      "start_ms": 531440,
+      "duration_ms": 3760,
+      "text": "um getting an MVP ready because, you"
+    },
+    {
+      "start_ms": 534000,
+      "duration_ms": 2080,
+      "text": "know, I'm always like, you know,"
+    },
+    {
+      "start_ms": 535200,
+      "duration_ms": 2639,
+      "text": "somebody's like, \"Yeah, I'm thinking"
+    },
+    {
+      "start_ms": 536080,
+      "duration_ms": 3439,
+      "text": "about an MVP.\" But like the more you"
+    },
+    {
+      "start_ms": 537839,
+      "duration_ms": 3120,
+      "text": "think about these things, you could"
+    },
+    {
+      "start_ms": 539519,
+      "duration_ms": 3361,
+      "text": "probably be already have revenue and"
+    },
+    {
+      "start_ms": 540959,
+      "duration_ms": 3761,
+      "text": "you're coming in before you're even"
+    },
+    {
+      "start_ms": 542880,
+      "duration_ms": 4560,
+      "text": "before you're even there. And I'll add"
+    },
+    {
+      "start_ms": 544720,
+      "duration_ms": 5119,
+      "text": "to that Vzero and Chat GPT. I mean,"
+    },
+    {
+      "start_ms": 547440,
+      "duration_ms": 4079,
+      "text": "granted the the beast versions of both"
+    },
+    {
+      "start_ms": 549839,
+      "duration_ms": 3041,
+      "text": "systems you have to pay a little bit of"
+    },
+    {
+      "start_ms": 551519,
+      "duration_ms": 3440,
+      "text": "money for. Although, granted, I think"
+    },
+    {
+      "start_ms": 552880,
+      "duration_ms": 4560,
+      "text": "combined I pay like 40 bucks a month or"
+    },
+    {
+      "start_ms": 554959,
+      "duration_ms": 4000,
+      "text": "something for Vzero and GPT, but like"
+    },
+    {
+      "start_ms": 557440,
+      "duration_ms": 3600,
+      "text": "you can literally start doing that for"
+    },
+    {
+      "start_ms": 558959,
+      "duration_ms": 3521,
+      "text": "free with no expertise. Jesse's a sales"
+    },
+    {
+      "start_ms": 561040,
+      "duration_ms": 2960,
+      "text": "and marketing guy. I'm a sales and"
+    },
+    {
+      "start_ms": 562480,
+      "duration_ms": 3840,
+      "text": "marketing guy. Granted, I can't build"
+    },
+    {
+      "start_ms": 564000,
+      "duration_ms": 5279,
+      "text": "these apps the way Jesse does just yet."
+    },
+    {
+      "start_ms": 566320,
+      "duration_ms": 5280,
+      "text": "I'm too new at this, but uh it is it is"
+    },
+    {
+      "start_ms": 569279,
+      "duration_ms": 4721,
+      "text": "incredibly empowering. Um, I'll continue"
+    },
+    {
+      "start_ms": 571600,
+      "duration_ms": 5440,
+      "text": "to drop in the tools into the chat here."
+    },
+    {
+      "start_ms": 574000,
+      "duration_ms": 4800,
+      "text": "Um, just so you guys at home can uh can"
+    },
+    {
+      "start_ms": 577040,
+      "duration_ms": 4560,
+      "text": "copy them down into sort of your short"
+    },
+    {
+      "start_ms": 578800,
+      "duration_ms": 5120,
+      "text": "list of of things to explore. Um, and"
+    },
+    {
+      "start_ms": 581600,
+      "duration_ms": 4320,
+      "text": "and so we're going to hop over to Vzero"
+    },
+    {
+      "start_ms": 583920,
+      "duration_ms": 3599,
+      "text": "in just a second. Uh, for folks who"
+    },
+    {
+      "start_ms": 585920,
+      "duration_ms": 4320,
+      "text": "maybe just joined, Jesse, can you just"
+    },
+    {
+      "start_ms": 587519,
+      "duration_ms": 5121,
+      "text": "give a high level like very high level"
+    },
+    {
+      "start_ms": 590240,
+      "duration_ms": 4480,
+      "text": "overview of of of the Champion Tracker?"
+    },
+    {
+      "start_ms": 592640,
+      "duration_ms": 4720,
+      "text": "What is the overall value and sort of"
+    },
+    {
+      "start_ms": 594720,
+      "duration_ms": 5520,
+      "text": "pitch of what this app does? the the"
+    },
+    {
+      "start_ms": 597360,
+      "duration_ms": 4800,
+      "text": "pitch of the app is uh the this one"
+    },
+    {
+      "start_ms": 600240,
+      "duration_ms": 3440,
+      "text": "right here what it does is it will check"
+    },
+    {
+      "start_ms": 602160,
+      "duration_ms": 3280,
+      "text": "so if you have people that you want to"
+    },
+    {
+      "start_ms": 603680,
+      "duration_ms": 5520,
+      "text": "keep an eye on your customers or or"
+    },
+    {
+      "start_ms": 605440,
+      "duration_ms": 5680,
+      "text": "whatever the v V0 of the app right like"
+    },
+    {
+      "start_ms": 609200,
+      "duration_ms": 3759,
+      "text": "that's the first version of it the MVP"
+    },
+    {
+      "start_ms": 611120,
+      "duration_ms": 4240,
+      "text": "like that's what it stands for is going"
+    },
+    {
+      "start_ms": 612959,
+      "duration_ms": 4721,
+      "text": "to be just like a dashboard and I"
+    },
+    {
+      "start_ms": 615360,
+      "duration_ms": 4159,
+      "text": "started similarly the same way with my"
+    },
+    {
+      "start_ms": 617680,
+      "duration_ms": 4399,
+      "text": "app where it was just an email"
+    },
+    {
+      "start_ms": 619519,
+      "duration_ms": 5921,
+      "text": "validation which everybody does email"
+    },
+    {
+      "start_ms": 622079,
+      "duration_ms": 4721,
+      "text": "validation right um but you know this is"
+    },
+    {
+      "start_ms": 625440,
+      "duration_ms": 3120,
+      "text": "the starting point, right? Something"
+    },
+    {
+      "start_ms": 626800,
+      "duration_ms": 4080,
+      "text": "that you're building on. So, dashboard"
+    },
+    {
+      "start_ms": 628560,
+      "duration_ms": 4480,
+      "text": "when you got, you know, the person"
+    },
+    {
+      "start_ms": 630880,
+      "duration_ms": 4399,
+      "text": "hasn't changed jobs. So, you submit what"
+    },
+    {
+      "start_ms": 633040,
+      "duration_ms": 4320,
+      "text": "the theory is is you submit somebody's"
+    },
+    {
+      "start_ms": 635279,
+      "duration_ms": 3601,
+      "text": "uh information to this. You submit like"
+    },
+    {
+      "start_ms": 637360,
+      "duration_ms": 3280,
+      "text": "their their business information and"
+    },
+    {
+      "start_ms": 638880,
+      "duration_ms": 4399,
+      "text": "then what happens on the other side of"
+    },
+    {
+      "start_ms": 640640,
+      "duration_ms": 4240,
+      "text": "it is it detects if they've changed"
+    },
+    {
+      "start_ms": 643279,
+      "duration_ms": 3761,
+      "text": "jobs,"
+    },
+    {
+      "start_ms": 644880,
+      "duration_ms": 5040,
+      "text": "if they've never worked there or if"
+    },
+    {
+      "start_ms": 647040,
+      "duration_ms": 5359,
+      "text": "there's no change, right? Like those are"
+    },
+    {
+      "start_ms": 649920,
+      "duration_ms": 5280,
+      "text": "like the statuses, right? And then you"
+    },
+    {
+      "start_ms": 652399,
+      "duration_ms": 5361,
+      "text": "could use this is just using an API to"
+    },
+    {
+      "start_ms": 655200,
+      "duration_ms": 5920,
+      "text": "do that, right? Some of these APIs are"
+    },
+    {
+      "start_ms": 657760,
+      "duration_ms": 5519,
+      "text": "through like they're in Clay now, but"
+    },
+    {
+      "start_ms": 661120,
+      "duration_ms": 5920,
+      "text": "obviously Lead Magic has the APIs as"
+    },
+    {
+      "start_ms": 663279,
+      "duration_ms": 6000,
+      "text": "well to do this, but there's other ways"
+    },
+    {
+      "start_ms": 667040,
+      "duration_ms": 4160,
+      "text": "to, you know, there's a lot of APIs out"
+    },
+    {
+      "start_ms": 669279,
+      "duration_ms": 3921,
+      "text": "there and that's the what ends up coming"
+    },
+    {
+      "start_ms": 671200,
+      "duration_ms": 3840,
+      "text": "to the user, the presentation layer. So,"
+    },
+    {
+      "start_ms": 673200,
+      "duration_ms": 3600,
+      "text": "it's wherever your mind could go with"
+    },
+    {
+      "start_ms": 675040,
+      "duration_ms": 3440,
+      "text": "with this, right?"
+    },
+    {
+      "start_ms": 676800,
+      "duration_ms": 4080,
+      "text": ">> Yeah. And for for the folks at home,"
+    },
+    {
+      "start_ms": 678480,
+      "duration_ms": 4640,
+      "text": "just think of like what other things do"
+    },
+    {
+      "start_ms": 680880,
+      "duration_ms": 4720,
+      "text": "I need to connect together because I"
+    },
+    {
+      "start_ms": 683120,
+      "duration_ms": 4080,
+      "text": "mean shoot if you look at even your own"
+    },
+    {
+      "start_ms": 685600,
+      "duration_ms": 3280,
+      "text": "SAS platforms. I mean think of how many"
+    },
+    {
+      "start_ms": 687200,
+      "duration_ms": 3759,
+      "text": "things are connected together in order"
+    },
+    {
+      "start_ms": 688880,
+      "duration_ms": 4720,
+      "text": "to just make that thing operate. Usually"
+    },
+    {
+      "start_ms": 690959,
+      "duration_ms": 5761,
+      "text": "in almost every case it's not purely"
+    },
+    {
+      "start_ms": 693600,
+      "duration_ms": 4720,
+      "text": "your own code you have to use. I mean"
+    },
+    {
+      "start_ms": 696720,
+      "duration_ms": 3520,
+      "text": "look even if you're just using a payment"
+    },
+    {
+      "start_ms": 698320,
+      "duration_ms": 3360,
+      "text": "processor like you still have to API"
+    },
+    {
+      "start_ms": 700240,
+      "duration_ms": 3360,
+      "text": "things over. So, it's really a matter of"
+    },
+    {
+      "start_ms": 701680,
+      "duration_ms": 4159,
+      "text": "like what outside functionality do I"
+    },
+    {
+      "start_ms": 703600,
+      "duration_ms": 4720,
+      "text": "need that I can't build myself,"
+    },
+    {
+      "start_ms": 705839,
+      "duration_ms": 6161,
+      "text": ">> looping that into your prompt, and then"
+    },
+    {
+      "start_ms": 708320,
+      "duration_ms": 6480,
+      "text": "um really a lot of the heavy lifting um"
+    },
+    {
+      "start_ms": 712000,
+      "duration_ms": 4800,
+      "text": "uh is is happened by the uh by by the"
+    },
+    {
+      "start_ms": 714800,
+      "duration_ms": 3599,
+      "text": "bot. Um just a couple things in the"
+    },
+    {
+      "start_ms": 716800,
+      "duration_ms": 2800,
+      "text": "chat. Laura says, \"I'm a strategy girl"
+    },
+    {
+      "start_ms": 718399,
+      "duration_ms": 2721,
+      "text": "and I've started the process of building"
+    },
+    {
+      "start_ms": 719600,
+      "duration_ms": 2960,
+      "text": "my own app and chat GBT. It's"
+    },
+    {
+      "start_ms": 721120,
+      "duration_ms": 4320,
+      "text": "overwhelming and liberating at the same"
+    },
+    {
+      "start_ms": 722560,
+      "duration_ms": 4800,
+      "text": "time.\" I hear that. Other Laura said,"
+    },
+    {
+      "start_ms": 725440,
+      "duration_ms": 3680,
+      "text": "\"How do you handle bugs?\" We will get to"
+    },
+    {
+      "start_ms": 727360,
+      "duration_ms": 3599,
+      "text": "bugs. Let's get something buggy."
+    },
+    {
+      "start_ms": 729120,
+      "duration_ms": 4880,
+      "text": ">> We have one now actually. So, we got"
+    },
+    {
+      "start_ms": 730959,
+      "duration_ms": 5601,
+      "text": "some suspense here actually. Uh,"
+    },
+    {
+      "start_ms": 734000,
+      "duration_ms": 5519,
+      "text": ">> but yeah, we'll get there. Um, this is"
+    },
+    {
+      "start_ms": 736560,
+      "duration_ms": 5279,
+      "text": "funny. It's kind of happening, but uh"
+    },
+    {
+      "start_ms": 739519,
+      "duration_ms": 4000,
+      "text": "but yeah, so you know, you we'll keep"
+    },
+    {
+      "start_ms": 741839,
+      "duration_ms": 3201,
+      "text": "going through it. And then like the UI"
+    },
+    {
+      "start_ms": 743519,
+      "duration_ms": 2801,
+      "text": "components,"
+    },
+    {
+      "start_ms": 745040,
+      "duration_ms": 3520,
+      "text": "uh, you know, there's a lot of places"
+    },
+    {
+      "start_ms": 746320,
+      "duration_ms": 4400,
+      "text": "for the UI components to come now. Like"
+    },
+    {
+      "start_ms": 748560,
+      "duration_ms": 5279,
+      "text": "one one UI component package that a lot"
+    },
+    {
+      "start_ms": 750720,
+      "duration_ms": 6720,
+      "text": "of people use is, uh, Shad CN, which is,"
+    },
+    {
+      "start_ms": 753839,
+      "duration_ms": 5841,
+      "text": "um, you know, there's a lot of different"
+    },
+    {
+      "start_ms": 757440,
+      "duration_ms": 4639,
+      "text": "dashboards in here and stuff. So you can"
+    },
+    {
+      "start_ms": 759680,
+      "duration_ms": 3760,
+      "text": "you can sort of do these and yeah it's"
+    },
+    {
+      "start_ms": 762079,
+      "duration_ms": 2961,
+      "text": "starting to get to the point where all"
+    },
+    {
+      "start_ms": 763440,
+      "duration_ms": 3360,
+      "text": "of these applications are looking very"
+    },
+    {
+      "start_ms": 765040,
+      "duration_ms": 4000,
+      "text": "similar now right because they're using"
+    },
+    {
+      "start_ms": 766800,
+      "duration_ms": 5839,
+      "text": "a lot of the same building blocks but"
+    },
+    {
+      "start_ms": 769040,
+      "duration_ms": 6479,
+      "text": "you can open these uh you know inside"
+    },
+    {
+      "start_ms": 772639,
+      "duration_ms": 6561,
+      "text": "VZero to like use them right and that"
+    },
+    {
+      "start_ms": 775519,
+      "duration_ms": 5281,
+      "text": "allows you to get a lot more out of you"
+    },
+    {
+      "start_ms": 779200,
+      "duration_ms": 3040,
+      "text": "know your your investment there so you"
+    },
+    {
+      "start_ms": 780800,
+      "duration_ms": 4560,
+      "text": "don't have to you know the components"
+    },
+    {
+      "start_ms": 782240,
+      "duration_ms": 4960,
+      "text": "are really built already right uh you"
+    },
+    {
+      "start_ms": 785360,
+      "duration_ms": 4080,
+      "text": "might make some tweaks to the colors and"
+    },
+    {
+      "start_ms": 787200,
+      "duration_ms": 4560,
+      "text": "things like that but don't So, don't go"
+    },
+    {
+      "start_ms": 789440,
+      "duration_ms": 4480,
+      "text": "hiring like a um a lot of people would"
+    },
+    {
+      "start_ms": 791760,
+      "duration_ms": 3920,
+      "text": "hire like a designer or something. Like"
+    },
+    {
+      "start_ms": 793920,
+      "duration_ms": 4719,
+      "text": "a lot of that stuff is gone, right? It's"
+    },
+    {
+      "start_ms": 795680,
+      "duration_ms": 4000,
+      "text": "not really the um the world anymore,"
+    },
+    {
+      "start_ms": 798639,
+      "duration_ms": 2320,
+      "text": "right?"
+    },
+    {
+      "start_ms": 799680,
+      "duration_ms": 2959,
+      "text": ">> Even to the point where like you can"
+    },
+    {
+      "start_ms": 800959,
+      "duration_ms": 4161,
+      "text": "have this app. I don't know if everybody"
+    },
+    {
+      "start_ms": 802639,
+      "duration_ms": 4561,
+      "text": "in here knows this. Um but you could h"
+    },
+    {
+      "start_ms": 805120,
+      "duration_ms": 4800,
+      "text": "like let's say Jesse has the app fully"
+    },
+    {
+      "start_ms": 807200,
+      "duration_ms": 4160,
+      "text": "built. You could literally screenshot"
+    },
+    {
+      "start_ms": 809920,
+      "duration_ms": 4000,
+      "text": "let's say I built an app. I could"
+    },
+    {
+      "start_ms": 811360,
+      "duration_ms": 3840,
+      "text": "screenshot if I really love Lead Magic's"
+    },
+    {
+      "start_ms": 813920,
+      "duration_ms": 2880,
+      "text": "you know interface which is a great"
+    },
+    {
+      "start_ms": 815200,
+      "duration_ms": 2879,
+      "text": "interface. I could just screenshot them"
+    },
+    {
+      "start_ms": 816800,
+      "duration_ms": 3599,
+      "text": "and be like, \"Make it look more like"
+    },
+    {
+      "start_ms": 818079,
+      "duration_ms": 5361,
+      "text": "lead magic and it would totally recode"
+    },
+    {
+      "start_ms": 820399,
+      "duration_ms": 5440,
+      "text": "it to to look like that.\" So, it's like"
+    },
+    {
+      "start_ms": 823440,
+      "duration_ms": 4560,
+      "text": "you just have to know what you want uh"
+    },
+    {
+      "start_ms": 825839,
+      "duration_ms": 3921,
+      "text": "for the most part. Um and it will it'll"
+    },
+    {
+      "start_ms": 828000,
+      "duration_ms": 5600,
+      "text": "spit it out. Now, there's some questions"
+    },
+    {
+      "start_ms": 829760,
+      "duration_ms": 5120,
+      "text": "on bugs in the in the chat here. So, um"
+    },
+    {
+      "start_ms": 833600,
+      "duration_ms": 3520,
+      "text": "Caitlyn said, \"I've been I've been"
+    },
+    {
+      "start_ms": 834880,
+      "duration_ms": 4560,
+      "text": "vibing Cody on Lovable and the dashboard"
+    },
+    {
+      "start_ms": 837120,
+      "duration_ms": 5600,
+      "text": "looked incredible, but the functionality"
+    },
+    {
+      "start_ms": 839440,
+      "duration_ms": 5440,
+      "text": "was terrible.\" Uh she says it literally"
+    },
+    {
+      "start_ms": 842720,
+      "duration_ms": 3760,
+      "text": "did not work at all. Uh and I saw a"
+    },
+    {
+      "start_ms": 844880,
+      "duration_ms": 4959,
+      "text": "couple of other thing Nisha said I have"
+    },
+    {
+      "start_ms": 846480,
+      "duration_ms": 5200,
+      "text": "versile cursor lovable rilet uh she you"
+    },
+    {
+      "start_ms": 849839,
+      "duration_ms": 4000,
+      "text": "know Nisha just doesn't know what to use"
+    },
+    {
+      "start_ms": 851680,
+      "duration_ms": 5360,
+      "text": "for which one. So just in the world of"
+    },
+    {
+      "start_ms": 853839,
+      "duration_ms": 5201,
+      "text": "actually like you know getting something"
+    },
+    {
+      "start_ms": 857040,
+      "duration_ms": 3520,
+      "text": "for for the beginners getting something"
+    },
+    {
+      "start_ms": 859040,
+      "duration_ms": 3440,
+      "text": "that's functional and not just a"
+    },
+    {
+      "start_ms": 860560,
+      "duration_ms": 4719,
+      "text": "beautiful dashboard. Are there certain"
+    },
+    {
+      "start_ms": 862480,
+      "duration_ms": 4320,
+      "text": "things that you use you know systems you"
+    },
+    {
+      "start_ms": 865279,
+      "duration_ms": 5041,
+      "text": "use to I guess"
+    },
+    {
+      "start_ms": 866800,
+      "duration_ms": 5680,
+      "text": ">> uh yeah one of the ones that I so if"
+    },
+    {
+      "start_ms": 870320,
+      "duration_ms": 4480,
+      "text": "that's happening typically it's about"
+    },
+    {
+      "start_ms": 872480,
+      "duration_ms": 5359,
+      "text": "how you plan the application in the"
+    },
+    {
+      "start_ms": 874800,
+      "duration_ms": 5599,
+      "text": "beginning uh and how you use the rules."
+    },
+    {
+      "start_ms": 877839,
+      "duration_ms": 3680,
+      "text": "So if for the new the newest users I"
+    },
+    {
+      "start_ms": 880399,
+      "duration_ms": 5841,
+      "text": "would start with something like a"
+    },
+    {
+      "start_ms": 881519,
+      "duration_ms": 7281,
+      "text": "lovable or bolt or vzero right or replet"
+    },
+    {
+      "start_ms": 886240,
+      "duration_ms": 6719,
+      "text": "like more of a less about the code more"
+    },
+    {
+      "start_ms": 888800,
+      "duration_ms": 7200,
+      "text": "about the uh actual how the UI UX looks"
+    },
+    {
+      "start_ms": 892959,
+      "duration_ms": 4161,
+      "text": "on the presentation layer but what's"
+    },
+    {
+      "start_ms": 896000,
+      "duration_ms": 2320,
+      "text": "going to happen is you're going to need"
+    },
+    {
+      "start_ms": 897120,
+      "duration_ms": 3360,
+      "text": "to get some functionality so you're"
+    },
+    {
+      "start_ms": 898320,
+      "duration_ms": 3199,
+      "text": "going to need to access like APIs and"
+    },
+    {
+      "start_ms": 900480,
+      "duration_ms": 3599,
+      "text": "you're going to need to access other"
+    },
+    {
+      "start_ms": 901519,
+      "duration_ms": 4000,
+      "text": "things. That's the part where it gets a"
+    },
+    {
+      "start_ms": 904079,
+      "duration_ms": 3440,
+      "text": "little tricky where you might need"
+    },
+    {
+      "start_ms": 905519,
+      "duration_ms": 6161,
+      "text": "somebody that's done it a few times"
+    },
+    {
+      "start_ms": 907519,
+      "duration_ms": 6241,
+      "text": "before. Uh, you know, and that is where"
+    },
+    {
+      "start_ms": 911680,
+      "duration_ms": 3599,
+      "text": "the the problem comes. It's it's usually"
+    },
+    {
+      "start_ms": 913760,
+      "duration_ms": 3920,
+      "text": "the two areas that people have a problem"
+    },
+    {
+      "start_ms": 915279,
+      "duration_ms": 6481,
+      "text": "with is like the security like the"
+    },
+    {
+      "start_ms": 917680,
+      "duration_ms": 6320,
+      "text": "authentication and and the um"
+    },
+    {
+      "start_ms": 921760,
+      "duration_ms": 4400,
+      "text": "like getting through that is a little"
+    },
+    {
+      "start_ms": 924000,
+      "duration_ms": 5040,
+      "text": "bit hard, right? And then the other one"
+    },
+    {
+      "start_ms": 926160,
+      "duration_ms": 5359,
+      "text": "is like operations like does it get all"
+    },
+    {
+      "start_ms": 929040,
+      "duration_ms": 5520,
+      "text": "of the data where you need it? Does it"
+    },
+    {
+      "start_ms": 931519,
+      "duration_ms": 5521,
+      "text": "not look right? And that's where you may"
+    },
+    {
+      "start_ms": 934560,
+      "duration_ms": 5839,
+      "text": "want to pay like what h what's the best"
+    },
+    {
+      "start_ms": 937040,
+      "duration_ms": 5280,
+      "text": "way to do that is to to possibly hire"
+    },
+    {
+      "start_ms": 940399,
+      "duration_ms": 3521,
+      "text": "somebody to wing with, you know, a wing"
+    },
+    {
+      "start_ms": 942320,
+      "duration_ms": 4400,
+      "text": "person with you that is actually a"
+    },
+    {
+      "start_ms": 943920,
+      "duration_ms": 4479,
+      "text": "developer that could actually help you"
+    },
+    {
+      "start_ms": 946720,
+      "duration_ms": 3440,
+      "text": "fix that problem, right? Like that's"
+    },
+    {
+      "start_ms": 948399,
+      "duration_ms": 4880,
+      "text": "where you got where you got to jump off"
+    },
+    {
+      "start_ms": 950160,
+      "duration_ms": 5280,
+      "text": "a little bit and get some help is around"
+    },
+    {
+      "start_ms": 953279,
+      "duration_ms": 4161,
+      "text": "um when you're building like when you're"
+    },
+    {
+      "start_ms": 955440,
+      "duration_ms": 4319,
+      "text": "making API calls and you're moving data"
+    },
+    {
+      "start_ms": 957440,
+      "duration_ms": 3680,
+      "text": "into a database. That's like the that"
+    },
+    {
+      "start_ms": 959759,
+      "duration_ms": 3200,
+      "text": "would be the part that I would say you'd"
+    },
+    {
+      "start_ms": 961120,
+      "duration_ms": 2800,
+      "text": "want to uh start to get people to help"
+    },
+    {
+      "start_ms": 962959,
+      "duration_ms": 2560,
+      "text": "you."
+    },
+    {
+      "start_ms": 963920,
+      "duration_ms": 3120,
+      "text": ">> Yeah. And I I think that's a huge"
+    },
+    {
+      "start_ms": 965519,
+      "duration_ms": 2961,
+      "text": "developer skill. Like when we think of"
+    },
+    {
+      "start_ms": 967040,
+      "duration_ms": 4159,
+      "text": "developers, we think of people that type"
+    },
+    {
+      "start_ms": 968480,
+      "duration_ms": 6320,
+      "text": "code. We're like, yes, for sure. But"
+    },
+    {
+      "start_ms": 971199,
+      "duration_ms": 5361,
+      "text": "like the knowledge of how to structure"
+    },
+    {
+      "start_ms": 974800,
+      "duration_ms": 4880,
+      "text": "architecture and and how to like"
+    },
+    {
+      "start_ms": 976560,
+      "duration_ms": 5920,
+      "text": "structure an application and like that"
+    },
+    {
+      "start_ms": 979680,
+      "duration_ms": 6399,
+      "text": "is also very much within the developer"
+    },
+    {
+      "start_ms": 982480,
+      "duration_ms": 5520,
+      "text": "skill set and less so for I mean less so"
+    },
+    {
+      "start_ms": 986079,
+      "duration_ms": 4560,
+      "text": "virtually non-existent in the beginning"
+    },
+    {
+      "start_ms": 988000,
+      "duration_ms": 5600,
+      "text": "for a sales and marketing person like"
+    },
+    {
+      "start_ms": 990639,
+      "duration_ms": 4961,
+      "text": "myself. Um, and and I'll also just note"
+    },
+    {
+      "start_ms": 993600,
+      "duration_ms": 4239,
+      "text": "Vladen made a great point in the in the"
+    },
+    {
+      "start_ms": 995600,
+      "duration_ms": 3520,
+      "text": "chat says can't be a doctor overnight. A"
+    },
+    {
+      "start_ms": 997839,
+      "duration_ms": 2961,
+      "text": "lot of these apps you can just start by"
+    },
+    {
+      "start_ms": 999120,
+      "duration_ms": 3279,
+      "text": "building something super basic, which I"
+    },
+    {
+      "start_ms": 1000800,
+      "duration_ms": 4159,
+      "text": "encourage everybody to do. Start by"
+    },
+    {
+      "start_ms": 1002399,
+      "duration_ms": 4641,
+      "text": "turning a PDF like a like a blog post"
+    },
+    {
+      "start_ms": 1004959,
+      "duration_ms": 4161,
+      "text": "into like some sort of interactive app"
+    },
+    {
+      "start_ms": 1007040,
+      "duration_ms": 5840,
+      "text": "that's just a single page, something"
+    },
+    {
+      "start_ms": 1009120,
+      "duration_ms": 6320,
+      "text": "super super simple. And um and from"
+    },
+    {
+      "start_ms": 1012880,
+      "duration_ms": 4959,
+      "text": "there you can start, you know, uh"
+    },
+    {
+      "start_ms": 1015440,
+      "duration_ms": 6319,
+      "text": "working your way up. Again, Jesse is"
+    },
+    {
+      "start_ms": 1017839,
+      "duration_ms": 7281,
+      "text": "elite at this. So, um, you're watching a"
+    },
+    {
+      "start_ms": 1021759,
+      "duration_ms": 5361,
+      "text": "a a CTO of Vibe Coding in action."
+    },
+    {
+      "start_ms": 1025120,
+      "duration_ms": 3839,
+      "text": ">> I was doing a lot of copy pasting before"
+    },
+    {
+      "start_ms": 1027120,
+      "duration_ms": 4160,
+      "text": "the tools are out. That was like the big"
+    },
+    {
+      "start_ms": 1028959,
+      "duration_ms": 4801,
+      "text": "uh where I learned because like I was"
+    },
+    {
+      "start_ms": 1031280,
+      "duration_ms": 4559,
+      "text": "running an agency and then uh I got a"
+    },
+    {
+      "start_ms": 1033760,
+      "duration_ms": 5520,
+      "text": "little bit uh tired of it just because"
+    },
+    {
+      "start_ms": 1035839,
+      "duration_ms": 6240,
+      "text": "of the um the demand the customer like"
+    },
+    {
+      "start_ms": 1039280,
+      "duration_ms": 4880,
+      "text": "demand of anybody who runs an agency"
+    },
+    {
+      "start_ms": 1042079,
+      "duration_ms": 3360,
+      "text": "knows what I'm talking about. So, uh you"
+    },
+    {
+      "start_ms": 1044160,
+      "duration_ms": 2799,
+      "text": "know, I wanted to go SAS. Now, it has"
+    },
+    {
+      "start_ms": 1045439,
+      "duration_ms": 3441,
+      "text": "its pros and cons, but um you know,"
+    },
+    {
+      "start_ms": 1046959,
+      "duration_ms": 4080,
+      "text": "we've got we're doing pretty well from a"
+    },
+    {
+      "start_ms": 1048880,
+      "duration_ms": 3520,
+      "text": "customer perspective. Bootstrapped. I"
+    },
+    {
+      "start_ms": 1051039,
+      "duration_ms": 3281,
+      "text": "think a lot of bootstrappers will come"
+    },
+    {
+      "start_ms": 1052400,
+      "duration_ms": 4880,
+      "text": "out of these agencies because they run"
+    },
+    {
+      "start_ms": 1054320,
+      "duration_ms": 4320,
+      "text": "pretty efficient lean go to market. But,"
+    },
+    {
+      "start_ms": 1057280,
+      "duration_ms": 3519,
+      "text": "you know, if there's an idea that I'm"
+    },
+    {
+      "start_ms": 1058640,
+      "duration_ms": 4240,
+      "text": "thinking about, I just like start start"
+    },
+    {
+      "start_ms": 1060799,
+      "duration_ms": 4240,
+      "text": "thinking about how do I prepare this?"
+    },
+    {
+      "start_ms": 1062880,
+      "duration_ms": 4960,
+      "text": "One site I've used a lot uh for"
+    },
+    {
+      "start_ms": 1065039,
+      "duration_ms": 4401,
+      "text": "preparing, it's called code guide. Uh, I"
+    },
+    {
+      "start_ms": 1067840,
+      "duration_ms": 3680,
+      "text": "I don't know this guy, so I'm not like"
+    },
+    {
+      "start_ms": 1069440,
+      "duration_ms": 5920,
+      "text": "invested in it. But this one's pretty"
+    },
+    {
+      "start_ms": 1071520,
+      "duration_ms": 5200,
+      "text": "good for figuring out how to like"
+    },
+    {
+      "start_ms": 1075360,
+      "duration_ms": 4080,
+      "text": "there's a a lot more of these people are"
+    },
+    {
+      "start_ms": 1076720,
+      "duration_ms": 4240,
+      "text": "on Twitter or X or whatever. Uh, if you"
+    },
+    {
+      "start_ms": 1079440,
+      "duration_ms": 3760,
+      "text": "want to see like some people that talk"
+    },
+    {
+      "start_ms": 1080960,
+      "duration_ms": 3920,
+      "text": "about this a lot, but this allows you to"
+    },
+    {
+      "start_ms": 1083200,
+      "duration_ms": 3839,
+      "text": "build the prompts that build the"
+    },
+    {
+      "start_ms": 1084880,
+      "duration_ms": 4080,
+      "text": "prompts. So, this one's a good This was"
+    },
+    {
+      "start_ms": 1087039,
+      "duration_ms": 4401,
+      "text": "one of the sites I used in the beginning"
+    },
+    {
+      "start_ms": 1088960,
+      "duration_ms": 4400,
+      "text": "uh just to learn how to like really"
+    },
+    {
+      "start_ms": 1091440,
+      "duration_ms": 4160,
+      "text": "there's certain uh things you want to"
+    },
+    {
+      "start_ms": 1093360,
+      "duration_ms": 7360,
+      "text": "plan out before you build the app. And"
+    },
+    {
+      "start_ms": 1095600,
+      "duration_ms": 7600,
+      "text": "this gives you a good like English to"
+    },
+    {
+      "start_ms": 1100720,
+      "duration_ms": 3920,
+      "text": "app, right? Um, so if you want to build,"
+    },
+    {
+      "start_ms": 1103200,
+      "duration_ms": 4160,
+      "text": "you know, like what do I want to build?"
+    },
+    {
+      "start_ms": 1104640,
+      "duration_ms": 5200,
+      "text": "This gives you a way to prompt out of"
+    },
+    {
+      "start_ms": 1107360,
+      "duration_ms": 6640,
+      "text": "the like what you actually want in the"
+    },
+    {
+      "start_ms": 1109840,
+      "duration_ms": 5280,
+      "text": "in VZero or Lovable or those those"
+    },
+    {
+      "start_ms": 1114000,
+      "duration_ms": 3200,
+      "text": "applications."
+    },
+    {
+      "start_ms": 1115120,
+      "duration_ms": 3520,
+      "text": ">> Yeah. And Joe dropped into the chat,"
+    },
+    {
+      "start_ms": 1117200,
+      "duration_ms": 3120,
+      "text": "too. He says, \"If you're constantly"
+    },
+    {
+      "start_ms": 1118640,
+      "duration_ms": 3279,
+      "text": "rebuilding, you're doing it wrong.\" I"
+    },
+    {
+      "start_ms": 1120320,
+      "duration_ms": 2880,
+      "text": "think that's like a huge highlight of of"
+    },
+    {
+      "start_ms": 1121919,
+      "duration_ms": 5201,
+      "text": "exactly what you're going through now"
+    },
+    {
+      "start_ms": 1123200,
+      "duration_ms": 7520,
+      "text": "with code guide is like how much how"
+    },
+    {
+      "start_ms": 1127120,
+      "duration_ms": 6080,
+      "text": "well can we structure exactly what we"
+    },
+    {
+      "start_ms": 1130720,
+      "duration_ms": 4480,
+      "text": "need off the bat because what happens is"
+    },
+    {
+      "start_ms": 1133200,
+      "duration_ms": 3920,
+      "text": "you go through like the first few"
+    },
+    {
+      "start_ms": 1135200,
+      "duration_ms": 4320,
+      "text": "versions usually and I'm I'm really"
+    },
+    {
+      "start_ms": 1137120,
+      "duration_ms": 4960,
+      "text": "thinking about Vzero here and I've had"
+    },
+    {
+      "start_ms": 1139520,
+      "duration_ms": 6399,
+      "text": "this happen with Gemini and GPT as well"
+    },
+    {
+      "start_ms": 1142080,
+      "duration_ms": 6080,
+      "text": "where it starts to just like it starts"
+    },
+    {
+      "start_ms": 1145919,
+      "duration_ms": 4561,
+      "text": "to slowly morph and not be exactly the"
+    },
+    {
+      "start_ms": 1148160,
+      "duration_ms": 3920,
+      "text": "same as it was before and sort of go"
+    },
+    {
+      "start_ms": 1150480,
+      "duration_ms": 5920,
+      "text": "into a mind of its own. I don't know if"
+    },
+    {
+      "start_ms": 1152080,
+      "duration_ms": 7040,
+      "text": "anybody has seen uh those like like"
+    },
+    {
+      "start_ms": 1156400,
+      "duration_ms": 4480,
+      "text": "time-lapse videos on like on on whatever"
+    },
+    {
+      "start_ms": 1159120,
+      "duration_ms": 3679,
+      "text": "Reddit or Instagram or wherever you you"
+    },
+    {
+      "start_ms": 1160880,
+      "duration_ms": 3919,
+      "text": "have videos where it's like you're"
+    },
+    {
+      "start_ms": 1162799,
+      "duration_ms": 4081,
+      "text": "asking an AI bot to replicate a picture"
+    },
+    {
+      "start_ms": 1164799,
+      "duration_ms": 5601,
+      "text": "a 100 times over and then it like slowly"
+    },
+    {
+      "start_ms": 1166880,
+      "duration_ms": 5919,
+      "text": "turns into this just this nonsense. So"
+    },
+    {
+      "start_ms": 1170400,
+      "duration_ms": 5200,
+      "text": "um anyway, all of that tangent just to"
+    },
+    {
+      "start_ms": 1172799,
+      "duration_ms": 6000,
+      "text": "just to elaborate on like the importance"
+    },
+    {
+      "start_ms": 1175600,
+      "duration_ms": 5520,
+      "text": "of that initial prompt being robust,"
+    },
+    {
+      "start_ms": 1178799,
+      "duration_ms": 3681,
+      "text": "being thorough, really spelling out"
+    },
+    {
+      "start_ms": 1181120,
+      "duration_ms": 3520,
+      "text": "exactly what the functionality and"
+    },
+    {
+      "start_ms": 1182480,
+      "duration_ms": 5120,
+      "text": "architecture be will be. That way that"
+    },
+    {
+      "start_ms": 1184640,
+      "duration_ms": 5440,
+      "text": "V1 of the app does not need this crazy"
+    },
+    {
+      "start_ms": 1187600,
+      "duration_ms": 5520,
+      "text": "rebuilding because from there it just"
+    },
+    {
+      "start_ms": 1190080,
+      "duration_ms": 3440,
+      "text": "gets tougher."
+    },
+    {
+      "start_ms": 1193120,
+      "duration_ms": 2080,
+      "text": ">> Okay."
+    },
+    {
+      "start_ms": 1193520,
+      "duration_ms": 3279,
+      "text": ">> Yeah. You know, you made a lot of good"
+    },
+    {
+      "start_ms": 1195200,
+      "duration_ms": 3120,
+      "text": "points there. It's like you can you can"
+    },
+    {
+      "start_ms": 1196799,
+      "duration_ms": 4481,
+      "text": "get down a rabbit hole pretty quickly,"
+    },
+    {
+      "start_ms": 1198320,
+      "duration_ms": 4320,
+      "text": "but every time I got down the rabbit"
+    },
+    {
+      "start_ms": 1201280,
+      "duration_ms": 2720,
+      "text": "hole, eventually what happened is I"
+    },
+    {
+      "start_ms": 1202640,
+      "duration_ms": 3520,
+      "text": "started to figure out like what was"
+    },
+    {
+      "start_ms": 1204000,
+      "duration_ms": 5039,
+      "text": "going on. Uh and the best way to figure"
+    },
+    {
+      "start_ms": 1206160,
+      "duration_ms": 6399,
+      "text": "out how to get out of the jam is to"
+    },
+    {
+      "start_ms": 1209039,
+      "duration_ms": 5520,
+      "text": "uh to just do uh just use AI again to to"
+    },
+    {
+      "start_ms": 1212559,
+      "duration_ms": 3921,
+      "text": "get to really get out of it. Uh you"
+    },
+    {
+      "start_ms": 1214559,
+      "duration_ms": 4561,
+      "text": "might have to use some of the newer the"
+    },
+    {
+      "start_ms": 1216480,
+      "duration_ms": 5439,
+      "text": "thinking model. Uh you know, that that"
+    },
+    {
+      "start_ms": 1219120,
+      "duration_ms": 5760,
+      "text": "really helps a lot. Um, you know, Claude"
+    },
+    {
+      "start_ms": 1221919,
+      "duration_ms": 4801,
+      "text": "is is really good for this for for just"
+    },
+    {
+      "start_ms": 1224880,
+      "duration_ms": 2960,
+      "text": "getting yourself out of the jam of like"
+    },
+    {
+      "start_ms": 1226720,
+      "duration_ms": 3040,
+      "text": "there's a bug and I don't know how to"
+    },
+    {
+      "start_ms": 1227840,
+      "duration_ms": 3839,
+      "text": "fix it or you know, look, there's always"
+    },
+    {
+      "start_ms": 1229760,
+      "duration_ms": 3200,
+      "text": "a time to ask for help. And I know"
+    },
+    {
+      "start_ms": 1231679,
+      "duration_ms": 3041,
+      "text": "there's a lot of different groups that"
+    },
+    {
+      "start_ms": 1232960,
+      "duration_ms": 4640,
+      "text": "are forming communities, whatnot that"
+    },
+    {
+      "start_ms": 1234720,
+      "duration_ms": 4720,
+      "text": "are doing this. And I start to see like"
+    },
+    {
+      "start_ms": 1237600,
+      "duration_ms": 3439,
+      "text": "the the advantage sales and marketing"
+    },
+    {
+      "start_ms": 1239440,
+      "duration_ms": 3280,
+      "text": "people have if they're if you're if"
+    },
+    {
+      "start_ms": 1241039,
+      "duration_ms": 3681,
+      "text": "you're coming from sales and marketing"
+    },
+    {
+      "start_ms": 1242720,
+      "duration_ms": 4240,
+      "text": "or you run an agency now, you're going"
+    },
+    {
+      "start_ms": 1244720,
+      "duration_ms": 5120,
+      "text": "to know better what the app should feel"
+    },
+    {
+      "start_ms": 1246960,
+      "duration_ms": 4480,
+      "text": "like than probably somebody who is just"
+    },
+    {
+      "start_ms": 1249840,
+      "duration_ms": 3760,
+      "text": "coming into a cold that's building it on"
+    },
+    {
+      "start_ms": 1251440,
+      "duration_ms": 5119,
+      "text": "a development level"
+    },
+    {
+      "start_ms": 1253600,
+      "duration_ms": 5520,
+      "text": ">> like that that knowledge of you using it"
+    },
+    {
+      "start_ms": 1256559,
+      "duration_ms": 5441,
+      "text": "and you know that's I build sales"
+    },
+    {
+      "start_ms": 1259120,
+      "duration_ms": 5520,
+      "text": "marketing tools but I used them for so"
+    },
+    {
+      "start_ms": 1262000,
+      "duration_ms": 5280,
+      "text": "long you know in my career that it"
+    },
+    {
+      "start_ms": 1264640,
+      "duration_ms": 4640,
+      "text": "really changed like I knew exactly what"
+    },
+    {
+      "start_ms": 1267280,
+      "duration_ms": 3519,
+      "text": "I wanted. It wasn't like it it wasn't up"
+    },
+    {
+      "start_ms": 1269280,
+      "duration_ms": 2560,
+      "text": "for debate. I mean, I followed that"
+    },
+    {
+      "start_ms": 1270799,
+      "duration_ms": 2801,
+      "text": "pretty closely."
+    },
+    {
+      "start_ms": 1271840,
+      "duration_ms": 3360,
+      "text": ">> Okay, so where So, we have the prompt."
+    },
+    {
+      "start_ms": 1273600,
+      "duration_ms": 3199,
+      "text": "We have the prompt that created the"
+    },
+    {
+      "start_ms": 1275200,
+      "duration_ms": 4080,
+      "text": "prompt, guys. We will give that away."
+    },
+    {
+      "start_ms": 1276799,
+      "duration_ms": 3921,
+      "text": "Um, again, we'll we'll drop in LinkedIn."
+    },
+    {
+      "start_ms": 1279280,
+      "duration_ms": 4160,
+      "text": "Jesse will post it on LinkedIn. I'll put"
+    },
+    {
+      "start_ms": 1280720,
+      "duration_ms": 4480,
+      "text": "his I'll put his I'll put his uh profile"
+    },
+    {
+      "start_ms": 1283440,
+      "duration_ms": 4239,
+      "text": "in the chat here. Um, I'll probably"
+    },
+    {
+      "start_ms": 1285200,
+      "duration_ms": 4080,
+      "text": "share it as well so you can follow me if"
+    },
+    {
+      "start_ms": 1287679,
+      "duration_ms": 4240,
+      "text": "you don't already. Uh, but here, let me"
+    },
+    {
+      "start_ms": 1289280,
+      "duration_ms": 4560,
+      "text": "drop Jesse's thing in here. And if"
+    },
+    {
+      "start_ms": 1291919,
+      "duration_ms": 5281,
+      "text": "you're watching on YouTube, Jesse's"
+    },
+    {
+      "start_ms": 1293840,
+      "duration_ms": 5839,
+      "text": "LinkedIn is in the description. Um,"
+    },
+    {
+      "start_ms": 1297200,
+      "duration_ms": 5359,
+      "text": "okay. So, we have the prompt. This thing"
+    },
+    {
+      "start_ms": 1299679,
+      "duration_ms": 4480,
+      "text": "has just been churning out code."
+    },
+    {
+      "start_ms": 1302559,
+      "duration_ms": 4000,
+      "text": ">> It's turnurning out some code here,"
+    },
+    {
+      "start_ms": 1304159,
+      "duration_ms": 4400,
+      "text": "right? What I did is I gave it the"
+    },
+    {
+      "start_ms": 1306559,
+      "duration_ms": 4081,
+      "text": "prompt up here, right? More of a"
+    },
+    {
+      "start_ms": 1308559,
+      "duration_ms": 4801,
+      "text": "champion tracker. First thing it had me"
+    },
+    {
+      "start_ms": 1310640,
+      "duration_ms": 5200,
+      "text": "do was set up the database, of course."
+    },
+    {
+      "start_ms": 1313360,
+      "duration_ms": 6319,
+      "text": "Uh, you know, that gets set up and then"
+    },
+    {
+      "start_ms": 1315840,
+      "duration_ms": 6480,
+      "text": "we're in, right? And then, um, let's see"
+    },
+    {
+      "start_ms": 1319679,
+      "duration_ms": 4081,
+      "text": "here. Right. These are the types of bugs"
+    },
+    {
+      "start_ms": 1322320,
+      "duration_ms": 4160,
+      "text": "that you can have, right? You'll have"
+    },
+    {
+      "start_ms": 1323760,
+      "duration_ms": 4480,
+      "text": "like it doesn't redirect. This is what I"
+    },
+    {
+      "start_ms": 1326480,
+      "duration_ms": 4400,
+      "text": "wanted to show people. Like it won't"
+    },
+    {
+      "start_ms": 1328240,
+      "duration_ms": 4480,
+      "text": "redirect you or or something like that."
+    },
+    {
+      "start_ms": 1330880,
+      "duration_ms": 3679,
+      "text": "Those are the essentially the types of"
+    },
+    {
+      "start_ms": 1332720,
+      "duration_ms": 4079,
+      "text": "bugs that you can start to have. But"
+    },
+    {
+      "start_ms": 1334559,
+      "duration_ms": 5201,
+      "text": "what I'm doing is I'm publishing it in"
+    },
+    {
+      "start_ms": 1336799,
+      "duration_ms": 5201,
+      "text": "Versel, right? and uh you know I'll give"
+    },
+    {
+      "start_ms": 1339760,
+      "duration_ms": 5520,
+      "text": "it a domain name"
+    },
+    {
+      "start_ms": 1342000,
+      "duration_ms": 5919,
+      "text": "and then uh then basically you know"
+    },
+    {
+      "start_ms": 1345280,
+      "duration_ms": 4960,
+      "text": "it'll have that and then what that will"
+    },
+    {
+      "start_ms": 1347919,
+      "duration_ms": 3521,
+      "text": "do is it'll put it in and and if you're"
+    },
+    {
+      "start_ms": 1350240,
+      "duration_ms": 2640,
+      "text": "not like following this right now"
+    },
+    {
+      "start_ms": 1351440,
+      "duration_ms": 3359,
+      "text": "there's probably more to it. The goal"
+    },
+    {
+      "start_ms": 1352880,
+      "duration_ms": 4799,
+      "text": "was just to start talking about this but"
+    },
+    {
+      "start_ms": 1354799,
+      "duration_ms": 4561,
+      "text": "then it puts it inside your Verscell and"
+    },
+    {
+      "start_ms": 1357679,
+      "duration_ms": 4801,
+      "text": "it starts this is where it's hosting it."
+    },
+    {
+      "start_ms": 1359360,
+      "duration_ms": 5520,
+      "text": "So you're now hosting it inside here. Uh"
+    },
+    {
+      "start_ms": 1362480,
+      "duration_ms": 5040,
+      "text": "and what we did also is we hooked up a"
+    },
+    {
+      "start_ms": 1364880,
+      "duration_ms": 4560,
+      "text": "database. So it's now got a database"
+    },
+    {
+      "start_ms": 1367520,
+      "duration_ms": 3519,
+      "text": "hooked up to it. Neon, which is good."
+    },
+    {
+      "start_ms": 1369440,
+      "duration_ms": 5119,
+      "text": "There's two databases most people are"
+    },
+    {
+      "start_ms": 1371039,
+      "duration_ms": 6880,
+      "text": "using right now. Superbase and uh Neon"
+    },
+    {
+      "start_ms": 1374559,
+      "duration_ms": 5041,
+      "text": "are the two. And what we did is we've"
+    },
+    {
+      "start_ms": 1377919,
+      "duration_ms": 3841,
+      "text": "also got environmental variables. These"
+    },
+    {
+      "start_ms": 1379600,
+      "duration_ms": 7040,
+      "text": "are the secret kind of components of the"
+    },
+    {
+      "start_ms": 1381760,
+      "duration_ms": 7279,
+      "text": "application for um for basically for uh"
+    },
+    {
+      "start_ms": 1386640,
+      "duration_ms": 4399,
+      "text": "for dealing with like authentication and"
+    },
+    {
+      "start_ms": 1389039,
+      "duration_ms": 3921,
+      "text": "all that. So you want to it's better to"
+    },
+    {
+      "start_ms": 1391039,
+      "duration_ms": 3281,
+      "text": "use just like if you're beginning you"
+    },
+    {
+      "start_ms": 1392960,
+      "duration_ms": 5360,
+      "text": "should just use it like right out of the"
+    },
+    {
+      "start_ms": 1394320,
+      "duration_ms": 7280,
+      "text": "gate. use their their setup"
+    },
+    {
+      "start_ms": 1398320,
+      "duration_ms": 4719,
+      "text": "um so if you're using so sorry just to"
+    },
+    {
+      "start_ms": 1401600,
+      "duration_ms": 6160,
+      "text": "clarify for the audience so if you're"
+    },
+    {
+      "start_ms": 1403039,
+      "duration_ms": 7921,
+      "text": "using Vzero Vzero is a application under"
+    },
+    {
+      "start_ms": 1407760,
+      "duration_ms": 6720,
+      "text": "Versell you can host you can so like you"
+    },
+    {
+      "start_ms": 1410960,
+      "duration_ms": 5280,
+      "text": "can deploy let's say I make a a a web"
+    },
+    {
+      "start_ms": 1414480,
+      "duration_ms": 5600,
+      "text": "app I was talking earlier about turning"
+    },
+    {
+      "start_ms": 1416240,
+      "duration_ms": 5760,
+      "text": "PDFs into web apps using Vzero"
+    },
+    {
+      "start_ms": 1420080,
+      "duration_ms": 3280,
+      "text": "um you can actually you know what I'll"
+    },
+    {
+      "start_ms": 1422000,
+      "duration_ms": 3679,
+      "text": "do I'm going to make this week's cheat"
+    },
+    {
+      "start_ms": 1423360,
+      "duration_ms": 3520,
+      "text": "sheet uh an interactive app. That's what"
+    },
+    {
+      "start_ms": 1425679,
+      "duration_ms": 2880,
+      "text": "I'll do. I'll post it on LinkedIn"
+    },
+    {
+      "start_ms": 1426880,
+      "duration_ms": 2720,
+      "text": "tomorrow. I'll make it in an active app"
+    },
+    {
+      "start_ms": 1428559,
+      "duration_ms": 3441,
+      "text": "so people can see what I'm talking"
+    },
+    {
+      "start_ms": 1429600,
+      "duration_ms": 5520,
+      "text": "about. But it's all hosted on Vzero and"
+    },
+    {
+      "start_ms": 1432000,
+      "duration_ms": 5360,
+      "text": "Versal. So like I don't it just totally"
+    },
+    {
+      "start_ms": 1435120,
+      "duration_ms": 3760,
+      "text": "simplifies. You know, Jesse's obviously"
+    },
+    {
+      "start_ms": 1437360,
+      "duration_ms": 3520,
+      "text": "an expert and he's hopping between these"
+    },
+    {
+      "start_ms": 1438880,
+      "duration_ms": 4960,
+      "text": "different things. But um starting out"
+    },
+    {
+      "start_ms": 1440880,
+      "duration_ms": 5120,
+      "text": "with with with very simple builds um and"
+    },
+    {
+      "start_ms": 1443840,
+      "duration_ms": 4560,
+      "text": "just deploying it exactly right there on"
+    },
+    {
+      "start_ms": 1446000,
+      "duration_ms": 4640,
+      "text": "the top right through publish. Uh and"
+    },
+    {
+      "start_ms": 1448400,
+      "duration_ms": 6159,
+      "text": "now you can see if you look at the"
+    },
+    {
+      "start_ms": 1450640,
+      "duration_ms": 5200,
+      "text": "address crash right in the app,"
+    },
+    {
+      "start_ms": 1454559,
+      "duration_ms": 2401,
+      "text": ">> right? And that's what will happen to"
+    },
+    {
+      "start_ms": 1455840,
+      "duration_ms": 4160,
+      "text": "many of you when you're when you're"
+    },
+    {
+      "start_ms": 1456960,
+      "duration_ms": 6079,
+      "text": "doing this that this will basically uh"
+    },
+    {
+      "start_ms": 1460000,
+      "duration_ms": 5039,
+      "text": "you go into here and now you're in um"
+    },
+    {
+      "start_ms": 1463039,
+      "duration_ms": 4880,
+      "text": "now you can see your database. So you"
+    },
+    {
+      "start_ms": 1465039,
+      "duration_ms": 6161,
+      "text": "can you can actually see what it what it"
+    },
+    {
+      "start_ms": 1467919,
+      "duration_ms": 5921,
+      "text": "did is it actually created the database."
+    },
+    {
+      "start_ms": 1471200,
+      "duration_ms": 4479,
+      "text": "So, uh, it created the users, that's for"
+    },
+    {
+      "start_ms": 1473840,
+      "duration_ms": 4880,
+      "text": "logging in or whatever. And then it"
+    },
+    {
+      "start_ms": 1475679,
+      "duration_ms": 5120,
+      "text": "created, um, who you're watching. So,"
+    },
+    {
+      "start_ms": 1478720,
+      "duration_ms": 4880,
+      "text": "this would be like who you're watching"
+    },
+    {
+      "start_ms": 1480799,
+      "duration_ms": 4401,
+      "text": "and and you know what would be that, but"
+    },
+    {
+      "start_ms": 1483600,
+      "duration_ms": 4000,
+      "text": "that would be what the user would"
+    },
+    {
+      "start_ms": 1485200,
+      "duration_ms": 6000,
+      "text": "submit, right? So, the user would submit"
+    },
+    {
+      "start_ms": 1487600,
+      "duration_ms": 5520,
+      "text": "to here uh, in the application when we"
+    },
+    {
+      "start_ms": 1491200,
+      "duration_ms": 3200,
+      "text": "finally get into it, right? So, we're"
+    },
+    {
+      "start_ms": 1493120,
+      "duration_ms": 3679,
+      "text": "building it and this is probably where"
+    },
+    {
+      "start_ms": 1494400,
+      "duration_ms": 5120,
+      "text": "some of the other people have gone, but"
+    },
+    {
+      "start_ms": 1496799,
+      "duration_ms": 4321,
+      "text": "um, you know, with this application. So,"
+    },
+    {
+      "start_ms": 1499520,
+      "duration_ms": 4240,
+      "text": "as it's building here, you're seeing"
+    },
+    {
+      "start_ms": 1501120,
+      "duration_ms": 4799,
+      "text": "that um you're you're seeing that it's"
+    },
+    {
+      "start_ms": 1503760,
+      "duration_ms": 4320,
+      "text": "still struggling to get to like the"
+    },
+    {
+      "start_ms": 1505919,
+      "duration_ms": 3760,
+      "text": "authentication part, which that's that's"
+    },
+    {
+      "start_ms": 1508080,
+      "duration_ms": 6400,
+      "text": "why we're building some suspense here."
+    },
+    {
+      "start_ms": 1509679,
+      "duration_ms": 6880,
+      "text": "But, um you know, we uh we're building"
+    },
+    {
+      "start_ms": 1514480,
+      "duration_ms": 4079,
+      "text": "we're building on that. And then if you"
+    },
+    {
+      "start_ms": 1516559,
+      "duration_ms": 3521,
+      "text": "continue down the path of this, what"
+    },
+    {
+      "start_ms": 1518559,
+      "duration_ms": 3441,
+      "text": "you're going to end up having is you'll"
+    },
+    {
+      "start_ms": 1520080,
+      "duration_ms": 4719,
+      "text": "you'll be able to grab, you know, so if"
+    },
+    {
+      "start_ms": 1522000,
+      "duration_ms": 4720,
+      "text": "you want to if we want to go to the um"
+    },
+    {
+      "start_ms": 1524799,
+      "duration_ms": 3841,
+      "text": "if we want to just start out here with"
+    },
+    {
+      "start_ms": 1526720,
+      "duration_ms": 6240,
+      "text": "like without the authentication while"
+    },
+    {
+      "start_ms": 1528640,
+      "duration_ms": 7519,
+      "text": "it's loading, uh SAS tracking"
+    },
+    {
+      "start_ms": 1532960,
+      "duration_ms": 6800,
+      "text": "um employees"
+    },
+    {
+      "start_ms": 1536159,
+      "duration_ms": 7120,
+      "text": "employees and then you give it a um then"
+    },
+    {
+      "start_ms": 1539760,
+      "duration_ms": 5680,
+      "text": "you would just give it the uh what it"
+    },
+    {
+      "start_ms": 1543279,
+      "duration_ms": 5441,
+      "text": "would what what the what it would come"
+    },
+    {
+      "start_ms": 1545440,
+      "duration_ms": 5280,
+      "text": "back from the uh API and that's really"
+    },
+    {
+      "start_ms": 1548720,
+      "duration_ms": 3680,
+      "text": "what you want to do. So basically"
+    },
+    {
+      "start_ms": 1550720,
+      "duration_ms": 3280,
+      "text": ">> and sorry what was that thing you"
+    },
+    {
+      "start_ms": 1552400,
+      "duration_ms": 4399,
+      "text": "pasted? What was that? What was"
+    },
+    {
+      "start_ms": 1554000,
+      "duration_ms": 5279,
+      "text": ">> that's just the return response from the"
+    },
+    {
+      "start_ms": 1556799,
+      "duration_ms": 4240,
+      "text": "um from like what comes through the API"
+    },
+    {
+      "start_ms": 1559279,
+      "duration_ms": 4880,
+      "text": "basically."
+    },
+    {
+      "start_ms": 1561039,
+      "duration_ms": 5601,
+      "text": ">> So what it'll do is it'll you know you"
+    },
+    {
+      "start_ms": 1564159,
+      "duration_ms": 4640,
+      "text": "can you can make the text can you do the"
+    },
+    {
+      "start_ms": 1566640,
+      "duration_ms": 5120,
+      "text": "zoom in text thing again?"
+    },
+    {
+      "start_ms": 1568799,
+      "duration_ms": 4801,
+      "text": ">> Yes. On the on what which one?"
+    },
+    {
+      "start_ms": 1571760,
+      "duration_ms": 3680,
+      "text": ">> Uh is there a way to like Oh sharing"
+    },
+    {
+      "start_ms": 1573600,
+      "duration_ms": 2559,
+      "text": "your whole screen right now. I see. I"
+    },
+    {
+      "start_ms": 1575440,
+      "duration_ms": 2640,
+      "text": "see"
+    },
+    {
+      "start_ms": 1576159,
+      "duration_ms": 3760,
+      "text": ">> this this one, right?"
+    },
+    {
+      "start_ms": 1578080,
+      "duration_ms": 5839,
+      "text": ">> Yeah. Is there like a way to just do the"
+    },
+    {
+      "start_ms": 1579919,
+      "duration_ms": 7760,
+      "text": "whole um like zoom in the whole uh"
+    },
+    {
+      "start_ms": 1583919,
+      "duration_ms": 6721,
+      "text": "browser like do 150% of the browser?"
+    },
+    {
+      "start_ms": 1587679,
+      "duration_ms": 3521,
+      "text": ">> Yeah. Yeah. Oh. Oh, I got it. There you"
+    },
+    {
+      "start_ms": 1590640,
+      "duration_ms": 2560,
+      "text": "go."
+    },
+    {
+      "start_ms": 1591200,
+      "duration_ms": 3440,
+      "text": ">> Yeah. Yes. Yes. Yes."
+    },
+    {
+      "start_ms": 1593200,
+      "duration_ms": 3359,
+      "text": ">> Yeah. So you'll be you'll be doing that"
+    },
+    {
+      "start_ms": 1594640,
+      "duration_ms": 4000,
+      "text": "and then you know the things you need to"
+    },
+    {
+      "start_ms": 1596559,
+      "duration_ms": 3600,
+      "text": "set up with it would be authentication a"
+    },
+    {
+      "start_ms": 1598640,
+      "duration_ms": 4480,
+      "text": "database"
+    },
+    {
+      "start_ms": 1600159,
+      "duration_ms": 4000,
+      "text": "and uh you know this the sidebar of"
+    },
+    {
+      "start_ms": 1603120,
+      "duration_ms": 3840,
+      "text": "whatever is going to be in the"
+    },
+    {
+      "start_ms": 1604159,
+      "duration_ms": 6400,
+      "text": "application and then some feed or some"
+    },
+    {
+      "start_ms": 1606960,
+      "duration_ms": 5520,
+      "text": "sort for for API to get to get the APIs"
+    },
+    {
+      "start_ms": 1610559,
+      "duration_ms": 4401,
+      "text": "out of it. Now if you go on there's a"
+    },
+    {
+      "start_ms": 1612480,
+      "duration_ms": 5679,
+      "text": "lot of public APIs. That's the key is"
+    },
+    {
+      "start_ms": 1614960,
+      "duration_ms": 5839,
+      "text": "that um you'll you'll come up with a lot"
+    },
+    {
+      "start_ms": 1618159,
+      "duration_ms": 4000,
+      "text": "of these like public sort of APIs. Now"
+    },
+    {
+      "start_ms": 1620799,
+      "duration_ms": 5041,
+      "text": "you're going to get to see what it looks"
+    },
+    {
+      "start_ms": 1622159,
+      "duration_ms": 6000,
+      "text": "like to have a um like what what"
+    },
+    {
+      "start_ms": 1625840,
+      "duration_ms": 5439,
+      "text": "actually comes into the application. You"
+    },
+    {
+      "start_ms": 1628159,
+      "duration_ms": 4880,
+      "text": "can pick your your sidebar. You can pick"
+    },
+    {
+      "start_ms": 1631279,
+      "duration_ms": 4241,
+      "text": "all of that when it starts. You'll see"
+    },
+    {
+      "start_ms": 1633039,
+      "duration_ms": 6161,
+      "text": "it load up on the screen. So now it's"
+    },
+    {
+      "start_ms": 1635520,
+      "duration_ms": 5920,
+      "text": "it's here. Let's just see um what it"
+    },
+    {
+      "start_ms": 1639200,
+      "duration_ms": 3760,
+      "text": "looks like. It'll load up."
+    },
+    {
+      "start_ms": 1641440,
+      "duration_ms": 3599,
+      "text": ">> Yeah. There we go. All right."
+    },
+    {
+      "start_ms": 1642960,
+      "duration_ms": 5040,
+      "text": ">> Right."
+    },
+    {
+      "start_ms": 1645039,
+      "duration_ms": 4321,
+      "text": ">> So you have that and you know now you're"
+    },
+    {
+      "start_ms": 1648000,
+      "duration_ms": 2880,
+      "text": "building. It's going to go through all"
+    },
+    {
+      "start_ms": 1649360,
+      "duration_ms": 3360,
+      "text": "the tasks. I got it on advanced mode"
+    },
+    {
+      "start_ms": 1650880,
+      "duration_ms": 4320,
+      "text": "here. So, you're just doing building the"
+    },
+    {
+      "start_ms": 1652720,
+      "duration_ms": 5600,
+      "text": "employee over overview, creating the job"
+    },
+    {
+      "start_ms": 1655200,
+      "duration_ms": 5839,
+      "text": "alerts, adding tenure analytics,"
+    },
+    {
+      "start_ms": 1658320,
+      "duration_ms": 5040,
+      "text": "building employee profiles. So, it's"
+    },
+    {
+      "start_ms": 1661039,
+      "duration_ms": 4240,
+      "text": "going to do all of that and then what's"
+    },
+    {
+      "start_ms": 1663360,
+      "duration_ms": 3840,
+      "text": "going to happen is uh you're going to"
+    },
+    {
+      "start_ms": 1665279,
+      "duration_ms": 4400,
+      "text": "get you're going to get an application"
+    },
+    {
+      "start_ms": 1667200,
+      "duration_ms": 4000,
+      "text": "out of it, right? So, it's it's it's"
+    },
+    {
+      "start_ms": 1669679,
+      "duration_ms": 3201,
+      "text": "just takes a little bit of time, but"
+    },
+    {
+      "start_ms": 1671200,
+      "duration_ms": 3520,
+      "text": "it's that was like the whole purpose of"
+    },
+    {
+      "start_ms": 1672880,
+      "duration_ms": 3039,
+      "text": "the show here today, just to keep you in"
+    },
+    {
+      "start_ms": 1674720,
+      "duration_ms": 4160,
+      "text": "suspense."
+    },
+    {
+      "start_ms": 1675919,
+      "duration_ms": 5201,
+      "text": "Now, Jesse too, I also want to highlight"
+    },
+    {
+      "start_ms": 1678880,
+      "duration_ms": 4240,
+      "text": "um there's there's definitely people we"
+    },
+    {
+      "start_ms": 1681120,
+      "duration_ms": 3120,
+      "text": "have a couple hundred people in here."
+    },
+    {
+      "start_ms": 1683120,
+      "duration_ms": 2400,
+      "text": ">> There's definitely people who are"
+    },
+    {
+      "start_ms": 1684240,
+      "duration_ms": 2559,
+      "text": "looking at this and probably feeling a"
+    },
+    {
+      "start_ms": 1685520,
+      "duration_ms": 2960,
+      "text": "little overwhelmed like, \"Wow, that's"
+    },
+    {
+      "start_ms": 1686799,
+      "duration_ms": 4081,
+      "text": "empowering. If I could do that because"
+    },
+    {
+      "start_ms": 1688480,
+      "duration_ms": 4000,
+      "text": "I'm not a developer, but there's a lot"
+    },
+    {
+      "start_ms": 1690880,
+      "duration_ms": 3200,
+      "text": "going on here.\" And there is a lot going"
+    },
+    {
+      "start_ms": 1692480,
+      "duration_ms": 4160,
+      "text": "on here. You've been doing this for a"
+    },
+    {
+      "start_ms": 1694080,
+      "duration_ms": 4719,
+      "text": "while. So, someone said, \"Hey, it looks"
+    },
+    {
+      "start_ms": 1696640,
+      "duration_ms": 4080,
+      "text": "like I should just hire a developer.\""
+    },
+    {
+      "start_ms": 1698799,
+      "duration_ms": 3281,
+      "text": "What would you say to that? Not just the"
+    },
+    {
+      "start_ms": 1700720,
+      "duration_ms": 2640,
+      "text": "developer, but"
+    },
+    {
+      "start_ms": 1702080,
+      "duration_ms": 3839,
+      "text": ">> you you pro you you definitely need"
+    },
+    {
+      "start_ms": 1703360,
+      "duration_ms": 4480,
+      "text": "hire. you probably like this is it's"
+    },
+    {
+      "start_ms": 1705919,
+      "duration_ms": 3360,
+      "text": "there's a another type of way to hire"
+    },
+    {
+      "start_ms": 1707840,
+      "duration_ms": 4400,
+      "text": "developers now, right? The old way you"
+    },
+    {
+      "start_ms": 1709279,
+      "duration_ms": 4481,
+      "text": "would just hire developers and um you"
+    },
+    {
+      "start_ms": 1712240,
+      "duration_ms": 4000,
+      "text": "know you could have that mindset like of"
+    },
+    {
+      "start_ms": 1713760,
+      "duration_ms": 4720,
+      "text": "just hiring developers but like if"
+    },
+    {
+      "start_ms": 1716240,
+      "duration_ms": 3840,
+      "text": "you're building a profitable company and"
+    },
+    {
+      "start_ms": 1718480,
+      "duration_ms": 3280,
+      "text": "you don't like I I didn't have enough"
+    },
+    {
+      "start_ms": 1720080,
+      "duration_ms": 4319,
+      "text": "money like for me I didn't have enough"
+    },
+    {
+      "start_ms": 1721760,
+      "duration_ms": 3919,
+      "text": "money to hire um and I didn't really I"
+    },
+    {
+      "start_ms": 1724399,
+      "duration_ms": 3441,
+      "text": "didn't want to raise I worked for"
+    },
+    {
+      "start_ms": 1725679,
+      "duration_ms": 5041,
+      "text": "companies that were venturebacked and I"
+    },
+    {
+      "start_ms": 1727840,
+      "duration_ms": 4719,
+      "text": "disliked it with passion so I wanted to"
+    },
+    {
+      "start_ms": 1730720,
+      "duration_ms": 4000,
+      "text": "build it myself. Now, what you can"
+    },
+    {
+      "start_ms": 1732559,
+      "duration_ms": 6000,
+      "text": "definitely do is you can hire a"
+    },
+    {
+      "start_ms": 1734720,
+      "duration_ms": 5360,
+      "text": "different uh like cost of a developer,"
+    },
+    {
+      "start_ms": 1738559,
+      "duration_ms": 5281,
+      "text": "right? You you you're probably not"
+    },
+    {
+      "start_ms": 1740080,
+      "duration_ms": 6319,
+      "text": "hiring the developer that's at Google uh"
+    },
+    {
+      "start_ms": 1743840,
+      "duration_ms": 4480,
+      "text": "you know, like an architect at Google."
+    },
+    {
+      "start_ms": 1746399,
+      "duration_ms": 4081,
+      "text": "You're probably hiring maybe somebody"
+    },
+    {
+      "start_ms": 1748320,
+      "duration_ms": 4479,
+      "text": "who's uh maybe a gig worker or something"
+    },
+    {
+      "start_ms": 1750480,
+      "duration_ms": 4079,
+      "text": "like that that can help you sort of"
+    },
+    {
+      "start_ms": 1752799,
+      "duration_ms": 4641,
+      "text": "publish the app and they can grow with"
+    },
+    {
+      "start_ms": 1754559,
+      "duration_ms": 5120,
+      "text": "you, right? But you're not what what"
+    },
+    {
+      "start_ms": 1757440,
+      "duration_ms": 4479,
+      "text": "people do is they'll spend like"
+    },
+    {
+      "start_ms": 1759679,
+      "duration_ms": 4561,
+      "text": "thousands of dollars on these MVP apps"
+    },
+    {
+      "start_ms": 1761919,
+      "duration_ms": 3841,
+      "text": "from these companies and then they just"
+    },
+    {
+      "start_ms": 1764240,
+      "duration_ms": 2720,
+      "text": "they ship at the end of it and nothing"
+    },
+    {
+      "start_ms": 1765760,
+      "duration_ms": 2240,
+      "text": "they get nothing out of it because they"
+    },
+    {
+      "start_ms": 1766960,
+      "duration_ms": 2000,
+      "text": "don't and they don't really know how it"
+    },
+    {
+      "start_ms": 1768000,
+      "duration_ms": 3919,
+      "text": "works. They don't know if they're"
+    },
+    {
+      "start_ms": 1768960,
+      "duration_ms": 4640,
+      "text": "getting the right stuff. Like it becomes"
+    },
+    {
+      "start_ms": 1771919,
+      "duration_ms": 4161,
+      "text": "pretty"
+    },
+    {
+      "start_ms": 1773600,
+      "duration_ms": 3520,
+      "text": "uh pretty much a waste of time, right?"
+    },
+    {
+      "start_ms": 1776080,
+      "duration_ms": 3120,
+      "text": ">> You know, you could just take that"
+    },
+    {
+      "start_ms": 1777120,
+      "duration_ms": 4080,
+      "text": "mindset of hiring developers, but like"
+    },
+    {
+      "start_ms": 1779200,
+      "duration_ms": 3199,
+      "text": "do you have you don't have money? That's"
+    },
+    {
+      "start_ms": 1781200,
+      "duration_ms": 4000,
+      "text": "hard."
+    },
+    {
+      "start_ms": 1782399,
+      "duration_ms": 5121,
+      "text": "I would say too, Jesse, like the way to"
+    },
+    {
+      "start_ms": 1785200,
+      "duration_ms": 5040,
+      "text": "sus that out too. Like I mean hiring"
+    },
+    {
+      "start_ms": 1787520,
+      "duration_ms": 4240,
+      "text": "somebody who really uses these tools um"
+    },
+    {
+      "start_ms": 1790240,
+      "duration_ms": 3360,
+      "text": "is"
+    },
+    {
+      "start_ms": 1791760,
+      "duration_ms": 3919,
+      "text": "I mean I think going to get you'll"
+    },
+    {
+      "start_ms": 1793600,
+      "duration_ms": 3760,
+      "text": "basically get like a team of four, you"
+    },
+    {
+      "start_ms": 1795679,
+      "duration_ms": 3681,
+      "text": "know, for the price of one. And I think"
+    },
+    {
+      "start_ms": 1797360,
+      "duration_ms": 3840,
+      "text": "a good way, you know, while you're while"
+    },
+    {
+      "start_ms": 1799360,
+      "duration_ms": 4799,
+      "text": "you're interviewing and and searching"
+    },
+    {
+      "start_ms": 1801200,
+      "duration_ms": 5680,
+      "text": "for uh for developers, like Jesse's"
+    },
+    {
+      "start_ms": 1804159,
+      "duration_ms": 4961,
+      "text": "built a ton of backend stuff for just"
+    },
+    {
+      "start_ms": 1806880,
+      "duration_ms": 5919,
+      "text": "just tools internally for lead magic,"
+    },
+    {
+      "start_ms": 1809120,
+      "duration_ms": 6240,
+      "text": "just stuff for him to use. And when I"
+    },
+    {
+      "start_ms": 1812799,
+      "duration_ms": 4000,
+      "text": "when Jesse has shown me those apps or I"
+    },
+    {
+      "start_ms": 1815360,
+      "duration_ms": 4240,
+      "text": "mean even what we're looking at right"
+    },
+    {
+      "start_ms": 1816799,
+      "duration_ms": 4480,
+      "text": "now and he's doing it live like this is"
+    },
+    {
+      "start_ms": 1819600,
+      "duration_ms": 4640,
+      "text": "another one this lead magic command"
+    },
+    {
+      "start_ms": 1821279,
+      "duration_ms": 4561,
+      "text": "center took me like a day probably uh to"
+    },
+    {
+      "start_ms": 1824240,
+      "duration_ms": 3039,
+      "text": "build basically I just wanted to track"
+    },
+    {
+      "start_ms": 1825840,
+      "duration_ms": 5120,
+      "text": "every time somebody mentioned our"
+    },
+    {
+      "start_ms": 1827279,
+      "duration_ms": 5760,
+      "text": "company uh on LinkedIn. So I just built"
+    },
+    {
+      "start_ms": 1830960,
+      "duration_ms": 4079,
+      "text": "this basically and this was all a vibe"
+    },
+    {
+      "start_ms": 1833039,
+      "duration_ms": 4321,
+      "text": "code, right? I would just add. So what"
+    },
+    {
+      "start_ms": 1835039,
+      "duration_ms": 4000,
+      "text": "we're we look for is like okay, are they"
+    },
+    {
+      "start_ms": 1837360,
+      "duration_ms": 4319,
+      "text": "a partner? Are they more of a"
+    },
+    {
+      "start_ms": 1839039,
+      "duration_ms": 4961,
+      "text": "competitor? Like what's like what's the"
+    },
+    {
+      "start_ms": 1841679,
+      "duration_ms": 3841,
+      "text": "mentions? And now I could ship this app"
+    },
+    {
+      "start_ms": 1844000,
+      "duration_ms": 2720,
+      "text": "and probably charge people for it. They"
+    },
+    {
+      "start_ms": 1845520,
+      "duration_ms": 3600,
+      "text": "would probably buy it because it's"
+    },
+    {
+      "start_ms": 1846720,
+      "duration_ms": 3920,
+      "text": "valuable and it updates every day. But"
+    },
+    {
+      "start_ms": 1849120,
+      "duration_ms": 4400,
+      "text": "like this took me like a day to build"
+    },
+    {
+      "start_ms": 1850640,
+      "duration_ms": 4960,
+      "text": "now. Um, and you know, I would say this"
+    },
+    {
+      "start_ms": 1853520,
+      "duration_ms": 4879,
+      "text": "is on par with any sort of SAS"
+    },
+    {
+      "start_ms": 1855600,
+      "duration_ms": 4640,
+      "text": "application that's out there from a um,"
+    },
+    {
+      "start_ms": 1858399,
+      "duration_ms": 3681,
+      "text": "you know, just looking at it. But this"
+    },
+    {
+      "start_ms": 1860240,
+      "duration_ms": 4159,
+      "text": "what I want to track is like are they"
+    },
+    {
+      "start_ms": 1862080,
+      "duration_ms": 4000,
+      "text": "talking about us?"
+    },
+    {
+      "start_ms": 1864399,
+      "duration_ms": 4241,
+      "text": "What are they saying about our company?"
+    },
+    {
+      "start_ms": 1866080,
+      "duration_ms": 4479,
+      "text": "You know, we get a lot of uh, inbound"
+    },
+    {
+      "start_ms": 1868640,
+      "duration_ms": 4320,
+      "text": "leads just because people mention us."
+    },
+    {
+      "start_ms": 1870559,
+      "duration_ms": 4561,
+      "text": "But this is like an internal application"
+    },
+    {
+      "start_ms": 1872960,
+      "duration_ms": 4319,
+      "text": "for our company, right? And we have a"
+    },
+    {
+      "start_ms": 1875120,
+      "duration_ms": 4400,
+      "text": "CRM that's internal. We we basically"
+    },
+    {
+      "start_ms": 1877279,
+      "duration_ms": 5441,
+      "text": "just built every app internally instead"
+    },
+    {
+      "start_ms": 1879520,
+      "duration_ms": 5120,
+      "text": "of uh you know"
+    },
+    {
+      "start_ms": 1882720,
+      "duration_ms": 5679,
+      "text": ">> this listening tool is crazy because a"
+    },
+    {
+      "start_ms": 1884640,
+      "duration_ms": 5680,
+      "text": "lot of um I mean the commercialized"
+    },
+    {
+      "start_ms": 1888399,
+      "duration_ms": 6081,
+      "text": "social listening tools for LinkedIn are"
+    },
+    {
+      "start_ms": 1890320,
+      "duration_ms": 6320,
+      "text": "really really spotty. Uh and I've I've"
+    },
+    {
+      "start_ms": 1894480,
+      "duration_ms": 5520,
+      "text": "worked with yours, Jesse. It is not it's"
+    },
+    {
+      "start_ms": 1896640,
+      "duration_ms": 5279,
+      "text": "like crazy accurate. Is that like is"
+    },
+    {
+      "start_ms": 1900000,
+      "duration_ms": 3519,
+      "text": "that because you're not commercializing"
+    },
+    {
+      "start_ms": 1901919,
+      "duration_ms": 4561,
+      "text": "it and you get the advantage of like"
+    },
+    {
+      "start_ms": 1903519,
+      "duration_ms": 6640,
+      "text": "them not knowing about you or like maybe"
+    },
+    {
+      "start_ms": 1906480,
+      "duration_ms": 5760,
+      "text": "your um the rate at which you're you I"
+    },
+    {
+      "start_ms": 1910159,
+      "duration_ms": 3760,
+      "text": "mean because you're really more or ley"
+    },
+    {
+      "start_ms": 1912240,
+      "duration_ms": 3520,
+      "text": ">> is the best out there. The only thing I"
+    },
+    {
+      "start_ms": 1913919,
+      "duration_ms": 4801,
+      "text": "wanted though is I wanted and I'm uh you"
+    },
+    {
+      "start_ms": 1915760,
+      "duration_ms": 5600,
+      "text": "know the reason I'm obviously not even"
+    },
+    {
+      "start_ms": 1918720,
+      "duration_ms": 4959,
+      "text": "doing the uh triggery is is probably the"
+    },
+    {
+      "start_ms": 1921360,
+      "duration_ms": 4400,
+      "text": "best one out there but my focus was only"
+    },
+    {
+      "start_ms": 1923679,
+      "duration_ms": 4081,
+      "text": "on my company. So it was like I don't"
+    },
+    {
+      "start_ms": 1925760,
+      "duration_ms": 4639,
+      "text": "really care and I want to plug it into"
+    },
+    {
+      "start_ms": 1927760,
+      "duration_ms": 5279,
+      "text": "like some of the other data that we"
+    },
+    {
+      "start_ms": 1930399,
+      "duration_ms": 4400,
+      "text": "already have. Like it just helps us"
+    },
+    {
+      "start_ms": 1933039,
+      "duration_ms": 3760,
+      "text": "figure out like hey are people talking"
+    },
+    {
+      "start_ms": 1934799,
+      "duration_ms": 4561,
+      "text": "about our product or like what's going"
+    },
+    {
+      "start_ms": 1936799,
+      "duration_ms": 3921,
+      "text": "on there right? Um,"
+    },
+    {
+      "start_ms": 1939360,
+      "duration_ms": 4159,
+      "text": ">> especially great if you were running an"
+    },
+    {
+      "start_ms": 1940720,
+      "duration_ms": 5600,
+      "text": "influencer campaign or some sort of user"
+    },
+    {
+      "start_ms": 1943519,
+      "duration_ms": 5681,
+      "text": "generated content campaign. Uh, I mean"
+    },
+    {
+      "start_ms": 1946320,
+      "duration_ms": 6160,
+      "text": "that especially on LinkedIn, LinkedIn is"
+    },
+    {
+      "start_ms": 1949200,
+      "duration_ms": 5839,
+      "text": "incredibly tough to dig uh, insights out"
+    },
+    {
+      "start_ms": 1952480,
+      "duration_ms": 4000,
+      "text": "of. Uh, they're they they keep it they"
+    },
+    {
+      "start_ms": 1955039,
+      "duration_ms": 2961,
+      "text": "keep as much behind the curtain as they"
+    },
+    {
+      "start_ms": 1956480,
+      "duration_ms": 2880,
+      "text": "can, which is a lot. And"
+    },
+    {
+      "start_ms": 1958000,
+      "duration_ms": 3760,
+      "text": ">> yeah, you just got to figure that part"
+    },
+    {
+      "start_ms": 1959360,
+      "duration_ms": 8319,
+      "text": "out. Uh then here I'm just going to add"
+    },
+    {
+      "start_ms": 1961760,
+      "duration_ms": 9680,
+      "text": "um add a way add a data table which we"
+    },
+    {
+      "start_ms": 1967679,
+      "duration_ms": 7360,
+      "text": "can add users to from their business"
+    },
+    {
+      "start_ms": 1971440,
+      "duration_ms": 5520,
+      "text": "profile like this and use this API. So"
+    },
+    {
+      "start_ms": 1975039,
+      "duration_ms": 4401,
+      "text": "then you would just have that go in"
+    },
+    {
+      "start_ms": 1976960,
+      "duration_ms": 4319,
+      "text": "there. We let that build and then you"
+    },
+    {
+      "start_ms": 1979440,
+      "duration_ms": 3520,
+      "text": "know but I'll let that build. I just"
+    },
+    {
+      "start_ms": 1981279,
+      "duration_ms": 3841,
+      "text": "want to make sure that builds and then"
+    },
+    {
+      "start_ms": 1982960,
+      "duration_ms": 7199,
+      "text": "you know what basically you can do is"
+    },
+    {
+      "start_ms": 1985120,
+      "duration_ms": 7520,
+      "text": "sort of use this um you know use this to"
+    },
+    {
+      "start_ms": 1990159,
+      "duration_ms": 4240,
+      "text": "figure out what uh actually is going to"
+    },
+    {
+      "start_ms": 1992640,
+      "duration_ms": 3519,
+      "text": "happen and then you can you know you"
+    },
+    {
+      "start_ms": 1994399,
+      "duration_ms": 3441,
+      "text": "could build an employee tracker SAS"
+    },
+    {
+      "start_ms": 1996159,
+      "duration_ms": 2880,
+      "text": "product pretty quickly right and it"
+    },
+    {
+      "start_ms": 1997840,
+      "duration_ms": 2160,
+      "text": "might might even be better than some of"
+    },
+    {
+      "start_ms": 1999039,
+      "duration_ms": 3760,
+      "text": "the ones that are out there because"
+    },
+    {
+      "start_ms": 2000000,
+      "duration_ms": 5519,
+      "text": "you're not using uh the same you know"
+    },
+    {
+      "start_ms": 2002799,
+      "duration_ms": 5441,
+      "text": "this is like the most modern versions of"
+    },
+    {
+      "start_ms": 2005519,
+      "duration_ms": 5441,
+      "text": "all of the tools and hosting providers"
+    },
+    {
+      "start_ms": 2008240,
+      "duration_ms": 5039,
+      "text": "so it's pretty it's pretty solid and you"
+    },
+    {
+      "start_ms": 2010960,
+      "duration_ms": 5280,
+      "text": "I just think getting an MVP out faster"
+    },
+    {
+      "start_ms": 2013279,
+      "duration_ms": 5280,
+      "text": "is better and getting people to try it,"
+    },
+    {
+      "start_ms": 2016240,
+      "duration_ms": 4799,
+      "text": "use it, you'll get to a point where you"
+    },
+    {
+      "start_ms": 2018559,
+      "duration_ms": 4401,
+      "text": "can be good at this. Uh it's it took a"
+    },
+    {
+      "start_ms": 2021039,
+      "duration_ms": 4000,
+      "text": "little bit of time, but it but it it's"
+    },
+    {
+      "start_ms": 2022960,
+      "duration_ms": 3599,
+      "text": "all I do now. Like I don't I don't take"
+    },
+    {
+      "start_ms": 2025039,
+      "duration_ms": 3201,
+      "text": "Zoom calls. I'm not like talking to"
+    },
+    {
+      "start_ms": 2026559,
+      "duration_ms": 4881,
+      "text": "customers every day anymore. I'm just"
+    },
+    {
+      "start_ms": 2028240,
+      "duration_ms": 5120,
+      "text": "doing this now. So everything I do is"
+    },
+    {
+      "start_ms": 2031440,
+      "duration_ms": 4000,
+      "text": "this with Lead Magic. Like I don't not"
+    },
+    {
+      "start_ms": 2033360,
+      "duration_ms": 5439,
+      "text": "doing anything else. So um"
+    },
+    {
+      "start_ms": 2035440,
+      "duration_ms": 6400,
+      "text": ">> which is incredible. And it's V V0 uh"
+    },
+    {
+      "start_ms": 2038799,
+      "duration_ms": 6161,
+      "text": "really is your main tool when it comes"
+    },
+    {
+      "start_ms": 2041840,
+      "duration_ms": 4240,
+      "text": "to actually"
+    },
+    {
+      "start_ms": 2044960,
+      "duration_ms": 3119,
+      "text": "legit"
+    },
+    {
+      "start_ms": 2046080,
+      "duration_ms": 5039,
+      "text": ">> curs if I had to say what I use the most"
+    },
+    {
+      "start_ms": 2048079,
+      "duration_ms": 4881,
+      "text": "it's cursor. So cursor is like it's"
+    },
+    {
+      "start_ms": 2051119,
+      "duration_ms": 4800,
+      "text": "basically you know like where developers"
+    },
+    {
+      "start_ms": 2052960,
+      "duration_ms": 5040,
+      "text": "usually use visual uh studio it's visual"
+    },
+    {
+      "start_ms": 2055919,
+      "duration_ms": 4480,
+      "text": "studio but it's like it's got the"
+    },
+    {
+      "start_ms": 2058000,
+      "duration_ms": 5440,
+      "text": "chatbot chatbot implemented into it"
+    },
+    {
+      "start_ms": 2060399,
+      "duration_ms": 4480,
+      "text": "because but this gets a little this is"
+    },
+    {
+      "start_ms": 2063440,
+      "duration_ms": 3120,
+      "text": "probably a little too much for somebody"
+    },
+    {
+      "start_ms": 2064879,
+      "duration_ms": 5841,
+      "text": "in the beginning. So, you know, you"
+    },
+    {
+      "start_ms": 2066560,
+      "duration_ms": 6319,
+      "text": "stick back to this. So, then you can um"
+    },
+    {
+      "start_ms": 2070720,
+      "duration_ms": 5520,
+      "text": "you know, do that, right? That's the"
+    },
+    {
+      "start_ms": 2072879,
+      "duration_ms": 4480,
+      "text": "that's the the trick there, right? So,"
+    },
+    {
+      "start_ms": 2076240,
+      "duration_ms": 5439,
+      "text": "you know, if we're going to add an"
+    },
+    {
+      "start_ms": 2077359,
+      "duration_ms": 6800,
+      "text": "employee, um we just, you know, see like"
+    },
+    {
+      "start_ms": 2081679,
+      "duration_ms": 4801,
+      "text": "you could add this sort of like employee"
+    },
+    {
+      "start_ms": 2084159,
+      "duration_ms": 5841,
+      "text": "tracker, things are going to not work"
+    },
+    {
+      "start_ms": 2086480,
+      "duration_ms": 7280,
+      "text": "right away. So, the the add employee"
+    },
+    {
+      "start_ms": 2090000,
+      "duration_ms": 8000,
+      "text": "button doesn't work. So, fix it. So it"
+    },
+    {
+      "start_ms": 2093760,
+      "duration_ms": 6240,
+      "text": "store or get the data from the API and"
+    },
+    {
+      "start_ms": 2098000,
+      "duration_ms": 4800,
+      "text": "then you know you can integrate as many"
+    },
+    {
+      "start_ms": 2100000,
+      "duration_ms": 5760,
+      "text": "APIs into these applications as you want"
+    },
+    {
+      "start_ms": 2102800,
+      "duration_ms": 5600,
+      "text": "and that's sort of the you know the way"
+    },
+    {
+      "start_ms": 2105760,
+      "duration_ms": 4480,
+      "text": "to do it and then you then you own the"
+    },
+    {
+      "start_ms": 2108400,
+      "duration_ms": 3600,
+      "text": "code too right like it's not you're not"
+    },
+    {
+      "start_ms": 2110240,
+      "duration_ms": 5200,
+      "text": "using another application you don't have"
+    },
+    {
+      "start_ms": 2112000,
+      "duration_ms": 5599,
+      "text": "any cost associated with this code right"
+    },
+    {
+      "start_ms": 2115440,
+      "duration_ms": 3440,
+      "text": "like this code is yours and you can do"
+    },
+    {
+      "start_ms": 2117599,
+      "duration_ms": 4641,
+      "text": "whatever you want with it right it's all"
+    },
+    {
+      "start_ms": 2118880,
+      "duration_ms": 6640,
+      "text": "right here so there's no IP you're"
+    },
+    {
+      "start_ms": 2122240,
+      "duration_ms": 4160,
+      "text": "losing you own it all. Uh, you know, you"
+    },
+    {
+      "start_ms": 2125520,
+      "duration_ms": 2240,
+      "text": "can do a lot with this."
+    },
+    {
+      "start_ms": 2126400,
+      "duration_ms": 3520,
+      "text": ">> Download all that. You can just download"
+    },
+    {
+      "start_ms": 2127760,
+      "duration_ms": 5200,
+      "text": "it into one big zip file and send it"
+    },
+    {
+      "start_ms": 2129920,
+      "duration_ms": 4640,
+      "text": "over to some I mean it's it's uh it's"
+    },
+    {
+      "start_ms": 2132960,
+      "duration_ms": 3040,
+      "text": ">> yeah, you put it in GitHub would be the"
+    },
+    {
+      "start_ms": 2134560,
+      "duration_ms": 5120,
+      "text": "best way to do it and then you put it in"
+    },
+    {
+      "start_ms": 2136000,
+      "duration_ms": 6400,
+      "text": "GitHub and then now you're using it. Um,"
+    },
+    {
+      "start_ms": 2139680,
+      "duration_ms": 4800,
+      "text": "and what's what happens is these"
+    },
+    {
+      "start_ms": 2142400,
+      "duration_ms": 4719,
+      "text": "applications you you probably only what"
+    },
+    {
+      "start_ms": 2144480,
+      "duration_ms": 4800,
+      "text": "I would do is start very small like only"
+    },
+    {
+      "start_ms": 2147119,
+      "duration_ms": 3841,
+      "text": "build one thing for one person, right?"
+    },
+    {
+      "start_ms": 2149280,
+      "duration_ms": 3360,
+      "text": "Like you hear this all the time, but"
+    },
+    {
+      "start_ms": 2150960,
+      "duration_ms": 2960,
+      "text": "when you go wide and you come up with"
+    },
+    {
+      "start_ms": 2152640,
+      "duration_ms": 3280,
+      "text": "all these idea, like just build"
+    },
+    {
+      "start_ms": 2153920,
+      "duration_ms": 4320,
+      "text": "something simple that kind of fits your"
+    },
+    {
+      "start_ms": 2155920,
+      "duration_ms": 4480,
+      "text": "current brand or your agency or"
+    },
+    {
+      "start_ms": 2158240,
+      "duration_ms": 4480,
+      "text": "something you know how to do well,"
+    },
+    {
+      "start_ms": 2160400,
+      "duration_ms": 6240,
+      "text": "that's the key. If you can focus there"
+    },
+    {
+      "start_ms": 2162720,
+      "duration_ms": 6399,
+      "text": "and not like people try to bake it all"
+    },
+    {
+      "start_ms": 2166640,
+      "duration_ms": 5280,
+      "text": "into one right away and it just it gets"
+    },
+    {
+      "start_ms": 2169119,
+      "duration_ms": 4480,
+      "text": "really painful. Um"
+    },
+    {
+      "start_ms": 2171920,
+      "duration_ms": 3040,
+      "text": "you know like you just won't be"
+    },
+    {
+      "start_ms": 2173599,
+      "duration_ms": 4801,
+      "text": "successful if you try to do that. I"
+    },
+    {
+      "start_ms": 2174960,
+      "duration_ms": 5760,
+      "text": "started with just email validation."
+    },
+    {
+      "start_ms": 2178400,
+      "duration_ms": 5679,
+      "text": "now on the Okay. So, like let's let's"
+    },
+    {
+      "start_ms": 2180720,
+      "duration_ms": 6320,
+      "text": "take that that idea of of building it"
+    },
+    {
+      "start_ms": 2184079,
+      "duration_ms": 4561,
+      "text": "kind of bit by bit and just"
+    },
+    {
+      "start_ms": 2187040,
+      "duration_ms": 4079,
+      "text": "contextualize that using the screen"
+    },
+    {
+      "start_ms": 2188640,
+      "duration_ms": 4640,
+      "text": "we're already looking at. Okay. So, we"
+    },
+    {
+      "start_ms": 2191119,
+      "duration_ms": 4000,
+      "text": "have um so we have these different"
+    },
+    {
+      "start_ms": 2193280,
+      "duration_ms": 4480,
+      "text": "functions. We have tenure analytics, job"
+    },
+    {
+      "start_ms": 2195119,
+      "duration_ms": 4401,
+      "text": "changes, let's say employee overview and"
+    },
+    {
+      "start_ms": 2197760,
+      "duration_ms": 4560,
+      "text": "job changes. So, let's say there was a"
+    },
+    {
+      "start_ms": 2199520,
+      "duration_ms": 5280,
+      "text": "bug with job changes and you really had"
+    },
+    {
+      "start_ms": 2202320,
+      "duration_ms": 5519,
+      "text": "to go deeper into kind of debugging"
+    },
+    {
+      "start_ms": 2204800,
+      "duration_ms": 6160,
+      "text": "that. Hey, do you ever find yourself in"
+    },
+    {
+      "start_ms": 2207839,
+      "duration_ms": 4961,
+      "text": "these like uh broken loops essentially"
+    },
+    {
+      "start_ms": 2210960,
+      "duration_ms": 4800,
+      "text": "with the bot? I've done that with V0ero."
+    },
+    {
+      "start_ms": 2212800,
+      "duration_ms": 4559,
+      "text": "It's like fix with V 0. I click it, it"
+    },
+    {
+      "start_ms": 2215760,
+      "duration_ms": 3839,
+      "text": "spits out another version and then it's"
+    },
+    {
+      "start_ms": 2217359,
+      "duration_ms": 4561,
+      "text": "like broken fixed with V0 and I'm just"
+    },
+    {
+      "start_ms": 2219599,
+      "duration_ms": 4721,
+      "text": "in that loop and then it's almost like"
+    },
+    {
+      "start_ms": 2221920,
+      "duration_ms": 5919,
+      "text": "that that bulk code that I'm trying to"
+    },
+    {
+      "start_ms": 2224320,
+      "duration_ms": 4799,
+      "text": "work on is less usable because it just"
+    },
+    {
+      "start_ms": 2227839,
+      "duration_ms": 2641,
+      "text": "keeps rewriting this thing and not"
+    },
+    {
+      "start_ms": 2229119,
+      "duration_ms": 3761,
+      "text": "really fixing anything."
+    },
+    {
+      "start_ms": 2230480,
+      "duration_ms": 4320,
+      "text": ">> Uh yes, that happens all the time. And"
+    },
+    {
+      "start_ms": 2232880,
+      "duration_ms": 6239,
+      "text": "best way, one of the best ways to solve"
+    },
+    {
+      "start_ms": 2234800,
+      "duration_ms": 5920,
+      "text": "that uh which is uh I'll show it to sort"
+    },
+    {
+      "start_ms": 2239119,
+      "duration_ms": 2960,
+      "text": "of show you. But one of the best ways"
+    },
+    {
+      "start_ms": 2240720,
+      "duration_ms": 3040,
+      "text": "that's when you start if you really want"
+    },
+    {
+      "start_ms": 2242079,
+      "duration_ms": 3760,
+      "text": "to um you know unless you understand the"
+    },
+    {
+      "start_ms": 2243760,
+      "duration_ms": 4640,
+      "text": "code or whatever I mean at this point"
+    },
+    {
+      "start_ms": 2245839,
+      "duration_ms": 5121,
+      "text": "it's easier now for me. But what you can"
+    },
+    {
+      "start_ms": 2248400,
+      "duration_ms": 4480,
+      "text": "do when you get into that that rut right"
+    },
+    {
+      "start_ms": 2250960,
+      "duration_ms": 6639,
+      "text": "there is, you know, at a very high"
+    },
+    {
+      "start_ms": 2252880,
+      "duration_ms": 7760,
+      "text": "level, you can go and just start a um c"
+    },
+    {
+      "start_ms": 2257599,
+      "duration_ms": 4641,
+      "text": "you can put it into um the best way to"
+    },
+    {
+      "start_ms": 2260640,
+      "duration_ms": 5520,
+      "text": "do that is to probably put it into"
+    },
+    {
+      "start_ms": 2262240,
+      "duration_ms": 7359,
+      "text": "GitHub. Now, it's like kind of free in"
+    },
+    {
+      "start_ms": 2266160,
+      "duration_ms": 6800,
+      "text": "the sense that it can be used in other"
+    },
+    {
+      "start_ms": 2269599,
+      "duration_ms": 6000,
+      "text": "tools. So, what I would do here now is"
+    },
+    {
+      "start_ms": 2272960,
+      "duration_ms": 4720,
+      "text": "um you know, I go into cursor, right?"
+    },
+    {
+      "start_ms": 2275599,
+      "duration_ms": 4961,
+      "text": "Cursor is an IDE. So it's like a little"
+    },
+    {
+      "start_ms": 2277680,
+      "duration_ms": 4320,
+      "text": "bit more technical, a little bit more it"
+    },
+    {
+      "start_ms": 2280560,
+      "duration_ms": 3600,
+      "text": "can connect to it a little bit easier. I"
+    },
+    {
+      "start_ms": 2282000,
+      "duration_ms": 5680,
+      "text": "would clone it in cursor, right? And"
+    },
+    {
+      "start_ms": 2284160,
+      "duration_ms": 6320,
+      "text": "then um then I would have that. Now what"
+    },
+    {
+      "start_ms": 2287680,
+      "duration_ms": 4960,
+      "text": "I would be able to do is"
+    },
+    {
+      "start_ms": 2290480,
+      "duration_ms": 4639,
+      "text": "uh I would be able to open it in cursor"
+    },
+    {
+      "start_ms": 2292640,
+      "duration_ms": 4719,
+      "text": "because I pushed it over here. So now"
+    },
+    {
+      "start_ms": 2295119,
+      "duration_ms": 4081,
+      "text": "you can see the whole codebase. This is"
+    },
+    {
+      "start_ms": 2297359,
+      "duration_ms": 3201,
+      "text": "kind of going now. The good thing the"
+    },
+    {
+      "start_ms": 2299200,
+      "duration_ms": 3840,
+      "text": "fun thing to do is have like five of"
+    },
+    {
+      "start_ms": 2300560,
+      "duration_ms": 4480,
+      "text": "these up at once just like letting you"
+    },
+    {
+      "start_ms": 2303040,
+      "duration_ms": 5920,
+      "text": "know like like letting it go that way."
+    },
+    {
+      "start_ms": 2305040,
+      "duration_ms": 5520,
+      "text": "But um um you know so now it's in cursor"
+    },
+    {
+      "start_ms": 2308960,
+      "duration_ms": 3360,
+      "text": "it's here. So then you can go in here"
+    },
+    {
+      "start_ms": 2310560,
+      "duration_ms": 3600,
+      "text": "and you could say go through the"
+    },
+    {
+      "start_ms": 2312320,
+      "duration_ms": 6080,
+      "text": "application"
+    },
+    {
+      "start_ms": 2314160,
+      "duration_ms": 8320,
+      "text": "and find the areas where it isn't uh"
+    },
+    {
+      "start_ms": 2318400,
+      "duration_ms": 5280,
+      "text": "where there are bugs. Right now this"
+    },
+    {
+      "start_ms": 2322480,
+      "duration_ms": 4240,
+      "text": "helps a lot of people get out of the"
+    },
+    {
+      "start_ms": 2323680,
+      "duration_ms": 5040,
+      "text": "vzero loops or like lovable loops. And"
+    },
+    {
+      "start_ms": 2326720,
+      "duration_ms": 3760,
+      "text": "what you're doing is you're you're"
+    },
+    {
+      "start_ms": 2328720,
+      "duration_ms": 3200,
+      "text": "basically I put it on ask mode. I don't"
+    },
+    {
+      "start_ms": 2330480,
+      "duration_ms": 2639,
+      "text": "want it to control anything. There's a"
+    },
+    {
+      "start_ms": 2331920,
+      "duration_ms": 3360,
+      "text": "little bit of a difference between ask"
+    },
+    {
+      "start_ms": 2333119,
+      "duration_ms": 4720,
+      "text": "and agent, but essentially what you're"
+    },
+    {
+      "start_ms": 2335280,
+      "duration_ms": 5200,
+      "text": "doing here is you're just like asking it"
+    },
+    {
+      "start_ms": 2337839,
+      "duration_ms": 4561,
+      "text": "what's going on with the code that will"
+    },
+    {
+      "start_ms": 2340480,
+      "duration_ms": 3920,
+      "text": "help you get out of a lot of those jams."
+    },
+    {
+      "start_ms": 2342400,
+      "duration_ms": 4880,
+      "text": "Right? So,"
+    },
+    {
+      "start_ms": 2344400,
+      "duration_ms": 6800,
+      "text": ">> so that thing of like parsing out"
+    },
+    {
+      "start_ms": 2347280,
+      "duration_ms": 5680,
+      "text": "through GitHub. So, you have you so"
+    },
+    {
+      "start_ms": 2351200,
+      "duration_ms": 3440,
+      "text": "let's just go through the whole process"
+    },
+    {
+      "start_ms": 2352960,
+      "duration_ms": 3680,
+      "text": "kind of from where we started just as a"
+    },
+    {
+      "start_ms": 2354640,
+      "duration_ms": 3840,
+      "text": "as kind of a midway recap. So, we have"
+    },
+    {
+      "start_ms": 2356640,
+      "duration_ms": 5040,
+      "text": "our initial prompt. Again, we'll share"
+    },
+    {
+      "start_ms": 2358480,
+      "duration_ms": 5840,
+      "text": "that with you. That initial prompt spits"
+    },
+    {
+      "start_ms": 2361680,
+      "duration_ms": 4640,
+      "text": "out this more or less this yolo prompt."
+    },
+    {
+      "start_ms": 2364320,
+      "duration_ms": 3840,
+      "text": "This really long thing that has all the"
+    },
+    {
+      "start_ms": 2366320,
+      "duration_ms": 3759,
+      "text": "architecture and stuff lined out and"
+    },
+    {
+      "start_ms": 2368160,
+      "duration_ms": 6080,
+      "text": "functionality. That way we can put it"
+    },
+    {
+      "start_ms": 2370079,
+      "duration_ms": 7601,
+      "text": "into v 0. V 0 then is spitting out the"
+    },
+    {
+      "start_ms": 2374240,
+      "duration_ms": 5520,
+      "text": "whole thing in one long run. From there,"
+    },
+    {
+      "start_ms": 2377680,
+      "duration_ms": 4320,
+      "text": "once you have all of this, you you can"
+    },
+    {
+      "start_ms": 2379760,
+      "duration_ms": 4640,
+      "text": "you can flip over from the uh the u the"
+    },
+    {
+      "start_ms": 2382000,
+      "duration_ms": 5040,
+      "text": "preview to the code section. you can"
+    },
+    {
+      "start_ms": 2384400,
+      "duration_ms": 4800,
+      "text": "download the full code and it'll have"
+    },
+    {
+      "start_ms": 2387040,
+      "duration_ms": 4240,
+      "text": "all of the little functionality areas."
+    },
+    {
+      "start_ms": 2389200,
+      "duration_ms": 4480,
+      "text": "So in this case it would have you know"
+    },
+    {
+      "start_ms": 2391280,
+      "duration_ms": 5680,
+      "text": "your employee overview and your you know"
+    },
+    {
+      "start_ms": 2393680,
+      "duration_ms": 5840,
+      "text": "your job changes and things like that to"
+    },
+    {
+      "start_ms": 2396960,
+      "duration_ms": 4960,
+      "text": "debug put it into GitHub and then you"
+    },
+    {
+      "start_ms": 2399520,
+      "duration_ms": 4160,
+      "text": "can start debugging still with text"
+    },
+    {
+      "start_ms": 2401920,
+      "duration_ms": 6240,
+      "text": "prompts. You're just dropping that"
+    },
+    {
+      "start_ms": 2403680,
+      "duration_ms": 6399,
+      "text": "folder of code into here and saying hey"
+    },
+    {
+      "start_ms": 2408160,
+      "duration_ms": 3360,
+      "text": "I'm experiencing this error. You can"
+    },
+    {
+      "start_ms": 2410079,
+      "duration_ms": 4081,
+      "text": "copy and paste the error that you got"
+    },
+    {
+      "start_ms": 2411520,
+      "duration_ms": 5120,
+      "text": "from wherever it was v0ero cursor and"
+    },
+    {
+      "start_ms": 2414160,
+      "duration_ms": 7760,
+      "text": "then have it just fix that specific"
+    },
+    {
+      "start_ms": 2416640,
+      "duration_ms": 7280,
+      "text": "thing. Um, so there's a lot of um"
+    },
+    {
+      "start_ms": 2421920,
+      "duration_ms": 3840,
+      "text": "uh there's there's yeah some things to"
+    },
+    {
+      "start_ms": 2423920,
+      "duration_ms": 3840,
+      "text": "look out for. Again, this is an advanced"
+    },
+    {
+      "start_ms": 2425760,
+      "duration_ms": 5839,
+      "text": "version. The goal here is to show"
+    },
+    {
+      "start_ms": 2427760,
+      "duration_ms": 5760,
+      "text": "everyone the capabilities uh not just"
+    },
+    {
+      "start_ms": 2431599,
+      "duration_ms": 3841,
+      "text": "hey, here's how you can uh nail a"
+    },
+    {
+      "start_ms": 2433520,
+      "duration_ms": 4240,
+      "text": "working app immediately after this call."
+    },
+    {
+      "start_ms": 2435440,
+      "duration_ms": 4320,
+      "text": ">> Yeah. So the goal so basically what you"
+    },
+    {
+      "start_ms": 2437760,
+      "duration_ms": 4160,
+      "text": "what you found is like there are bugs"
+    },
+    {
+      "start_ms": 2439760,
+      "duration_ms": 4640,
+      "text": "that that have been sort of pushed in"
+    },
+    {
+      "start_ms": 2441920,
+      "duration_ms": 5040,
+      "text": "through here. But what what I think the"
+    },
+    {
+      "start_ms": 2444400,
+      "duration_ms": 4880,
+      "text": "key is is if you get your if you really"
+    },
+    {
+      "start_ms": 2446960,
+      "duration_ms": 5200,
+      "text": "focus on prompting before you send it"
+    },
+    {
+      "start_ms": 2449280,
+      "duration_ms": 6400,
+      "text": "over here getting an MVP of what you"
+    },
+    {
+      "start_ms": 2452160,
+      "duration_ms": 5679,
+      "text": "want the app to look like don't you know"
+    },
+    {
+      "start_ms": 2455680,
+      "duration_ms": 4080,
+      "text": "doing all of that then you're probably"
+    },
+    {
+      "start_ms": 2457839,
+      "duration_ms": 3841,
+      "text": "only you really don't understand you're"
+    },
+    {
+      "start_ms": 2459760,
+      "duration_ms": 3440,
+      "text": "very close to being able to ship that"
+    },
+    {
+      "start_ms": 2461680,
+      "duration_ms": 3840,
+      "text": "application."
+    },
+    {
+      "start_ms": 2463200,
+      "duration_ms": 5360,
+      "text": "The hard part is probably the harder"
+    },
+    {
+      "start_ms": 2465520,
+      "duration_ms": 4799,
+      "text": "part before was this part of it, right?"
+    },
+    {
+      "start_ms": 2468560,
+      "duration_ms": 3759,
+      "text": "Like this part of it changed quite a"
+    },
+    {
+      "start_ms": 2470319,
+      "duration_ms": 3921,
+      "text": "bit. Now, are there still little"
+    },
+    {
+      "start_ms": 2472319,
+      "duration_ms": 3681,
+      "text": "interaction bugs when you start tying in"
+    },
+    {
+      "start_ms": 2474240,
+      "duration_ms": 4240,
+      "text": "databases and things like that? Yes."
+    },
+    {
+      "start_ms": 2476000,
+      "duration_ms": 3920,
+      "text": "Authentication usually is a problem. Uh"
+    },
+    {
+      "start_ms": 2478480,
+      "duration_ms": 3520,
+      "text": "the other stuff that's a problem is the"
+    },
+    {
+      "start_ms": 2479920,
+      "duration_ms": 4000,
+      "text": "database like starting it, seeking it,"
+    },
+    {
+      "start_ms": 2482000,
+      "duration_ms": 4480,
+      "text": "you know, doing that stuff like that"
+    },
+    {
+      "start_ms": 2483920,
+      "duration_ms": 4240,
+      "text": "stuff's usually pretty hard. But uh that"
+    },
+    {
+      "start_ms": 2486480,
+      "duration_ms": 3760,
+      "text": "that's where so people are, you know,"
+    },
+    {
+      "start_ms": 2488160,
+      "duration_ms": 4080,
+      "text": "part of this was to show limitations. So"
+    },
+    {
+      "start_ms": 2490240,
+      "duration_ms": 4160,
+      "text": "where you probably want to stop is like"
+    },
+    {
+      "start_ms": 2492240,
+      "duration_ms": 4400,
+      "text": "get this part done first, right? Like"
+    },
+    {
+      "start_ms": 2494400,
+      "duration_ms": 5760,
+      "text": "figure out exactly how you want this to"
+    },
+    {
+      "start_ms": 2496640,
+      "duration_ms": 5760,
+      "text": "look with sample data. Do that and then"
+    },
+    {
+      "start_ms": 2500160,
+      "duration_ms": 4480,
+      "text": "start to incorporate some of the APIs"
+    },
+    {
+      "start_ms": 2502400,
+      "duration_ms": 4240,
+      "text": "that are out there that you could put"
+    },
+    {
+      "start_ms": 2504640,
+      "duration_ms": 3920,
+      "text": "inside your application, right? Whatever"
+    },
+    {
+      "start_ms": 2506640,
+      "duration_ms": 3199,
+      "text": "you want that interaction to be. Try to"
+    },
+    {
+      "start_ms": 2508560,
+      "duration_ms": 2160,
+      "text": "implement them. But I'll tell you,"
+    },
+    {
+      "start_ms": 2509839,
+      "duration_ms": 3280,
+      "text": "that's where you're probably going to"
+    },
+    {
+      "start_ms": 2510720,
+      "duration_ms": 4960,
+      "text": "get stuck first is that part right"
+    },
+    {
+      "start_ms": 2513119,
+      "duration_ms": 4480,
+      "text": "there. And that's also a good spot where"
+    },
+    {
+      "start_ms": 2515680,
+      "duration_ms": 2800,
+      "text": "security will become an issue. So,"
+    },
+    {
+      "start_ms": 2517599,
+      "duration_ms": 3841,
+      "text": "you're probably going to want to be"
+    },
+    {
+      "start_ms": 2518480,
+      "duration_ms": 5040,
+      "text": "careful there, too. Uh, so that's why"
+    },
+    {
+      "start_ms": 2521440,
+      "duration_ms": 3679,
+      "text": "but getting this part done first should"
+    },
+    {
+      "start_ms": 2523520,
+      "duration_ms": 3920,
+      "text": "be pretty easy with any of the tools"
+    },
+    {
+      "start_ms": 2525119,
+      "duration_ms": 4081,
+      "text": "that are out there, right? I think"
+    },
+    {
+      "start_ms": 2527440,
+      "duration_ms": 4639,
+      "text": "that's the way what I was trying to get"
+    },
+    {
+      "start_ms": 2529200,
+      "duration_ms": 5040,
+      "text": "at with people is like start to get the"
+    },
+    {
+      "start_ms": 2532079,
+      "duration_ms": 5520,
+      "text": "application to look like this or"
+    },
+    {
+      "start_ms": 2534240,
+      "duration_ms": 5200,
+      "text": "whatever. Then go from here, figure out"
+    },
+    {
+      "start_ms": 2537599,
+      "duration_ms": 4801,
+      "text": "how you want that to look, then go find"
+    },
+    {
+      "start_ms": 2539440,
+      "duration_ms": 4480,
+      "text": "the data where you need it and find uh,"
+    },
+    {
+      "start_ms": 2542400,
+      "duration_ms": 3600,
+      "text": "you know, that that might be where you"
+    },
+    {
+      "start_ms": 2543920,
+      "duration_ms": 4720,
+      "text": "need a developer."
+    },
+    {
+      "start_ms": 2546000,
+      "duration_ms": 4079,
+      "text": ">> Yeah. And and and I think just this like"
+    },
+    {
+      "start_ms": 2548640,
+      "duration_ms": 3280,
+      "text": "you know what you were showing before of"
+    },
+    {
+      "start_ms": 2550079,
+      "duration_ms": 3280,
+      "text": "like just take one functionality at a"
+    },
+    {
+      "start_ms": 2551920,
+      "duration_ms": 2880,
+      "text": "time, one small bit at a time. When you"
+    },
+    {
+      "start_ms": 2553359,
+      "duration_ms": 3361,
+      "text": "built lead magic, you were really just"
+    },
+    {
+      "start_ms": 2554800,
+      "duration_ms": 2640,
+      "text": "doing email validation, not just I mean"
+    },
+    {
+      "start_ms": 2556720,
+      "duration_ms": 2320,
+      "text": "that's a big thing."
+    },
+    {
+      "start_ms": 2557440,
+      "duration_ms": 4000,
+      "text": ">> We just took our agency, we had a no"
+    },
+    {
+      "start_ms": 2559040,
+      "duration_ms": 4000,
+      "text": "code agency portal that we turned into a"
+    },
+    {
+      "start_ms": 2561440,
+      "duration_ms": 2960,
+      "text": "SAS basically, right? That's that's what"
+    },
+    {
+      "start_ms": 2563040,
+      "duration_ms": 3440,
+      "text": "it was. It was like how we did email"
+    },
+    {
+      "start_ms": 2564400,
+      "duration_ms": 3360,
+      "text": "validation and then we just kept going"
+    },
+    {
+      "start_ms": 2566480,
+      "duration_ms": 3599,
+      "text": "like it was just more and more things"
+    },
+    {
+      "start_ms": 2567760,
+      "duration_ms": 3839,
+      "text": "that we shipped. Then we realized uh we"
+    },
+    {
+      "start_ms": 2570079,
+      "duration_ms": 3201,
+      "text": "also had like another way we had a way"
+    },
+    {
+      "start_ms": 2571599,
+      "duration_ms": 2961,
+      "text": "to get like analytics out of our email"
+    },
+    {
+      "start_ms": 2573280,
+      "duration_ms": 4079,
+      "text": "campaigns. That was like the other thing"
+    },
+    {
+      "start_ms": 2574560,
+      "duration_ms": 5440,
+      "text": "we were doing. So we tried both. We"
+    },
+    {
+      "start_ms": 2577359,
+      "duration_ms": 4561,
+      "text": "found that the data part went a lot"
+    },
+    {
+      "start_ms": 2580000,
+      "duration_ms": 3440,
+      "text": "better. Then people started using us in"
+    },
+    {
+      "start_ms": 2581920,
+      "duration_ms": 3439,
+      "text": "clay and they started using us in a lot"
+    },
+    {
+      "start_ms": 2583440,
+      "duration_ms": 3679,
+      "text": "of other tools. We kind of early on"
+    },
+    {
+      "start_ms": 2585359,
+      "duration_ms": 4801,
+      "text": "there and that is how the journey"
+    },
+    {
+      "start_ms": 2587119,
+      "duration_ms": 5200,
+      "text": "started really. But I think getting this"
+    },
+    {
+      "start_ms": 2590160,
+      "duration_ms": 5840,
+      "text": "out the economics are good, right? So if"
+    },
+    {
+      "start_ms": 2592319,
+      "duration_ms": 5760,
+      "text": "you have an API that costs a penny or"
+    },
+    {
+      "start_ms": 2596000,
+      "duration_ms": 3599,
+      "text": "two, right? Three, four cents, whatever."
+    },
+    {
+      "start_ms": 2598079,
+      "duration_ms": 4721,
+      "text": "And then you have a user that's paying"
+    },
+    {
+      "start_ms": 2599599,
+      "duration_ms": 4720,
+      "text": "$20 a month, $50 a month, $100 a month,"
+    },
+    {
+      "start_ms": 2602800,
+      "duration_ms": 3039,
+      "text": "it's pretty good. The only time it"
+    },
+    {
+      "start_ms": 2604319,
+      "duration_ms": 3520,
+      "text": "becomes bad is when you got a really"
+    },
+    {
+      "start_ms": 2605839,
+      "duration_ms": 3921,
+      "text": "good, you know, it it could get worse"
+    },
+    {
+      "start_ms": 2607839,
+      "duration_ms": 4161,
+      "text": "when you start to have to hire a big"
+    },
+    {
+      "start_ms": 2609760,
+      "duration_ms": 4319,
+      "text": "team, a big a bunch of developers. Then"
+    },
+    {
+      "start_ms": 2612000,
+      "duration_ms": 3680,
+      "text": "you get really high and you go after the"
+    },
+    {
+      "start_ms": 2614079,
+      "duration_ms": 3361,
+      "text": "VC money, right? And you're like, \"Oh,"
+    },
+    {
+      "start_ms": 2615680,
+      "duration_ms": 3679,
+      "text": "I'm going to go build this, you know,"
+    },
+    {
+      "start_ms": 2617440,
+      "duration_ms": 3840,
+      "text": "and then you're caught up on one idea."
+    },
+    {
+      "start_ms": 2619359,
+      "duration_ms": 4161,
+      "text": "It's just I see this happen all the"
+    },
+    {
+      "start_ms": 2621280,
+      "duration_ms": 4640,
+      "text": "time, like try to get it, you know, even"
+    },
+    {
+      "start_ms": 2623520,
+      "duration_ms": 4079,
+      "text": "if it's a few thousand investment to get"
+    },
+    {
+      "start_ms": 2625920,
+      "duration_ms": 4240,
+      "text": "a developer to kind of help you push it"
+    },
+    {
+      "start_ms": 2627599,
+      "duration_ms": 4641,
+      "text": "over the end zone.\" You probably want to"
+    },
+    {
+      "start_ms": 2630160,
+      "duration_ms": 4560,
+      "text": "do that, right? like that, you know,"
+    },
+    {
+      "start_ms": 2632240,
+      "duration_ms": 3920,
+      "text": "that's what you want to do, right? Um,"
+    },
+    {
+      "start_ms": 2634720,
+      "duration_ms": 3119,
+      "text": ">> which you could even hire on a project"
+    },
+    {
+      "start_ms": 2636160,
+      "duration_ms": 4320,
+      "text": "basis. You don't have to like bring on"
+    },
+    {
+      "start_ms": 2637839,
+      "duration_ms": 4480,
+      "text": "this like CTO or this like full-time. I"
+    },
+    {
+      "start_ms": 2640480,
+      "duration_ms": 3920,
+      "text": "mean, developers are expensive. They're"
+    },
+    {
+      "start_ms": 2642319,
+      "duration_ms": 5921,
+      "text": "a lot of them are super talented and"
+    },
+    {
+      "start_ms": 2644400,
+      "duration_ms": 6480,
+      "text": "with talent in any domain comes expense."
+    },
+    {
+      "start_ms": 2648240,
+      "duration_ms": 4240,
+      "text": "Um, so if you're able to get to this"
+    },
+    {
+      "start_ms": 2650880,
+      "duration_ms": 3600,
+      "text": "sort of there's a lot of talk in the"
+    },
+    {
+      "start_ms": 2652480,
+      "duration_ms": 4960,
+      "text": "chat right now of this, you know, just"
+    },
+    {
+      "start_ms": 2654480,
+      "duration_ms": 4240,
+      "text": "get it to 80% and then have a developer"
+    },
+    {
+      "start_ms": 2657440,
+      "duration_ms": 3280,
+      "text": "deal with the security and the other"
+    },
+    {
+      "start_ms": 2658720,
+      "duration_ms": 4399,
+      "text": "stuff. Now there you can vibe code that"
+    },
+    {
+      "start_ms": 2660720,
+      "duration_ms": 5599,
+      "text": "as well. Um, but we're getting into more"
+    },
+    {
+      "start_ms": 2663119,
+      "duration_ms": 5921,
+      "text": "of that upper echelon of of knowledge,"
+    },
+    {
+      "start_ms": 2666319,
+      "duration_ms": 4561,
+      "text": "expertise, and just"
+    },
+    {
+      "start_ms": 2669040,
+      "duration_ms": 3120,
+      "text": ">> start with an internal app is what I"
+    },
+    {
+      "start_ms": 2670880,
+      "duration_ms": 2880,
+      "text": "would say. If you're if you're an"
+    },
+    {
+      "start_ms": 2672160,
+      "duration_ms": 4720,
+      "text": "agency, you know, the best way to do it"
+    },
+    {
+      "start_ms": 2673760,
+      "duration_ms": 4800,
+      "text": "is start having somebody build some vi"
+    },
+    {
+      "start_ms": 2676880,
+      "duration_ms": 4400,
+      "text": "start vibe coding some internal"
+    },
+    {
+      "start_ms": 2678560,
+      "duration_ms": 5200,
+      "text": "applications, right? I mean, um, that's"
+    },
+    {
+      "start_ms": 2681280,
+      "duration_ms": 4480,
+      "text": "what we we did, right? So, we were we're"
+    },
+    {
+      "start_ms": 2683760,
+      "duration_ms": 3760,
+      "text": "really good at like building we had we"
+    },
+    {
+      "start_ms": 2685760,
+      "duration_ms": 5120,
+      "text": "had an application to read the emails."
+    },
+    {
+      "start_ms": 2687520,
+      "duration_ms": 6000,
+      "text": "We had an we had an application to uh"
+    },
+    {
+      "start_ms": 2690880,
+      "duration_ms": 3760,
+      "text": "you know respond. We we did everything"
+    },
+    {
+      "start_ms": 2693520,
+      "duration_ms": 3599,
+      "text": "there because we were doing a lot of"
+    },
+    {
+      "start_ms": 2694640,
+      "duration_ms": 6080,
+      "text": "like cold emails campaigns"
+    },
+    {
+      "start_ms": 2697119,
+      "duration_ms": 7441,
+      "text": "also to build the list um you know like"
+    },
+    {
+      "start_ms": 2700720,
+      "duration_ms": 5840,
+      "text": "we we had a lot of those already rolling"
+    },
+    {
+      "start_ms": 2704560,
+      "duration_ms": 4320,
+      "text": "for us right then what happened but"
+    },
+    {
+      "start_ms": 2706560,
+      "duration_ms": 5680,
+      "text": "those are you know and quite frankly we"
+    },
+    {
+      "start_ms": 2708880,
+      "duration_ms": 6640,
+      "text": "actually scaled to like $30,000 a month"
+    },
+    {
+      "start_ms": 2712240,
+      "duration_ms": 7599,
+      "text": "on uh no code. So the first application"
+    },
+    {
+      "start_ms": 2715520,
+      "duration_ms": 6799,
+      "text": "we had wasn't even code. It was just um"
+    },
+    {
+      "start_ms": 2719839,
+      "duration_ms": 4401,
+      "text": "you know so that was the like that's"
+    },
+    {
+      "start_ms": 2722319,
+      "duration_ms": 4081,
+      "text": "that that's that's the real kicker is"
+    },
+    {
+      "start_ms": 2724240,
+      "duration_ms": 4320,
+      "text": "that people don't really care. They just"
+    },
+    {
+      "start_ms": 2726400,
+      "duration_ms": 3760,
+      "text": "care about the application itself and"
+    },
+    {
+      "start_ms": 2728560,
+      "duration_ms": 3519,
+      "text": "what's"
+    },
+    {
+      "start_ms": 2730160,
+      "duration_ms": 4800,
+      "text": "like what's in it and that's what they"
+    },
+    {
+      "start_ms": 2732079,
+      "duration_ms": 4641,
+      "text": "actually care about. So you got to you"
+    },
+    {
+      "start_ms": 2734960,
+      "duration_ms": 4639,
+      "text": "got to really like if you're going out"
+    },
+    {
+      "start_ms": 2736720,
+      "duration_ms": 4399,
+      "text": "and you're spending 20 $30,000 on an MVP"
+    },
+    {
+      "start_ms": 2739599,
+      "duration_ms": 2641,
+      "text": "you're raising money you're doing all"
+    },
+    {
+      "start_ms": 2741119,
+      "duration_ms": 2960,
+      "text": "this stuff like you're doing stuff"
+    },
+    {
+      "start_ms": 2742240,
+      "duration_ms": 4400,
+      "text": "that's going to cost you a lot of time"
+    },
+    {
+      "start_ms": 2744079,
+      "duration_ms": 6000,
+      "text": "later. And that's why I like Adam's"
+    },
+    {
+      "start_ms": 2746640,
+      "duration_ms": 4719,
+      "text": "approach to the problem with uh you know"
+    },
+    {
+      "start_ms": 2750079,
+      "duration_ms": 3280,
+      "text": "the way that he goes at it with"
+    },
+    {
+      "start_ms": 2751359,
+      "duration_ms": 2881,
+      "text": "bootstrapping and and that because you"
+    },
+    {
+      "start_ms": 2753359,
+      "duration_ms": 2480,
+      "text": "don't even know if you're going to want"
+    },
+    {
+      "start_ms": 2754240,
+      "duration_ms": 4400,
+      "text": "to do it like you might not even like"
+    },
+    {
+      "start_ms": 2755839,
+      "duration_ms": 6081,
+      "text": "selling the product that you make. So"
+    },
+    {
+      "start_ms": 2758640,
+      "duration_ms": 7199,
+      "text": ">> totally and I think this too offer it it"
+    },
+    {
+      "start_ms": 2761920,
+      "duration_ms": 5520,
+      "text": "allows um for this way leaner company"
+    },
+    {
+      "start_ms": 2765839,
+      "duration_ms": 4561,
+      "text": "than you've ever been able to have"
+    },
+    {
+      "start_ms": 2767440,
+      "duration_ms": 4800,
+      "text": "before. So I mean I'll give three"
+    },
+    {
+      "start_ms": 2770400,
+      "duration_ms": 3760,
+      "text": "examples. One is Lead Magic. I mean"
+    },
+    {
+      "start_ms": 2772240,
+      "duration_ms": 3440,
+      "text": "Jesse you have a really small team. you"
+    },
+    {
+      "start_ms": 2774160,
+      "duration_ms": 3120,
+      "text": "have you are"
+    },
+    {
+      "start_ms": 2775680,
+      "duration_ms": 4080,
+      "text": ">> we have like uh we have a we have a"
+    },
+    {
+      "start_ms": 2777280,
+      "duration_ms": 6319,
+      "text": "couple contract we so everybody's on a"
+    },
+    {
+      "start_ms": 2779760,
+      "duration_ms": 5520,
+      "text": "contract um and then we have um you know"
+    },
+    {
+      "start_ms": 2783599,
+      "duration_ms": 3361,
+      "text": "I have like devel a couple of developers"
+    },
+    {
+      "start_ms": 2785280,
+      "duration_ms": 4480,
+      "text": "that I work with that are on a contract"
+    },
+    {
+      "start_ms": 2786960,
+      "duration_ms": 5119,
+      "text": "and then uh you know we have 1300"
+    },
+    {
+      "start_ms": 2789760,
+      "duration_ms": 4559,
+      "text": "customers or so a little over that and"
+    },
+    {
+      "start_ms": 2792079,
+      "duration_ms": 4801,
+      "text": "then you know we're growing pretty quick"
+    },
+    {
+      "start_ms": 2794319,
+      "duration_ms": 4481,
+      "text": "we're obviously in some ecosystems done"
+    },
+    {
+      "start_ms": 2796880,
+      "duration_ms": 5040,
+      "text": "pretty well with community and whatnot"
+    },
+    {
+      "start_ms": 2798800,
+      "duration_ms": 5200,
+      "text": "there but um yeah so it's it's been good"
+    },
+    {
+      "start_ms": 2801920,
+      "duration_ms": 3520,
+      "text": "I mean this is all I do I actually get"
+    },
+    {
+      "start_ms": 2804000,
+      "duration_ms": 4400,
+      "text": "on calls anymore or anything like that."
+    },
+    {
+      "start_ms": 2805440,
+      "duration_ms": 6240,
+      "text": "I'm just doing this pretty much all day."
+    },
+    {
+      "start_ms": 2808400,
+      "duration_ms": 5199,
+      "text": ">> Yeah. And you know what this also"
+    },
+    {
+      "start_ms": 2811680,
+      "duration_ms": 5040,
+      "text": "I I'll give the RB2B example and then"
+    },
+    {
+      "start_ms": 2813599,
+      "duration_ms": 4480,
+      "text": "I'll just kind of throw out like what it"
+    },
+    {
+      "start_ms": 2816720,
+      "duration_ms": 3520,
+      "text": "gives you the ability to do, but like I"
+    },
+    {
+      "start_ms": 2818079,
+      "duration_ms": 3601,
+      "text": "mean RB2B now I mean I'm I'm now"
+    },
+    {
+      "start_ms": 2820240,
+      "duration_ms": 3839,
+      "text": "part-time at RB2B. I don't know how many"
+    },
+    {
+      "start_ms": 2821680,
+      "duration_ms": 4480,
+      "text": "folks know that July 1 I launched I I've"
+    },
+    {
+      "start_ms": 2824079,
+      "duration_ms": 4721,
+      "text": "soft launched my own business this this"
+    },
+    {
+      "start_ms": 2826160,
+      "duration_ms": 5280,
+      "text": "summer. Um it's a it's a marketing"
+    },
+    {
+      "start_ms": 2828800,
+      "duration_ms": 4480,
+      "text": "consultancy focused around positioning"
+    },
+    {
+      "start_ms": 2831440,
+      "duration_ms": 3520,
+      "text": "and content marketing things like that."
+    },
+    {
+      "start_ms": 2833280,
+      "duration_ms": 6559,
+      "text": "Um I'll make a bigger announcement later"
+    },
+    {
+      "start_ms": 2834960,
+      "duration_ms": 8240,
+      "text": "in the fall. Um but um uh you know I I'm"
+    },
+    {
+      "start_ms": 2839839,
+      "duration_ms": 6000,
+      "text": "I'm able to service my clients more"
+    },
+    {
+      "start_ms": 2843200,
+      "duration_ms": 4080,
+      "text": "clients and with more value than I"
+    },
+    {
+      "start_ms": 2845839,
+      "duration_ms": 3361,
+      "text": "possibly would have without any of these"
+    },
+    {
+      "start_ms": 2847280,
+      "duration_ms": 3760,
+      "text": "tools beforehand. I mean the type of"
+    },
+    {
+      "start_ms": 2849200,
+      "duration_ms": 3919,
+      "text": "consultancy I'm I'm I've sort of soft"
+    },
+    {
+      "start_ms": 2851040,
+      "duration_ms": 4319,
+      "text": "launched and I'm building um would not"
+    },
+    {
+      "start_ms": 2853119,
+      "duration_ms": 5200,
+      "text": "have been possible two years ago you"
+    },
+    {
+      "start_ms": 2855359,
+      "duration_ms": 6720,
+      "text": "know three years ago. Um, on the RB2B"
+    },
+    {
+      "start_ms": 2858319,
+      "duration_ms": 5601,
+      "text": "front, it's really Rob who is Rob Clark,"
+    },
+    {
+      "start_ms": 2862079,
+      "duration_ms": 4081,
+      "text": "if you guys follow him on LinkedIn, uh,"
+    },
+    {
+      "start_ms": 2863920,
+      "duration_ms": 4960,
+      "text": "who runs he's like I guess I think he's"
+    },
+    {
+      "start_ms": 2866160,
+      "duration_ms": 4880,
+      "text": "head of AI now is his title, but um, all"
+    },
+    {
+      "start_ms": 2868880,
+      "duration_ms": 7120,
+      "text": "the customer support and sales is run by"
+    },
+    {
+      "start_ms": 2871040,
+      "duration_ms": 7039,
+      "text": "AI now. Um, at at RB2B now that handles"
+    },
+    {
+      "start_ms": 2876000,
+      "duration_ms": 4240,
+      "text": "like 95"
+    },
+    {
+      "start_ms": 2878079,
+      "duration_ms": 4240,
+      "text": "plus% of all the inquiries from a"
+    },
+    {
+      "start_ms": 2880240,
+      "duration_ms": 3440,
+      "text": "support and a sales standpoint. Yeah. Is"
+    },
+    {
+      "start_ms": 2882319,
+      "duration_ms": 4401,
+      "text": "there stuff falling through the cracks?"
+    },
+    {
+      "start_ms": 2883680,
+      "duration_ms": 4960,
+      "text": "Sure. But it's not worth it to actually"
+    },
+    {
+      "start_ms": 2886720,
+      "duration_ms": 3760,
+      "text": "hire somebody to do that. It's worth it"
+    },
+    {
+      "start_ms": 2888640,
+      "duration_ms": 4080,
+      "text": "to have this really lean team of three"
+    },
+    {
+      "start_ms": 2890480,
+      "duration_ms": 4639,
+      "text": "people or in Jesse's, you know, case, a"
+    },
+    {
+      "start_ms": 2892720,
+      "duration_ms": 5040,
+      "text": "couple of contractors and and and"
+    },
+    {
+      "start_ms": 2895119,
+      "duration_ms": 4960,
+      "text": "himself. What it allows you the ability"
+    },
+    {
+      "start_ms": 2897760,
+      "duration_ms": 4160,
+      "text": "to do is like have these crazy offers"
+    },
+    {
+      "start_ms": 2900079,
+      "duration_ms": 3760,
+      "text": "because you don't have this wild"
+    },
+    {
+      "start_ms": 2901920,
+      "duration_ms": 4639,
+      "text": "overhead. You don't have these investors"
+    },
+    {
+      "start_ms": 2903839,
+      "duration_ms": 4401,
+      "text": "that you have to um sort of suffice and"
+    },
+    {
+      "start_ms": 2906559,
+      "duration_ms": 4401,
+      "text": "and make sure they get their, you know,"
+    },
+    {
+      "start_ms": 2908240,
+      "duration_ms": 4480,
+      "text": "some x multiple of their return back."
+    },
+    {
+      "start_ms": 2910960,
+      "duration_ms": 3200,
+      "text": "You just have to you don't really have"
+    },
+    {
+      "start_ms": 2912720,
+      "duration_ms": 3599,
+      "text": "to worry about anything other than like"
+    },
+    {
+      "start_ms": 2914160,
+      "duration_ms": 3760,
+      "text": "growing your business, doing things that"
+    },
+    {
+      "start_ms": 2916319,
+      "duration_ms": 4321,
+      "text": "are interesting and valuable to your"
+    },
+    {
+      "start_ms": 2917920,
+      "duration_ms": 4560,
+      "text": "market. I mean, Jesse or Adam, which"
+    },
+    {
+      "start_ms": 2920640,
+      "duration_ms": 4719,
+      "text": "both have done at certain points, can"
+    },
+    {
+      "start_ms": 2922480,
+      "duration_ms": 6079,
+      "text": "run these insane premium motions and"
+    },
+    {
+      "start_ms": 2925359,
+      "duration_ms": 5041,
+      "text": "product growth motions, uh, because they"
+    },
+    {
+      "start_ms": 2928559,
+      "duration_ms": 3121,
+      "text": "can just sort of make these decisions"
+    },
+    {
+      "start_ms": 2930400,
+      "duration_ms": 2800,
+      "text": "knowing that there's already great"
+    },
+    {
+      "start_ms": 2931680,
+      "duration_ms": 3520,
+      "text": "margin coming through and this is only"
+    },
+    {
+      "start_ms": 2933200,
+      "duration_ms": 3359,
+      "text": "going to be better for, you know,"
+    },
+    {
+      "start_ms": 2935200,
+      "duration_ms": 5359,
+      "text": "awareness, marketing, stuff like that."
+    },
+    {
+      "start_ms": 2936559,
+      "duration_ms": 7921,
+      "text": "So it just the the way it allows you to"
+    },
+    {
+      "start_ms": 2940559,
+      "duration_ms": 5921,
+      "text": "um allows you to I guess be more free in"
+    },
+    {
+      "start_ms": 2944480,
+      "duration_ms": 6320,
+      "text": "all aspects of your approach is really"
+    },
+    {
+      "start_ms": 2946480,
+      "duration_ms": 6240,
+      "text": "an amazing thing. Um so um and I see a"
+    },
+    {
+      "start_ms": 2950800,
+      "duration_ms": 4000,
+      "text": "couple people dropped in. Can we see how"
+    },
+    {
+      "start_ms": 2952720,
+      "duration_ms": 5520,
+      "text": "you can help us? Yeah, I'll drop in my"
+    },
+    {
+      "start_ms": 2954800,
+      "duration_ms": 5759,
+      "text": "email here. Um you can uh you can you"
+    },
+    {
+      "start_ms": 2958240,
+      "duration_ms": 4560,
+      "text": "can drop me a uh you can drop me an"
+    },
+    {
+      "start_ms": 2960559,
+      "duration_ms": 4401,
+      "text": "email. Happy to talk with anybody and"
+    },
+    {
+      "start_ms": 2962800,
+      "duration_ms": 3360,
+      "text": "yeah, shoot me an email. Um, I will"
+    },
+    {
+      "start_ms": 2964960,
+      "duration_ms": 2720,
+      "text": "again I'll do it in an actual"
+    },
+    {
+      "start_ms": 2966160,
+      "duration_ms": 3679,
+      "text": "announcement. I've soft launched. We're"
+    },
+    {
+      "start_ms": 2967680,
+      "duration_ms": 4560,
+      "text": "figuring this thing out. Uh, all right,"
+    },
+    {
+      "start_ms": 2969839,
+      "duration_ms": 4801,
+      "text": "Jesse, let's go back to this app. Where"
+    },
+    {
+      "start_ms": 2972240,
+      "duration_ms": 7280,
+      "text": "are we at on the debugging and"
+    },
+    {
+      "start_ms": 2974640,
+      "duration_ms": 7840,
+      "text": ">> Yeah. So, it's um so basically um we'll"
+    },
+    {
+      "start_ms": 2979520,
+      "duration_ms": 5680,
+      "text": "launch"
+    },
+    {
+      "start_ms": 2982480,
+      "duration_ms": 4960,
+      "text": "through the well, so the the application"
+    },
+    {
+      "start_ms": 2985200,
+      "duration_ms": 5520,
+      "text": "itself like basically what you want to"
+    },
+    {
+      "start_ms": 2987440,
+      "duration_ms": 4960,
+      "text": "do is you know you have the API. What"
+    },
+    {
+      "start_ms": 2990720,
+      "duration_ms": 5040,
+      "text": "the API will do is it'll allow you to"
+    },
+    {
+      "start_ms": 2992400,
+      "duration_ms": 6800,
+      "text": "get um so like let's just see um here"
+    },
+    {
+      "start_ms": 2995760,
+      "duration_ms": 6240,
+      "text": "I'll show you on this basically on here"
+    },
+    {
+      "start_ms": 2999200,
+      "duration_ms": 4879,
+      "text": "you would have like this is what so if"
+    },
+    {
+      "start_ms": 3002000,
+      "duration_ms": 4240,
+      "text": "we were going to push this in right this"
+    },
+    {
+      "start_ms": 3004079,
+      "duration_ms": 4641,
+      "text": "would be like what an actual API call"
+    },
+    {
+      "start_ms": 3006240,
+      "duration_ms": 4319,
+      "text": "would look like you'd have that so then"
+    },
+    {
+      "start_ms": 3008720,
+      "duration_ms": 3520,
+      "text": "through here through the app you know"
+    },
+    {
+      "start_ms": 3010559,
+      "duration_ms": 5841,
+      "text": "people could sign in here they could do"
+    },
+    {
+      "start_ms": 3012240,
+      "duration_ms": 5760,
+      "text": "whatever and then um the uh this this"
+    },
+    {
+      "start_ms": 3016400,
+      "duration_ms": 3840,
+      "text": "would be like the the entire application"
+    },
+    {
+      "start_ms": 3018000,
+      "duration_ms": 3599,
+      "text": "really and you would just ship ship with"
+    },
+    {
+      "start_ms": 3020240,
+      "duration_ms": 4240,
+      "text": "this really, you know, so you wouldn't"
+    },
+    {
+      "start_ms": 3021599,
+      "duration_ms": 4561,
+      "text": "have to do anything else."
+    },
+    {
+      "start_ms": 3024480,
+      "duration_ms": 3760,
+      "text": ">> Incredible."
+    },
+    {
+      "start_ms": 3026160,
+      "duration_ms": 5439,
+      "text": ">> Um,"
+    },
+    {
+      "start_ms": 3028240,
+      "duration_ms": 4640,
+      "text": "what can you list like what are So you"
+    },
+    {
+      "start_ms": 3031599,
+      "duration_ms": 3361,
+      "text": "have the social listening tool with"
+    },
+    {
+      "start_ms": 3032880,
+      "duration_ms": 3840,
+      "text": "LinkedIn built in internally."
+    },
+    {
+      "start_ms": 3034960,
+      "duration_ms": 4320,
+      "text": ">> Yeah, that one we have the social"
+    },
+    {
+      "start_ms": 3036720,
+      "duration_ms": 4879,
+      "text": "listening one for us. So this is like"
+    },
+    {
+      "start_ms": 3039280,
+      "duration_ms": 4559,
+      "text": "today this is how many uh you know this"
+    },
+    {
+      "start_ms": 3041599,
+      "duration_ms": 4641,
+      "text": "is like a post that just came out on"
+    },
+    {
+      "start_ms": 3043839,
+      "duration_ms": 5201,
+      "text": "LinkedIn. So then we go here and you"
+    },
+    {
+      "start_ms": 3046240,
+      "duration_ms": 5040,
+      "text": "just respond to it. Um, now the way I"
+    },
+    {
+      "start_ms": 3049040,
+      "duration_ms": 3600,
+      "text": "built this was similar. You just go to,"
+    },
+    {
+      "start_ms": 3051280,
+      "duration_ms": 4720,
+      "text": "you know, you find like the dashboard"
+    },
+    {
+      "start_ms": 3052640,
+      "duration_ms": 5520,
+      "text": "that you want and you vzero through this"
+    },
+    {
+      "start_ms": 3056000,
+      "duration_ms": 3839,
+      "text": "thing and then if you want to add"
+    },
+    {
+      "start_ms": 3058160,
+      "duration_ms": 4159,
+      "text": "companies to the list. So if I want to"
+    },
+    {
+      "start_ms": 3059839,
+      "duration_ms": 5041,
+      "text": "add like Gong or something, I would add"
+    },
+    {
+      "start_ms": 3062319,
+      "duration_ms": 4081,
+      "text": "Gong, you know, but it's I mean this"
+    },
+    {
+      "start_ms": 3064880,
+      "duration_ms": 4719,
+      "text": "would be something you might buy as like"
+    },
+    {
+      "start_ms": 3066400,
+      "duration_ms": 4959,
+      "text": "a SAS application, right? So you'd have"
+    },
+    {
+      "start_ms": 3069599,
+      "duration_ms": 5760,
+      "text": "that and then you can look at the trends"
+    },
+    {
+      "start_ms": 3071359,
+      "duration_ms": 6081,
+      "text": "like I just measure certain things um"
+    },
+    {
+      "start_ms": 3075359,
+      "duration_ms": 3521,
+      "text": "you know like which companies are people"
+    },
+    {
+      "start_ms": 3077440,
+      "duration_ms": 3760,
+      "text": "talking about I'm looking at"
+    },
+    {
+      "start_ms": 3078880,
+      "duration_ms": 4160,
+      "text": "specifically at competitors you know are"
+    },
+    {
+      "start_ms": 3081200,
+      "duration_ms": 3840,
+      "text": "more people talking about find email or"
+    },
+    {
+      "start_ms": 3083040,
+      "duration_ms": 4480,
+      "text": "lead magic you know things like that"
+    },
+    {
+      "start_ms": 3085040,
+      "duration_ms": 4799,
+      "text": "clay getting a lot of mentions you know"
+    },
+    {
+      "start_ms": 3087520,
+      "duration_ms": 5200,
+      "text": "what are like who's talking about them"
+    },
+    {
+      "start_ms": 3089839,
+      "duration_ms": 4561,
+      "text": "th those types of things really"
+    },
+    {
+      "start_ms": 3092720,
+      "duration_ms": 4320,
+      "text": "um"
+    },
+    {
+      "start_ms": 3094400,
+      "duration_ms": 3679,
+      "text": "so that's this is just an internal app"
+    },
+    {
+      "start_ms": 3097040,
+      "duration_ms": 3279,
+      "text": "but"
+    },
+    {
+      "start_ms": 3098079,
+      "duration_ms": 4240,
+      "text": "We do that a lot. So, we just we build a"
+    },
+    {
+      "start_ms": 3100319,
+      "duration_ms": 5681,
+      "text": "lot of these internal apps. It helps us"
+    },
+    {
+      "start_ms": 3102319,
+      "duration_ms": 5121,
+      "text": "really change our uh you know, we get we"
+    },
+    {
+      "start_ms": 3106000,
+      "duration_ms": 3839,
+      "text": "get all the data like we know what's"
+    },
+    {
+      "start_ms": 3107440,
+      "duration_ms": 5040,
+      "text": "going on and it's easier to ship these"
+    },
+    {
+      "start_ms": 3109839,
+      "duration_ms": 4641,
+      "text": "products that way."
+    },
+    {
+      "start_ms": 3112480,
+      "duration_ms": 3599,
+      "text": ">> This is so crazy. I mean, the amount not"
+    },
+    {
+      "start_ms": 3114480,
+      "duration_ms": 4480,
+      "text": "only the amount that you've like saved"
+    },
+    {
+      "start_ms": 3116079,
+      "duration_ms": 5040,
+      "text": "by doing this, but like the ability to"
+    },
+    {
+      "start_ms": 3118960,
+      "duration_ms": 5599,
+      "text": "build literally build your own world"
+    },
+    {
+      "start_ms": 3121119,
+      "duration_ms": 5521,
+      "text": "without uh you know, basically from a"
+    },
+    {
+      "start_ms": 3124559,
+      "duration_ms": 3520,
+      "text": "sales marketing agency guy. I mean, it's"
+    },
+    {
+      "start_ms": 3126640,
+      "duration_ms": 3360,
+      "text": "it's crazy. So,"
+    },
+    {
+      "start_ms": 3128079,
+      "duration_ms": 3441,
+      "text": ">> it's every agency should be looking at"
+    },
+    {
+      "start_ms": 3130000,
+      "duration_ms": 4880,
+      "text": "this right now because it's gotten so"
+    },
+    {
+      "start_ms": 3131520,
+      "duration_ms": 6799,
+      "text": "much uh it's gotten a lot it's gotten a"
+    },
+    {
+      "start_ms": 3134880,
+      "duration_ms": 5280,
+      "text": "lot easier like um you know what I mean?"
+    },
+    {
+      "start_ms": 3138319,
+      "duration_ms": 3760,
+      "text": "Like it's you really ought to be looking"
+    },
+    {
+      "start_ms": 3140160,
+      "duration_ms": 3360,
+      "text": "at and the people who know are the"
+    },
+    {
+      "start_ms": 3142079,
+      "duration_ms": 3841,
+      "text": "people who are doing the job like what"
+    },
+    {
+      "start_ms": 3143520,
+      "duration_ms": 4480,
+      "text": "needs to be out there. Um here's the"
+    },
+    {
+      "start_ms": 3145920,
+      "duration_ms": 4800,
+      "text": "here's the uh app that we were just"
+    },
+    {
+      "start_ms": 3148000,
+      "duration_ms": 6000,
+      "text": "building with the uh here I'll show you."
+    },
+    {
+      "start_ms": 3150720,
+      "duration_ms": 5760,
+      "text": "Oops. Um right here. So this is like the"
+    },
+    {
+      "start_ms": 3154000,
+      "duration_ms": 4559,
+      "text": "champion tracker app, right? So you"
+    },
+    {
+      "start_ms": 3156480,
+      "duration_ms": 4400,
+      "text": "would have this. So we added the G, you"
+    },
+    {
+      "start_ms": 3158559,
+      "duration_ms": 3760,
+      "text": "know, we added that. So we have"
+    },
+    {
+      "start_ms": 3160880,
+      "duration_ms": 3679,
+      "text": "essentially this would be your like"
+    },
+    {
+      "start_ms": 3162319,
+      "duration_ms": 4240,
+      "text": "login, your log out, and then what would"
+    },
+    {
+      "start_ms": 3164559,
+      "duration_ms": 4000,
+      "text": "happen is you would just imple you would"
+    },
+    {
+      "start_ms": 3166559,
+      "duration_ms": 3441,
+      "text": "input all of the URLs. This was just"
+    },
+    {
+      "start_ms": 3168559,
+      "duration_ms": 4161,
+      "text": "this is what we vibe coded at the"
+    },
+    {
+      "start_ms": 3170000,
+      "duration_ms": 4480,
+      "text": "beginning. So you know, if you put those"
+    },
+    {
+      "start_ms": 3172720,
+      "duration_ms": 3839,
+      "text": "in, you know, if you put one in that"
+    },
+    {
+      "start_ms": 3174480,
+      "duration_ms": 4000,
+      "text": "would never work there, that's wrong."
+    },
+    {
+      "start_ms": 3176559,
+      "duration_ms": 4721,
+      "text": "And then you could just enter in all of"
+    },
+    {
+      "start_ms": 3178480,
+      "duration_ms": 4320,
+      "text": "that. So, if it's like um you just put"
+    },
+    {
+      "start_ms": 3181280,
+      "duration_ms": 3920,
+      "text": "them all in the watch list and it just"
+    },
+    {
+      "start_ms": 3182800,
+      "duration_ms": 5120,
+      "text": "shows up here. Now, what's funny is this"
+    },
+    {
+      "start_ms": 3185200,
+      "duration_ms": 6560,
+      "text": "did not work uh when I was doing it in"
+    },
+    {
+      "start_ms": 3187920,
+      "duration_ms": 6960,
+      "text": "VZ, right? I had to bring it into cursor"
+    },
+    {
+      "start_ms": 3191760,
+      "duration_ms": 5359,
+      "text": "to to finish it, right? So, there was a"
+    },
+    {
+      "start_ms": 3194880,
+      "duration_ms": 5520,
+      "text": "bunch of problems and cursor fixed it"
+    },
+    {
+      "start_ms": 3197119,
+      "duration_ms": 4960,
+      "text": "right here. So, um you know, it's still"
+    },
+    {
+      "start_ms": 3200400,
+      "duration_ms": 4880,
+      "text": "fixing it, right? Still going through"
+    },
+    {
+      "start_ms": 3202079,
+      "duration_ms": 5280,
+      "text": "it, making it better, but it's it's all"
+    },
+    {
+      "start_ms": 3205280,
+      "duration_ms": 3440,
+      "text": "done through there and that just allows"
+    },
+    {
+      "start_ms": 3207359,
+      "duration_ms": 3041,
+      "text": "to do it. So if you want to see if"
+    },
+    {
+      "start_ms": 3208720,
+      "duration_ms": 4720,
+      "text": "they're like if they change jobs, you"
+    },
+    {
+      "start_ms": 3210400,
+      "duration_ms": 5760,
+      "text": "just put this on a scheduled update."
+    },
+    {
+      "start_ms": 3213440,
+      "duration_ms": 3919,
+      "text": "You'd have to call the API"
+    },
+    {
+      "start_ms": 3216160,
+      "duration_ms": 2159,
+      "text": "telling you that the person changed"
+    },
+    {
+      "start_ms": 3217359,
+      "duration_ms": 3601,
+      "text": "jobs."
+    },
+    {
+      "start_ms": 3218319,
+      "duration_ms": 4081,
+      "text": ">> This is so crazy. So we have we have a"
+    },
+    {
+      "start_ms": 3220960,
+      "duration_ms": 3040,
+      "text": "comment in the chat says, \"I had a"
+    },
+    {
+      "start_ms": 3222400,
+      "duration_ms": 4000,
+      "text": "realization that what I need is an AI"
+    },
+    {
+      "start_ms": 3224000,
+      "duration_ms": 3599,
+      "text": "forward developer. My developer is"
+    },
+    {
+      "start_ms": 3226400,
+      "duration_ms": 2560,
+      "text": "always just saying how it's easier to"
+    },
+    {
+      "start_ms": 3227599,
+      "duration_ms": 3841,
+      "text": "just code from scratch because these"
+    },
+    {
+      "start_ms": 3228960,
+      "duration_ms": 3840,
+      "text": "tools create more junk. They can they"
+    },
+    {
+      "start_ms": 3231440,
+      "duration_ms": 4399,
+      "text": "can create you can use them to create.\""
+    },
+    {
+      "start_ms": 3232800,
+      "duration_ms": 4240,
+      "text": "That's so I would challenge that u you"
+    },
+    {
+      "start_ms": 3235839,
+      "duration_ms": 2720,
+      "text": "know if you wanted your developer to"
+    },
+    {
+      "start_ms": 3237040,
+      "duration_ms": 5279,
+      "text": "debate you on it I would love to do that"
+    },
+    {
+      "start_ms": 3238559,
+      "duration_ms": 5760,
+      "text": "because um I I'll tell you that was most"
+    },
+    {
+      "start_ms": 3242319,
+      "duration_ms": 4641,
+      "text": "of the mindset of most of the developers"
+    },
+    {
+      "start_ms": 3244319,
+      "duration_ms": 4240,
+      "text": "that I know and I have some really good"
+    },
+    {
+      "start_ms": 3246960,
+      "duration_ms": 4159,
+      "text": "friends who are developers and then I've"
+    },
+    {
+      "start_ms": 3248559,
+      "duration_ms": 3841,
+      "text": "converted a lot of them over and I've"
+    },
+    {
+      "start_ms": 3251119,
+      "duration_ms": 3521,
+      "text": "shown them I've said like all right"
+    },
+    {
+      "start_ms": 3252400,
+      "duration_ms": 3600,
+      "text": "let's do this you you're going to build"
+    },
+    {
+      "start_ms": 3254640,
+      "duration_ms": 2880,
+      "text": "this app I'm going to build this app"
+    },
+    {
+      "start_ms": 3256000,
+      "duration_ms": 2880,
+      "text": "let's see who can build it faster I"
+    },
+    {
+      "start_ms": 3257520,
+      "duration_ms": 3680,
+      "text": "don't know how to code and let's see who"
+    },
+    {
+      "start_ms": 3258880,
+      "duration_ms": 4560,
+      "text": "can build a better app and I will beat"
+    },
+    {
+      "start_ms": 3261200,
+      "duration_ms": 4960,
+      "text": "them 99% of the Like there's no question"
+    },
+    {
+      "start_ms": 3263440,
+      "duration_ms": 3040,
+      "text": "I'm gonna beat them 99% of the time"
+    },
+    {
+      "start_ms": 3266160,
+      "duration_ms": 1600,
+      "text": "because"
+    },
+    {
+      "start_ms": 3266480,
+      "duration_ms": 3200,
+      "text": ">> what are the cases in which you can't"
+    },
+    {
+      "start_ms": 3267760,
+      "duration_ms": 3760,
+      "text": "like what what are some of the"
+    },
+    {
+      "start_ms": 3269680,
+      "duration_ms": 4879,
+      "text": ">> the only case that I couldn't is if it"
+    },
+    {
+      "start_ms": 3271520,
+      "duration_ms": 7120,
+      "text": "was extreme the only I can't think of a"
+    },
+    {
+      "start_ms": 3274559,
+      "duration_ms": 5601,
+      "text": "case actually really um it would be"
+    },
+    {
+      "start_ms": 3278640,
+      "duration_ms": 3679,
+      "text": "I can't really think of a case I think"
+    },
+    {
+      "start_ms": 3280160,
+      "duration_ms": 3280,
+      "text": "it would be like I'm just I never want"
+    },
+    {
+      "start_ms": 3282319,
+      "duration_ms": 3040,
+      "text": "to say 100 because I'm sure somebody"
+    },
+    {
+      "start_ms": 3283440,
+      "duration_ms": 4399,
+      "text": "could figure it out but like here here's"
+    },
+    {
+      "start_ms": 3285359,
+      "duration_ms": 5521,
+      "text": "where they where where it gets really"
+    },
+    {
+      "start_ms": 3287839,
+      "duration_ms": 4401,
+      "text": "crazy when you know how to use the rules"
+    },
+    {
+      "start_ms": 3290880,
+      "duration_ms": 3760,
+      "text": "in cursor"
+    },
+    {
+      "start_ms": 3292240,
+      "duration_ms": 4480,
+      "text": "and you're able to like really box the"
+    },
+    {
+      "start_ms": 3294640,
+      "duration_ms": 4080,
+      "text": "app in and you know how to do like this"
+    },
+    {
+      "start_ms": 3296720,
+      "duration_ms": 3920,
+      "text": "like you're able to do the testing in"
+    },
+    {
+      "start_ms": 3298720,
+      "duration_ms": 4800,
+      "text": "here which is what's happened. So that"
+    },
+    {
+      "start_ms": 3300640,
+      "duration_ms": 5840,
+      "text": "app V 0 the app broke like when I was"
+    },
+    {
+      "start_ms": 3303520,
+      "duration_ms": 5360,
+      "text": "building it like in VZ. So when I"
+    },
+    {
+      "start_ms": 3306480,
+      "duration_ms": 4639,
+      "text": "brought it in here I found every bug and"
+    },
+    {
+      "start_ms": 3308880,
+      "duration_ms": 3920,
+      "text": "fixed every single bug that it found and"
+    },
+    {
+      "start_ms": 3311119,
+      "duration_ms": 5440,
+      "text": "a couple of the issues. There was like"
+    },
+    {
+      "start_ms": 3312800,
+      "duration_ms": 5920,
+      "text": "even a security issue it fixed. Now, if"
+    },
+    {
+      "start_ms": 3316559,
+      "duration_ms": 4961,
+      "text": "the part that you I didn't most people"
+    },
+    {
+      "start_ms": 3318720,
+      "duration_ms": 5280,
+      "text": "wouldn't know how to do, right, is they"
+    },
+    {
+      "start_ms": 3321520,
+      "duration_ms": 4480,
+      "text": "wouldn't know how to um troubleshoot"
+    },
+    {
+      "start_ms": 3324000,
+      "duration_ms": 3280,
+      "text": "that and fix that. Now, I don't know how"
+    },
+    {
+      "start_ms": 3326000,
+      "duration_ms": 2800,
+      "text": "to even do that really. Like, I don't"
+    },
+    {
+      "start_ms": 3327280,
+      "duration_ms": 2880,
+      "text": "even know. I I'd have to go back and"
+    },
+    {
+      "start_ms": 3328800,
+      "duration_ms": 3680,
+      "text": "look and see what happened, but it"
+    },
+    {
+      "start_ms": 3330160,
+      "duration_ms": 5280,
+      "text": "actually did it. And since I have all of"
+    },
+    {
+      "start_ms": 3332480,
+      "duration_ms": 4400,
+      "text": "the stuff connected, it it fixed all of"
+    },
+    {
+      "start_ms": 3335440,
+      "duration_ms": 3119,
+      "text": "the issues. There was actually a"
+    },
+    {
+      "start_ms": 3336880,
+      "duration_ms": 3040,
+      "text": "database issue right here, right? That's"
+    },
+    {
+      "start_ms": 3338559,
+      "duration_ms": 3201,
+      "text": "what happened. There was a database"
+    },
+    {
+      "start_ms": 3339920,
+      "duration_ms": 5040,
+      "text": "issue."
+    },
+    {
+      "start_ms": 3341760,
+      "duration_ms": 4799,
+      "text": "So, I I don't know. That was like a V 0"
+    },
+    {
+      "start_ms": 3344960,
+      "duration_ms": 3520,
+      "text": "screwed up the when it built the"
+    },
+    {
+      "start_ms": 3346559,
+      "duration_ms": 4481,
+      "text": "database. But now it just fixed it all."
+    },
+    {
+      "start_ms": 3348480,
+      "duration_ms": 4319,
+      "text": "So now I'm like completely back at zero,"
+    },
+    {
+      "start_ms": 3351040,
+      "duration_ms": 2880,
+      "text": "right? Like you know moment of time"
+    },
+    {
+      "start_ms": 3352799,
+      "duration_ms": 2800,
+      "text": "there was three minutes left on the"
+    },
+    {
+      "start_ms": 3353920,
+      "duration_ms": 3760,
+      "text": "webinar. We just built the whole app."
+    },
+    {
+      "start_ms": 3355599,
+      "duration_ms": 4161,
+      "text": "Now it's done. Right now I only entered"
+    },
+    {
+      "start_ms": 3357680,
+      "duration_ms": 3840,
+      "text": "in one prompt up here, right? Like if"
+    },
+    {
+      "start_ms": 3359760,
+      "duration_ms": 3359,
+      "text": "you find bugs in your application, you"
+    },
+    {
+      "start_ms": 3361520,
+      "duration_ms": 4400,
+      "text": "know, go to the application to find the"
+    },
+    {
+      "start_ms": 3363119,
+      "duration_ms": 5440,
+      "text": "bugs. Then I said fix the bugs and it"
+    },
+    {
+      "start_ms": 3365920,
+      "duration_ms": 4560,
+      "text": "fixed them all."
+    },
+    {
+      "start_ms": 3368559,
+      "duration_ms": 2641,
+      "text": ">> Find the bugs."
+    },
+    {
+      "start_ms": 3370480,
+      "duration_ms": 2319,
+      "text": "So"
+    },
+    {
+      "start_ms": 3371200,
+      "duration_ms": 2960,
+      "text": ">> that's always my favorite thing, Jesse,"
+    },
+    {
+      "start_ms": 3372799,
+      "duration_ms": 3280,
+      "text": "by the way, is when there's this like"
+    },
+    {
+      "start_ms": 3374160,
+      "duration_ms": 4560,
+      "text": "big problem that you need to solve and"
+    },
+    {
+      "start_ms": 3376079,
+      "duration_ms": 5201,
+      "text": "you're like, find the bugs or make this"
+    },
+    {
+      "start_ms": 3378720,
+      "duration_ms": 3440,
+      "text": "shorter and better like"
+    },
+    {
+      "start_ms": 3381280,
+      "duration_ms": 3600,
+      "text": ">> and then it does."
+    },
+    {
+      "start_ms": 3382160,
+      "duration_ms": 4480,
+      "text": ">> I mean, it's like if you know what the"
+    },
+    {
+      "start_ms": 3384880,
+      "duration_ms": 3360,
+      "text": "modern stack looks like, you're gonna"
+    },
+    {
+      "start_ms": 3386640,
+      "duration_ms": 2880,
+      "text": "have a hard developers are going to have"
+    },
+    {
+      "start_ms": 3388240,
+      "duration_ms": 3520,
+      "text": "a hard time beating you. The best"
+    },
+    {
+      "start_ms": 3389520,
+      "duration_ms": 4559,
+      "text": "developers are using AI now. Best by"
+    },
+    {
+      "start_ms": 3391760,
+      "duration_ms": 3680,
+      "text": "far. None of them are just not using it."
+    },
+    {
+      "start_ms": 3394079,
+      "duration_ms": 3921,
+      "text": "Like they they know how good it is."
+    },
+    {
+      "start_ms": 3395440,
+      "duration_ms": 4159,
+      "text": "They're just the good ones are. Yeah, I"
+    },
+    {
+      "start_ms": 3398000,
+      "duration_ms": 4240,
+      "text": "think that is a huge takeaway for the"
+    },
+    {
+      "start_ms": 3399599,
+      "duration_ms": 4480,
+      "text": "folks here because um I'm sure you know"
+    },
+    {
+      "start_ms": 3402240,
+      "duration_ms": 4319,
+      "text": "you you spent a lot of time learning"
+    },
+    {
+      "start_ms": 3404079,
+      "duration_ms": 4561,
+      "text": "this. I'm really in my infancy in this."
+    },
+    {
+      "start_ms": 3406559,
+      "duration_ms": 4641,
+      "text": "So I it would be tough for I'm working"
+    },
+    {
+      "start_ms": 3408640,
+      "duration_ms": 4479,
+      "text": "on an app uh for for my own business."
+    },
+    {
+      "start_ms": 3411200,
+      "duration_ms": 3280,
+      "text": "It's it's more of an internal app or"
+    },
+    {
+      "start_ms": 3413119,
+      "duration_ms": 4561,
+      "text": "ones that I can just use with my"
+    },
+    {
+      "start_ms": 3414480,
+      "duration_ms": 6079,
+      "text": "clients. But um even the piece by piece"
+    },
+    {
+      "start_ms": 3417680,
+      "duration_ms": 4480,
+      "text": "of that is like I'm getting quicker but"
+    },
+    {
+      "start_ms": 3420559,
+      "duration_ms": 4721,
+      "text": "like the troubleshooting thing is is"
+    },
+    {
+      "start_ms": 3422160,
+      "duration_ms": 5360,
+      "text": "pretty um can be pretty I guess not"
+    },
+    {
+      "start_ms": 3425280,
+      "duration_ms": 5039,
+      "text": "heavy but it can be a bit of a loop that"
+    },
+    {
+      "start_ms": 3427520,
+      "duration_ms": 5279,
+      "text": "you get stuck in. Uh a little tough. So"
+    },
+    {
+      "start_ms": 3430319,
+      "duration_ms": 4800,
+      "text": "um this is crazy. I mean now guys if"
+    },
+    {
+      "start_ms": 3432799,
+      "duration_ms": 3841,
+      "text": "Jesse wanted to like launch this he'd"
+    },
+    {
+      "start_ms": 3435119,
+      "duration_ms": 3601,
+      "text": "probably make the UI look a little bit"
+    },
+    {
+      "start_ms": 3436640,
+      "duration_ms": 4880,
+      "text": "better with some good screenshots. tack"
+    },
+    {
+      "start_ms": 3438720,
+      "duration_ms": 5359,
+      "text": "on a Stripe integration and then blast"
+    },
+    {
+      "start_ms": 3441520,
+      "duration_ms": 6000,
+      "text": "that out to the world and it could kind"
+    },
+    {
+      "start_ms": 3444079,
+      "duration_ms": 5201,
+      "text": "of be a live a live thing here. So, um"
+    },
+    {
+      "start_ms": 3447520,
+      "duration_ms": 3360,
+      "text": ">> we would I'd have this thing launched"
+    },
+    {
+      "start_ms": 3449280,
+      "duration_ms": 3279,
+      "text": "this afternoon and we we we'd already be"
+    },
+    {
+      "start_ms": 3450880,
+      "duration_ms": 3840,
+      "text": "shipping it. So, we'd have our first"
+    },
+    {
+      "start_ms": 3452559,
+      "duration_ms": 2881,
+      "text": "subscription by the end of the call."
+    },
+    {
+      "start_ms": 3454720,
+      "duration_ms": 2079,
+      "text": ">> Uh that's"
+    },
+    {
+      "start_ms": 3455440,
+      "duration_ms": 2720,
+      "text": ">> remember you're selling a service too."
+    },
+    {
+      "start_ms": 3456799,
+      "duration_ms": 2881,
+      "text": "They're buying you, they're buying your"
+    },
+    {
+      "start_ms": 3458160,
+      "duration_ms": 3199,
+      "text": "service. So like if your brand like you"
+    },
+    {
+      "start_ms": 3459680,
+      "duration_ms": 3840,
+      "text": "got to think about that in SAS you're"
+    },
+    {
+      "start_ms": 3461359,
+      "duration_ms": 4161,
+      "text": "you're buying a service like if wherever"
+    },
+    {
+      "start_ms": 3463520,
+      "duration_ms": 4400,
+      "text": "it is now maybe you go on AppSumo launch"
+    },
+    {
+      "start_ms": 3465520,
+      "duration_ms": 4160,
+      "text": "an LTD or something like the good thing"
+    },
+    {
+      "start_ms": 3467920,
+      "duration_ms": 4639,
+      "text": "about it is is the cost of running this"
+    },
+    {
+      "start_ms": 3469680,
+      "duration_ms": 4159,
+      "text": "application is so like it's you could do"
+    },
+    {
+      "start_ms": 3472559,
+      "duration_ms": 5760,
+      "text": "everything I've just done on the free"
+    },
+    {
+      "start_ms": 3473839,
+      "duration_ms": 7760,
+      "text": "tier except for the the data on the um"
+    },
+    {
+      "start_ms": 3478319,
+      "duration_ms": 4721,
+      "text": "uh the data on the figuring out if they"
+    },
+    {
+      "start_ms": 3481599,
+      "duration_ms": 2480,
+      "text": "work at the company anymore."
+    },
+    {
+      "start_ms": 3483040,
+      "duration_ms": 3600,
+      "text": ">> Yeah. Yes."
+    },
+    {
+      "start_ms": 3484079,
+      "duration_ms": 4881,
+      "text": ">> Everything else is tier stuff, right?"
+    },
+    {
+      "start_ms": 3486640,
+      "duration_ms": 4400,
+      "text": ">> This is incredible. So, I mean, for"
+    },
+    {
+      "start_ms": 3488960,
+      "duration_ms": 3920,
+      "text": "folks listening, find a problem"
+    },
+    {
+      "start_ms": 3491040,
+      "duration_ms": 3840,
+      "text": "internally that you guys are having or"
+    },
+    {
+      "start_ms": 3492880,
+      "duration_ms": 4880,
+      "text": "maybe something that just takes way too"
+    },
+    {
+      "start_ms": 3494880,
+      "duration_ms": 4959,
+      "text": "long to do manually. Uh, vibe code it"
+    },
+    {
+      "start_ms": 3497760,
+      "duration_ms": 5200,
+      "text": "out. Start your journey. Even if it's"
+    },
+    {
+      "start_ms": 3499839,
+      "duration_ms": 6561,
+      "text": "just from a content basis, uh, hop into"
+    },
+    {
+      "start_ms": 3502960,
+      "duration_ms": 5440,
+      "text": "Vzero, start playing around. Uh, that is"
+    },
+    {
+      "start_ms": 3506400,
+      "duration_ms": 5360,
+      "text": "that is all we can encourage you to do."
+    },
+    {
+      "start_ms": 3508400,
+      "duration_ms": 5520,
+      "text": "Uh, we Jesse is going to drop the prompt"
+    },
+    {
+      "start_ms": 3511760,
+      "duration_ms": 4480,
+      "text": "uh that he's been using onto LinkedIn."
+    },
+    {
+      "start_ms": 3513920,
+      "duration_ms": 5120,
+      "text": "Follow him on LinkedIn. I'm popping his"
+    },
+    {
+      "start_ms": 3516240,
+      "duration_ms": 4160,
+      "text": "LinkedIn message or profile there."
+    },
+    {
+      "start_ms": 3519040,
+      "duration_ms": 4240,
+      "text": "Again, if you're watching on YouTube, it"
+    },
+    {
+      "start_ms": 3520400,
+      "duration_ms": 4000,
+      "text": "will be in the description. Uh Jesse,"
+    },
+    {
+      "start_ms": 3523280,
+      "duration_ms": 2880,
+      "text": "thank you so much for joining, my"
+    },
+    {
+      "start_ms": 3524400,
+      "duration_ms": 4080,
+      "text": "friend. We got to do this again soon."
+    },
+    {
+      "start_ms": 3526160,
+      "duration_ms": 5280,
+      "text": "We're doing this again soon. Uh next"
+    },
+    {
+      "start_ms": 3528480,
+      "duration_ms": 5040,
+      "text": "week, folks, we have uh the showtime is"
+    },
+    {
+      "start_ms": 3531440,
+      "duration_ms": 4560,
+      "text": "going to be 1:30 Pacific or excuse me,"
+    },
+    {
+      "start_ms": 3533520,
+      "duration_ms": 4799,
+      "text": "1:30 p.m. Eastern time. We have Josh"
+    },
+    {
+      "start_ms": 3536000,
+      "duration_ms": 5440,
+      "text": "Abramson. He is the founder of College"
+    },
+    {
+      "start_ms": 3538319,
+      "duration_ms": 5441,
+      "text": "Humor, Vimeo, Busted Te's, Teublic,"
+    },
+    {
+      "start_ms": 3541440,
+      "duration_ms": 3840,
+      "text": "total serial entrepreneur, especially"
+    },
+    {
+      "start_ms": 3543760,
+      "duration_ms": 3039,
+      "text": "from the early days of the internet."
+    },
+    {
+      "start_ms": 3545280,
+      "duration_ms": 3600,
+      "text": "Then I think he launched College Humor"
+    },
+    {
+      "start_ms": 3546799,
+      "duration_ms": 3921,
+      "text": "in like 1999."
+    },
+    {
+      "start_ms": 3548880,
+      "duration_ms": 3439,
+      "text": "Uh I mean, that was where all the funny"
+    },
+    {
+      "start_ms": 3550720,
+      "duration_ms": 4079,
+      "text": "stuff was online. It's like that and"
+    },
+    {
+      "start_ms": 3552319,
+      "duration_ms": 4081,
+      "text": "Ebomb's world. Uh so it's going to be a"
+    },
+    {
+      "start_ms": 3554799,
+      "duration_ms": 4401,
+      "text": "great episode. We're excited to have"
+    },
+    {
+      "start_ms": 3556400,
+      "duration_ms": 5760,
+      "text": "Josh on. Uh the recording will be live"
+    },
+    {
+      "start_ms": 3559200,
+      "duration_ms": 5280,
+      "text": "on YouTube uh within 24 hours or so,"
+    },
+    {
+      "start_ms": 3562160,
+      "duration_ms": 5040,
+      "text": "folks. Uh,"
+    },
+    {
+      "start_ms": 3564480,
+      "duration_ms": 5119,
+      "text": "and that's all that's all I got. Jesse,"
+    },
+    {
+      "start_ms": 3567200,
+      "duration_ms": 3599,
+      "text": "thank you for showing us. I mean, I've"
+    },
+    {
+      "start_ms": 3569599,
+      "duration_ms": 3441,
+      "text": "gone through this with you and you even"
+    },
+    {
+      "start_ms": 3570799,
+      "duration_ms": 4401,
+      "text": "blew my mind today. So, um, I got to"
+    },
+    {
+      "start_ms": 3573040,
+      "duration_ms": 5680,
+      "text": "thank you so much for coming on and, uh,"
+    },
+    {
+      "start_ms": 3575200,
+      "duration_ms": 6399,
+      "text": "guys, check out Lead Magic. And with"
+    },
+    {
+      "start_ms": 3578720,
+      "duration_ms": 5879,
+      "text": "that, see you next week. Thank you"
+    },
+    {
+      "start_ms": 3581599,
+      "duration_ms": 3000,
+      "text": "everyone."
+    }
+  ]
+}

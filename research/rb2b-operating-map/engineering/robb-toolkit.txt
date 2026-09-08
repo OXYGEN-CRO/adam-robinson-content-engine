@@ -1,0 +1,716 @@
+I manage support, AI training, onboarding, QA, product design, testing, and a half dozen other things at RB2B. | Robb Clarke
+LinkedIn respects your privacy
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including
+professional and job ads
+) on and off LinkedIn. Learn more in our
+Cookie Policy
+.
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
+settings
+.
+Accept
+Reject
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Skip to main content
+LinkedIn
+Top Content
+People
+Learning
+Jobs
+Games
+Sign in
+Join now
+My toolkit for managing RB2B: Intercom, Lovable, Supademo, Upvoty, Postman, Tolt, ChatGPT, Claude, n8n, NewRelic, Logz.io
+This title was summarized by AI from the post below.
+Robb Clarke
+1y
+Report this post
+I manage support, AI training, onboarding, QA, product design, testing, and a half dozen other things at
+RB2B
+. Here's what's in my toolkit.
+
+➜
+Intercom
+is the mission control.
+I triage tickets, train the bot, push proactive nudges, and manage live chats; all from one screen. It's the pulse of RB2B support.
+
+➜
+Lovable
+saves me from dev backlogs.
+We're using it to design V3 of RB2B: mapping features, user flows, and UI without writing code. It's where ideas become functional blueprints.
+
+➜
+Supademo
+kills friction.
+Instead of hand-holding new users, I ship interactive product tours that onboard at scale. One demo replaces 10 DMs.
+
+➜
+Upvoty
+is my feedback brain.
+Every upvote, comment, and request tells me what to build next. It's how I turn user pain into AI workflows and messaging plays.
+
+➜
+Postman
+keeps integrations honest.
+When integration API calls go sideways for a user, Postman helps me take a look under the hood and find out why.
+
+➜
+Tolt
+runs our referral engine.
+Tracks referrals, manages payouts, and keeps our growth loop running without manual oversight.
+
+➜ ChatGPT is my daily editor.
+Process breakdowns, copy rewrites, bot response ideas; this is where they start. GPT gives me speed. Not fluff.
+
+➜
+Claude
+brings tone balance.
+When I want a softer angle or a second take on phrasing, Claude is where I go. The contrast helps sharpen our messaging.
+
+➜
+n8n
+for behind the scenes workflows.
+We use it to link our AI agent to our ESP. So, if an email bounces, the bot knows before support ever sees a ticket.
+
+➜ NewRelic and
+Logz.io
+are my panic buttons.
+If something breaks, I need answers fast. These tools tell me where the fire started. And whether it’s still burning.
+
+Anyone have an inside line on a tool that I should be using but aren't?
+32
+11 Comments
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+Tom Welsby
+1y
+Report this comment
+Hey
+Robb Clarke
+out of interest - intercom has product walk-through features so why not use that instead of supademo? We're currently evaluating this part of our stack, thanks!
+Like
+Reply
+1 Reaction
+To view or add a comment,
+sign in
+More Relevant Posts
+Syed Mohd Mehndi
+11mo
+Edited
+Report this post
+😄 AI adoption in dev teams might feel like that Dhamaal movie scene where the guy keeps extending his name… it just doesn’t stop.
+
+Start with ChatGPT → ask questions, brainstorm, unblock yourself ✅
+
+Add GitHub Copilot → let it autocomplete and generate code 👨💻
+
+Connect Jira/Slack/Notion via MCP servers → AI in your workflow 🔄
+
+Use AI for unit test & integration test generation → fewer bugs 🧪
+
+Add AI code reviewers → instant feedback on pull requests 🔍
+
+AI-powered documentation → keep docs up to date automatically 📄
+
+AI observability & log analysis → find issues before customers do 👀
+
+AI-driven deployment pipelines → smoother, faster releases 🚢
+
+Use AI for sprint planning & effort estimation → smarter planning 📊
+
+AI-assisted design → generate mockups, Figma assets 🎨
+
+AI customer support → instant triage & faster responses 🤖
+
+AI-powered analytics → turn raw data into insights 📈
+
+
+And just like that endless name, the list keeps going…
+But unlike in the movie, here every step actually makes your life simpler, faster, and more fun. 🚀
+
+Adoption isn’t one giant leap.
+It’s many small, continuous steps — each compounding into huge impact.
+9
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+Bernhard Hauser
+11mo
+Report this post
+We acquired a 6-year-old SaaS company and found out we need to rebuild the entire software. But instead of a manual audit, we used AI to reverse-engineer the product and create our roadmap. Here's our 3-step process:
+
+For context, the company ticked all our boxes: 
+
+• B2B SaaS at $100k+ ARR
+• Sticky customers
+• Proven product-market fit 
+
+But the due diligence revealed a massive technical debt that we had to rebuild it from scratch.
+
+A complete rebuild with an existing user base is a founder's nightmare. You risk breaking things and alienating loyal customers.
+
+So before writing a single line of new code, we had to understand the old product inside-out.
+
+Here's the 3-step process we ran:
+
+𝗦𝘁𝗲𝗽 𝟭: 𝗥𝗲𝘃𝗲𝗿𝘀𝗲-𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝘁𝗵𝗲 𝗰𝗼𝗱𝗲 
+
+We fed the entire codebase into an AI assistant (Claude Code) to extract a definitive, multi-page list of every single feature as it existed in the code.
+_
+
+𝗦𝘁𝗲𝗽 𝟮: 𝗖𝗮𝗽𝘁𝘂𝗿𝗲 𝘁𝗵𝗲 𝘂𝘀𝗲𝗿 𝗽𝗲𝗿𝘀𝗽𝗲𝗰𝘁𝗶𝘃𝗲 
+
+We had the customer support team record an end-to-end video, walking through every feature and workflow from a user's point of view.
+_
+
+𝗦𝘁𝗲𝗽 𝟯: 𝗦𝘆𝗻𝘁𝗵𝗲𝘀𝗶𝘇𝗲 𝗶𝗻𝘁𝗼 𝗮 𝗿𝗼𝗮𝗱𝗺𝗮𝗽 
+
+We took the AI-generated feature list, the video walkthrough, and notes from the previous founder and fed it all into ChatGPT 5 Thinking and Gemini 2.5 Pro.
+
+It all saved us an estimated 70% of the manual work involved.
+
+From this process, we established 3 core principles for the rebuild: 
+
+1. Aim for feature parity first
+
+Replicate what exists before adding new features. Fix what’s broken, but don’t redesign the wheel.
+
+2. Keep it simple *aka* don’t move the buttons!
+
+Users hate having to relearn an interface. Keep the design and user experience as consistent as possible to avoid alienating your power users.
+
+3. Future-proof the system
+
+A clean rebuild is a chance to escape technical debt. We restructured the architecture to support compliance, scalability, and integrations that would have been painful (or impossible) to do later.
+
+Have you ever built an entire application from scratch?
+17
+1 Comment
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+Ganesh Kanade
+11mo
+Report this post
+Did ChatGPT just kill Zapier at its Dev Day 20205? 🤯
+
+Short answer:
+Not yet.
+
+But it just changed the table.
+
+Yesterday, OpenAI shipped an Apps SDK + Agent Kit that turns ChatGPT into a visual, no-code automation canvas at its Dev Day 20205.
+
+You can build agents and chain them, embed them inside apps with ChatKit, Call other services via MCP.
+
+All from a single conversational surface.
+
+That matters because Zapier’s core promise was always simple: connect tools and automate workflows.
+
+Now that promise can live inside the chat where users already spend time.
+
+It drops friction and improves discovery.
+
+And prototypes can be shipped in minutes, not days.
+
+But this is not binary. There are two very different moats at play.
+
+One owns the UI and user attention, the place where people ask questions and discover automation.
+
+The other owns connectors, depth, SLAs, governance, and hard-earned enterprise trust.
+
+OpenAI may win UX and distribution quickly.
+ 
+But Zapier still owns breadth, reliability, and provenance across thousands of apps.
+
+Enterprises won’t move mission-critical workflows overnight without observability, error handling, and legal comfort.
+
+So the real fight isn’t “who dies” but it’s “who doubles down where they’re strongest.”
+
+Currently, OpenAI: makes integrations discoverable, secure, and enterprise-ready.
+
+And, Zapier: become the invisible backend, the reliable plumbing that any UI can call.
+
+If MCP standardizes, the winner will be the one who controls discovery and intent.
+
+And if enterprises demand multi-model freedom and deep connectors, the winner will be the one who controls integrations and trust.
+
+My take:
+ChatGPT didn’t kill Zapier yet. It rewrote where automation should live. And Zapier’s survival depends on speed, depth, and adapting to a world where conversations are the new UI.
+9
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+Sara Saleh
+10mo
+Report this post
+Transforming QA with AI: Smart Appointment Booking System
+
+Over the past few day, I had the opportunity to work on Smart Appointment Booking System, a web-based intelligent platform for booking appointments. Using Q-pros Test Agent, I executed a full QA lifecycle from start to finish.
+
+Here’s what I did:
+
+📝 SRS Creation – Drafted a comprehensive Software Requirements Specification covering all functional and non-functional requirements.
+
+🤖 AI Test Planning – Leveraged Test Agent by Q-Pros to automatically generate a professional Test Plan.
+
+✅ Test Cases Development – Created test cases covering positive, negative,ui and security scenarios.
+
+🔍 AI Review – Used the Review Test Cases feature to let AI assess clarity, phrasing, and suggest improvements.
+
+💡 Outcome – A complete QA project showcasing how AI can accelerate workflows, enhance documentation, and improve testing quality.
+
+🔗 Explore the full project on GitHub:
+👉 [
+https://lnkd.in/eueMjRxR
+]
+34
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+Vinay Kumar Chintapally
+10mo
+Report this post
+🤖 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗖𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝗼𝘁𝘀 — 𝗪𝗵𝗲𝗿𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗠𝗲𝗲𝘁𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
+
+We’ve tested web apps, APIs, and mobile platforms for years.
+But testing 𝗔𝗜-𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗰𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗯𝗼𝘁𝘀?
+That’s a completely different game.
+
+Unlike a button click or API call, a chatbot talks.
+It listens. Interprets. Adapts.
+And sometimes… improvises.
+
+That’s where traditional test cases start to fail.
+
+Here’s what we’ve learned while testing enterprise-grade conversational bots 👇
+
+🔹 𝗜𝗻𝘁𝗲𝗻𝘁 𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗼𝗻 𝗡𝗲𝗲𝗱𝘀 𝗘𝗺𝗽𝗮𝘁𝗵𝘆, 𝗡𝗼𝘁 𝗝𝘂𝘀𝘁 𝗔𝗰𝗰𝘂𝗿𝗮𝗰𝘆
+A 95% intent score means nothing if users still feel misunderstood.
+We validate tone, emotion, and context — not just keywords.
+
+🔹 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗥𝗲𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗜𝘀 𝘁𝗵𝗲 𝗡𝗲𝘄 𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻
+Conversations aren’t linear.
+We test whether the bot remembers what was said 3 turns ago — even after topic shifts.
+
+🔹 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 + 𝗔𝗜 = 𝗦𝗺𝗮𝗿𝘁𝗲𝗿 𝗧𝗲𝘀𝘁𝗶𝗻𝗴
+Automation scales.
+AI interprets meaning and emotional consistency.
+Together, they create intelligent, human-like QA frameworks.
+
+🔹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗣𝗿𝗶𝘃𝗮𝗰𝘆 𝗔𝗿𝗲 𝗡𝗼𝗻-𝗡𝗲𝗴𝗼𝘁𝗶𝗮𝗯𝗹𝗲
+We simulate prompt injections, adversarial inputs, and data-leak tests.
+Because one leak can undo years of brand trust.
+
+🔹 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗡𝗲𝗲𝗱𝘀 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗧𝗲𝘀𝘁𝗶𝗻𝗴
+Every model retrain = a new deployment.
+We run conversational regression suites to detect subtle behavioral drifts early.
+
+🔹 𝗛𝘂𝗺𝗮𝗻-𝗶𝗻-𝘁𝗵𝗲-𝗟𝗼𝗼𝗽 𝗜𝘀 𝗦𝘁𝗶𝗹𝗹 𝗜𝗿𝗿𝗲𝗽𝗹𝗮𝗰𝗲𝗮𝗯𝗹𝗲
+AI measures accuracy.
+Humans ensure empathy, compliance, and brand personality — that’s where true quality lives.
+
+In a world where 𝟴𝟬% 𝗼𝗳 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻𝘀 𝗮𝗿𝗲 𝗔𝗜-𝗱𝗿𝗶𝘃𝗲𝗻, a broken chatbot isn’t just a bug —
+it’s your brand voice failing at scale.
+
+💬 How are you ensuring your chatbot understands before it responds?
+Let’s share insights — because the future of QA isn’t scripted, it’s conversational.
+
+Chandrakala Bara
+Chandrakanth Nettem
+Sneha Joshi
+Vasikarla Shashank
+Kanchanapalli Sravan Kumar
+Siva Sandhya Palla
+#ChatbotTesting
+#ConversationalAI
+#QualityEngineering
+#TestingLeadership
+#AIinTesting
+#DigitalQuality
+#
+PalTech
+#AutomationTesting
+#CustomerExperience
+31
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+Nicolai Petrovic
+11mo
+Report this post
+From keywords to buyer tasks. That shift just changed everything for SaaS.
+
+I've been watching companies spend months optimizing for "project management software" searches.
+
+Meanwhile, AI search users ask: "help me create a project timeline for a product launch."
+
+See the difference?
+
+One wants information.
+The other wants to get something done.
+
+Let them build the timeline directly on your landing page.
+Start their trial when they complete that first task.
+Guide them through the exact workflow they came for.
+
+When ChatGPT recommends your tool, it's because someone could actually accomplish their goal.
+
+Not because you ranked for a keyword.
+
+Higher intent users.
+Cleaner SQLs.
+Better conversion rates.
+
+The funnels that win in AI search solve problems immediately... not eventually.
+
+Your move: Pick one task your ideal customer needs to finish this week. Make your landing page complete that task.
+
+What's the first buyer task you'll optimize for?
+4
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+Dmitry Golomidov
+11mo
+Report this post
+⚡️
+OpenAI
+just shipped the boring but vital bits that make agents real. Less duct tape, more “it actually ships.”
+
+What matters:
+
+- AgentKit → visual Agent Builder, Connector Registry, ChatKit UI, upgraded Evals (datasets, trace grading, prompt optimizer), plus RFT to teach models better tool-use. Availability: ChatKit + new Evals GA; Agent Builder beta; Connector Registry beta (rolling); RFT GA on o4-mini, private beta on GPT-5. Priced under standard API usage. Translation: rails + guardrails without a 6-week platform sprint. 
+
+- Apps inside ChatGPT + Apps SDK (preview) → your product can live directly in the chat (Spotify, Canva, Zillow, etc.). Rolls out today outside the EU; SDK built on MCP; reach 800M ChatGPT users = built-in distribution channel your growth team will ❤️
+
+- Codex GA → SDK, Slack integration, and admin controls. Less “AI autocomplete,” more agentic coding surface you can wire into CI/CD. 
+
+
+How I’d ship (week 1):
+
+1) Pick one painful job (support triage / lead research / ops checks). Build a skinny agent in Agent Builder, flip on Guardrails, wire data via Connector Registry. 
+
+2) Give it an interface fast with ChatKit or publish an app in ChatGPT for instant top-of-funnel. (Yes, distribution matters more than your clever prompt.) 
+
+3) Close the loop: log traces → Evals → RFT. Ship, measure, harden. Repeat. 
+
+
+⚡️ Spicy take: This isn’t “no-code magic.” It’s power tools. You’ll want an owner for evals, costs, and rollbacks - aka an agent SRE. But the path from neat demo → production workflow finally looks sane.
+
+🚀 Building in support, sales, research or ops? DM me - curious what you’ll ship first
+3
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+wiliam colorado
+10mo
+Report this post
+If you don’t iterate, you pay with your time
+With ChatGPT Plus (US$20/month), the equation is simple: by saving just one hour of work in an entire month, the subscription pays for itself. If you optimize how you use it every day, the return on investment (ROI) becomes remarkable
+My operating rule
+I apply this methodology with clients to get the most out of ChatGPT Plus:
+Deep Research: I run 1–3 per day using a Deep Research approach to answer complex questions. (Your ChatGPT usage dashboard shows your available quotas based on your plan.) The key is that every research ends in actionable decisions, not just accumulated information
+Hourly iterations (quick chat): You can achieve ~12 to ~38 messages per hour by distributing the daily quotas of the fast models (o4-mini-high: ~100/day; o4-mini: ~300/day) across an 8-hour workday. In other words, iterate = learn + refine the offer + launch. Iterating quickly means learning from the market in real time and adjusting your strategy on the fly
+
+Run the numbers (my mini-framework)
+The key question is: What is your hourly rate? (Examples: US$15, US$30, US$50…)
+The break-even for ChatGPT Plus is US$20 divided by your hourly rate. That means:
+If you charge ~US$15/hour: you need to save ~1.33 hours (≈ 80 minutes) per month for the subscription to pay for itself
+If you charge ~US$50/hour: by saving ~0.4 hours (≈ 24 minutes) per month you already hit break-even
+In other words, if you save just 10–15 minutes per day, you recover the monthly cost of ChatGPT Plus multiple times over. You can run the same exercise with your own rates
+My practical recommendation (from experience)
+More iterations mean more market learning and less wasted time and resources. Many professionals and technicians across industries still don’t capture the productivity AI can offer simply due to a lack of method like the one outlined here
+In short: either you pay US$20 for the subscription, or you keep paying with lost hours
+Want to implement my method?
+Interested in my template to structure 1–3 Deep Research per day plus hourly iteration sprints? Message me and we can work on it 1:1. I also offer personalized mentoring to help you implement this method and achieve actionable results for your business, studies, or project
+
+WhatsApp:
+https://lnkd.in/eHwx5iQy
+#DigitalMarketing
+#ArtificialIntelligence
+#Productivity
+#DeepResearch
+#Growth
+#Neuromarketing
+#Entrepreneurs
+#Colombia
+#ROI
+#ChatGPTPlus
+#USA
+#Brazil
+#Mexico
+#Chile
+#AI
+…more
+1
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+Rustam Akhmadullin
+11mo
+Report this post
+OpenAI just shipped an update, and here’s why most platforms should stop building "fancy" copilots and tap into a PLG funnel of 800M+ ChatGPT users.
+
+What just dropped:
+Apps inside ChatGPT (Apps SDK built on MCP)
+You can now ship real apps directly inside ChatGPT with your own backend and interactive UI. Discovery happens in-chat, with a public directory and monetization coming soon. Early partners include Canva, Coursera, Spotify, Zillow, Figma, and Booking/Expedia.
+
+AgentKit
+A first-party stack to design, test, evaluate, and deploy task-performing agents. Includes a visual workflow builder, file search, connectors, evals, guardrails, and ChatKit (an embeddable chat UI). Helps teams go from prototype to production faster.
+
+So why Product Managers in SalesTech and Prospecting should care?
+
+New PLG distribution channel
+ You can put an “ICP Builder”, “Lead Finder”, or “Enrichment Wizard” directly inside ChatGPT and get contextual discovery. Think of it as a new app store with a conversational UX and a funnel of hundreds of millions of weekly users!!! 
+
+Reliable agentic workflows
+Prospecting is a chain of tasks: profile parsing → ICP firmographic match → intent → dedupe → CRM writeback → outreach draft.
+AgentKit gives you the scaffolding for orchestration, evals, guardrails, and connectors so your team focuses on signal quality and scoring, not low-level plumbing.
+
+Faster in-product copilots
+ChatKit lets you embed a copilot in hours, not sprints. Ideal for Account Research Copilots, List QA Agents, or Playbook Builders that call your enrichment or re-ranking services.
+
+Standards
+Everything is built on MCP. Expose your private tools (crawler, match-merge, scoring) once, and reuse them both inside ChatGPT Apps and in your own UI.
+
+Happy to help your SaaS business with AI transformation and PLG growth from strategy to implementation, roadmap design, and team enablement. If you’re exploring how to integrate AI copilots or PLG loops in your SaaS, let’s connect.
+6
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+Md Marajul I.
+10mo
+Report this post
+I don’t have robots. But I do have tools that feel like them.  
+
+These tools help me run my YouTube client projects on autopilot.  
+
+Last year, I went from 2 clients to 11.  
+↳ I didn’t work 5x more, I just worked smarter.
+
+Here’s how I automated 80% of my YouTube client workflow:  
+
+1. Notion  
+↳ Client dashboards.  
+→ Project trackers.  
+→ Video calendars.  
+→ Script databases.  
+
+2. Descript  
+↳ Turn rough audio into polished edits in minutes.  
+→ Removes filler words.  
+→ Instantly generates captions.  
+→ Makes revision work a breeze.  
+
+3. ClickUp  
+↳ Keeps the entire team aligned.  
+→ Task templates for every client.  
+→ Automations for statuses.  
+→ Cut down client calls by half.  
+
+4. Pictory  
+↳ AI-powered short form video creator.  
+→ Extracts clips from long videos fast.  
+→ Great for repurposing.  
+→ Clients LOVE this stuff.  
+
+5. Zapier  
+↳ The glue that connects everything.  
+→ Notion to Google Sheets? Done.  
+→ Forms to Tasks? Easy.  
+→ Saves me hours every single week.  
+
+6. ChatGPT (Custom GPTs)  
+↳ From titles to scripts to content ideas.  
+→ I train one GPT per client niche.  
+→ Acts like a co-strategist.  
+→ Way more than “just AI.”  
+
+7. Trello (for client-facing views)  
+↳ Some clients don’t love ClickUp.  
+→ I sync it with Trello for them.  
+→ It's clean + easy to follow.  
+→ Expectations stay clear.  
+
+The real trick?  
+↳ Stack the tools smart, not wide.  
+↳ Don’t chase shiny. Build systems that scale.  
+
+Automation didn’t make me lazy.  
+It just gave me back my weekends.  
+
+Smart systems > Hustle mindset.  
+
+P.S. Curious, how many tools do you use to serve clients today?
+6
+6 Comments
+Like
+Comment
+Share
+Copy
+LinkedIn
+Facebook
+X
+To view or add a comment,
+sign in
+4,923 followers
+3000+ Posts
+View Profile
+Follow
+Explore related topics
+How ChatGPT Integrations Drive Enterprise Innovation
+Using ChatGPT for Personal and Professional Growth
+How to Use ChatGPT to Support Critical Thinking
+Understanding ChatGPT's Role in AI Tools
+ChatGPT Problem-Solving Strategies
+How to Maximize Chatgpt Capabilities
+How to Use ChatGPT for Resume Writing
+Using Generative AI Chatbots for Mental Health Support
+Show more
+Show less
+Explore content categories
+Career
+Productivity
+Finance
+Soft Skills & Emotional Intelligence
+Project Management
+Education
+Technology
+Leadership
+Ecommerce
+User Experience
+Show more
+Show less
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
+Language
+Sign in to view more content
+Create your free account or sign in to continue your search
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.

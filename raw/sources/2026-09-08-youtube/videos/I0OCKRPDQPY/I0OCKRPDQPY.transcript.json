@@ -1,0 +1,554 @@
+{
+  "video_id": "I0OCKRPDQPY",
+  "title": "THE PHILOSOPHY OF CONSTANT ITERATION",
+  "url": "https://www.youtube.com/watch?v=I0OCKRPDQPY",
+  "upload_date": "20250730",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:42:01.091421+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/I0OCKRPDQPY/I0OCKRPDQPY.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 3120,
+      "duration_ms": 5120,
+      "text": "Let's talk about iteration."
+    },
+    {
+      "start_ms": 6160,
+      "duration_ms": 4080,
+      "text": "Um there's kind of an overarching"
+    },
+    {
+      "start_ms": 8240,
+      "duration_ms": 3920,
+      "text": "philosophy here when it comes to AI"
+    },
+    {
+      "start_ms": 10240,
+      "duration_ms": 3600,
+      "text": "about iteration."
+    },
+    {
+      "start_ms": 12160,
+      "duration_ms": 3359,
+      "text": "What is your goal with iteration? I"
+    },
+    {
+      "start_ms": 13840,
+      "duration_ms": 3600,
+      "text": "believe there's some sort of rock that"
+    },
+    {
+      "start_ms": 15519,
+      "duration_ms": 4481,
+      "text": "was put in place like an actual business"
+    },
+    {
+      "start_ms": 17440,
+      "duration_ms": 5999,
+      "text": "goal uh to kind of work towards this"
+    },
+    {
+      "start_ms": 20000,
+      "duration_ms": 7920,
+      "text": "this broader goal of constant iteration."
+    },
+    {
+      "start_ms": 23439,
+      "duration_ms": 6801,
+      "text": ">> Yeah. So ultimately the the rock it was"
+    },
+    {
+      "start_ms": 27920,
+      "duration_ms": 4400,
+      "text": "pretty straightforward. go through every"
+    },
+    {
+      "start_ms": 30240,
+      "duration_ms": 4960,
+      "text": "deli and intercom AI ticket and improve"
+    },
+    {
+      "start_ms": 32320,
+      "duration_ms": 7680,
+      "text": "the answers to the best possible answer."
+    },
+    {
+      "start_ms": 35200,
+      "duration_ms": 6240,
+      "text": "Whether it was a ticket that"
+    },
+    {
+      "start_ms": 40000,
+      "duration_ms": 5680,
+      "text": "didn't get resolved and got bumped down"
+    },
+    {
+      "start_ms": 41440,
+      "duration_ms": 6959,
+      "text": "to a human, those are almost always um"
+    },
+    {
+      "start_ms": 45680,
+      "duration_ms": 4800,
+      "text": "analyzed and then documentation updated"
+    },
+    {
+      "start_ms": 48399,
+      "duration_ms": 3680,
+      "text": "or guidance or whatever updated to"
+    },
+    {
+      "start_ms": 50480,
+      "duration_ms": 4000,
+      "text": "prevent that in the future. But even"
+    },
+    {
+      "start_ms": 52079,
+      "duration_ms": 4721,
+      "text": "articles that or not articles but"
+    },
+    {
+      "start_ms": 54480,
+      "duration_ms": 4879,
+      "text": "tickets that were resolved by the AI,"
+    },
+    {
+      "start_ms": 56800,
+      "duration_ms": 5520,
+      "text": "they're reviewed to see if there's"
+    },
+    {
+      "start_ms": 59359,
+      "duration_ms": 5921,
+      "text": "somewhere that we could improve it or"
+    },
+    {
+      "start_ms": 62320,
+      "duration_ms": 6000,
+      "text": "maybe one of the answers therein wasn't"
+    },
+    {
+      "start_ms": 65280,
+      "duration_ms": 6400,
+      "text": "as awesome as we wanted it to be. Well,"
+    },
+    {
+      "start_ms": 68320,
+      "duration_ms": 6560,
+      "text": "can we tweak that and make it better?"
+    },
+    {
+      "start_ms": 71680,
+      "duration_ms": 5280,
+      "text": ">> And just as an example, right, like Deli"
+    },
+    {
+      "start_ms": 74880,
+      "duration_ms": 3840,
+      "text": "has all of the conversations that's"
+    },
+    {
+      "start_ms": 76960,
+      "duration_ms": 3839,
+      "text": "being h that are happening with my clone"
+    },
+    {
+      "start_ms": 78720,
+      "duration_ms": 5120,
+      "text": "right now, right? And then seven minutes"
+    },
+    {
+      "start_ms": 80799,
+      "duration_ms": 5841,
+      "text": "ago, someone asked, \"Can I get a demo?"
+    },
+    {
+      "start_ms": 83840,
+      "duration_ms": 4319,
+      "text": "How do plans and pricing work? And how"
+    },
+    {
+      "start_ms": 86640,
+      "duration_ms": 4159,
+      "text": "many credits would I need for 60,000"
+    },
+    {
+      "start_ms": 88159,
+      "duration_ms": 5761,
+      "text": "visitors?\""
+    },
+    {
+      "start_ms": 90799,
+      "duration_ms": 5680,
+      "text": "Uh, I I hate this answer, right? So, I"
+    },
+    {
+      "start_ms": 93920,
+      "duration_ms": 4559,
+      "text": "would revise it to something like it"
+    },
+    {
+      "start_ms": 96479,
+      "duration_ms": 6481,
+      "text": "really depends."
+    },
+    {
+      "start_ms": 98479,
+      "duration_ms": 8881,
+      "text": "We could resolve up to 25,000,"
+    },
+    {
+      "start_ms": 102960,
+      "duration_ms": 10159,
+      "text": "but with that level of traffic,"
+    },
+    {
+      "start_ms": 107360,
+      "duration_ms": 9200,
+      "text": "you're likely to exclude a substantial"
+    },
+    {
+      "start_ms": 113119,
+      "duration_ms": 8640,
+      "text": "amount of resolutions"
+    },
+    {
+      "start_ms": 116560,
+      "duration_ms": 6720,
+      "text": "and be at a much lower price point."
+    },
+    {
+      "start_ms": 121759,
+      "duration_ms": 4241,
+      "text": "Like if that's what I wanted to say,"
+    },
+    {
+      "start_ms": 123280,
+      "duration_ms": 4159,
+      "text": "right? And that's me altering that"
+    },
+    {
+      "start_ms": 126000,
+      "duration_ms": 3200,
+      "text": "question. So the next time we got asked"
+    },
+    {
+      "start_ms": 127439,
+      "duration_ms": 3440,
+      "text": "something like that, instead of"
+    },
+    {
+      "start_ms": 129200,
+      "duration_ms": 5520,
+      "text": "answering something I didn't want it to,"
+    },
+    {
+      "start_ms": 130879,
+      "duration_ms": 6801,
+      "text": "it would answer that. Right? So I spend"
+    },
+    {
+      "start_ms": 134720,
+      "duration_ms": 4480,
+      "text": "30 minutes a day doing this. If you are"
+    },
+    {
+      "start_ms": 137680,
+      "duration_ms": 4000,
+      "text": "doing something like this, this is now"
+    },
+    {
+      "start_ms": 139200,
+      "duration_ms": 4080,
+      "text": "your job. Right? It's going to sit there"
+    },
+    {
+      "start_ms": 141680,
+      "duration_ms": 3600,
+      "text": "and answer these questions 24 hours a"
+    },
+    {
+      "start_ms": 143280,
+      "duration_ms": 3920,
+      "text": "day. And whereas the old job was to"
+    },
+    {
+      "start_ms": 145280,
+      "duration_ms": 5120,
+      "text": "answer them correctly in real time. The"
+    },
+    {
+      "start_ms": 147200,
+      "duration_ms": 5759,
+      "text": "new job is look back at what was said"
+    },
+    {
+      "start_ms": 150400,
+      "duration_ms": 4720,
+      "text": "and make sure that the next time it gets"
+    },
+    {
+      "start_ms": 152959,
+      "duration_ms": 4000,
+      "text": "asked, it's said the way you want it"
+    },
+    {
+      "start_ms": 155120,
+      "duration_ms": 5520,
+      "text": "said, right? And I think the standard"
+    },
+    {
+      "start_ms": 156959,
+      "duration_ms": 6640,
+      "text": "that Rob and I have adopted is is this"
+    },
+    {
+      "start_ms": 160640,
+      "duration_ms": 5200,
+      "text": "answer good enough that if a human was"
+    },
+    {
+      "start_ms": 163599,
+      "duration_ms": 5521,
+      "text": "working for us, we wouldn't say why did"
+    },
+    {
+      "start_ms": 165840,
+      "duration_ms": 5920,
+      "text": "you say that? Right? So, so that's what"
+    },
+    {
+      "start_ms": 169120,
+      "duration_ms": 4479,
+      "text": "you do. This is the this is the deli uh"
+    },
+    {
+      "start_ms": 171760,
+      "duration_ms": 3839,
+      "text": "interface. Intercom has like a similar"
+    },
+    {
+      "start_ms": 173599,
+      "duration_ms": 4321,
+      "text": "thing you can do with snippets, but like"
+    },
+    {
+      "start_ms": 175599,
+      "duration_ms": 5201,
+      "text": "yeah, that's that's kind of the idea"
+    },
+    {
+      "start_ms": 177920,
+      "duration_ms": 5599,
+      "text": "here. It's not set it and forget it. It"
+    },
+    {
+      "start_ms": 180800,
+      "duration_ms": 6400,
+      "text": "is constant iteration. It kind of never"
+    },
+    {
+      "start_ms": 183519,
+      "duration_ms": 5440,
+      "text": "ends, right? And like that that is that"
+    },
+    {
+      "start_ms": 187200,
+      "duration_ms": 3759,
+      "text": "is basically what we're doing here."
+    },
+    {
+      "start_ms": 188959,
+      "duration_ms": 4881,
+      "text": ">> And on that front, you need you need far"
+    },
+    {
+      "start_ms": 190959,
+      "duration_ms": 4000,
+      "text": "less people to iterate, especially once"
+    },
+    {
+      "start_ms": 193840,
+      "duration_ms": 2319,
+      "text": "you've gotten your knowledge base down"
+    },
+    {
+      "start_ms": 194959,
+      "duration_ms": 3521,
+      "text": "and everything, especially if you're"
+    },
+    {
+      "start_ms": 196159,
+      "duration_ms": 3761,
+      "text": "early on. I mean, RBDB got this off the"
+    },
+    {
+      "start_ms": 198480,
+      "duration_ms": 3200,
+      "text": "ground quickly and we got a lot of users"
+    },
+    {
+      "start_ms": 199920,
+      "duration_ms": 3360,
+      "text": "really quick. Um,"
+    },
+    {
+      "start_ms": 201680,
+      "duration_ms": 5680,
+      "text": ">> yeah, just to give you an idea, right?"
+    },
+    {
+      "start_ms": 203280,
+      "duration_ms": 7360,
+      "text": "Like we have 60,000 free users. We're 5"
+    },
+    {
+      "start_ms": 207360,
+      "duration_ms": 7760,
+      "text": "a.5 million ARR and we have three people"
+    },
+    {
+      "start_ms": 210640,
+      "duration_ms": 8560,
+      "text": "working on this, right? Rob who his"
+    },
+    {
+      "start_ms": 215120,
+      "duration_ms": 6080,
+      "text": "entire job is improving intercom answers"
+    },
+    {
+      "start_ms": 219200,
+      "duration_ms": 4800,
+      "text": "and then whatever gets deflected to a"
+    },
+    {
+      "start_ms": 221200,
+      "duration_ms": 4640,
+      "text": "human he deals with, which like the"
+    },
+    {
+      "start_ms": 224000,
+      "duration_ms": 4640,
+      "text": "number of times that's happening and we"
+    },
+    {
+      "start_ms": 225840,
+      "duration_ms": 5039,
+      "text": "can show reporting on this uh it's"
+    },
+    {
+      "start_ms": 228640,
+      "duration_ms": 4480,
+      "text": "getting lower and lower every day."
+    },
+    {
+      "start_ms": 230879,
+      "duration_ms": 3841,
+      "text": "Right? Then me on the sales and"
+    },
+    {
+      "start_ms": 233120,
+      "duration_ms": 5039,
+      "text": "marketing is the same thing. Right? My"
+    },
+    {
+      "start_ms": 234720,
+      "duration_ms": 5519,
+      "text": "clone gets asked 60 questions a day or"
+    },
+    {
+      "start_ms": 238159,
+      "duration_ms": 3521,
+      "text": "like 60 people ask questions. They"
+    },
+    {
+      "start_ms": 240239,
+      "duration_ms": 4481,
+      "text": "probably ask three each. So 180"
+    },
+    {
+      "start_ms": 241680,
+      "duration_ms": 5040,
+      "text": "questions a day. Each day I make fewer"
+    },
+    {
+      "start_ms": 244720,
+      "duration_ms": 4960,
+      "text": "and fewer changes."
+    },
+    {
+      "start_ms": 246720,
+      "duration_ms": 7439,
+      "text": "And this is the new job, right? Like"
+    },
+    {
+      "start_ms": 249680,
+      "duration_ms": 7200,
+      "text": "like this is the new executor of go to"
+    },
+    {
+      "start_ms": 254159,
+      "duration_ms": 5521,
+      "text": "market and customer support."
+    },
+    {
+      "start_ms": 256880,
+      "duration_ms": 4800,
+      "text": "I also just want to add a lot of systems"
+    },
+    {
+      "start_ms": 259680,
+      "duration_ms": 3440,
+      "text": "if you're using live chat. at no deli is"
+    },
+    {
+      "start_ms": 261680,
+      "duration_ms": 2720,
+      "text": "not an example of this but Adam you had"
+    },
+    {
+      "start_ms": 263120,
+      "duration_ms": 3760,
+      "text": "a ton of content out there that you"
+    },
+    {
+      "start_ms": 264400,
+      "duration_ms": 4079,
+      "text": "could feed it but intercom is an example"
+    },
+    {
+      "start_ms": 266880,
+      "duration_ms": 4000,
+      "text": "when we started using it you could use"
+    },
+    {
+      "start_ms": 268479,
+      "duration_ms": 4081,
+      "text": "old conversations as context to start"
+    },
+    {
+      "start_ms": 270880,
+      "duration_ms": 3120,
+      "text": "which is great so now you don't have to"
+    },
+    {
+      "start_ms": 272560,
+      "duration_ms": 4480,
+      "text": "like you can slowly build your knowledge"
+    },
+    {
+      "start_ms": 274000,
+      "duration_ms": 6160,
+      "text": "base and still get some sort of AI um"
+    },
+    {
+      "start_ms": 277040,
+      "duration_ms": 3120,
+      "text": "you know resolution going"
+    }
+  ]
+}

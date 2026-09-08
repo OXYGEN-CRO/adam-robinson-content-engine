@@ -1,0 +1,17 @@
+{
+  "validated_at": "2026-09-08T08:25:37.548037+00:00",
+  "script_sha256": "1ad149dee2adccd7a785f312218c968ac03ed5bcc74bcfe8390c69e5b50f1691",
+  "method": "Readonly backup of live SQLite into a temporary disposable copy; installed sqlite-vec runtime; five current LinkedIn sources passed baseline, then isolated corruption per source. Temporary copy removed after validation.",
+  "baseline_passed": 5,
+  "fault_cases_detected": [
+    "content body differs from its hash/source",
+    "last metadata chunk removed while expected total remains",
+    "wrong embedding fingerprint",
+    "actual vector removed with metadata intact",
+    "indexed document removed"
+  ],
+  "all_faults_detected": true,
+  "live_index_mutated": false,
+  "final_real_audit": "qmd-coverage-audit.json",
+  "expected_real_audit_status": "failed while other agents add context; selected 200 posts and 100 transcripts all passed"
+}

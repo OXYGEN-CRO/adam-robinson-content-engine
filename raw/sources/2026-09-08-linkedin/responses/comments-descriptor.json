@@ -1,0 +1,320 @@
+{
+  "ok": true,
+  "data": {
+    "tool": {
+      "tool_id": "scraper.linkedin_post_comments",
+      "provider": "scraper",
+      "display_name": "Managed LinkedIn Scraper Linkedin Post Comments",
+      "description": "List the people who commented on a LinkedIn post (managed scraper, no connected account). Returns each commenter's name, headline, profile URL, and comment text.",
+      "categories": [
+        "research"
+      ],
+      "input_schema": {
+        "type": "object",
+        "title": "Managed LinkedIn Scraper Linkedin Post Comments Input",
+        "description": "List the people who commented on a LinkedIn post (managed scraper, no connected account). Returns each commenter's name, headline, profile URL, and comment text.",
+        "properties": {
+          "post": {
+            "description": "LinkedIn post URL or activity URL.",
+            "type": "string"
+          },
+          "sort_by": {
+            "description": "Comment sort order: 'relevance' or 'date'.",
+            "type": "string"
+          },
+          "page": {
+            "description": "Page number for pagination. Defaults to 1.",
+            "type": "number"
+          },
+          "pagination_token": "[REDACTED FOR PUBLIC RELEASE]"
+        },
+        "required": [
+          "post"
+        ],
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "results": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Engager full name."
+                },
+                "headline": {
+                  "type": "string",
+                  "description": "Engager LinkedIn headline / position."
+                },
+                "linkedin_url": {
+                  "type": "string",
+                  "description": "Engager LinkedIn profile URL (may be in profile-id form; resolve via linkedin_profile for a public slug)."
+                },
+                "profile_id": {
+                  "type": "string",
+                  "description": "Stable LinkedIn profile id."
+                },
+                "picture_url": {
+                  "type": "string",
+                  "description": "Profile picture URL."
+                },
+                "comment": {
+                  "type": "string",
+                  "description": "Comment text."
+                },
+                "created_at": {
+                  "type": "string",
+                  "description": "ISO 8601 comment timestamp."
+                },
+                "is_post_author": {
+                  "type": "boolean",
+                  "description": "True when the commenter authored the post."
+                }
+              },
+              "additionalProperties": true
+            }
+          },
+          "pagination": {
+            "type": "object",
+            "additionalProperties": true
+          }
+        },
+        "additionalProperties": true
+      },
+      "primary_display_fields": [
+        "name"
+      ],
+      "cost": {
+        "pricing_model": "provider_usage",
+        "billing_mode": "pre_authorize",
+        "notes": "Oxygen managed LinkedIn scraper call (no connected account). Runs on Oxygen-managed scraping infrastructure; nothing to connect.",
+        "managed_credit_estimate": {
+          "min": 16,
+          "max": 16
+        }
+      },
+      "side_effect_class": "paid_provider",
+      "latency_band": "1-5s",
+      "rate_limit": {
+        "rps": 5,
+        "daily_cap": null,
+        "batching": "One page per call (use `page` to paginate engagers). Fan out large posts through the table/workflow run queue, not a single synchronous call."
+      },
+      "when_to_use": [
+        "Default for public or third-party LinkedIn research, including competitor profiles, companies, posts, and engagers.",
+        "Use Oxygen's native cookieless LinkedIn scraper when no connected LinkedIn account is required.",
+        "Use when the user asks for a managed LinkedIn scraper, native LinkedIn scraper, cookieless read, or zero connected-account quota.",
+        "Find public LinkedIn post engagers who commented, including commenter identity and comment text."
+      ],
+      "when_not_to_use": [
+        "Do not use for the workspace's own private/account-scoped LinkedIn data such as connections, followers, profile viewers, inbox, Sales Navigator, or Recruiter; use linkedin.* through the connected account.",
+        "Do not use for LinkedIn writes such as invitations, messages, publishing, creating a comment, adding a reaction, or profile edits; use the approval-gated connected LinkedIn surfaces.",
+        "Do not use Crustdata-style longitudinal, contact-field, or watcher capabilities as a reason to replace this ordinary public LinkedIn read; choose those providers only when the requested fields genuinely require them."
+      ],
+      "prefer_over": [
+        {
+          "tool_id": "linkedin.posts_comments_list",
+          "because": "Reads public commenters without consuming a connected account's LinkedIn read quota."
+        }
+      ],
+      "provider_meta": {
+        "name": "scraper",
+        "docs_url": "https://oxygen-agent.com/docs/providers/linkedin-scraper"
+      },
+      "example_payload": {
+        "post": "https://www.linkedin.com/posts/williamhgates_activity-7000000000000000000-abcd",
+        "sort_by": "relevance"
+      },
+      "access_requirements": {
+        "credential_modes": [
+          "managed"
+        ],
+        "runtime_env_required": [
+          "HARVEST_API_KEY"
+        ]
+      },
+      "capability_tags": [
+        "cookieless",
+        "linkedin_post_engagers",
+        "linkedin_posts",
+        "linkedin_public_read",
+        "native_linkedin_scraper"
+      ],
+      "enabled": true,
+      "native_provider": {
+        "provider": "scraper",
+        "operation": "linkedin_post_comments",
+        "method": "GET",
+        "path": "/linkedin/post-comments",
+        "descriptor_version": "2026-08-20",
+        "fields": [
+          {
+            "key": "post",
+            "type": "string",
+            "required": true,
+            "description": "LinkedIn post URL or activity URL.",
+            "aliases": [
+              "post_url",
+              "url",
+              "post_urn",
+              "urn"
+            ]
+          },
+          {
+            "key": "sort_by",
+            "wireKey": "sortBy",
+            "type": "string",
+            "required": false,
+            "description": "Comment sort order: 'relevance' or 'date'."
+          },
+          {
+            "key": "page",
+            "type": "number",
+            "required": false,
+            "description": "Page number for pagination. Defaults to 1."
+          },
+          {
+            "key": "pagination_token",
+            "wireKey": "paginationToken",
+            "type": "string",
+            "required": false,
+            "description": "Pagination token from a prior page; required when sort_by=relevance and page>1."
+          }
+        ],
+        "effect": "read",
+        "side_effect_class": "paid_provider",
+        "execution": {
+          "mode": "live",
+          "credential": "managed"
+        },
+        "latency_band": "1-5s",
+        "rate_limit": {
+          "rps": 5,
+          "daily_cap": null,
+          "batching": "One page per call (use `page` to paginate engagers). Fan out large posts through the table/workflow run queue, not a single synchronous call."
+        },
+        "docs_url": "https://oxygen-agent.com/docs/providers/linkedin-scraper",
+        "notes": [
+          "Managed provider: runs on the backend vendor's own infrastructure — no user LinkedIn account is connected.",
+          "One page per call. With `sort_by=relevance` and `page > 1`, pass the `pagination_token` returned by the previous page.",
+          "`linkedin_url` may come back in profile-id form; resolve via scraper.linkedin_profile or enrich via blitzapi."
+        ],
+        "examples": [
+          {
+            "post": "https://www.linkedin.com/posts/williamhgates_activity-7000000000000000000-abcd",
+            "sort_by": "relevance"
+          }
+        ]
+      },
+      "supports_managed": true,
+      "managed_credit_posture": "priced",
+      "supports_byok": false,
+      "byok_required": false,
+      "supports_table_run": true,
+      "estimated_credits_per_call": 16,
+      "recommended_bulk_surface": "table_runs",
+      "supports_node_credit_cap": true,
+      "availability": {
+        "tool_id": "scraper.linkedin_post_comments",
+        "provider": "scraper",
+        "operation": "linkedin_post_comments",
+        "status": "available",
+        "availability_status": "runnable",
+        "blocked_by": [],
+        "next_action": null,
+        "reasons": [],
+        "credential_mode": "managed",
+        "integration_id": "scraper",
+        "connection_id": null,
+        "access_requirements": {
+          "credential_modes": [
+            "managed"
+          ],
+          "runtime_env_required": [
+            "HARVEST_API_KEY"
+          ]
+        },
+        "capability_tags": [
+          "cookieless",
+          "linkedin_post_engagers",
+          "linkedin_posts",
+          "linkedin_public_read",
+          "native_linkedin_scraper"
+        ],
+        "output_schema": {
+          "type": "object",
+          "properties": {
+            "results": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "type": "string",
+                    "description": "Engager full name."
+                  },
+                  "headline": {
+                    "type": "string",
+                    "description": "Engager LinkedIn headline / position."
+                  },
+                  "linkedin_url": {
+                    "type": "string",
+                    "description": "Engager LinkedIn profile URL (may be in profile-id form; resolve via linkedin_profile for a public slug)."
+                  },
+                  "profile_id": {
+                    "type": "string",
+                    "description": "Stable LinkedIn profile id."
+                  },
+                  "picture_url": {
+                    "type": "string",
+                    "description": "Profile picture URL."
+                  },
+                  "comment": {
+                    "type": "string",
+                    "description": "Comment text."
+                  },
+                  "created_at": {
+                    "type": "string",
+                    "description": "ISO 8601 comment timestamp."
+                  },
+                  "is_post_author": {
+                    "type": "boolean",
+                    "description": "True when the commenter authored the post."
+                  }
+                },
+                "additionalProperties": true
+              }
+            },
+            "pagination": {
+              "type": "object",
+              "additionalProperties": true
+            }
+          },
+          "additionalProperties": true
+        },
+        "supports_managed": true,
+        "supports_byok": false,
+        "byok_required": false,
+        "supports_table_run": true,
+        "estimated_credits_per_call": 16,
+        "recommended_bulk_surface": "table_runs",
+        "billing": {
+          "managed_credit_estimate": 16,
+          "category": "managed_enrichment",
+          "provider": "scraper",
+          "source_id": "scraper.linkedin_post_comments",
+          "available_credits": 2104305.225,
+          "reserved_credits": 17.696
+        }
+      }
+    }
+  },
+  "meta": {
+    "command": "tools get",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

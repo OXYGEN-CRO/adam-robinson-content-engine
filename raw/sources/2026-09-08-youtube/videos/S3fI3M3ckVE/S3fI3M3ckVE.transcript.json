@@ -1,0 +1,689 @@
+{
+  "video_id": "S3fI3M3ckVE",
+  "title": "The 4 Pillars of AI Optimization",
+  "url": "https://www.youtube.com/watch?v=S3fI3M3ckVE",
+  "upload_date": "20250730",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:41:52.208088+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/S3fI3M3ckVE/S3fI3M3ckVE.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 4240,
+      "duration_ms": 4560,
+      "text": "Okay, let's go back to this constant"
+    },
+    {
+      "start_ms": 6720,
+      "duration_ms": 4959,
+      "text": "iteration. So, there's really like a"
+    },
+    {
+      "start_ms": 8800,
+      "duration_ms": 6400,
+      "text": "three pillar framework that that you use"
+    },
+    {
+      "start_ms": 11679,
+      "duration_ms": 6561,
+      "text": "to uh kind of stand up this idea of of"
+    },
+    {
+      "start_ms": 15200,
+      "duration_ms": 5839,
+      "text": "constant iteration. The first pillar is"
+    },
+    {
+      "start_ms": 18240,
+      "duration_ms": 4959,
+      "text": "constantly improving UI and UX to reduce"
+    },
+    {
+      "start_ms": 21039,
+      "duration_ms": 3441,
+      "text": "incoming tickets. Right? So, if"
+    },
+    {
+      "start_ms": 23199,
+      "duration_ms": 2641,
+      "text": "someone's asking, hey, what's your"
+    },
+    {
+      "start_ms": 24480,
+      "duration_ms": 2559,
+      "text": "price? and they ask every single day."
+    },
+    {
+      "start_ms": 25840,
+      "duration_ms": 2480,
+      "text": "Well, okay, maybe we should have a"
+    },
+    {
+      "start_ms": 27039,
+      "duration_ms": 2640,
+      "text": "better way for them to find that so they"
+    },
+    {
+      "start_ms": 28320,
+      "duration_ms": 3279,
+      "text": "don't come in asking about price every"
+    },
+    {
+      "start_ms": 29679,
+      "duration_ms": 5521,
+      "text": "day. Um, can you give us a specific"
+    },
+    {
+      "start_ms": 31599,
+      "duration_ms": 5681,
+      "text": "example of a UI change for you guys that"
+    },
+    {
+      "start_ms": 35200,
+      "duration_ms": 3920,
+      "text": "dramatically reduced support volume kind"
+    },
+    {
+      "start_ms": 37280,
+      "duration_ms": 6400,
+      "text": "of in recent history?"
+    },
+    {
+      "start_ms": 39120,
+      "duration_ms": 6560,
+      "text": ">> Yeah, I mean there was there was two um"
+    },
+    {
+      "start_ms": 43680,
+      "duration_ms": 5280,
+      "text": "there there was a small scale one that"
+    },
+    {
+      "start_ms": 45680,
+      "duration_ms": 5039,
+      "text": "really obvious um we used to get a lot"
+    },
+    {
+      "start_ms": 48960,
+      "duration_ms": 3520,
+      "text": "of questions about how many credits have"
+    },
+    {
+      "start_ms": 50719,
+      "duration_ms": 3360,
+      "text": "I used and this and that. It was"
+    },
+    {
+      "start_ms": 52480,
+      "duration_ms": 4480,
+      "text": "displayed in our dashboard. It was just"
+    },
+    {
+      "start_ms": 54079,
+      "duration_ms": 5041,
+      "text": "kind of buried in a flyyou nav item that"
+    },
+    {
+      "start_ms": 56960,
+      "duration_ms": 4800,
+      "text": "you had to click and then you go to this"
+    },
+    {
+      "start_ms": 59120,
+      "duration_ms": 5600,
+      "text": "page and it displayed it. Well, we've"
+    },
+    {
+      "start_ms": 61760,
+      "duration_ms": 4960,
+      "text": "now in the sidebar started showing the"
+    },
+    {
+      "start_ms": 64720,
+      "duration_ms": 3360,
+      "text": "plan they're on, the number of credits"
+    },
+    {
+      "start_ms": 66720,
+      "duration_ms": 3360,
+      "text": "they have in the plan and number of"
+    },
+    {
+      "start_ms": 68080,
+      "duration_ms": 3680,
+      "text": "credits they've used. And right below it"
+    },
+    {
+      "start_ms": 70080,
+      "duration_ms": 4480,
+      "text": "is a buy credits button and a"
+    },
+    {
+      "start_ms": 71760,
+      "duration_ms": 5760,
+      "text": "subscription details button. Just it's"
+    },
+    {
+      "start_ms": 74560,
+      "duration_ms": 5040,
+      "text": "front and center. It it's right at the"
+    },
+    {
+      "start_ms": 77520,
+      "duration_ms": 4560,
+      "text": "time of need. You can't miss it. It's on"
+    },
+    {
+      "start_ms": 79600,
+      "duration_ms": 7839,
+      "text": "every page. And now questions about that"
+    },
+    {
+      "start_ms": 82080,
+      "duration_ms": 7600,
+      "text": "have like dropped to no. Um now at a"
+    },
+    {
+      "start_ms": 87439,
+      "duration_ms": 4640,
+      "text": "larger scale we recently introduced"
+    },
+    {
+      "start_ms": 89680,
+      "duration_ms": 4560,
+      "text": "company level identification as a"
+    },
+    {
+      "start_ms": 92079,
+      "duration_ms": 4881,
+      "text": "feature where if we can't ID the person"
+    },
+    {
+      "start_ms": 94240,
+      "duration_ms": 5519,
+      "text": "level uh we double back and at least"
+    },
+    {
+      "start_ms": 96960,
+      "duration_ms": 5519,
+      "text": "tell you the company they work at. Uh"
+    },
+    {
+      "start_ms": 99759,
+      "duration_ms": 4961,
+      "text": "unsurprisingly there's a huge volume of"
+    },
+    {
+      "start_ms": 102479,
+      "duration_ms": 3280,
+      "text": "company level visitors that get IDed"
+    },
+    {
+      "start_ms": 104720,
+      "duration_ms": 6800,
+      "text": "especially if people turn on"
+    },
+    {
+      "start_ms": 105759,
+      "duration_ms": 7841,
+      "text": "international tracking. And we made some"
+    },
+    {
+      "start_ms": 111520,
+      "duration_ms": 3520,
+      "text": "assumptions that it would be okay to put"
+    },
+    {
+      "start_ms": 113600,
+      "duration_ms": 4000,
+      "text": "everything on a single page, all"
+    },
+    {
+      "start_ms": 115040,
+      "duration_ms": 5920,
+      "text": "visitors on one page. And then very"
+    },
+    {
+      "start_ms": 117600,
+      "duration_ms": 5600,
+      "text": "quickly became obvious that no, that was"
+    },
+    {
+      "start_ms": 120960,
+      "duration_ms": 3920,
+      "text": "harder for users to use. And we needed"
+    },
+    {
+      "start_ms": 123200,
+      "duration_ms": 4080,
+      "text": "to actually separate person level"
+    },
+    {
+      "start_ms": 124880,
+      "duration_ms": 5999,
+      "text": "visitors from company level visitors and"
+    },
+    {
+      "start_ms": 127280,
+      "duration_ms": 6480,
+      "text": "update that UI. It became"
+    },
+    {
+      "start_ms": 130879,
+      "duration_ms": 4881,
+      "text": "immediate like the very next day or same"
+    },
+    {
+      "start_ms": 133760,
+      "duration_ms": 4320,
+      "text": "day really when we rolled it out, the"
+    },
+    {
+      "start_ms": 135760,
+      "duration_ms": 3760,
+      "text": "feedback started coming in. Hey, I'm I I"
+    },
+    {
+      "start_ms": 138080,
+      "duration_ms": 3280,
+      "text": "Where did all the people go? I don't see"
+    },
+    {
+      "start_ms": 139520,
+      "duration_ms": 2960,
+      "text": "any people. What happened? Where did all"
+    },
+    {
+      "start_ms": 141360,
+      "duration_ms": 3280,
+      "text": "the people go? And we're like, well,"
+    },
+    {
+      "start_ms": 142480,
+      "duration_ms": 5360,
+      "text": "there's still people. It's just you're"
+    },
+    {
+      "start_ms": 144640,
+      "duration_ms": 6560,
+      "text": "getting four company level visitors for"
+    },
+    {
+      "start_ms": 147840,
+      "duration_ms": 5679,
+      "text": "every one person or five or six, 10 if"
+    },
+    {
+      "start_ms": 151200,
+      "duration_ms": 5119,
+      "text": "you've got international. So, you could"
+    },
+    {
+      "start_ms": 153519,
+      "duration_ms": 5360,
+      "text": "go a page or two without seeing a person"
+    },
+    {
+      "start_ms": 156319,
+      "duration_ms": 4801,
+      "text": "level visitor because so many company"
+    },
+    {
+      "start_ms": 158879,
+      "duration_ms": 4161,
+      "text": "level visitors were coming in. And it"
+    },
+    {
+      "start_ms": 161120,
+      "duration_ms": 3600,
+      "text": "gave people the impression that their"
+    },
+    {
+      "start_ms": 163040,
+      "duration_ms": 4000,
+      "text": "service had actually stopped working and"
+    },
+    {
+      "start_ms": 164720,
+      "duration_ms": 3519,
+      "text": "that we were giving them bad profiles"
+    },
+    {
+      "start_ms": 167040,
+      "duration_ms": 7199,
+      "text": "and they're like, \"No, no, no, brand new"
+    },
+    {
+      "start_ms": 168239,
+      "duration_ms": 8801,
+      "text": "feature.\" So, we separated it. And that"
+    },
+    {
+      "start_ms": 174239,
+      "duration_ms": 4881,
+      "text": "feedback from users was instantaneous"
+    },
+    {
+      "start_ms": 177040,
+      "duration_ms": 4960,
+      "text": "and we we knew that we made a whoopsie"
+    },
+    {
+      "start_ms": 179120,
+      "duration_ms": 4720,
+      "text": "and needed to go update it. And"
+    },
+    {
+      "start_ms": 182000,
+      "duration_ms": 4319,
+      "text": "now, again, no problems. It's totally"
+    },
+    {
+      "start_ms": 183840,
+      "duration_ms": 5360,
+      "text": "understandable. It's very clear. So"
+    },
+    {
+      "start_ms": 186319,
+      "duration_ms": 4401,
+      "text": "getting that feedback right then from"
+    },
+    {
+      "start_ms": 189200,
+      "duration_ms": 3759,
+      "text": "users"
+    },
+    {
+      "start_ms": 190720,
+      "duration_ms": 6320,
+      "text": "and going, \"Hey guys, we need to make"
+    },
+    {
+      "start_ms": 192959,
+      "duration_ms": 7920,
+      "text": "this change. Let's go do it.\" was super"
+    },
+    {
+      "start_ms": 197040,
+      "duration_ms": 6080,
+      "text": "valuable. Um there's been lots of those"
+    },
+    {
+      "start_ms": 200879,
+      "duration_ms": 3841,
+      "text": "uh examples over the course, but that"
+    },
+    {
+      "start_ms": 203120,
+      "duration_ms": 6160,
+      "text": "was the most recent and biggest one."
+    },
+    {
+      "start_ms": 204720,
+      "duration_ms": 6000,
+      "text": ">> So the the one way to improve the the"
+    },
+    {
+      "start_ms": 209280,
+      "duration_ms": 5360,
+      "text": "whole thing we're trying to do here is"
+    },
+    {
+      "start_ms": 210720,
+      "duration_ms": 7120,
+      "text": "eliminate tickets, right? So um one way"
+    },
+    {
+      "start_ms": 214640,
+      "duration_ms": 5519,
+      "text": "to eliminate tickets is to revise an"
+    },
+    {
+      "start_ms": 217840,
+      "duration_ms": 3840,
+      "text": "answer to a question specifically to"
+    },
+    {
+      "start_ms": 220159,
+      "duration_ms": 4961,
+      "text": "make it perfect. Another way to"
+    },
+    {
+      "start_ms": 221680,
+      "duration_ms": 5520,
+      "text": "eliminate tickets is just fix your UI so"
+    },
+    {
+      "start_ms": 225120,
+      "duration_ms": 4960,
+      "text": "that the tickets don't happen. Right?"
+    },
+    {
+      "start_ms": 227200,
+      "duration_ms": 7200,
+      "text": "Then another way is to write articles."
+    },
+    {
+      "start_ms": 230080,
+      "duration_ms": 5840,
+      "text": "And I think a great way to figure out"
+    },
+    {
+      "start_ms": 234400,
+      "duration_ms": 3440,
+      "text": "whether or not you should write an"
+    },
+    {
+      "start_ms": 235920,
+      "duration_ms": 5599,
+      "text": "article if you're starting from a very"
+    },
+    {
+      "start_ms": 237840,
+      "duration_ms": 5920,
+      "text": "early point is if you're using Deli."
+    },
+    {
+      "start_ms": 241519,
+      "duration_ms": 5521,
+      "text": "There's these creativity settings,"
+    },
+    {
+      "start_ms": 243760,
+      "duration_ms": 5119,
+      "text": "right? If you set the creativity on"
+    },
+    {
+      "start_ms": 247040,
+      "duration_ms": 4160,
+      "text": "strict, and I think intercom has"
+    },
+    {
+      "start_ms": 248879,
+      "duration_ms": 5280,
+      "text": "something similar, right? If you set it"
+    },
+    {
+      "start_ms": 251200,
+      "duration_ms": 6400,
+      "text": "on strict and someone asks something"
+    },
+    {
+      "start_ms": 254159,
+      "duration_ms": 6241,
+      "text": "that the AI can't literally find written"
+    },
+    {
+      "start_ms": 257600,
+      "duration_ms": 4319,
+      "text": "in a document, it returns an answer,"
+    },
+    {
+      "start_ms": 260400,
+      "duration_ms": 3120,
+      "text": "something to the effect of, I don't have"
+    },
+    {
+      "start_ms": 261919,
+      "duration_ms": 3601,
+      "text": "the information for this. Email"
+    },
+    {
+      "start_ms": 263520,
+      "duration_ms": 4399,
+      "text": "robb.com."
+    },
+    {
+      "start_ms": 265520,
+      "duration_ms": 5040,
+      "text": "We when we used Delphi, we left it on we"
+    },
+    {
+      "start_ms": 267919,
+      "duration_ms": 4321,
+      "text": "left that studying on strict for a month"
+    },
+    {
+      "start_ms": 270560,
+      "duration_ms": 3840,
+      "text": "to just see where the holes in our"
+    },
+    {
+      "start_ms": 272240,
+      "duration_ms": 3280,
+      "text": "documentation are and it's an amazing"
+    },
+    {
+      "start_ms": 274400,
+      "duration_ms": 2720,
+      "text": "way to find the holes in your"
+    },
+    {
+      "start_ms": 275520,
+      "duration_ms": 3840,
+      "text": "documentation. So that's the"
+    },
+    {
+      "start_ms": 277120,
+      "duration_ms": 4720,
+      "text": "recommendation. Start out, put your"
+    },
+    {
+      "start_ms": 279360,
+      "duration_ms": 4480,
+      "text": "settings on strict, let the AI tell you"
+    },
+    {
+      "start_ms": 281840,
+      "duration_ms": 4240,
+      "text": "it doesn't know and then create"
+    },
+    {
+      "start_ms": 283840,
+      "duration_ms": 4799,
+      "text": "documentation to fill that hole. Then"
+    },
+    {
+      "start_ms": 286080,
+      "duration_ms": 4000,
+      "text": "eventually the number of the AI saying"
+    },
+    {
+      "start_ms": 288639,
+      "duration_ms": 3761,
+      "text": "it doesn't know is going to go down to"
+    },
+    {
+      "start_ms": 290080,
+      "duration_ms": 5760,
+      "text": "where it's almost nothing. And then you"
+    },
+    {
+      "start_ms": 292400,
+      "duration_ms": 5359,
+      "text": "can put it on this more adaptive setting"
+    },
+    {
+      "start_ms": 295840,
+      "duration_ms": 3600,
+      "text": "and then it can start it it it never"
+    },
+    {
+      "start_ms": 297759,
+      "duration_ms": 3201,
+      "text": "says that it can it can answer questions"
+    },
+    {
+      "start_ms": 299440,
+      "duration_ms": 3520,
+      "text": "about virtually anything. Somebody asked"
+    },
+    {
+      "start_ms": 300960,
+      "duration_ms": 4080,
+      "text": "me about Nightrider the show the other"
+    },
+    {
+      "start_ms": 302960,
+      "duration_ms": 4799,
+      "text": "day and kit the car and it gave it like"
+    },
+    {
+      "start_ms": 305040,
+      "duration_ms": 5040,
+      "text": "an amazing answer. Right. But but that's"
+    },
+    {
+      "start_ms": 307759,
+      "duration_ms": 5361,
+      "text": "that that's my recommendation for how to"
+    },
+    {
+      "start_ms": 310080,
+      "duration_ms": 6080,
+      "text": "decide what when to write an article and"
+    },
+    {
+      "start_ms": 313120,
+      "duration_ms": 4480,
+      "text": "when to just revise an answer. Right?"
+    },
+    {
+      "start_ms": 316160,
+      "duration_ms": 2720,
+      "text": "You want to revise an answer if it's"
+    },
+    {
+      "start_ms": 317600,
+      "duration_ms": 3120,
+      "text": "reading your documentation and getting"
+    },
+    {
+      "start_ms": 318880,
+      "duration_ms": 3680,
+      "text": "it wrong. You want to write an article"
+    },
+    {
+      "start_ms": 320720,
+      "duration_ms": 3440,
+      "text": "if there's no documentation at all and"
+    },
+    {
+      "start_ms": 322560,
+      "duration_ms": 3520,
+      "text": "it's trying to go out to the internet to"
+    },
+    {
+      "start_ms": 324160,
+      "duration_ms": 5960,
+      "text": "figure out what to tell your users."
+    },
+    {
+      "start_ms": 326080,
+      "duration_ms": 4040,
+      "text": "That's not what you want, right?"
+    }
+  ]
+}

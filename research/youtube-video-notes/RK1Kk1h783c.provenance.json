@@ -1,0 +1,13 @@
+{
+  "id": "RK1Kk1h783c",
+  "source_sha256": "388c106a27a5520770d8b68655b236d26e289d48fb49d9e39dce8f03b4691967",
+  "source_characters": 74391,
+  "source_word_count": 11034,
+  "prompt_sha256": "e6265c355706f60c48542f24d11a6dcc22ed818514c30a5900b32ad74730aed4",
+  "started_at": "2026-09-08T09:02:58.870145+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.md",
+  "pid": 28354,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:08:28.327810+00:00"
+}

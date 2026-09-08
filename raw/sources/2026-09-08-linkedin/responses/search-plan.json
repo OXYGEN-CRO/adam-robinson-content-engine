@@ -1,0 +1,107 @@
+{
+  "ok": true,
+  "data": {
+    "id": "search_plan_jrbpat",
+    "goal": "Collect the latest 200 public LinkedIn posts from Adam Robinson at https://www.linkedin.com/in/retentionadam using scraper.linkedin_profile_posts exclusively with pagination, preserving text, author, dates, URLs, and all metadata.",
+    "kind": "source_specific_scrape",
+    "recommended_route_id": "source_specific_scrape",
+    "routes": [
+      {
+        "id": "source_specific_scrape",
+        "kind": "source_specific_scrape",
+        "label": "Source-specific scrape",
+        "description": "Use a specialized adapter for a known source such as LinkedIn posts or source-specific web data.",
+        "table_role": "pages",
+        "preflight": [
+          "Use source-specific adapters only when the target source is explicit.",
+          "Confirm the URL pattern and row scope before live execution.",
+          "Avoid public side effects; scraping is read-only but may still consume credits."
+        ],
+        "approval": {
+          "requires_live_approval": true,
+          "requires_max_credits": true,
+          "default_mode": "dry_run",
+          "default_page_cap": 1
+        },
+        "unavailable_provider_candidates": [],
+        "primary_tool_id": "brightdata.linkedin_posts_collect_by_url",
+        "provider_order": [
+          {
+            "tool_id": "brightdata.linkedin_posts_collect_by_url",
+            "role": "primary",
+            "use_for": "Collect LinkedIn post data from known post URLs.",
+            "position": 1,
+            "status": "available"
+          },
+          {
+            "tool_id": "brightdata.linkedin_posts_discover_by_company_url",
+            "role": "fallback",
+            "use_for": "Discover LinkedIn posts from a known company URL.",
+            "position": 2,
+            "status": "available"
+          },
+          {
+            "tool_id": "brightdata.linkedin_posts_discover_by_profile_url",
+            "role": "fallback",
+            "use_for": "Discover LinkedIn posts from a known profile URL.",
+            "position": 3,
+            "status": "available"
+          },
+          {
+            "tool_id": "firecrawl.scrape",
+            "role": "fallback",
+            "use_for": "Fallback for public source pages where a specialized adapter is not required.",
+            "position": 4,
+            "status": "available"
+          }
+        ],
+        "ingestion": {
+          "rows_path": "response.results",
+          "cursor_path": null,
+          "cursor_request_key": null,
+          "row_mapping": {
+            "url": "url",
+            "author_name": "author.name",
+            "text": "text",
+            "posted_at": "posted_at",
+            "source_payload": ""
+          },
+          "default_upsert_key": "url",
+          "default_max_pages": 1,
+          "tool_id": "brightdata.linkedin_posts_collect_by_url",
+          "tool_ids": [
+            "brightdata.linkedin_posts_collect_by_url",
+            "brightdata.linkedin_posts_discover_by_company_url",
+            "brightdata.linkedin_posts_discover_by_profile_url",
+            "firecrawl.scrape"
+          ]
+        }
+      }
+    ],
+    "clarification": null,
+    "missing_connections": [],
+    "needs_connection": false,
+    "operating_rules": [
+      "Plan first, inspect the selected tool descriptor, then run a bounded dry-run or one-page pilot.",
+      "Use live execution only with explicit max_credits and page/row caps.",
+      "Write provider output into a workspace table and inspect run/provenance before enrichment or outbound.",
+      "Use known-URL scrape routes when URLs are already known; use web search only to discover unknown URLs."
+    ],
+    "verification_commands": [
+      "oxygen search plan --goal <goal> --kind <kind> --json",
+      "oxygen search run <table> --plan <plan.json> --route <route_id> --request-json '<provider_request>' --mode dry_run --json",
+      "oxygen search run <table> --plan <plan.json> --route <route_id> --request-json '<provider_request>' --mode live --max-credits <n> --json",
+      "oxygen search runs get <run_id> --json"
+    ],
+    "metadata": {
+      "generated_at": "2026-09-08T07:39:38.652Z",
+      "mode": "deterministic",
+      "live_provider_calls": false
+    }
+  },
+  "meta": {
+    "command": "search plan",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

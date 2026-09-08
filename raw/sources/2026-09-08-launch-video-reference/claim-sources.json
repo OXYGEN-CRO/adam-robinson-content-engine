@@ -1,0 +1,36 @@
+{
+  "checked_date": "2026-09-08",
+  "method": "Read current first-party web pages with the web tool; these are bounded paraphrases, not full page snapshots.",
+  "claims": [
+    {
+      "id": "moltsets-offer",
+      "url": "https://moltsets.com/pricing/",
+      "finding": "Advertises paid access from $27/month, closed-beta signup, core enrichment plans subject to fair use and separately allocated mobile-phone tokens. Launch offer remains a user decision."
+    },
+    {
+      "id": "moltsets-mcp",
+      "url": "https://developer.moltsets.com/integrations/moltsets-mcp",
+      "finding": "Documents Claude Code integration and bulk business-email enrichment from LinkedIn URLs. Billing section still describes regular per-tool tokens plus separate phone tokens; reconcile with flat-price marketing before absolute no-credit copy."
+    },
+    {
+      "id": "moltsets-limits",
+      "url": "https://developer.moltsets.com/getting-started/rate-limits",
+      "finding": "Documents per-key five-hour and weekly record/request allowances. Published $27 enrichment allowance is 1k records per five hours, 5k records per week, and 5k requests per five hours."
+    },
+    {
+      "id": "clay-credits",
+      "url": "https://www.clay.com/pricing",
+      "finding": "Separates Data Credits for marketplace data from Actions for platform work. Bringing provider API keys avoids Clay Data Credit costs but still uses Actions. Do not imply all usage incurs the same kind of credit."
+    },
+    {
+      "id": "apollo-credits",
+      "url": "https://www.apollo.io/pricing",
+      "finding": "FAQ describes export credits for contact exports outside Apollo, including CSV/CRM/Person API examples, and says new and legacy credit systems coexist. No claim about every feature being credit-based."
+    },
+    {
+      "id": "claude-costs",
+      "url": "https://code.claude.com/docs/en/costs",
+      "finding": "Documents token/API costs and subscription-included usage. Claude access/usage is separate from the MoltSets data offer; do not imply it is bundled."
+    }
+  ]
+}

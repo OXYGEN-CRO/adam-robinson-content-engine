@@ -1,0 +1,28 @@
+{
+  "host": "https://dev.oxygen-agent.com",
+  "workspace": "RB2B",
+  "workspace_id": "9ef2c28f-4021-4e21-881b-5af6a5213350",
+  "table_id": "6f0691cb-161b-41ec-8de7-afa083d9028c",
+  "method": "Read-only cursor-paginated table export; no new scrape or paid provider run",
+  "pages": [
+    {
+      "command": [
+        "oxygen-dev",
+        "--org",
+        "9ef2c28f-4021-4e21-881b-5af6a5213350",
+        "tables",
+        "query",
+        "6f0691cb-161b-41ec-8de7-afa083d9028c",
+        "--limit",
+        "1000",
+        "--json"
+      ],
+      "started_at": "2026-09-08T12:32:38.976682+00:00",
+      "finished_at": "2026-09-08T12:32:40.679635+00:00",
+      "response_path": "raw/sources/2026-09-08-linkedin-rb2b/responses/posts-page-001.json",
+      "rows": 979,
+      "total_count": 979,
+      "has_more": false
+    }
+  ]
+}

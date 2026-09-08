@@ -1,0 +1,485 @@
+{
+  "corrections": [
+    {
+      "video_id": "p5fyQaRE7ao",
+      "reviewed_at": "2026-09-08",
+      "kind": "metadata_clarification",
+      "field": "tensions_and_corrections",
+      "original": "The canonical metadata gives release time 2025-06-24T19:04:47+00:00, while the transcript header says Published: 20250625. Preserve the metadata timestamp and flag the header discrepancy; neither establishes the precise recording date.",
+      "replacement": "Reviewed metadata clarification: the captured record has distinct release and upload fields. release_date=20250624 and release_timestamp=2025-06-24T19:04:47+00:00; upload_date=20250625 and timestamp=2025-06-25T08:15:46+00:00; was_live=true. The selection uses the release timestamp, while the raw transcript header reproduces upload_date. The differing labels do not make the chosen release date internally inconsistent. They do not independently establish when every spoken segment was recorded.",
+      "note_file_sha256": "fcd43d94fda1b91a40c15093cca5fed30d56bb005181c69b444dd13bd5f6c02f",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/p5fyQaRE7ao/p5fyQaRE7ao.info.json",
+      "evidence_sha256": "285d3373232a785629f3413d4fa439ee474d5edc67cd16832b52f7e2a48bf0d5",
+      "source_fields": {
+        "release_date": "20250624",
+        "release_timestamp": 1750791887,
+        "upload_date": "20250625",
+        "timestamp": 1750839346,
+        "was_live": true
+      }
+    },
+    {
+      "video_id": "_ZK7wgkHuG4",
+      "reviewed_at": "2026-09-08",
+      "kind": "metadata_clarification",
+      "field": "tensions_and_corrections",
+      "original": "Publication metadata conflicts: SOURCE_METADATA gives 2025-06-17T19:02:36+00:00, while the transcript header says 20250618. The output preserves the explicit UTC metadata; neither date establishes the recording date.",
+      "replacement": "Reviewed metadata clarification: the captured record has distinct release and upload fields. release_date=20250617 and release_timestamp=2025-06-17T19:02:36+00:00; upload_date=20250618 and timestamp=2025-06-18T08:06:58+00:00; was_live=true. The selection uses the release timestamp, while the raw transcript header reproduces upload_date. The differing labels do not make the chosen release date internally inconsistent. They do not independently establish when every spoken segment was recorded.",
+      "note_file_sha256": "8b947d83aa42f8d13e4f3b65978e567a33f70c0ca8f0534490dfd39ecf9ab607",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/_ZK7wgkHuG4/_ZK7wgkHuG4.info.json",
+      "evidence_sha256": "aa7dc973b5674672538bf8998c1591dd5623f79b7ce17e647e09dc179c9ff726",
+      "source_fields": {
+        "release_date": "20250617",
+        "release_timestamp": 1750186956,
+        "upload_date": "20250618",
+        "timestamp": 1750234018,
+        "was_live": true
+      }
+    },
+    {
+      "video_id": "HIuvLo23R2M",
+      "reviewed_at": "2026-09-08",
+      "kind": "metadata_clarification",
+      "field": "tensions_and_corrections",
+      "original": "Publication metadata specifies 2025-06-10T19:00:56+00:00, while the transcript header says Published: 20250611. The metadata timestamp is preserved; the discrepancy is unresolved and neither establishes the recording date.",
+      "replacement": "Reviewed metadata clarification: the captured record has distinct release and upload fields. release_date=20250610 and release_timestamp=2025-06-10T19:00:56+00:00; upload_date=20250611 and timestamp=2025-06-11T08:05:38+00:00; was_live=true. The selection uses the release timestamp, while the raw transcript header reproduces upload_date. The differing labels do not make the chosen release date internally inconsistent. They do not independently establish when every spoken segment was recorded.",
+      "note_file_sha256": "ae0e4f34cc49b202bf22d1bdc368fe5fa4b551716d884fba66f42d25d9bce99c",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/HIuvLo23R2M/HIuvLo23R2M.info.json",
+      "evidence_sha256": "2a61c6da58fbe5ab30a2a2a080c3fbea701ac28ee32b39e41d7faeb46408c199",
+      "source_fields": {
+        "release_date": "20250610",
+        "release_timestamp": 1749582056,
+        "upload_date": "20250611",
+        "timestamp": 1749629138,
+        "was_live": true
+      }
+    },
+    {
+      "video_id": "_ZK7wgkHuG4",
+      "reviewed_at": "2026-09-08",
+      "kind": "metadata_clarification",
+      "field": "coverage.limitations",
+      "original": "Recording date is unspecified, and publication dates conflict between metadata fields. Relative dates remain relative rather than being converted into exact event dates.",
+      "replacement": "Recording date is unspecified. The captured release and upload dates are separate metadata fields, as explained in the reviewed clarification above; they do not create an unresolved conflict in the selected release date. Relative dates remain relative rather than being converted into exact event dates.",
+      "note_file_sha256": "8b947d83aa42f8d13e4f3b65978e567a33f70c0ca8f0534490dfd39ecf9ab607",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/_ZK7wgkHuG4/_ZK7wgkHuG4.info.json",
+      "evidence_sha256": "aa7dc973b5674672538bf8998c1591dd5623f79b7ce17e647e09dc179c9ff726",
+      "source_fields": {
+        "release_date": "20250617",
+        "release_timestamp": 1750186956,
+        "upload_date": "20250618",
+        "timestamp": 1750234018,
+        "was_live": true
+      }
+    },
+    {
+      "video_id": "RK1Kk1h783c",
+      "reviewed_at": "2026-09-08T09:20:10.125240+00:00",
+      "kind": "attribution_clarification",
+      "field": "key_learnings.31",
+      "original": {
+        "claim": "Jesse closes by putting inbox placement ahead of subject-line optimization and uses a familiar sender to illustrate that sender recognition can outweigh the wording of the subject.",
+        "start_timestamp": "00:52:52",
+        "end_timestamp": "00:53:18",
+        "speaker": "Jesse Ouellette, inferred from the closing exchange",
+        "claim_type": "guest_statement",
+        "pillar": "go-to-market",
+        "caveat": "The familiar person's identity is misheard in captions. The source cuts off before Jesse finishes naming the second-most-important factor."
+      },
+      "replacement": {
+        "claim": "A repeated outro teaser puts inbox delivery before subject-line optimization and uses a familiar sender to illustrate that sender recognition can outweigh the subject wording.",
+        "start_timestamp": "00:52:52",
+        "end_timestamp": "00:53:18",
+        "speaker": "Unidentified speaker in a repeated outro teaser",
+        "claim_type": "uncertain_speaker",
+        "pillar": "go-to-market",
+        "caveat": "The teaser follows the interview goodbye and also appears after the Andy Mewborn and Tom Hunt conversations. Caption text does not identify its speaker. The familiar person is misheard, and the teaser cuts off before the second factor is complete; do not attribute it to Jesse or supply the missing ending."
+      },
+      "note_file_sha256": "bbc70a99d39fce83028067a9a14f0853eee1a5cdfca6a11cf50e20d5a5be5f90",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json",
+      "evidence_sha256": "6846faf6f81cdacd6fdf66259d1e3b0abf54d4780f8849bde34b7537e9774e37",
+      "supporting_evidence": [
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.transcript.json",
+          "sha256": "03b6a13a99e16682d81471ae5018e0f8c0a14a66c43142251c60321ad1d4cb90"
+        },
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/M0VvUsyJQ-M/M0VvUsyJQ-M.transcript.json",
+          "sha256": "1289561a0e3a93138d57a11493aa30b4d1c96c65694a09706640d20afce199b2"
+        }
+      ],
+      "reason": "Direct caption comparison: Jesse farewell at 52:47.359–52:52.480, repeated teaser follows through53:18.319; the same text follows the Andy farewell at18:00.480–18:24.720 and Tom ending at53:01.920–53:26.400. This is a separate repeated outro, not reliably Jesse’s final answer."
+    },
+    {
+      "video_id": "RK1Kk1h783c",
+      "reviewed_at": "2026-09-08T09:20:10.126789+00:00",
+      "kind": "attribution_clarification",
+      "field": "summary",
+      "original": "The discussion centers on the interaction between email deliverability, recipient relevance and the economics of a target market. Jesse argues that enterprise security and spam complaints can defeat otherwise good copy, while Adam emphasizes giving recipients a compelling reason to stop and respond. A live review of Joel's vendor-management outreach develops concrete recommendations around hiring and technology signals, buyer incentives, calls to action and supporting founder content. Other substantial topics include Charm.io's vertical data product, Jesse's lean AI-assisted SaaS operation, his founder WhatsApp community and prompting practices. The final answer is cut off mid-sentence. This is internal research context, with no clearance for reuse in public copy.",
+      "replacement": "The discussion centers on the interaction between email deliverability, recipient relevance and the economics of a target market. Jesse argues that enterprise security and spam complaints can defeat otherwise good copy, while Adam emphasizes giving recipients a compelling reason to stop and respond. A live review of Joel's vendor-management outreach develops concrete recommendations around hiring and technology signals, buyer incentives, calls to action and supporting founder content. Other substantial topics include Charm.io's vertical data product, Jesse's lean AI-assisted SaaS operation, his founder WhatsApp community and prompting practices. A separate repeated outro teaser is cut off mid-sentence; its speaker is not identified from the captions. This is internal research context, with no clearance for reuse in public copy.",
+      "note_file_sha256": "bbc70a99d39fce83028067a9a14f0853eee1a5cdfca6a11cf50e20d5a5be5f90",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json",
+      "evidence_sha256": "6846faf6f81cdacd6fdf66259d1e3b0abf54d4780f8849bde34b7537e9774e37",
+      "supporting_evidence": [
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.transcript.json",
+          "sha256": "03b6a13a99e16682d81471ae5018e0f8c0a14a66c43142251c60321ad1d4cb90"
+        },
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/M0VvUsyJQ-M/M0VvUsyJQ-M.transcript.json",
+          "sha256": "1289561a0e3a93138d57a11493aa30b4d1c96c65694a09706640d20afce199b2"
+        }
+      ],
+      "reason": "Direct caption comparison: Jesse farewell at 52:47.359–52:52.480, repeated teaser follows through53:18.319; the same text follows the Andy farewell at18:00.480–18:24.720 and Tom ending at53:01.920–53:26.400. This is a separate repeated outro, not reliably Jesse’s final answer."
+    },
+    {
+      "video_id": "RK1Kk1h783c",
+      "reviewed_at": "2026-09-08T09:20:10.127176+00:00",
+      "kind": "attribution_clarification",
+      "field": "tensions_and_corrections",
+      "original": "The source ends at 00:53:18 in the middle of Jesse's ranking of email priorities. His unfinished second factor cannot be supplied by inference.",
+      "replacement": "The source ends at 00:53:18 in a repeated outro teaser that also follows other interviews. Its speaker is unidentified from the captions, so the ranking is not safely attributable to Jesse. The unfinished second factor cannot be supplied by inference.",
+      "note_file_sha256": "bbc70a99d39fce83028067a9a14f0853eee1a5cdfca6a11cf50e20d5a5be5f90",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.transcript.json",
+      "evidence_sha256": "6846faf6f81cdacd6fdf66259d1e3b0abf54d4780f8849bde34b7537e9774e37",
+      "supporting_evidence": [
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.transcript.json",
+          "sha256": "03b6a13a99e16682d81471ae5018e0f8c0a14a66c43142251c60321ad1d4cb90"
+        },
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/M0VvUsyJQ-M/M0VvUsyJQ-M.transcript.json",
+          "sha256": "1289561a0e3a93138d57a11493aa30b4d1c96c65694a09706640d20afce199b2"
+        }
+      ],
+      "reason": "Direct caption comparison: Jesse farewell at 52:47.359–52:52.480, repeated teaser follows through53:18.319; the same text follows the Andy farewell at18:00.480–18:24.720 and Tom ending at53:01.920–53:26.400. This is a separate repeated outro, not reliably Jesse’s final answer."
+    },
+    {
+      "video_id": "meZrgsAZWos",
+      "reviewed_at": "2026-09-08T09:20:10.128513+00:00",
+      "kind": "attribution_clarification",
+      "field": "metrics_and_dates.16",
+      "original": {
+        "claim": "Mailchimp comparison: Adam recalls approximately eight years, framed as 2001–2009, to reach $1 million ARR, followed about five years later by '100 million' with one engineer.",
+        "start_timestamp": "00:32:11",
+        "end_timestamp": "00:32:32",
+        "speaker": "Adam Robinson, responding to Nathan Barry",
+        "claim_type": "adam_self_report",
+        "pillar": "SaaS building",
+        "caveat": "Adam's secondhand recollection, reportedly from a co-founder; these are not Adam-company achievements. The later 100-million figure's unit is not restated, and the one-engineer scope is unclear. No silent correction or external verification."
+      },
+      "replacement": {
+        "claim": "Mailchimp comparison: Adam recalls approximately eight years, framed as 2001–2009, to reach $1 million ARR, followed about five years later by '100 million' with one engineer.",
+        "start_timestamp": "00:32:11",
+        "end_timestamp": "00:32:32",
+        "speaker": "Adam Robinson — secondhand Mailchimp recollection, in an exchange with Nathan Barry",
+        "claim_type": "host_statement",
+        "pillar": "SaaS building",
+        "caveat": "Adam's secondhand recollection, reportedly from a co-founder; these are not Adam-company achievements. The later 100-million figure's unit is not restated, and the one-engineer scope is unclear. No silent correction or external verification."
+      },
+      "note_file_sha256": "63c69c282c63fbcd44c017e691e7387814eea3fa59bc884635ac9c925bad0101",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/meZrgsAZWos/meZrgsAZWos.transcript.json",
+      "evidence_sha256": "966e32930563cddda90f40805f9e18c8f37e9646d0d85088b025575a62a3cd65",
+      "supporting_evidence": [],
+      "reason": "Raw32:11–32:32 names Mailchimp and refers to a conversation with its co-founder. Preserve the existing secondhand/units/staffing caveat; classify this as a host report about another company, not Adam’s own company performance."
+    },
+    {
+      "video_id": "-GDzNq_R0b8",
+      "reviewed_at": "2026-09-08T09:22:04.684958+00:00",
+      "kind": "metadata_clarification",
+      "field": "tensions_and_corrections",
+      "original": "Publication metadata conflicts: SOURCE_METADATA gives 2025-05-27T19:02:25+00:00, while the transcript header says Published: 20250528. The structured published field preserves SOURCE_METADATA; neither establishes the recording date.",
+      "replacement": "Reviewed metadata clarification: the archived former livestream has release_date=20250527 and release_timestamp=2025-05-27T19:02:25+00:00, with a separate upload_date=20250528. The selection uses the release timestamp; the raw transcript header reproduces upload_date. These are distinct fields, not an unresolved conflict in the selected date. Neither independently establishes the recording date of every spoken segment.",
+      "note_file_sha256": "d8974a894136d1c72595737cc6c89ec7e0d180a9f86c424c262eee426d3fb545",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/-GDzNq_R0b8/-GDzNq_R0b8.info.json",
+      "evidence_sha256": "614d66f7b9bfa56e3468b9c6a6abcd7d67d7c5ae10e35ca1ef53122e8707d1ef",
+      "source_fields": {
+        "release_date": "20250527",
+        "release_timestamp": 1748372545,
+        "upload_date": "20250528",
+        "timestamp": 1748419509,
+        "was_live": true
+      }
+    },
+    {
+      "video_id": "meZrgsAZWos",
+      "reviewed_at": "2026-09-08T09:33:51.708156+00:00",
+      "kind": "public_use_clarification",
+      "field": "metrics_and_dates.0",
+      "original": {
+        "claim": "Retention.com domain acquisition: Adam reports an actual purchase price of $800,000 after expecting $400,000. Historical transaction; purchase date unspecified.",
+        "start_timestamp": "00:02:48",
+        "end_timestamp": "00:03:13",
+        "speaker": "Adam Robinson",
+        "claim_type": "adam_self_report",
+        "pillar": "go-to-market",
+        "caveat": "Self-reported domain cost, not company valuation, revenue or profit. Repeated at 00:05:27–00:06:15."
+      },
+      "replacement": {
+        "claim": "Retention.com domain acquisition: Adam reports an actual purchase price of $800,000 after expecting $400,000. Historical transaction; purchase date unspecified.",
+        "start_timestamp": "00:02:48",
+        "end_timestamp": "00:03:13",
+        "speaker": "Adam Robinson",
+        "claim_type": "adam_self_report",
+        "pillar": "go-to-market",
+        "caveat": "Self-reported domain cost, not company valuation, revenue or profit. Repeated at 00:05:27–00:06:15. At 00:06:13–00:06:25 Adam says he is not supposed to discuss the price; the public-use boundary for this detail is unclear. Keep it internal unless that boundary is resolved."
+      },
+      "note_file_sha256": "63c69c282c63fbcd44c017e691e7387814eea3fa59bc884635ac9c925bad0101",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/meZrgsAZWos/meZrgsAZWos.transcript.json",
+      "evidence_sha256": "966e32930563cddda90f40805f9e18c8f37e9646d0d85088b025575a62a3cd65",
+      "reason": "Parent directly read02:40–03:15,05:20–06:27 and06:32–10:23. At373.520–385.120 seconds Adam explicitly says he is not supposed to talk about the purchase price and discusses the likelihood of the seller finding his content. Do not infer exact contractual terms, but preserve the unresolved public-use boundary beside the historical metric."
+    },
+    {
+      "video_id": "Y63QI4BKEcg",
+      "reviewed_at": "2026-09-08T09:46:38.717120+00:00",
+      "kind": "attribution_clarification",
+      "field": "speakers_and_attribution",
+      "original": "Adam Robinson and co-host Pete interview Sam McKenna, founder of #samsales. An audience participant named Dave presents a closed-beta product apparently called Warmstart; captions render the name inconsistently. Sam supplies most sales methodologies, client results, career history and business metrics. Adam clearly discusses his concerns about automated personalization, lessons from unusually thorough work, and his company's leadership composition. Pete appears to handle several transitions, audience questions and promotional announcements, but some host turns cannot be confidently distinguished from Adam without audio. The opening is a teaser montage, and the final passage returns to Sam discussing a LinkedIn post. Attribution below follows conversational cues and flags ambiguous host turns. Names and figures remain unverified automatic-caption data.",
+      "replacement": "Adam Robinson and co-host Pete interview Sam McKenna, founder of #samsales. An audience participant named Dave presents a closed-beta product apparently called Warmstart; captions render the name inconsistently. Sam supplies most sales methodologies, client results, career history and business metrics. Adam clearly discusses his concerns about automated personalization, lessons from unusually thorough work, and his company's leadership composition. Pete appears to handle several transitions, audience questions and promotional announcements, but some host turns cannot be confidently distinguished from Adam without audio. The opening is a teaser montage. After the interview goodbye, the final passage appends an Eric Siu clip about his own LinkedIn post, matched to his fuller conversation in 89Jl-njDguM; it is not Sam returning to her post. Attribution below follows conversational cues and flags ambiguous host turns. Names and figures remain unverified automatic-caption data.",
+      "note_file_sha256": "78b4259883303c8f7763a259c5e1cfa548262f583222eabf4c176724e67ad257",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/Y63QI4BKEcg/Y63QI4BKEcg.transcript.json",
+      "evidence_sha256": "cebad02357627cae05486c74b1c1cbe0df66ff54109d88f966c155f20ecf7cd5",
+      "supporting_evidence": [
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/89Jl-njDguM/89Jl-njDguM.transcript.json",
+          "sha256": "4dd34b81d8aaf75139f12891e60719cfbdc3d740bdd6700e68b41ce6a7f4ce19"
+        }
+      ],
+      "reason": "Direct raw comparison: Sam episode goodbye at56:44–56:51 precedes an appended clip through57:10. The same first-person post narrative and Eric Robinson joke appear in Eric Siu’s fuller conversation at34:22–34:46. These engagement figures belong to that Eric clip, not Sam or the earlier playbook post."
+    },
+    {
+      "video_id": "Y63QI4BKEcg",
+      "reviewed_at": "2026-09-08T09:46:38.717527+00:00",
+      "kind": "attribution_clarification",
+      "field": "metrics_and_dates.25",
+      "original": {
+        "claim": "Sam reports 841 comments and approximately 500 likes on a LinkedIn post she says she published the prior week.",
+        "start_timestamp": "00:56:53",
+        "end_timestamp": "00:57:10",
+        "speaker": "Sam McKenna",
+        "claim_type": "guest_statement",
+        "pillar": "go-to-market",
+        "caveat": "Guest post-engagement self-report at recording time. The exact post date and whether this is the earlier displayed playbook post are not established. Her comparison to Adam supplies no numerical Adam engagement benchmark."
+      },
+      "replacement": {
+        "claim": "In a separately appended clip, Eric Siu reports 841 comments and approximately 500 likes on a LinkedIn post he says he published the prior week.",
+        "start_timestamp": "00:56:53",
+        "end_timestamp": "00:57:10",
+        "speaker": "Eric Siu — separately appended outro clip",
+        "claim_type": "guest_statement",
+        "pillar": "go-to-market",
+        "caveat": "This is Eric’s post-engagement self-report, matched to his fuller 89Jl-njDguM conversation at34:22–34:46. The exact post date and identity remain unverified; the relative week belongs to that conversation. It is not Sam’s earlier displayed playbook post or a second independent campaign, and the comparison supplies no numerical Adam engagement benchmark."
+      },
+      "note_file_sha256": "78b4259883303c8f7763a259c5e1cfa548262f583222eabf4c176724e67ad257",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/Y63QI4BKEcg/Y63QI4BKEcg.transcript.json",
+      "evidence_sha256": "cebad02357627cae05486c74b1c1cbe0df66ff54109d88f966c155f20ecf7cd5",
+      "supporting_evidence": [
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/89Jl-njDguM/89Jl-njDguM.transcript.json",
+          "sha256": "4dd34b81d8aaf75139f12891e60719cfbdc3d740bdd6700e68b41ce6a7f4ce19"
+        }
+      ],
+      "reason": "Direct raw comparison: Sam episode goodbye at56:44–56:51 precedes an appended clip through57:10. The same first-person post narrative and Eric Robinson joke appear in Eric Siu’s fuller conversation at34:22–34:46. These engagement figures belong to that Eric clip, not Sam or the earlier playbook post."
+    },
+    {
+      "video_id": "EqXag_z2OpQ",
+      "reviewed_at": "2026-09-08T09:53:32.445314+00:00",
+      "kind": "attribution_clarification",
+      "field": "key_learnings.31",
+      "original": {
+        "claim": "Adam would generally prefer a smaller, more efficient team to outside financing that imposes repayment pressure or optimistic growth expectations. His experience considering debt for a co-founder buyout made him wary, while he still acknowledges that financing decisions are situational.",
+        "start_timestamp": "00:54:21",
+        "end_timestamp": "00:56:33",
+        "speaker": "Adam Robinson",
+        "claim_type": "adam_opinion",
+        "pillar": "bootstrapping versus VC",
+        "caveat": "He does not provide financing terms or a complete debt-versus-equity framework. The final comparison about existing organic distribution and a self-selling product ends mid-discussion."
+      },
+      "replacement": {
+        "claim": "Adam would generally prefer a smaller, more efficient team to outside financing that imposes repayment pressure or optimistic growth expectations. His experience considering debt for a co-founder buyout made him wary, while he still acknowledges that financing decisions are situational.",
+        "start_timestamp": "00:54:21",
+        "end_timestamp": "00:56:33",
+        "speaker": "Adam Robinson",
+        "claim_type": "adam_opinion",
+        "pillar": "bootstrapping versus VC",
+        "caveat": "He does not provide financing terms or a complete debt-versus-equity framework. The financing response ends around00:56:14. The remaining portion of this broad source range is a separately appended PLG montage matched to pcG_402qsp0; it is not evidence for the financing claim or a continuation of that answer."
+      },
+      "note_file_sha256": "15744457fd79995e2b07f8b8db6140df6d345484668653458b0cf93869e5f1be",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.transcript.json",
+      "evidence_sha256": "27a4f0a08ae5a880ba66ba941a7a3fef50ef362d9eb213770fd01b363d84da68",
+      "supporting_evidence": [
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/pcG_402qsp0/pcG_402qsp0.transcript.json",
+          "sha256": "8e8ee224cccec6acebf69defc99b6247a65511d5ff86cd72982b2af99fa2c390"
+        }
+      ],
+      "reason": "Directly read EqXag_z2OpQ55:00–56:33 and compared its appended56:14.480–56:33 montage to pcG_402qsp0 opening00:00–00:20 plus main07:35–08:05 and13:40–14:25. The PLG teaser reorders material from another conversation and is separate from Adam’s preceding financing answer."
+    },
+    {
+      "video_id": "EqXag_z2OpQ",
+      "reviewed_at": "2026-09-08T09:53:32.445906+00:00",
+      "kind": "attribution_clarification",
+      "field": "tensions_and_corrections",
+      "original": "The supplied transcript ends at 00:56:33 during an unfinished comparison about startup models, existing organic audiences and products that sell themselves.",
+      "replacement": "The supplied transcript ends at00:56:33 in a separately appended PLG montage, matched to the opening and reordered main passages of pcG_402qsp0. Distinguish it from Adam’s preceding financing answer; the excerpt does not establish a missing conclusion to that answer.",
+      "note_file_sha256": "15744457fd79995e2b07f8b8db6140df6d345484668653458b0cf93869e5f1be",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.transcript.json",
+      "evidence_sha256": "27a4f0a08ae5a880ba66ba941a7a3fef50ef362d9eb213770fd01b363d84da68",
+      "supporting_evidence": [
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/pcG_402qsp0/pcG_402qsp0.transcript.json",
+          "sha256": "8e8ee224cccec6acebf69defc99b6247a65511d5ff86cd72982b2af99fa2c390"
+        }
+      ],
+      "reason": "Directly read EqXag_z2OpQ55:00–56:33 and compared its appended56:14.480–56:33 montage to pcG_402qsp0 opening00:00–00:20 plus main07:35–08:05 and13:40–14:25. The PLG teaser reorders material from another conversation and is separate from Adam’s preceding financing answer."
+    },
+    {
+      "video_id": "EqXag_z2OpQ",
+      "reviewed_at": "2026-09-08T09:53:32.445966+00:00",
+      "kind": "attribution_clarification",
+      "field": "coverage.limitations",
+      "original": "Reviewed the entire supplied transcript, including the opening montage, presentation, middle Q&A and final financing discussion; no external sources or tools were used.",
+      "replacement": "The original reader received the entire supplied transcript and reported full review without external sources or tools. Reviewed structural clarification: the input contains the opening montage, presentation, middle Q&A, financing response and a separately appended PLG teaser.",
+      "note_file_sha256": "15744457fd79995e2b07f8b8db6140df6d345484668653458b0cf93869e5f1be",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.transcript.json",
+      "evidence_sha256": "27a4f0a08ae5a880ba66ba941a7a3fef50ef362d9eb213770fd01b363d84da68",
+      "supporting_evidence": [
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/pcG_402qsp0/pcG_402qsp0.transcript.json",
+          "sha256": "8e8ee224cccec6acebf69defc99b6247a65511d5ff86cd72982b2af99fa2c390"
+        }
+      ],
+      "reason": "Directly read EqXag_z2OpQ55:00–56:33 and compared its appended56:14.480–56:33 montage to pcG_402qsp0 opening00:00–00:20 plus main07:35–08:05 and13:40–14:25. The PLG teaser reorders material from another conversation and is separate from Adam’s preceding financing answer."
+    },
+    {
+      "video_id": "EqXag_z2OpQ",
+      "reviewed_at": "2026-09-08T09:53:32.446021+00:00",
+      "kind": "attribution_clarification",
+      "field": "coverage.limitations",
+      "original": "Metadata gives a duration of 3,396 seconds, but the final supplied caption begins at 00:56:33 and the text ends mid-discussion. No missing conclusion is inferred.",
+      "replacement": "Metadata gives a duration of3,396seconds and the final supplied caption begins at00:56:33. The file ends in a separate PLG teaser excerpt; its abrupt ending is not evidence that the preceding financing answer lacks a conclusion.",
+      "note_file_sha256": "15744457fd79995e2b07f8b8db6140df6d345484668653458b0cf93869e5f1be",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.transcript.json",
+      "evidence_sha256": "27a4f0a08ae5a880ba66ba941a7a3fef50ef362d9eb213770fd01b363d84da68",
+      "supporting_evidence": [
+        {
+          "path": "raw/sources/2026-09-08-youtube/videos/pcG_402qsp0/pcG_402qsp0.transcript.json",
+          "sha256": "8e8ee224cccec6acebf69defc99b6247a65511d5ff86cd72982b2af99fa2c390"
+        }
+      ],
+      "reason": "Directly read EqXag_z2OpQ55:00–56:33 and compared its appended56:14.480–56:33 montage to pcG_402qsp0 opening00:00–00:20 plus main07:35–08:05 and13:40–14:25. The PLG teaser reorders material from another conversation and is separate from Adam’s preceding financing answer."
+    },
+    {
+      "video_id": "fg4kNYt38FM",
+      "reviewed_at": "2026-09-08T10:13:49.696433+00:00",
+      "kind": "attribution_clarification",
+      "field": "metrics_and_dates.12",
+      "original": {
+        "claim": "Diana's sales experience: Adam first says she has taken sales from $1 million to $10 million as the only rep twice; near the end he describes this as $0 to $10 million ARR as the only rep twice.",
+        "start_timestamp": "00:24:32",
+        "end_timestamp": "00:53:39",
+        "speaker": "Adam Robinson",
+        "claim_type": "adam_self_report",
+        "pillar": "SaaS building",
+        "caveat": "Adam reporting a colleague's achievement, not his own. The starting point differs, and only the later version explicitly says ARR. Companies, dates and shared support are not specified."
+      },
+      "replacement": {
+        "claim": "Diana's sales experience: Adam first says she has taken sales from $1 million to $10 million as the only rep twice; near the end he describes this as $0 to $10 million ARR as the only rep twice.",
+        "start_timestamp": "00:24:32",
+        "end_timestamp": "00:53:39",
+        "speaker": "Adam Robinson",
+        "claim_type": "host_statement",
+        "pillar": "SaaS building",
+        "caveat": "Adam reporting a colleague's achievement, not his own. The starting point differs, and only the later version explicitly says ARR. Companies, dates and shared support are not specified."
+      },
+      "note_file_sha256": "697715a5f8aab3972b169b17deab9b068d4228ce2b768e8df0cc2eb31fc79610",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/fg4kNYt38FM/fg4kNYt38FM.transcript.json",
+      "evidence_sha256": "6cf176bdde9c459e9d3171900789b32a5288da59bb33197791dd421aa361e35f",
+      "reason": "Directly read 24:25–24:52 and 53:10–53:50. Adam reports Diana’s sales achievements, with differing starting amounts; this is a host report of another person’s results, as the original caveat already states."
+    },
+    {
+      "video_id": "xwidBsviGII",
+      "reviewed_at": "2026-09-08T10:13:49.697988+00:00",
+      "kind": "attribution_clarification",
+      "field": "metrics_and_dates.3",
+      "original": {
+        "claim": "Adam initially credits Diana as the only sales rep on two zero-to-$10 million journeys, then narrows the claim to two $1 million-to-$10 million journeys. Diana agrees with the narrowed version.",
+        "start_timestamp": "00:05:52",
+        "end_timestamp": "00:06:03",
+        "speaker": "Adam Robinson",
+        "claim_type": "adam_self_report",
+        "pillar": "go-to-market",
+        "caveat": "The passage does not explicitly specify ARR, dates or name both businesses. Nearby discussion suggests Maropost and GetEmails/retention.com. One sales rep is not one total employee and does not exclude engineering, support or prospecting assistance."
+      },
+      "replacement": {
+        "claim": "Adam initially credits Diana as the only sales rep on two zero-to-$10 million journeys, then narrows the claim to two $1 million-to-$10 million journeys. Diana agrees with the narrowed version.",
+        "start_timestamp": "00:05:52",
+        "end_timestamp": "00:06:03",
+        "speaker": "Adam Robinson",
+        "claim_type": "host_statement",
+        "pillar": "go-to-market",
+        "caveat": "The passage does not explicitly specify ARR, dates or name both businesses. Nearby discussion suggests Maropost and GetEmails/retention.com. One sales rep is not one total employee and does not exclude engineering, support or prospecting assistance."
+      },
+      "note_file_sha256": "747241822c68a7b7c88ec80babc6be14e0822c73ed7b7a8965dadf2fa3434b77",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/xwidBsviGII/xwidBsviGII.transcript.json",
+      "evidence_sha256": "9cf80e7d7859da37401bfe5cb42be0684058ff295a1a6f622164c3b6099d4bb0",
+      "reason": "Directly read 05:40–06:10. Adam describes Diana’s two sales journeys and narrows the starting amount. These are attributed colleague achievements across incompletely specified businesses, not an Adam-only company metric."
+    },
+    {
+      "video_id": "xwidBsviGII",
+      "reviewed_at": "2026-09-08T10:13:49.698727+00:00",
+      "kind": "attribution_clarification",
+      "field": "metrics_and_dates.8",
+      "original": {
+        "claim": "Adam estimates that Diana's LinkedIn post about the sales sheet received about 2,500 likes and prompted hundreds of requests for the sheet.",
+        "start_timestamp": "00:22:46",
+        "end_timestamp": "00:23:01",
+        "speaker": "Adam Robinson",
+        "claim_type": "adam_self_report",
+        "pillar": "building in public",
+        "caveat": "Approximate recollection about Diana's post, with no publication date or analytics evidence; these are not Adam's personal engagement metrics."
+      },
+      "replacement": {
+        "claim": "Adam estimates that Diana's LinkedIn post about the sales sheet received about 2,500 likes and prompted hundreds of requests for the sheet.",
+        "start_timestamp": "00:22:46",
+        "end_timestamp": "00:23:01",
+        "speaker": "Adam Robinson",
+        "claim_type": "host_statement",
+        "pillar": "building in public",
+        "caveat": "Approximate recollection about Diana's post, with no publication date or analytics evidence; these are not Adam's personal engagement metrics."
+      },
+      "note_file_sha256": "747241822c68a7b7c88ec80babc6be14e0822c73ed7b7a8965dadf2fa3434b77",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/xwidBsviGII/xwidBsviGII.transcript.json",
+      "evidence_sha256": "9cf80e7d7859da37401bfe5cb42be0684058ff295a1a6f622164c3b6099d4bb0",
+      "reason": "Directly read 22:30–23:10. Adam estimates likes and requests on Diana’s post; this is a host statement about another person’s engagement, as the original caveat already states."
+    },
+    {
+      "video_id": "KJbi0TPviRg",
+      "reviewed_at": "2026-09-08T10:27:38.320853+00:00",
+      "kind": "chronology_clarification",
+      "field": "backstory_and_values.3",
+      "original": {
+        "claim": "Adam says he shared an office with the people who founded Jasper for two years before they started Jasper AI, giving him an early view of what the software could produce.",
+        "start_timestamp": "00:33:24",
+        "end_timestamp": "00:34:12",
+        "speaker": "Adam Robinson",
+        "claim_type": "adam_self_report",
+        "pillar": "building in public",
+        "caveat": "Relative chronology only; this does not imply he was a Jasper founder, employee, or investor."
+      },
+      "replacement": {
+        "claim": "Adam says he was sharing an office with Jasper’s future founders roughly two years before Jasper AI began, giving him an early view of what the software could produce.",
+        "start_timestamp": "00:33:24",
+        "end_timestamp": "00:34:12",
+        "speaker": "Adam Robinson",
+        "claim_type": "adam_self_report",
+        "pillar": "building in public",
+        "caveat": "Relative chronology only; the duration of the shared-office arrangement is not established. This does not imply he was a Jasper founder, employee, or investor."
+      },
+      "note_file_sha256": "ebbf256e11a6fa574fa93453c0940a683a9ba9e11e50c82141056cc1f9c27715",
+      "evidence_path": "raw/sources/2026-09-08-youtube/videos/KJbi0TPviRg/KJbi0TPviRg.transcript.json",
+      "evidence_sha256": "9cc5f5390d1cddbb1497dd97ff1a17bb977c41ded73d29f457df8e5b53c5e37e",
+      "reason": "Directly read 33:15–34:10. At33:32.639–33:40.679 Adam says he was sharing an office two years before Jasper AI began; the original added “for,” incorrectly implying a two-year duration. Preserve the relative timing and leave the arrangement’s duration unknown."
+    }
+  ]
+}

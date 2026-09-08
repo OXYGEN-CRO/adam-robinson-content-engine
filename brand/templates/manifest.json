@@ -1,0 +1,79 @@
+[
+  {
+    "id": "cover",
+    "title": "Editorial cover",
+    "file": "templates/cover.html",
+    "width": 1080,
+    "height": 1350,
+    "transparent": false,
+    "duration": 4000,
+    "source": "templates/scenes.mjs",
+    "publicUse": "Design example, not approved copy"
+  },
+  {
+    "id": "quote",
+    "title": "Source quotation",
+    "file": "templates/quote.html",
+    "width": 1080,
+    "height": 1350,
+    "transparent": false,
+    "duration": 4000,
+    "source": "templates/scenes.mjs",
+    "publicUse": "Design example, not approved copy"
+  },
+  {
+    "id": "carousel-detail",
+    "title": "Carousel detail",
+    "file": "templates/carousel-detail.html",
+    "width": 1080,
+    "height": 1350,
+    "transparent": false,
+    "duration": 4000,
+    "source": "templates/scenes.mjs",
+    "publicUse": "Design example, not approved copy"
+  },
+  {
+    "id": "workflow",
+    "title": "Workflow / motion scene",
+    "file": "templates/workflow.html",
+    "width": 1920,
+    "height": 1080,
+    "transparent": false,
+    "duration": 4000,
+    "source": "templates/scenes.mjs",
+    "publicUse": "Design example, not approved copy"
+  },
+  {
+    "id": "lower-third",
+    "title": "Transparent lower third",
+    "file": "templates/lower-third.html",
+    "width": 1920,
+    "height": 1080,
+    "transparent": true,
+    "duration": 4000,
+    "source": "templates/scenes.mjs",
+    "publicUse": "Design example, not approved copy"
+  },
+  {
+    "id": "story",
+    "title": "Vertical title scene",
+    "file": "templates/story.html",
+    "width": 1080,
+    "height": 1920,
+    "transparent": false,
+    "duration": 4000,
+    "source": "templates/scenes.mjs",
+    "publicUse": "Design example, not approved copy"
+  },
+  {
+    "id": "scorecard",
+    "title": "Evidence / metric template",
+    "file": "templates/scorecard.html",
+    "width": 1080,
+    "height": 1080,
+    "transparent": false,
+    "duration": 4000,
+    "source": "templates/scenes.mjs",
+    "publicUse": "Design example, not approved copy"
+  }
+]

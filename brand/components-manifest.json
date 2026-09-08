@@ -1,0 +1,146 @@
+[
+  {
+    "id": "brand-lockup",
+    "title": "Brand lockup",
+    "note": "Original header capture; preserve aspect ratio.",
+    "file": "kit/components/brand-lockup.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "pixel-mark",
+    "title": "Pixel mark",
+    "note": "Original vector; optional compact attribution.",
+    "file": "kit/components/pixel-mark.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "eyebrow",
+    "title": "Eyebrow",
+    "note": "Short section context.",
+    "file": "kit/components/eyebrow.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "terminal-frame",
+    "title": "Terminal frame",
+    "note": "Source border and corners, larger spacing.",
+    "file": "kit/components/terminal-frame.html",
+    "width": 960,
+    "height": 320
+  },
+  {
+    "id": "status",
+    "title": "Status",
+    "note": "Always pair colour with a written state.",
+    "file": "kit/components/status.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "callout",
+    "title": "Callout",
+    "note": "Use for a thesis or brief implication.",
+    "file": "kit/components/callout.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "quote",
+    "title": "Quote",
+    "note": "A real short source line; not an Adam testimonial.",
+    "file": "kit/components/quote.html",
+    "width": 960,
+    "height": 380
+  },
+  {
+    "id": "metric",
+    "title": "Metric",
+    "note": "Placeholder only. Check identity/proof.md before use.",
+    "file": "kit/components/metric.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "numbered-step",
+    "title": "Numbered step",
+    "note": "A sequence, not decoration.",
+    "file": "kit/components/numbered-step.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "diagram-node",
+    "title": "Diagram node",
+    "note": "Use connectors only for a real relationship.",
+    "file": "kit/components/diagram-node.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "connector",
+    "title": "Connector",
+    "note": "Directional, square joins, visible arrowhead.",
+    "file": "kit/components/connector.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "code-panel",
+    "title": "Code panel",
+    "note": "Illustrative content is labelled.",
+    "file": "kit/components/code-panel.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "prompt",
+    "title": "Prompt",
+    "note": "Static by default; no infinite blinking.",
+    "file": "kit/components/prompt.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "cta",
+    "title": "CTA",
+    "note": "A placeholder action; use the actual brief.",
+    "file": "kit/components/cta.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "footer",
+    "title": "Footer",
+    "note": "Source or context + page index; no automatic personal signature.",
+    "file": "kit/components/footer.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "pixel-mascot",
+    "title": "Pixel mascot",
+    "note": "Seven original frames available for motion.",
+    "file": "kit/components/pixel-mascot.html",
+    "width": 960,
+    "height": 340
+  },
+  {
+    "id": "thinking-sprite",
+    "title": "Thinking sprite",
+    "note": "Seven original frames; deterministic timing in motion runtime.",
+    "file": "kit/components/thinking-sprite.html",
+    "width": 960,
+    "height": 280
+  },
+  {
+    "id": "lower-third",
+    "title": "Lower third",
+    "note": "Name/company supplied by user; no invented title.",
+    "file": "kit/components/lower-third.html",
+    "width": 960,
+    "height": 280
+  }
+]

@@ -1,0 +1,454 @@
+{
+  "video_id": "Wr1-CoTwg8s",
+  "title": "Why You Need a Troubleshooting Section",
+  "url": "https://www.youtube.com/watch?v=Wr1-CoTwg8s",
+  "upload_date": "20250730",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:41:56.274435+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/Wr1-CoTwg8s/Wr1-CoTwg8s.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 4080,
+      "duration_ms": 5360,
+      "text": "All right, troubleshooting. Let's get"
+    },
+    {
+      "start_ms": 6160,
+      "duration_ms": 6000,
+      "text": "into that. Um, troubleshooting. Usually"
+    },
+    {
+      "start_ms": 9440,
+      "duration_ms": 4560,
+      "text": "a user is working through an actual"
+    },
+    {
+      "start_ms": 12160,
+      "duration_ms": 4959,
+      "text": "problem, right? And they need to kind of"
+    },
+    {
+      "start_ms": 14000,
+      "duration_ms": 4560,
+      "text": "go through step by step. Some bots are"
+    },
+    {
+      "start_ms": 17119,
+      "duration_ms": 2881,
+      "text": "trying to resolve something as quickly"
+    },
+    {
+      "start_ms": 18560,
+      "duration_ms": 2879,
+      "text": "as possible. Maybe in the realm of"
+    },
+    {
+      "start_ms": 20000,
+      "duration_ms": 4000,
+      "text": "troubleshooting, they actually need to"
+    },
+    {
+      "start_ms": 21439,
+      "duration_ms": 4321,
+      "text": "walk through them step by step. So, how"
+    },
+    {
+      "start_ms": 24000,
+      "duration_ms": 3760,
+      "text": "do we handle troubleshooting?"
+    },
+    {
+      "start_ms": 25760,
+      "duration_ms": 3599,
+      "text": ">> Yeah. So"
+    },
+    {
+      "start_ms": 27760,
+      "duration_ms": 4479,
+      "text": "the way we're handling troubleshooting,"
+    },
+    {
+      "start_ms": 29359,
+      "duration_ms": 5360,
+      "text": "we it it depends on the subject. Um but"
+    },
+    {
+      "start_ms": 32239,
+      "duration_ms": 6480,
+      "text": "we've got some core troubleshooting"
+    },
+    {
+      "start_ms": 34719,
+      "duration_ms": 6401,
+      "text": "docs. We've got three or four um that"
+    },
+    {
+      "start_ms": 38719,
+      "duration_ms": 4641,
+      "text": "are common"
+    },
+    {
+      "start_ms": 41120,
+      "duration_ms": 4880,
+      "text": "issues that users might face in general,"
+    },
+    {
+      "start_ms": 43360,
+      "duration_ms": 5120,
+      "text": "login, no collection, etc. Um but then"
+    },
+    {
+      "start_ms": 46000,
+      "duration_ms": 6079,
+      "text": "there's also troubleshooting that"
+    },
+    {
+      "start_ms": 48480,
+      "duration_ms": 8559,
+      "text": "specific to uh script installation."
+    },
+    {
+      "start_ms": 52079,
+      "duration_ms": 7201,
+      "text": "There's um documents that give how to"
+    },
+    {
+      "start_ms": 57039,
+      "duration_ms": 4561,
+      "text": "troubleshoot specific errors that you"
+    },
+    {
+      "start_ms": 59280,
+      "duration_ms": 4320,
+      "text": "get using our script validation tool. So"
+    },
+    {
+      "start_ms": 61600,
+      "duration_ms": 4080,
+      "text": "when you run the validator, it will"
+    },
+    {
+      "start_ms": 63600,
+      "duration_ms": 4879,
+      "text": "check the script install and depending"
+    },
+    {
+      "start_ms": 65680,
+      "duration_ms": 5600,
+      "text": "on what it finds, it will show a certain"
+    },
+    {
+      "start_ms": 68479,
+      "duration_ms": 6161,
+      "text": "message on the screen and the"
+    },
+    {
+      "start_ms": 71280,
+      "duration_ms": 6560,
+      "text": "documentation for um those error"
+    },
+    {
+      "start_ms": 74640,
+      "duration_ms": 5760,
+      "text": "messages will teach the user exactly how"
+    },
+    {
+      "start_ms": 77840,
+      "duration_ms": 5680,
+      "text": "to resolve that specific issue and what"
+    },
+    {
+      "start_ms": 80400,
+      "duration_ms": 5039,
+      "text": "might be the cause. Um,"
+    },
+    {
+      "start_ms": 83520,
+      "duration_ms": 4639,
+      "text": "so ultimately it's their step-by-step"
+    },
+    {
+      "start_ms": 85439,
+      "duration_ms": 5441,
+      "text": "guides to common problems. So when"
+    },
+    {
+      "start_ms": 88159,
+      "duration_ms": 4721,
+      "text": "somebody faces problem A, it gives them,"
+    },
+    {
+      "start_ms": 90880,
+      "duration_ms": 3680,
+      "text": "you know, it addresses problem A and"
+    },
+    {
+      "start_ms": 92880,
+      "duration_ms": 3599,
+      "text": "then gives them the step-by-step guide"
+    },
+    {
+      "start_ms": 94560,
+      "duration_ms": 6400,
+      "text": "on how to resolve that and what to look"
+    },
+    {
+      "start_ms": 96479,
+      "duration_ms": 6960,
+      "text": "for and um the various nuances of each"
+    },
+    {
+      "start_ms": 100960,
+      "duration_ms": 4080,
+      "text": "of those problems. So like again that no"
+    },
+    {
+      "start_ms": 103439,
+      "duration_ms": 4801,
+      "text": "collection troubleshooting one there"
+    },
+    {
+      "start_ms": 105040,
+      "duration_ms": 6960,
+      "text": "could be a handful of reasons um"
+    },
+    {
+      "start_ms": 108240,
+      "duration_ms": 5199,
+      "text": "depending on is it no collection period"
+    },
+    {
+      "start_ms": 112000,
+      "duration_ms": 5439,
+      "text": "you haven't collected anything on your"
+    },
+    {
+      "start_ms": 113439,
+      "duration_ms": 8161,
+      "text": "site uh is your account offline did you"
+    },
+    {
+      "start_ms": 117439,
+      "duration_ms": 8481,
+      "text": "reach your cap is your trial over is is"
+    },
+    {
+      "start_ms": 121600,
+      "duration_ms": 7120,
+      "text": "your script still installed um those are"
+    },
+    {
+      "start_ms": 125920,
+      "duration_ms": 4559,
+      "text": "those are really common questions and we"
+    },
+    {
+      "start_ms": 128720,
+      "duration_ms": 2319,
+      "text": "try and troubleshoot through a lot of"
+    },
+    {
+      "start_ms": 130479,
+      "duration_ms": 2961,
+      "text": "that stuff"
+    },
+    {
+      "start_ms": 131039,
+      "duration_ms": 5601,
+      "text": ">> and And in my opinion, when you observe"
+    },
+    {
+      "start_ms": 133440,
+      "duration_ms": 6000,
+      "text": "the AI doing troubleshooting with a"
+    },
+    {
+      "start_ms": 136640,
+      "duration_ms": 7120,
+      "text": "user, it's one of the most magical"
+    },
+    {
+      "start_ms": 139440,
+      "duration_ms": 6080,
+      "text": "things that to watch because"
+    },
+    {
+      "start_ms": 143760,
+      "duration_ms": 4080,
+      "text": "for some reason, this is something, at"
+    },
+    {
+      "start_ms": 145520,
+      "duration_ms": 4560,
+      "text": "least in my mind, it's so closely linked"
+    },
+    {
+      "start_ms": 147840,
+      "duration_ms": 5440,
+      "text": "to a support rep helping someone out."
+    },
+    {
+      "start_ms": 150080,
+      "duration_ms": 6239,
+      "text": "Like in RBDB's case, I put the script on"
+    },
+    {
+      "start_ms": 153280,
+      "duration_ms": 5840,
+      "text": "and it's not working. Like Finn in"
+    },
+    {
+      "start_ms": 156319,
+      "duration_ms": 6401,
+      "text": "almost every case without Rob can get"
+    },
+    {
+      "start_ms": 159120,
+      "duration_ms": 5600,
+      "text": "their script activated. Unbelievable,"
+    },
+    {
+      "start_ms": 162720,
+      "duration_ms": 6320,
+      "text": "right? So like I think there's the the"
+    },
+    {
+      "start_ms": 164720,
+      "duration_ms": 7680,
+      "text": "the there is that version of everyone's"
+    },
+    {
+      "start_ms": 169040,
+      "duration_ms": 5279,
+      "text": "app. So have a troubleshooting section"
+    },
+    {
+      "start_ms": 172400,
+      "duration_ms": 3919,
+      "text": "specifically for that, right? Because"
+    },
+    {
+      "start_ms": 174319,
+      "duration_ms": 4321,
+      "text": "people respond well to lists like"
+    },
+    {
+      "start_ms": 176319,
+      "duration_ms": 4321,
+      "text": "they'll work with it like you know."
+    },
+    {
+      "start_ms": 178640,
+      "duration_ms": 4800,
+      "text": ">> I think the list too, Rob, does the list"
+    },
+    {
+      "start_ms": 180640,
+      "duration_ms": 5599,
+      "text": "help the bot like understand? And I mean"
+    },
+    {
+      "start_ms": 183440,
+      "duration_ms": 6240,
+      "text": "one I think this this article there's no"
+    },
+    {
+      "start_ms": 186239,
+      "duration_ms": 6961,
+      "text": "collection one is sort of written in the"
+    },
+    {
+      "start_ms": 189680,
+      "duration_ms": 5839,
+      "text": "uh uh it's written like in order from"
+    },
+    {
+      "start_ms": 193200,
+      "duration_ms": 4399,
+      "text": "what's the kind of the most most common"
+    },
+    {
+      "start_ms": 195519,
+      "duration_ms": 4561,
+      "text": "problem to be happening under the"
+    },
+    {
+      "start_ms": 197599,
+      "duration_ms": 4321,
+      "text": "umbrella of no collection and then you"
+    },
+    {
+      "start_ms": 200080,
+      "duration_ms": 3760,
+      "text": "very clearly line out the solution. The"
+    },
+    {
+      "start_ms": 201920,
+      "duration_ms": 4080,
+      "text": "bot knows to you know that that's the"
+    },
+    {
+      "start_ms": 203840,
+      "duration_ms": 4399,
+      "text": "solution and just the way it's"
+    },
+    {
+      "start_ms": 206000,
+      "duration_ms": 4080,
+      "text": "organized. I can see how that lends"
+    },
+    {
+      "start_ms": 208239,
+      "duration_ms": 3121,
+      "text": "itself to like someone going through a"
+    },
+    {
+      "start_ms": 210080,
+      "duration_ms": 3280,
+      "text": "troubleshoot. I mean a troubleshooting"
+    },
+    {
+      "start_ms": 211360,
+      "duration_ms": 3760,
+      "text": "is just a list. Is it X? Is it Y? Is it"
+    },
+    {
+      "start_ms": 213360,
+      "duration_ms": 4159,
+      "text": "Z? And you keep going until you find"
+    },
+    {
+      "start_ms": 215120,
+      "duration_ms": 4320,
+      "text": "what the thing is. So, I feel like you"
+    },
+    {
+      "start_ms": 217519,
+      "duration_ms": 4241,
+      "text": "wrote with that in mind."
+    },
+    {
+      "start_ms": 219440,
+      "duration_ms": 5120,
+      "text": ">> Yeah, I definitely did. It's really"
+    },
+    {
+      "start_ms": 221760,
+      "duration_ms": 5600,
+      "text": "they're kind of ordered in"
+    },
+    {
+      "start_ms": 224560,
+      "duration_ms": 7399,
+      "text": "the more likely the cause. Um,"
+    },
+    {
+      "start_ms": 227360,
+      "duration_ms": 4599,
+      "text": ">> yeah. Yeah. Yeah. Down to least likely."
+    }
+  ]
+}

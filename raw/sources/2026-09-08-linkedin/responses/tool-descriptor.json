@@ -1,0 +1,319 @@
+{
+  "ok": true,
+  "data": {
+    "tool": {
+      "tool_id": "scraper.linkedin_profile_posts",
+      "provider": "scraper",
+      "display_name": "Managed LinkedIn Scraper Linkedin Profile Posts",
+      "description": "List a person's recent LinkedIn posts (managed scraper, no connected account): text, engagement counts, and timestamps. Use as an outbound signal — reference what a prospect recently posted.",
+      "categories": [
+        "research"
+      ],
+      "input_schema": {
+        "type": "object",
+        "title": "Managed LinkedIn Scraper Linkedin Profile Posts Input",
+        "description": "List a person's recent LinkedIn posts (managed scraper, no connected account): text, engagement counts, and timestamps. Use as an outbound signal — reference what a prospect recently posted.",
+        "properties": {
+          "profile": {
+            "description": "LinkedIn profile URL.",
+            "type": "string"
+          },
+          "public_identifier": {
+            "description": "LinkedIn public identifier, e.g. williamhgates.",
+            "type": "string"
+          },
+          "profile_id": {
+            "description": "LinkedIn profile id (fastest).",
+            "type": "string"
+          },
+          "page": {
+            "description": "Page number. Defaults to 1.",
+            "type": "number"
+          },
+          "pagination_token": "[REDACTED FOR PUBLIC RELEASE]"
+        },
+        "additionalProperties": false
+      },
+      "output_schema": {
+        "type": "object",
+        "properties": {
+          "results": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "post_url": {
+                  "type": "string",
+                  "description": "Permalink of the post."
+                },
+                "content": {
+                  "type": "string",
+                  "description": "Post text."
+                },
+                "posted_at": {
+                  "type": "string",
+                  "description": "When the post was published."
+                },
+                "likes": {
+                  "type": "number"
+                },
+                "comments": {
+                  "type": "number"
+                },
+                "shares": {
+                  "type": "number"
+                },
+                "author_name": {
+                  "type": "string"
+                },
+                "author_url": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": true
+            }
+          },
+          "pagination": {
+            "type": "object",
+            "additionalProperties": true
+          }
+        },
+        "additionalProperties": true
+      },
+      "primary_display_fields": [
+        "content"
+      ],
+      "cost": {
+        "pricing_model": "provider_usage",
+        "billing_mode": "pre_authorize",
+        "notes": "Oxygen managed LinkedIn scraper call (no connected account). Runs on Oxygen-managed scraping infrastructure; nothing to connect.",
+        "managed_credit_estimate": {
+          "min": 16,
+          "max": 16
+        }
+      },
+      "side_effect_class": "paid_provider",
+      "latency_band": "1-5s",
+      "rate_limit": {
+        "rps": 5,
+        "daily_cap": null,
+        "batching": "One page per call (use `page` to paginate engagers). Fan out large posts through the table/workflow run queue, not a single synchronous call."
+      },
+      "when_to_use": [
+        "Default for public or third-party LinkedIn research, including competitor profiles, companies, posts, and engagers.",
+        "Use Oxygen's native cookieless LinkedIn scraper when no connected LinkedIn account is required.",
+        "Use when the user asks for a managed LinkedIn scraper, native LinkedIn scraper, cookieless read, or zero connected-account quota.",
+        "Get recent public posts authored by a third-party LinkedIn profile."
+      ],
+      "when_not_to_use": [
+        "Do not use for the workspace's own private/account-scoped LinkedIn data such as connections, followers, profile viewers, inbox, Sales Navigator, or Recruiter; use linkedin.* through the connected account.",
+        "Do not use for LinkedIn writes such as invitations, messages, publishing, creating a comment, adding a reaction, or profile edits; use the approval-gated connected LinkedIn surfaces.",
+        "Do not use Crustdata-style longitudinal, contact-field, or watcher capabilities as a reason to replace this ordinary public LinkedIn read; choose those providers only when the requested fields genuinely require them."
+      ],
+      "prefer_over": [
+        {
+          "tool_id": "linkedin.users_posts",
+          "because": "Reads a third party's public posts without connected-account quota."
+        },
+        {
+          "tool_id": "brightdata.linkedin_posts_discover_by_profile_url",
+          "because": "Uses Oxygen's native managed LinkedIn read surface before an alternate dataset adapter."
+        },
+        {
+          "tool_id": "crustdata.legacy_people_linkedin_posts",
+          "because": "Avoids the expensive legacy post endpoint for ordinary public post reads."
+        }
+      ],
+      "provider_meta": {
+        "name": "scraper",
+        "docs_url": "https://oxygen-agent.com/docs/providers/linkedin-scraper"
+      },
+      "example_payload": {
+        "public_identifier": "williamhgates"
+      },
+      "access_requirements": {
+        "credential_modes": [
+          "managed"
+        ],
+        "runtime_env_required": [
+          "HARVEST_API_KEY"
+        ]
+      },
+      "capability_tags": [
+        "cookieless",
+        "linkedin_posts",
+        "linkedin_public_read",
+        "native_linkedin_scraper"
+      ],
+      "enabled": true,
+      "native_provider": {
+        "provider": "scraper",
+        "operation": "linkedin_profile_posts",
+        "method": "GET",
+        "path": "/linkedin/profile-posts",
+        "descriptor_version": "2026-08-20",
+        "fields": [
+          {
+            "key": "profile",
+            "type": "string",
+            "required": false,
+            "description": "LinkedIn profile URL.",
+            "aliases": [
+              "linkedin_url",
+              "profile_url"
+            ]
+          },
+          {
+            "key": "public_identifier",
+            "wireKey": "profilePublicIdentifier",
+            "type": "string",
+            "required": false,
+            "description": "LinkedIn public identifier, e.g. williamhgates."
+          },
+          {
+            "key": "profile_id",
+            "wireKey": "profileId",
+            "type": "string",
+            "required": false,
+            "description": "LinkedIn profile id (fastest)."
+          },
+          {
+            "key": "page",
+            "type": "number",
+            "required": false,
+            "description": "Page number. Defaults to 1."
+          },
+          {
+            "key": "pagination_token",
+            "wireKey": "paginationToken",
+            "type": "string",
+            "required": false,
+            "description": "Pagination token from a prior page."
+          }
+        ],
+        "effect": "read",
+        "side_effect_class": "paid_provider",
+        "execution": {
+          "mode": "live",
+          "credential": "managed"
+        },
+        "latency_band": "1-5s",
+        "rate_limit": {
+          "rps": 5,
+          "daily_cap": null,
+          "batching": "One page per call (use `page` to paginate engagers). Fan out large posts through the table/workflow run queue, not a single synchronous call."
+        },
+        "docs_url": "https://oxygen-agent.com/docs/providers/linkedin-scraper",
+        "notes": [
+          "Provide one identifier: `public_identifier` (fastest with `profile_id`), `profile` (URL), or `profile_id`.",
+          "One page per call (page size ~50). Paginate with `page` / `pagination_token`."
+        ],
+        "examples": [
+          {
+            "public_identifier": "williamhgates"
+          }
+        ]
+      },
+      "supports_managed": true,
+      "managed_credit_posture": "priced",
+      "supports_byok": false,
+      "byok_required": false,
+      "supports_table_run": true,
+      "estimated_credits_per_call": 16,
+      "recommended_bulk_surface": "table_runs",
+      "supports_node_credit_cap": true,
+      "availability": {
+        "tool_id": "scraper.linkedin_profile_posts",
+        "provider": "scraper",
+        "operation": "linkedin_profile_posts",
+        "status": "available",
+        "availability_status": "runnable",
+        "blocked_by": [],
+        "next_action": null,
+        "reasons": [],
+        "credential_mode": "managed",
+        "integration_id": "scraper",
+        "connection_id": null,
+        "access_requirements": {
+          "credential_modes": [
+            "managed"
+          ],
+          "runtime_env_required": [
+            "HARVEST_API_KEY"
+          ]
+        },
+        "capability_tags": [
+          "cookieless",
+          "linkedin_posts",
+          "linkedin_public_read",
+          "native_linkedin_scraper"
+        ],
+        "output_schema": {
+          "type": "object",
+          "properties": {
+            "results": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "post_url": {
+                    "type": "string",
+                    "description": "Permalink of the post."
+                  },
+                  "content": {
+                    "type": "string",
+                    "description": "Post text."
+                  },
+                  "posted_at": {
+                    "type": "string",
+                    "description": "When the post was published."
+                  },
+                  "likes": {
+                    "type": "number"
+                  },
+                  "comments": {
+                    "type": "number"
+                  },
+                  "shares": {
+                    "type": "number"
+                  },
+                  "author_name": {
+                    "type": "string"
+                  },
+                  "author_url": {
+                    "type": "string"
+                  }
+                },
+                "additionalProperties": true
+              }
+            },
+            "pagination": {
+              "type": "object",
+              "additionalProperties": true
+            }
+          },
+          "additionalProperties": true
+        },
+        "supports_managed": true,
+        "supports_byok": false,
+        "byok_required": false,
+        "supports_table_run": true,
+        "estimated_credits_per_call": 16,
+        "recommended_bulk_surface": "table_runs",
+        "billing": {
+          "managed_credit_estimate": 16,
+          "category": "managed_enrichment",
+          "provider": "scraper",
+          "source_id": "scraper.linkedin_profile_posts",
+          "available_credits": 2104385.225,
+          "reserved_credits": 17.696
+        }
+      }
+    }
+  },
+  "meta": {
+    "command": "tools get",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

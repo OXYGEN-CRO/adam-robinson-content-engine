@@ -1,0 +1,498 @@
+{
+  "video_id": "u02bsNddj1E",
+  "title": "SaaS is About to Change in 2026 (and nobody even realizes)",
+  "published": "2026-01-07T16:01:32+00:00",
+  "speakers_and_attribution": "The transcript presents a continuous first-person monologue attributable to Adam Robinson through contextual references to RB2B and his businesses. No interviewer or guest appears. Captions are automatic and not diarized; attribution is contextual rather than independently verified against audio.",
+  "summary": "Adam presents predictions for 2026 about AI-native software, smaller teams, bootstrapped niche businesses, fundraising overhang, and increasingly competitive distribution. He favors building in public, focused YouTube content, products that encourage customer-created content, and disciplined simplicity. The final third expands into speculative economic, education, health, transportation, and geographic predictions, then describes a planned family move to Aspen as an experiment in running a substantial lifestyle business remotely. Most claims are opinions or forecasts, with limited supporting evidence; the opening business metrics and personal operating examples are self-reports.",
+  "key_learnings": [
+    {
+      "claim": "Adam predicts AI and SaaS will converge as applications package task-specific prompting and execute work for users who have little interest in mastering LLMs themselves.",
+      "start_timestamp": "00:00:22",
+      "end_timestamp": "00:01:03",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "A 2026 prediction. His absolute claims about prompting determining output quality and very few people mastering it are unsupported estimates."
+    },
+    {
+      "claim": "He expects no AGI breakthrough in 2026 and believes broadly superhuman, job-eliminating AI would require a different technological approach beyond current LLMs.",
+      "start_timestamp": "00:01:03",
+      "end_timestamp": "00:01:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "He defines AGI unusually broadly as outperforming humans across essentially all desired work. This is his technical thesis, not an established conclusion."
+    },
+    {
+      "claim": "He describes AI-native software as a cycle of supplying documents and behavioral guidance, observing autonomous work, and improving instructions, replacing some fixed decision-tree workflows.",
+      "start_timestamp": "00:01:47",
+      "end_timestamp": "00:02:44",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Although the headline predicts replacements for every incumbent app, his explanation narrows this to applications that can work in this manner. His use of 'training' does not establish model fine-tuning."
+    },
+    {
+      "claim": "He argues incumbents face pressure to market themselves as AI companies while protecting existing businesses. He distinguishes a chat box that selects legacy filters from an interface that creates and iteratively edits the desired output through conversation.",
+      "start_timestamp": "00:02:44",
+      "end_timestamp": "00:03:38",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "The contact-list example is illustrative and unnamed. His assertion that companies cannot sell without AI positioning is rhetorical and unverified."
+    },
+    {
+      "claim": "Building in public can capture inexpensive attention, create emotional investment, and encourage word of mouth. He expects founders to continue sharing their journeys even after reaching substantial scale.",
+      "start_timestamp": "00:03:38",
+      "end_timestamp": "00:04:12",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "The cited $100 million ARR scale is a forecast about founders generally, not his own achievement. No attribution or acquisition data is supplied."
+    },
+    {
+      "claim": "He expects cold email to deteriorate as easier personalized sending increases volume while AI improves spam filtering. Falling conversion then encourages still more sending, reinforcing the problem.",
+      "start_timestamp": "00:04:14",
+      "end_timestamp": "00:04:50",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He explicitly says high-volume outreach has not stopped working yet. His conversion illustration combines demos and positive replies and is not a measured benchmark."
+    },
+    {
+      "claim": "He positions website visitors as a warmer prospecting audience and says RB2B was built to let companies follow up on attention they already receive.",
+      "start_timestamp": "00:04:50",
+      "end_timestamp": "00:05:05",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "This is his stated product rationale within a sales pitch. A website visit does not independently establish buying intent or qualification."
+    },
+    {
+      "claim": "He predicts a ten-person startup will reach $100 million ARR as skilled employees become proficient at applying AI across functions, reducing the need to add headcount.",
+      "start_timestamp": "00:05:05",
+      "end_timestamp": "00:05:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "A forecast for an unnamed startup, not an Adam company achievement. The ten-person count does not specify contractors or shared support."
+    },
+    {
+      "claim": "Lower software creation costs can make small, bootstrapped niche applications economically viable for founders with modest lifestyle income goals. He suggests content and Reddit as ways to reach these small markets.",
+      "start_timestamp": "00:05:31",
+      "end_timestamp": "00:06:22",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "His build costs and monthly income figures are hypothetical. He does not account for maintenance, acquisition costs, churn, or profit."
+    },
+    {
+      "claim": "He expects more stagnant venture-backed SaaS businesses whose old valuations exceed present market value. He argues founders and investors may resist exits below invested capital, leaving companies exposed to newer AI competitors.",
+      "start_timestamp": "00:06:25",
+      "end_timestamp": "00:07:26",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "No companies or transaction evidence are named. He allows an exception for a small group with strong retention, low churn, high growth, and large markets."
+    },
+    {
+      "claim": "He expects aggregate revenue to grow while teams shrink because skilled people using AI can increase output without proportional hiring. He cites seeing AI proficiency spread through his own team.",
+      "start_timestamp": "00:07:26",
+      "end_timestamp": "00:07:54",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "He qualifies the argument by excluding hypergrowth companies from the general operating pattern. His team anecdote includes no revenue, staffing, or productivity measurements."
+    },
+    {
+      "claim": "He predicts AI and automation will make LinkedIn direct-message spam substantially worse.",
+      "start_timestamp": "00:07:56",
+      "end_timestamp": "00:08:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "A qualitative 2026 prediction without platform data or a quantified baseline."
+    },
+    {
+      "claim": "He expects LinkedIn audience building to become harder because AI accelerates discovery and imitation of successful formats, shortening the period in which a format stands out.",
+      "start_timestamp": "00:08:08",
+      "end_timestamp": "00:08:35",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He still considers LinkedIn content useful for early-stage B2B companies; the prediction concerns increasing competitive difficulty, not channel abandonment."
+    },
+    {
+      "claim": "He predicts YouTube will become a leading early-stage B2B channel. A small audience of relevant buyers watching focused weekly videos can be valuable because video builds emotional investment and parasocial familiarity.",
+      "start_timestamp": "00:08:35",
+      "end_timestamp": "00:09:03",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "His example assumes viewers match the ideal customer profile. The cadence and view counts are illustrative, not his channel results."
+    },
+    {
+      "claim": "Products can create distribution loops when customers gain status, engagement, or clients by publicly showing what they built. He cites Clay agencies and creations made with Cursor, Lovable, and Gamma as examples.",
+      "start_timestamp": "00:09:03",
+      "end_timestamp": "00:09:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "The examples are his observations about other companies. The predicted nine-figure ARR outcome is not a verified current metric for any named company."
+    },
+    {
+      "claim": "As AI makes adding features easier, product complexity can outpace team and customer education. He expects simple, attractive products to stand out when designers exercise restraint.",
+      "start_timestamp": "00:09:40",
+      "end_timestamp": "00:10:11",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "The five-minute feature example and unlimited-feature language are rhetorical. He provides no specific product case or measured outcome."
+    },
+    {
+      "claim": "He predicts further dollar erosion and persistently high interest rates, arguing that political promises of spending restraint have failed and nominal portfolio gains can conceal lost purchasing power.",
+      "start_timestamp": "00:10:13",
+      "end_timestamp": "00:10:50",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "Speculative economic and political commentary. The dollar-value benchmark is undefined, and his institutional-control and spending assertions are not verified here."
+    },
+    {
+      "claim": "He expects consumer spending to weaken as inflation, tariffs, and AI-related labor changes pressure people without substantial wealth, while affluent people may underestimate that strain.",
+      "start_timestamp": "00:10:52",
+      "end_timestamp": "00:11:23",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "Broad socioeconomic claims without supporting data. His comments about All-In podcast listeners are rhetorical generalizations."
+    },
+    {
+      "claim": "He rejects universal high income as a solution to economic insecurity because people compare themselves with peers and AI ownership or skill may concentrate wealth further.",
+      "start_timestamp": "00:11:23",
+      "end_timestamp": "00:12:04",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "This combines a psychological argument with a distributional forecast. His relative-wealth percentages are hypothetical, not personal financial disclosures."
+    },
+    {
+      "claim": "He expects household repair services to become more expensive, particularly in affluent neighborhoods, while AI reduces the relative value of knowledge work.",
+      "start_timestamp": "00:12:04",
+      "end_timestamp": "00:12:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "His 25% increase is a forecast without a location-specific baseline or evidence that changes in knowledge-work value cause repair-price increases."
+    },
+    {
+      "claim": "He predicts Tesla will release driving automation that lets occupants work during long trips or traffic, possibly without government approval.",
+      "start_timestamp": "00:12:22",
+      "end_timestamp": "00:12:37",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "A prediction about future capability and conduct, not evidence of availability, regulatory permission, or safe use."
+    },
+    {
+      "claim": "He expects Alpha School's remote AI-taught offering to increase interest in homeschooling and describes a model combining a short academic day with other activities and human supervision.",
+      "start_timestamp": "00:12:37",
+      "end_timestamp": "00:13:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "His claim that the curriculum is better than traditional school is unsupported here. The captioned curriculum descriptor 'monastery style' is uncertain."
+    },
+    {
+      "claim": "He predicts growing off-label use of very small GLP-1 doses, citing people in his social circle who report dietary improvements. He believes long-term benefits from improved diet could outweigh possible delayed harms.",
+      "start_timestamp": "00:13:08",
+      "end_timestamp": "00:13:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "Anecdotal health speculation, not clinical evidence or medical guidance. He acknowledges possible unknown harms; personal use is not stated, and the captioned drug name 'Ozic' is uncertain."
+    },
+    {
+      "claim": "He expects more discussion of Riyadh as a future Dubai-like hub, attributing the narrative to Saudi efforts to attract ambitious people and invest in technology and AI.",
+      "start_timestamp": "00:13:40",
+      "end_timestamp": "00:13:58",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "Tentative commentary introduced as secondhand information. The place name appears as 'Riad' in the captions; no personal investment or relocation there is reported."
+    },
+    {
+      "claim": "He frames his planned family move to Aspen as a practical test of whether a successful technology company can operate from anywhere and whether a lifestyle business can work at scale.",
+      "start_timestamp": "00:13:58",
+      "end_timestamp": "00:14:14",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "This is his stated intention and framing, not proof of the experiment's outcome or an approved general mission statement."
+    },
+    {
+      "claim": "His closing distribution argument is to convert existing website attention as LinkedIn gets noisier and cold outreach becomes harder. He describes RB2B as surfacing visitor identity information for timely follow-up.",
+      "start_timestamp": "00:14:18",
+      "end_timestamp": "00:14:43",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "A promotional claim. No identification coverage, accuracy, conversion lift, or qualification evidence is given."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Adam says he bootstrapped three SaaS companies to more than $30 million in combined ARR with small teams and no funding.",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:00:07",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "The three companies, measurement date, individual contributions, and staffing arrangements are unspecified."
+    },
+    {
+      "claim": "He reports running two AI-native tools on his website: a personal clone captioned as 'deli' and an Intercom support tool captioned as 'Finn.'",
+      "start_timestamp": "00:02:23",
+      "end_timestamp": "00:02:39",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Product spellings are uncertain in automatic captions. He reports using these tools, not building or owning their underlying products."
+    },
+    {
+      "claim": "He sees himself as having helped establish the practice of founders building in public and emphasizes the emotional investment it creates.",
+      "start_timestamp": "00:03:40",
+      "end_timestamp": "00:04:12",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "His influence on the broader practice is self-assessed and unquantified."
+    },
+    {
+      "claim": "He identifies worsening cold outreach as the reason he built RB2B, choosing to focus on people already visiting a company's website.",
+      "start_timestamp": "00:04:50",
+      "end_timestamp": "00:05:05",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "A retrospective founder explanation embedded in product promotion; no founding date is supplied."
+    },
+    {
+      "claim": "He reports seeing AI proficiency spread through his team during 'this year' and uses that experience to support his view that productivity need not require more employees.",
+      "start_timestamp": "00:07:26",
+      "end_timestamp": "00:07:46",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "The recording date is unknown, so 'this year' cannot be securely assigned. He does not explicitly quantify a reduction in his own headcount."
+    },
+    {
+      "claim": "He says his family is moving to Aspen on January 4 and intends to demonstrate location flexibility while operating a substantial technology business.",
+      "start_timestamp": "00:13:58",
+      "end_timestamp": "00:14:14",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "The year is not spoken. Future-tense wording conflicts with the January 7, 2026 publication date if January 4, 2026 is intended; completion is not established."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Adam's unnamed portfolio: three bootstrapped SaaS companies, more than $30 million combined ARR, and zero funding, reported by publication on January 7, 2026.",
+      "start_timestamp": "00:00:00",
+      "end_timestamp": "00:00:07",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Exact measurement period and simultaneous-current status are unclear. ARR is not revenue collected, profit, or cash. 'Tiny teams' supplies no FTE or contractor count."
+    },
+    {
+      "claim": "LLM adoption assumptions: Adam claims output quality is 100% correlated with prompting ability and fewer than 1% of people will become great at prompting.",
+      "start_timestamp": "00:00:30",
+      "end_timestamp": "00:00:42",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "Unsupported numerical assertions, not measured correlations or adoption statistics; no population or study period is identified."
+    },
+    {
+      "claim": "Adam's website: two AI-native applications in use at the time of the account, described as a personal clone and an Intercom support tool.",
+      "start_timestamp": "00:02:23",
+      "end_timestamp": "00:02:31",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "This is a tool count, not a company, customer, or employee count. Website and start dates are unspecified."
+    },
+    {
+      "claim": "Founder behavior forecast for 2026: more founders continue building in public beyond $100 million ARR.",
+      "start_timestamp": "00:03:38",
+      "end_timestamp": "00:03:52",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "A projected scale threshold for founders generally, not an Adam or RB2B result."
+    },
+    {
+      "claim": "Cold-email illustration: one demo or positive reply per 300 sends, with performance predicted to become three times worse in 2026.",
+      "start_timestamp": "00:04:40",
+      "end_timestamp": "00:04:50",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Conditional baseline, not a reported campaign result. 'Three times worse' is ambiguous, and demos and positive replies are different outcomes."
+    },
+    {
+      "claim": "Startup forecast for 2026: the first ten-person startup reaching $100 million ARR, associated with his perception that organizational AI proficiency advanced between the beginning and end of 2025.",
+      "start_timestamp": "00:05:05",
+      "end_timestamp": "00:05:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "No startup is named and no achievement is verified. Staffing scope, contractor use, and shared support are unspecified; 2025 adoption observations are generalizations."
+    },
+    {
+      "claim": "Hypothetical niche SaaS economics: a 20-year-old seeking $5,000 per month could build an app for $500, contrasted with a claimed historical $1 million development cost.",
+      "start_timestamp": "00:05:47",
+      "end_timestamp": "00:06:22",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "An illustrative lifestyle scenario, not Adam's biography or a documented business. The monthly amount is not classified as revenue or take-home profit; the historical comparison has no date."
+    },
+    {
+      "claim": "New-app forecast: Adam expects orders-of-magnitude growth in the number of applications created in 2026.",
+      "start_timestamp": "00:05:31",
+      "end_timestamp": "00:05:47",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "SaaS building",
+      "caveat": "He describes several additional zeros but provides no baseline, precise multiplier, or app definition."
+    },
+    {
+      "claim": "Unnamed venture-backed SaaS comparison: companies described as raising money between '20 and 2022' and operating at roughly $50 million to $300 million in revenue may now be worth less than the capital raised.",
+      "start_timestamp": "00:06:25",
+      "end_timestamp": "00:06:50",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "The first year appears abbreviated in captions, plausibly 2020 but unconfirmed. Revenue period is unspecified and should not be relabeled ARR. No company-level valuation evidence is provided."
+    },
+    {
+      "claim": "YouTube forecast and operating illustration: a top-two early-stage B2B channel in 2026, with one video per week attracting 3,000–5,000 relevant viewers.",
+      "start_timestamp": "00:08:35",
+      "end_timestamp": "00:09:03",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "A prediction and example, not Adam's audience metrics. The ranking criterion and viewing window are undefined."
+    },
+    {
+      "claim": "Customer-content distribution forecast: AI products generating user-created content will propel startups to nine-figure ARR in 2026; Clay, Cursor, Lovable, and Gamma illustrate the mechanism.",
+      "start_timestamp": "00:09:03",
+      "end_timestamp": "00:09:40",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "He does not provide verified ARR, a measurement date, or a causal revenue attribution for any named company."
+    },
+    {
+      "claim": "Economic forecast for 2026: another 10% loss in US dollar value; he argues a 10–12% S&P equity gain may fail to preserve purchasing power.",
+      "start_timestamp": "00:10:13",
+      "end_timestamp": "00:10:50",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "The dollar benchmark, preceding comparison period, and equity-return period are unspecified. These are not personal portfolio returns or verified economic measurements."
+    },
+    {
+      "claim": "Relative-wealth illustration: having 20% less or 20% more than one's friends can change perceived wealth regardless of absolute resources.",
+      "start_timestamp": "00:11:32",
+      "end_timestamp": "00:11:46",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "Hypothetical percentages used for an argument about comparison, not survey findings or Adam's financial position."
+    },
+    {
+      "claim": "Household-service forecast for 2026: repair prices rise another 25%, especially in affluent neighborhoods.",
+      "start_timestamp": "00:12:04",
+      "end_timestamp": "00:12:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "No service basket, geography, prior increase, or baseline period is supplied."
+    },
+    {
+      "claim": "Alpha School comparison: Adam describes children spending two hours per day in school before pursuing other activities.",
+      "start_timestamp": "00:12:37",
+      "end_timestamp": "00:13:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "An external-program description by Adam, not a guest statement or verified schedule. It is unclear whether he means academic instruction or total attendance."
+    },
+    {
+      "claim": "Personal relocation plan: a family move to Aspen on January 4, stated in a video published January 7, 2026.",
+      "start_timestamp": "00:13:58",
+      "end_timestamp": "00:14:14",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "The spoken year and recording date are absent. Publication does not establish that the move occurred."
+    },
+    {
+      "claim": "RB2B offer at publication: free entry with no credit card required, promoted alongside visitor name, LinkedIn profile, and company information.",
+      "start_timestamp": "00:14:25",
+      "end_timestamp": "00:14:43",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "A historical promotional offer, not a verified current price or unlimited entitlement. No usage limits or identification success rates are stated."
+    }
+  ],
+  "tensions_and_corrections": [
+    "The opening promises certainty, but the body consists primarily of predictions and ends by acknowledging uncertainty about how many will come true.",
+    "The AI-native headline encompasses every legacy application; the explanation qualifies this to applications suited to the described training, monitoring, and improvement workflow.",
+    "He predicts broad AI productivity gains and smaller teams while rejecting near-term AGI. These claims operate at different capability thresholds and should not be collapsed into a single claim that AI either will or will not replace work.",
+    "He favors continued building in public while predicting harder LinkedIn audience growth. His channel argument includes increasing value from focused YouTube video rather than assuming all public content performs equally.",
+    "He predicts cold email will worsen but explicitly says high-volume sending still works. The one-in-300 illustration and three-times-worse prediction should not be converted into a precise verified conversion rate.",
+    "The $100 million ARR examples and nine-figure startup prediction are not Adam's achievements; his own stated portfolio figure is more than $30 million combined ARR.",
+    "The team-productivity anecdote does not establish that Adam reduced headcount, achieved higher measured revenue per employee, or operates with ten people.",
+    "The Aspen segment shifts from a past-tense prediction heading to a future-tense January 4 plan. That wording and the January 7, 2026 publication date do not establish a completed move or recording date.",
+    "Prediction numbering repeats number eight and then jumps to number ten. This is a presentation inconsistency, not a missing transcript section.",
+    "Automatic captions contain uncertain names and terms, including 'deli,' 'Finn,' 'Clavio,' 'large tan,' 'monastery style,' 'Ozic,' and 'RBDB.' These should not be silently standardized into verified product names or technical claims.",
+    "The GLP-1 segment acknowledges unknown future harms but then asserts that dietary benefits will outweigh them. The source supplies anecdotes rather than evidence for that risk-benefit conclusion.",
+    "No change of mind is explicitly narrated. These are views expressed at this source date, not evidence of permanent beliefs, an approved mission, or an approved writing voice."
+  ],
+  "reusable_topics": [
+    "AI-native workflow design: instructions, observation, and iteration",
+    "Incumbent incentives and the difference between AI interfaces and workflow redesign",
+    "Building in public as attention, emotional investment, and word of mouth",
+    "The cold-email volume and deliverability feedback loop",
+    "Warm website attention as RB2B's founder-stated product rationale",
+    "Skilled employees using AI and the limits of headcount-led growth",
+    "Lower software creation costs and modest bootstrapped income goals",
+    "Venture valuation overhang and incentives against selling",
+    "LinkedIn format imitation and the value of niche YouTube audiences",
+    "Customer-created content as a product distribution mechanism",
+    "Feature restraint when implementation becomes cheap",
+    "Remote company leadership and the proposed Aspen lifestyle experiment",
+    "AI's uneven effects on wealth, work, and physical services",
+    "Separating founder predictions, anecdotes, and measured proof"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:14:46",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript through its final line; no audio, video, external sources, or linked files were consulted.",
+      "Automatic captions are not diarized and may mishear names, numbers, or terminology. Timestamp ranges follow supplied caption markers.",
+      "The metadata duration is 890 seconds; the last supplied caption begins at 00:14:46. No additional spoken content was supplied for the remaining seconds.",
+      "Recording date is unknown. Relative time references and the January 4 move cannot be resolved solely from publication metadata.",
+      "Company metrics are self-reported and mostly lack measurement dates, company breakdowns, and operational definitions.",
+      "Economic, medical, educational, and transportation statements are captured as Adam's opinions or descriptions, not independently validated facts or advice.",
+      "The source is for internal wiki research. Public accessibility does not establish approval to reuse it in new public copy."
+    ]
+  }
+}

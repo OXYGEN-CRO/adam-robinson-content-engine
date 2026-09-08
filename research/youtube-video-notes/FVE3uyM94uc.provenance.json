@@ -1,0 +1,13 @@
+{
+  "id": "FVE3uyM94uc",
+  "source_sha256": "dfcac31753c0f7592344dad239109ce652ec617ac1f7a74840bd8ec5a6b9e04c",
+  "source_characters": 77409,
+  "source_word_count": 11619,
+  "prompt_sha256": "4e42e0d68d90866be9c3d1fdd9121009af0f69faa9d1feecc4e8424074ad10c5",
+  "started_at": "2026-09-08T09:40:30.500604+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/FVE3uyM94uc/FVE3uyM94uc.md",
+  "pid": 98305,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:44:37.627488+00:00"
+}

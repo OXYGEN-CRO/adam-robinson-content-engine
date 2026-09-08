@@ -1,0 +1,13 @@
+{
+  "id": "IlM44T-Pl_o",
+  "source_sha256": "7fd00bfd1cbf6b10d97cebb4e7dbca6df948f62c97e23f4c378dea347913703b",
+  "source_characters": 31096,
+  "source_word_count": 4269,
+  "prompt_sha256": "a70e975a1c0cbb56cb89c76040a34507109f70edcc0d62ee2167776f4bea1acb",
+  "started_at": "2026-09-08T08:14:53.768464+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/IlM44T-Pl_o/IlM44T-Pl_o.md",
+  "pid": 71247,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:18:49.829876+00:00"
+}

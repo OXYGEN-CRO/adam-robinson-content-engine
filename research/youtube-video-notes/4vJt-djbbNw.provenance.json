@@ -1,0 +1,13 @@
+{
+  "id": "4vJt-djbbNw",
+  "source_sha256": "ba54c12bfae2b6a766cf778b3bb496e256e3ed3c2b63d7ca004ae5f1b40990d3",
+  "source_characters": 7723,
+  "source_word_count": 994,
+  "prompt_sha256": "9472bcd82b41d79eda9ae8b79d2662da7a37805bd2ddacf12a6496155c4903f7",
+  "started_at": "2026-09-08T08:39:49.736901+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/4vJt-djbbNw/4vJt-djbbNw.md",
+  "pid": 64942,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:41:46.657028+00:00"
+}

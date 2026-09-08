@@ -1,0 +1,13 @@
+{
+  "id": "dBmCgPPA2iA",
+  "source_sha256": "917f7803c6bf094257d6b068653c17c9c115a822df037f19f0a8eff2a8bef07e",
+  "source_characters": 2701,
+  "source_word_count": 317,
+  "prompt_sha256": "667cd49216b04b22981ae055cb3ad5105a76ab09ad5ca89f4b90d7905de7dae9",
+  "started_at": "2026-09-08T08:41:31.440060+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/dBmCgPPA2iA/dBmCgPPA2iA.md",
+  "pid": 82852,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:42:34.381775+00:00"
+}

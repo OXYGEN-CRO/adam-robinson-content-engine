@@ -1,0 +1,15 @@
+{
+  "url": "https://moltsets.com/",
+  "date": "2026-09-08",
+  "selector": ".logo-type",
+  "capture": "moltsets-lockup-transparent.png",
+  "dimensions": [
+    920,
+    224
+  ],
+  "scale": 8,
+  "method": "Browser capture after original SF Mono loaded and typing finished; ancestor backgrounds made transparent; logo content unchanged.",
+  "production": "brand/assets/logos/moltsets-lockup-source.png",
+  "sha256": "dfa3beb1922a1a89841488d8d5b9f800c1382ae5ff247ab66e806459a17193a4",
+  "derivative": "brand/assets/logos/moltsets-lockup.svg embeds this PNG; not outlined vectors."
+}

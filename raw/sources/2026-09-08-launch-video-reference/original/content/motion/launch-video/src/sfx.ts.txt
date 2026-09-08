@@ -1,0 +1,83 @@
+/**
+ * Sound effects for the launch video.
+ * Each clip is anchored to a specific frame in the visual timeline.
+ *
+ * Edit a prompt → run `npm run generate-sfx` → only the changed clip
+ * regenerates (others cached by hash).
+ */
+
+import { beatStartFrame } from "./timings";
+
+export interface SfxClip {
+  id: string;
+  /** ElevenLabs sound-generation prompt. Be specific; modern/clean/short reads better. */
+  prompt: string;
+  /** Requested duration in seconds. ElevenLabs returns slightly variable length. */
+  durationSeconds: number;
+  /** Frame in the composition where this clip starts. */
+  fromFrame: number;
+  /** 0–1 mix level. Default 0.6. */
+  volume?: number;
+}
+
+const HERO       = beatStartFrame("hero");        // 0
+const ENROLL     = beatStartFrame("enroll");      // ~553
+const RUN_DETAIL = beatStartFrame("run-detail");  // ~834
+const CLOSING    = beatStartFrame("closing");     // ~1056
+
+export const SFX: SfxClip[] = [
+  {
+    id: "typing",
+    prompt:
+      "Subtle modern keyboard typing sounds, soft mechanical key taps, low key brief background, no clicks",
+    durationSeconds: 1.5,
+    fromFrame: HERO + 38,  // matches TYPE_START in OpeningScene
+    volume: 0.32,
+  },
+  {
+    id: "send-click",
+    prompt:
+      "Crisp digital UI button click, modern interface tap, subtle electronic, very brief",
+    durationSeconds: 0.5,
+    fromFrame: HERO + 165,  // matches new CURSOR_PRESS in OpeningScene
+    volume: 0.55,
+  },
+  {
+    id: "enroll-click",
+    prompt:
+      "Soft confirmation click followed by a subtle level-up chime, satisfying success, modern minimal product UI sound, brief",
+    durationSeconds: 1.2,
+    fromFrame: ENROLL + 95,
+    volume: 0.7,
+  },
+  {
+    id: "confetti-pop",
+    prompt:
+      "Light celebratory pop with soft sparkle tail, modern tech, magical but minimal, brief",
+    durationSeconds: 1.2,
+    fromFrame: ENROLL + 100,
+    volume: 0.55,
+  },
+  {
+    id: "row-click",
+    prompt:
+      "Subtle UI selection tap, gentle modern feedback tick, very brief",
+    durationSeconds: 0.5,
+    fromFrame: RUN_DETAIL - 4,
+    volume: 0.45,
+  },
+  {
+    id: "congrats-pop",
+    prompt:
+      "Triumphant minimalist success tone, soft swell, modern clean, satisfying landing",
+    durationSeconds: 1.6,
+    fromFrame: CLOSING + 6,
+    volume: 0.6,
+  },
+];
+
+export const SFX_AUDIO_SUBDIR = "audio/sfx";
+
+export function sfxPath(id: string): string {
+  return `${SFX_AUDIO_SUBDIR}/${id}.mp3`;
+}

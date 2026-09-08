@@ -1,0 +1,770 @@
+{
+  "video_id": "WLounenLFDg",
+  "title": "How This Startup Went from $200M to Over $1B | JetSmarter's Billion-Dollar Valuation",
+  "published": "2025-03-10T14:00:38+00:00",
+  "speakers_and_attribution": "Adam Robinson is the principal interviewer, identified through his Retention.com/GetEmails references and the guest addressing him as Adam. The principal guest is Lolita, introduced as a JetSmarter co-founder and marketing-agency founder; automatic captions render her surname as 'petrof' and her agency name inconsistently as 'Evar,' 'e start,' and similar forms. Her husband is described as JetSmarter's fellow founder. Guest business results, immigration history, tennis career, and agency practices belong to her, not Adam. The final passage beginning around 00:59:33 appears to introduce another speaker or an appended segment; that speaker addresses Adam and jokes about being 'Eric Robinson,' but cannot be reliably identified from the supplied text. Opening lines are a preview montage. Speaker assignments elsewhere follow conversational context, not verified diarization.",
+  "summary": "Adam interviews a JetSmarter co-founder about turning private-aviation inventory into an aspirational membership product, the dangers of expansion before sustainable unit economics, customer backlash during pricing changes, and the transition to an e-commerce agency. Adam contributes substantial context about his own customer psychology, prior business stagnation, Retention.com's focused Shopify go-to-market, cash-funded growth, team motivation, and content-production system. The closing agency endorsement supplies qualitative Retention.com social proof but no independently verified performance attribution. The spoken discussion distinguishes approximately $200 million raised from a billion-dollar valuation; it does not establish the title's implied valuation trajectory. Publication is dated, but the recording date and most relative business periods remain unknown.",
+  "key_learnings": [
+    {
+      "claim": "JetSmarter's initial opportunity came from observing a fragmented, manually operated brokerage market and building an app that exposed aircraft availability and pricing.",
+      "start_timestamp": "00:05:48",
+      "end_timestamp": "00:07:32",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Guest account of a technology-enabled aviation business, not Adam's SaaS history. Her claim to have been first is unverified."
+    },
+    {
+      "claim": "The membership breakthrough repackaged otherwise empty positioning flights into access that customers who could not charter whole aircraft could afford.",
+      "start_timestamp": "00:09:25",
+      "end_timestamp": "00:11:31",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Describes the guest's historical model; enthusiastic adoption does not establish profitability."
+    },
+    {
+      "claim": "The product evolved from digital brokerage and empty legs into scheduled flights sold by seat, with New York–Miami as the first route described.",
+      "start_timestamp": "00:11:32",
+      "end_timestamp": "00:12:34",
+      "speaker": "Lolita, guest; Adam Robinson adds customer experience",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "The guest explains the model; Adam confirms enjoying the shuttle experience. No implementation dates are supplied."
+    },
+    {
+      "claim": "Adam sees changes in customer status and identity as a powerful part of product value: JetSmarter made private flying feel attainable and became part of how he saw himself.",
+      "start_timestamp": "00:07:55",
+      "end_timestamp": "00:09:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Personal customer experience, not evidence that every customer responded similarly."
+    },
+    {
+      "claim": "Adam connects aspirational product design to marketing: helping users imagine a different life can make both the experience and the surrounding brand unusually compelling.",
+      "start_timestamp": "00:12:58",
+      "end_timestamp": "00:15:58",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "His enthusiasm is rooted in JetSmarter; the guest later cautions that this effect cannot simply be reproduced for unrelated products."
+    },
+    {
+      "claim": "Behavioral data revealed demand beyond the founders' initial wealthy-charter audience, and the guest says they used app engagement and rapid inventory uptake to guide product evolution.",
+      "start_timestamp": "00:16:01",
+      "end_timestamp": "00:17:11",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "No analytics reports, cohort definitions, or retention measurements are provided."
+    },
+    {
+      "claim": "Customers discovered a networking use case that exceeded transportation: shared flights created opportunities for entrepreneurs to socialize and discuss deals.",
+      "start_timestamp": "00:17:35",
+      "end_timestamp": "00:18:25",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Anecdotal customer reports; the transcript does not document completed transactions."
+    },
+    {
+      "claim": "The guest places JetSmarter's expansion within an investor environment that rewarded rapid growth, while acknowledging that this helped normalize mistakes and delayed economic discipline.",
+      "start_timestamp": "00:18:28",
+      "end_timestamp": "00:19:49",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Retrospective interpretation of her company and its funding environment, not a universal description of venture capital."
+    },
+    {
+      "claim": "Scheduled routes introduced a different economic risk from empty legs: JetSmarter prepaid aircraft and depended on filling seats, then expanded into markets where demand was weaker.",
+      "start_timestamp": "00:22:11",
+      "end_timestamp": "00:23:31",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Aviation-specific operational economics. No route-level financial statements are supplied."
+    },
+    {
+      "claim": "The guest's main correction is to understand unit economics and dominate a proven market before expanding; success with New York–Miami customers did not automatically transfer to Chicago.",
+      "start_timestamp": "00:25:05",
+      "end_timestamp": "00:26:07",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Advice derived from her expansion mistakes, not an Adam-originated framework."
+    },
+    {
+      "claim": "Adam admits that he had not calculated customer acquisition cost because acquisition seemed exceptionally efficient, preferring to wait for channels to prove out.",
+      "start_timestamp": "00:23:48",
+      "end_timestamp": "00:24:07",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "A candid historical operating choice, not proof of low CAC or a general recommendation to ignore it."
+    },
+    {
+      "claim": "Later investors changed JetSmarter's priorities toward profitability and eventual exit; the guest describes private-equity control as bringing different incentives and more emotionally detached decisions.",
+      "start_timestamp": "00:24:24",
+      "end_timestamp": "00:25:04",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Her characterization of this investment relationship; specific deal terms are absent."
+    },
+    {
+      "claim": "Booking tokens were a supply-allocation mechanism: unrestricted booking by highly available members could exhaust inventory before other members had a chance to reserve.",
+      "start_timestamp": "00:26:29",
+      "end_timestamp": "00:27:28",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Historical membership mechanics are described imprecisely; the reset period for included bookings is unclear."
+    },
+    {
+      "claim": "The intended pricing tradeoff was a lower membership fee with paid seats, but Adam says that message did not reach him; his experience centered on losing a previously included benefit.",
+      "start_timestamp": "00:27:30",
+      "end_timestamp": "00:28:04",
+      "speaker": "Lolita, guest; Adam Robinson",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Combines the guest's stated intention with one customer's response. It does not establish what every member was told."
+    },
+    {
+      "claim": "Adam recognizes that his anger over pricing changes came partly from feeling an identity-enhancing experience had been taken away, revealing a downside of intense product attachment.",
+      "start_timestamp": "00:33:27",
+      "end_timestamp": "00:34:49",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "He revises his interpretation during the conversation; this is not an independent judgment on the fairness of the changes."
+    },
+    {
+      "claim": "The guest says controlling investors led the sale process with founder participation, contributing relationships and transaction experience while focusing on shareholder outcomes.",
+      "start_timestamp": "00:30:43",
+      "end_timestamp": "00:32:17",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Her positive account of the investors' role; no transaction documents or other stakeholder accounts are included."
+    },
+    {
+      "claim": "After adverse coverage, the guest became more cautious about media exposure and favored letting operating results speak for the business.",
+      "start_timestamp": "00:28:59",
+      "end_timestamp": "00:30:40",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Her allegations that coverage was fabricated or exaggerated are unverified. This preference must not be assigned to Adam."
+    },
+    {
+      "claim": "Member-created communities amplified both the product's social value and dissatisfaction; the guest says complaints spread through independent WhatsApp groups beyond the company's narrative control.",
+      "start_timestamp": "00:34:53",
+      "end_timestamp": "00:35:43",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Guest retrospective; community scale and effects are not independently measured."
+    },
+    {
+      "claim": "The guest rejects requests to reproduce JetSmarter's exact virality for ordinary retail products, emphasizing the original product, timing, and category's unusual emotional appeal.",
+      "start_timestamp": "00:35:44",
+      "end_timestamp": "00:36:07",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Explicit boundary condition on transferring the JetSmarter marketing story."
+    },
+    {
+      "claim": "The agency emerged from existing capabilities and market demand: departing marketing colleagues needed work, and an initial technology-product focus shifted toward e-commerce after early customer experience.",
+      "start_timestamp": "00:37:07",
+      "end_timestamp": "00:39:15",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest agency origin story. Its name is inconsistently transcribed."
+    },
+    {
+      "claim": "The guest differentiates her agency through operating experience, arguing that senior-led sales followed by inexperienced delivery can leave clients without useful business-level advice.",
+      "start_timestamp": "00:39:21",
+      "end_timestamp": "00:40:47",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Based on her unfavorable accounts of named agencies; campaign failure and staffing allegations are not independently verified."
+    },
+    {
+      "claim": "Her agency model requires substantial client trust and decision authority; she says her strongest outcomes come when clients accept her recommendations, including tools she believes fit their business.",
+      "start_timestamp": "00:42:42",
+      "end_timestamp": "00:44:32",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Her claimed success guarantee is conditional rhetoric, not documented contract language or a verified success rate."
+    },
+    {
+      "claim": "Adam treats business-model sustainability as dependent on life stage and workload, using his co-founder Diana's overloaded agency experience to frame the question.",
+      "start_timestamp": "00:40:49",
+      "end_timestamp": "00:42:04",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "Diana's experience is Adam's secondhand account. His hypothetical discussion of children is not additional family biography."
+    },
+    {
+      "claim": "The guest's advice pairs ambitious dreams with sustained work and enjoyment of the process; she remembers the effort of building JetSmarter as a central part of the experience.",
+      "start_timestamp": "00:46:19",
+      "end_timestamp": "00:47:04",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest philosophy, partly echoed in the opening preview; not an approved Adam mission statement."
+    },
+    {
+      "claim": "Adam believes a clearly articulated ambitious goal can recruit people emotionally by making the founder's dream become their own; he uses the aspiration to occupy Mars as an example.",
+      "start_timestamp": "00:47:07",
+      "end_timestamp": "00:48:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "An opinion about communication and team attraction, not evidence that the referenced space ambition will succeed."
+    },
+    {
+      "claim": "Reading Shoe Dog gave Adam a benchmark for intense customer demand and made him question his earlier product; he later felt his current business was experiencing a comparable pull.",
+      "start_timestamp": "00:50:20",
+      "end_timestamp": "00:50:56",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Subjective analogy rather than a measured product-market-fit test. The earlier business is not named in this passage."
+    },
+    {
+      "claim": "The guest positions Retention.com as a way to build customer lists ahead of expensive paid-media periods and says two clients subsequently exceeded Q4 expectations.",
+      "start_timestamp": "00:53:25",
+      "end_timestamp": "00:56:33",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Agency-partner endorsement without client identities, dated results, controls, or quantified lift. Her claim that results depended on the tool is a causal opinion."
+    },
+    {
+      "claim": "Adam says strong existing cash generation allowed him to accelerate go-to-market spending, and he hoped this would avoid a later forced redesign of the business model.",
+      "start_timestamp": "00:54:54",
+      "end_timestamp": "00:55:19",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "No cash-flow statement or funding history is provided here; avoiding JetSmarter-like problems is an aspiration, not an achieved outcome."
+    },
+    {
+      "claim": "Adam says he narrowed selling to large Shopify stores in September while increasing growth investment, treating stronger focus as compatible with more aggressive execution.",
+      "start_timestamp": "00:55:20",
+      "end_timestamp": "00:55:42",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "September's year and the threshold for a large store are unspecified. This is a recording-time strategy, not necessarily current policy."
+    },
+    {
+      "claim": "Adam says transformational customer outcomes energize him, and describes money primarily as the means to finance ambitious growth; he expects compelling customer stories to spread.",
+      "start_timestamp": "00:56:36",
+      "end_timestamp": "00:57:27",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "A situated statement of motivation following an enthusiastic endorsement, not an approved enduring mission or independently established impact."
+    },
+    {
+      "claim": "Adam describes a content system that turns recurring founder videos and interviews into multiple written formats through other people's production work, reducing his own weekly time commitment.",
+      "start_timestamp": "00:58:31",
+      "end_timestamp": "00:59:16",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "He explicitly says distribution was not yet optimized. Reported hours cover his time, not the team's total labor."
+    },
+    {
+      "claim": "Adam qualifies his content system as suited to his particular circumstances and offers to explain the reasoning so the guest can decide which elements apply to her.",
+      "start_timestamp": "00:59:16",
+      "end_timestamp": "00:59:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "The explanation is proposed for another conversation; this transcript does not provide the complete system or its measured return."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Adam was a JetSmarter customer and recalls using its flights while single, traveling frequently, and enjoying the novelty and status of private aviation.",
+      "start_timestamp": "00:07:55",
+      "end_timestamp": "00:09:08",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "Historical personal context; exact membership dates are absent."
+    },
+    {
+      "claim": "Adam says he worked for Lehman Brothers, making the discussion of the 2008 recession personally resonant.",
+      "start_timestamp": "00:07:49",
+      "end_timestamp": "00:07:55",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "Captions render the firm as 'Leman brothers.' Role and tenure are not given."
+    },
+    {
+      "claim": "Adam expresses appreciation for the guest's immigrant woman founder story and says women make up half his leadership team.",
+      "start_timestamp": "00:01:35",
+      "end_timestamp": "00:01:54",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "One recording-time composition statement; no team roster or broader hiring policy is supplied."
+    },
+    {
+      "claim": "Adam taught himself marketing partly through DigitalMarketer content, including a framework comparing customers' before and after states.",
+      "start_timestamp": "00:13:04",
+      "end_timestamp": "00:13:29",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "His recollection of the framework is partial."
+    },
+    {
+      "claim": "Watching the nearby Jasper AI founders build a unicorn changed Adam's sense of what he could achieve. He wanted the possibility he felt from that experience reflected in a rebrand underway at the time.",
+      "start_timestamp": "00:13:41",
+      "end_timestamp": "00:14:33",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "The founder name is captioned 'Dave rosener' and remains unverified. This is a historical branding intention, not approved voice guidance."
+    },
+    {
+      "claim": "Adam says he participated in two M&A processes without investors on his side, which is why he asks how controlling investors change a sale process.",
+      "start_timestamp": "00:30:59",
+      "end_timestamp": "00:31:24",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Companies, dates, transaction values, and whether both processes closed are unspecified."
+    },
+    {
+      "claim": "Adam describes his previous business as stagnant and says working with unusually capable people in the current business gives him substantial energy and appreciation.",
+      "start_timestamp": "00:45:10",
+      "end_timestamp": "00:45:49",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "The previous business is unnamed here; team quality and energy are subjective assessments."
+    },
+    {
+      "claim": "Adam says he repeatedly rented a winter condo near Ajax in Aspen and spent extensive time skiing before having his first child.",
+      "start_timestamp": "00:51:39",
+      "end_timestamp": "00:51:54",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "The child's age is relative to an unknown recording date, not the publication date."
+    },
+    {
+      "claim": "Adam enthusiastically describes Aspen's summer hiking, cycling, camping, and river activities, indicating a personal interest extending beyond skiing.",
+      "start_timestamp": "00:52:16",
+      "end_timestamp": "00:53:00",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "cross-cutting",
+      "caveat": "Personal travel enthusiasm, not an author mission or a verified account of participating in every activity listed."
+    },
+    {
+      "claim": "The guest says she grew up in Uzbekistan with a lawyer father and teacher mother, began tennis as a child, and immigrated to Florida with her family to pursue the sport.",
+      "start_timestamp": "00:02:39",
+      "end_timestamp": "00:04:20",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Entirely guest biography. Academy names and portions of the chronology are imperfectly captioned."
+    },
+    {
+      "claim": "The guest says she attended the University of Florida on a tennis scholarship, met and married her husband there, and graduated into the 2008 recession before pursuing JetSmarter.",
+      "start_timestamp": "00:04:24",
+      "end_timestamp": "00:05:21",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest self-report. Calling JetSmarter their first job sits alongside a later account of her husband's brokerage work."
+    },
+    {
+      "claim": "The guest left after the acquisition because she felt poorly suited to corporate life without founder-level decision authority; she describes both feeling pushed out at times and choosing to leave.",
+      "start_timestamp": "00:36:19",
+      "end_timestamp": "00:37:07",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Her account preserves ambiguity about the circumstances of departure."
+    },
+    {
+      "claim": "The guest says responsibility toward colleagues who followed her out of JetSmarter helped drive her decision to start an agency.",
+      "start_timestamp": "00:37:07",
+      "end_timestamp": "00:37:55",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "A concrete guest decision demonstrating loyalty; not Adam's agency origin story."
+    },
+    {
+      "claim": "The guest links her need to work to childhood athletic discipline, says helping businesses grow gives her purpose, and hopes longstanding team members will eventually run the agency.",
+      "start_timestamp": "00:42:06",
+      "end_timestamp": "00:45:07",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Succession is a possibility she describes, not a completed transition."
+    },
+    {
+      "claim": "The guest credits tennis with shaping her while saying she no longer enjoys or plays it; she values sports for discipline and teamwork without requiring her children to pursue her sport.",
+      "start_timestamp": "00:49:04",
+      "end_timestamp": "00:49:50",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest family and values context, not Adam's."
+    },
+    {
+      "claim": "The guest names Shoe Dog and Building a StoryBrand as influential books. Adam praises Shoe Dog and says he intends to read the other recommendation.",
+      "start_timestamp": "00:49:53",
+      "end_timestamp": "00:50:23",
+      "speaker": "Lolita, guest; Adam Robinson",
+      "claim_type": "interpretation",
+      "pillar": "cross-cutting",
+      "caveat": "Building a StoryBrand is the guest's recommendation, not evidence that Adam had already read or adopted it."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Adam's company: women constituted approximately 50% of his leadership team at recording.",
+      "start_timestamp": "00:01:35",
+      "end_timestamp": "00:01:44",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "Self-report; denominator, company entity, employment status, and recording date are not supplied."
+    },
+    {
+      "claim": "Guest biography: tennis began at age seven; immigration to Florida is dated to 2000 at age 13; she says she turned professional at 14 and graduated university in 2008.",
+      "start_timestamp": "00:03:03",
+      "end_timestamp": "00:04:59",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest self-report. Her discussion of applying for a green card around age 11 and considering Florida around 13 is not fully chronological."
+    },
+    {
+      "claim": "JetSmarter chronology: the guest dates app development to approximately 2011, calls founding-to-exit a five-year journey, and twice dates acquisition to 2018.",
+      "start_timestamp": "00:02:00",
+      "end_timestamp": "00:36:22",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Relevant anchors are 00:02:02, 00:06:17–00:06:23, 00:18:53–00:18:59, and 00:36:19–00:36:22. The transcript does not reconcile development, formal founding, and exit dates."
+    },
+    {
+      "claim": "JetSmarter funding: Adam proposes approximately $1 billion raised; the guest corrects this to a valuation figure and says funding was close to $200 million.",
+      "start_timestamp": "00:09:11",
+      "end_timestamp": "00:09:24",
+      "speaker": "Adam Robinson asks; Lolita, guest, corrects",
+      "claim_type": "guest_statement",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Historical guest self-report, with units partly implied by the exchange. No round dates, exact valuation, investor allocation, or exit proceeds are given. These are not revenue figures."
+    },
+    {
+      "claim": "JetSmarter customer pricing: Adam recalls membership costing a couple of thousand dollars per month with certain flights included.",
+      "start_timestamp": "00:08:27",
+      "end_timestamp": "00:08:38",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Approximate historical customer recollection; 'free' flights were within a paid membership."
+    },
+    {
+      "claim": "Private-charter comparison: the guest uses approximately $30,000 for a flight to New York as an illustration of whole-aircraft charter expense.",
+      "start_timestamp": "00:09:43",
+      "end_timestamp": "00:09:52",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Illustrative price, not a documented fare, average, or JetSmarter revenue metric; origin and date are unspecified."
+    },
+    {
+      "claim": "GetEmails: Adam says the business had been stuck at a historical high-water mark of $267,000 per month.",
+      "start_timestamp": "00:14:05",
+      "end_timestamp": "00:14:18",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Self-report; the spoken passage does not explicitly label the amount revenue, MRR, profit, or cash. Do not annualize it into ARR."
+    },
+    {
+      "claim": "Jasper comparison: Adam says he had rented a desk from its founder for four years, Jasper had started two years earlier, an early text reported a first customer seven days after the idea, and he watched the team build a unicorn in a year.",
+      "start_timestamp": "00:13:46",
+      "end_timestamp": "00:14:23",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Adam's recollection of another company's trajectory; all intervals are relative to recording. 'Unicorn' is a valuation description, not revenue or Adam's achievement."
+    },
+    {
+      "claim": "Adam's product comparison: website forms capture emails from 2% of traffic, whereas his product captures 40%, according to his description.",
+      "start_timestamp": "00:15:38",
+      "end_timestamp": "00:15:49",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Promotional self-report without sample, period, eligibility criteria, or measurement method. Not evidence of a universal conversion rate or consent mechanism."
+    },
+    {
+      "claim": "JetSmarter engagement: the guest says members checked its app more often than Facebook or Instagram, and empty-leg inventory could sell out within seconds of notifications.",
+      "start_timestamp": "00:12:34",
+      "end_timestamp": "00:17:11",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Historical self-reported comparisons at 00:12:34–00:12:56 and 00:16:49–00:17:11; no usage counts or analytics methodology."
+    },
+    {
+      "claim": "JetSmarter growth: the guest says it reached approximately 100% month-over-month growth at some early stage before slowing.",
+      "start_timestamp": "00:18:41",
+      "end_timestamp": "00:19:08",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Self-report after Adam suggests the number; the metric being doubled, base size, months, and duration are unspecified."
+    },
+    {
+      "claim": "Growth-era illustration: a reference to growing 50% per month appears during the discussion of prioritizing member acquisition over unit economics.",
+      "start_timestamp": "00:24:07",
+      "end_timestamp": "00:24:18",
+      "speaker": "Likely Lolita, guest",
+      "claim_type": "uncertain_speaker",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Turn boundary is not diarized. The wording is illustrative and does not securely establish a separate achieved growth metric for either company."
+    },
+    {
+      "claim": "JetSmarter price change: Adam recalls his New York–Chicago shuttle moving from included in membership to approximately $600 per flight.",
+      "start_timestamp": "00:20:53",
+      "end_timestamp": "00:21:33",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Historical customer recollection. His suggestion that a sale followed two months later is explicitly approximate."
+    },
+    {
+      "claim": "JetSmarter New York–Miami route: the guest says it was highly profitable and at one point operated 10 times per day with flights consistently filling.",
+      "start_timestamp": "00:25:20",
+      "end_timestamp": "00:25:34",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest self-report; no dates, load-factor records, margin calculation, or directional breakdown."
+    },
+    {
+      "claim": "JetSmarter membership: the guest recalls a Smart membership priced at $15,000 per year, with two included flight bookings on certain routes and payment required for a third.",
+      "start_timestamp": "00:26:57",
+      "end_timestamp": "00:27:18",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Booking/reset period is unclear; do not restate this as only two flights per year. Historical tier pricing, not necessarily the same plan Adam recalls."
+    },
+    {
+      "claim": "Private-equity timing: the guest describes Series C investors as seeking an exit within three to five years.",
+      "start_timestamp": "00:24:24",
+      "end_timestamp": "00:24:42",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Her characterization of investor expectations, not a verified contractual deadline or JetSmarter's measured holding period."
+    },
+    {
+      "claim": "JetSmarter ownership model: the guest says the original business owned no aircraft, whereas the acquiring organization controlled aircraft supply through ownership.",
+      "start_timestamp": "00:28:28",
+      "end_timestamp": "00:28:53",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Guest self-report at recording. No fleet count is given, and 'we' shifts between JetSmarter and the successor organization."
+    },
+    {
+      "claim": "Adam's transaction experience: two M&A processes with no investors in either, as of recording.",
+      "start_timestamp": "00:31:01",
+      "end_timestamp": "00:31:10",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "A process count, not necessarily two completed exits; no values, dates, or company names."
+    },
+    {
+      "claim": "JetSmarter customer communities: the guest recalls approximately 20 member-managed WhatsApp groups and uses a group of 200 members to illustrate how complaints spread.",
+      "start_timestamp": "00:34:59",
+      "end_timestamp": "00:35:35",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Historical estimates; 200 is presented as an example. Do not multiply these figures into a verified unique-member count."
+    },
+    {
+      "claim": "JetSmarter marketing resources: the guest says she spent millions of dollars on marketing, had an internal marketing team of about 30 people, and worked with VaynerMedia for approximately six months.",
+      "start_timestamp": "00:37:38",
+      "end_timestamp": "00:39:57",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Self-reported historical scale; spending period and exact amount are absent. Thirty people is not classified as FTE versus contractors, and is not the later agency's headcount."
+    },
+    {
+      "claim": "Guest agency: she reports gaining many customers within the first month, operating cash-flow positively, and later having a very profitable model.",
+      "start_timestamp": "00:39:00",
+      "end_timestamp": "00:44:02",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "bootstrapping versus VC",
+      "caveat": "Relevant anchors are 00:39:00–00:39:14 and 00:43:54–00:44:02. No revenue, cash, profit, margin, or customer-count amounts are disclosed."
+    },
+    {
+      "claim": "Guest agency client case: she describes a brand growing from '500k in revenue to 12' over 18 months.",
+      "start_timestamp": "00:44:07",
+      "end_timestamp": "00:44:18",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Client outcome claimed by the agency owner. Captions omit the unit after 12 and do not specify currency or revenue reporting period; do not silently convert it into $12 million annual revenue."
+    },
+    {
+      "claim": "Guest family: she says she has two children, ages 13 and 11, at recording.",
+      "start_timestamp": "00:48:52",
+      "end_timestamp": "00:49:04",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest biography only; ages must not be anchored to the publication date."
+    },
+    {
+      "claim": "Adam's demand comparison: he places approximately eight years between reading Shoe Dog and experiencing similarly intense demand in his own current business.",
+      "start_timestamp": "00:50:23",
+      "end_timestamp": "00:50:50",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "SaaS building",
+      "caveat": "Approximate retrospective interval, not a dated growth series."
+    },
+    {
+      "claim": "Adam's personal timeline: five consecutive winter condo rentals near Ajax, approximately 300 ski days, and a first child born roughly six months before recording.",
+      "start_timestamp": "00:51:39",
+      "end_timestamp": "00:51:54",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "cross-cutting",
+      "caveat": "Ski days appear cumulative rather than annual. Recording date is unknown, so no calendar birth date can be inferred."
+    },
+    {
+      "claim": "Retention.com agency comparison: the guest refers to approximately two case studies involving a shoe brand and a fashion brand, with early-year adoption followed by results exceeding Q4 projections.",
+      "start_timestamp": "00:53:25",
+      "end_timestamp": "00:56:33",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest endorsement; year, client names, list growth, revenue lift, and counterfactual are absent. '100% related' is an attribution assertion, not a 100% performance increase."
+    },
+    {
+      "claim": "Retention.com growth planning: Adam describes a 24-month opportunity window, strong positive cash flow when accelerating go-to-market, and a September decision to sell only to large Shopify stores.",
+      "start_timestamp": "00:54:54",
+      "end_timestamp": "00:55:39",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Twenty-four months is a strategic estimate or target window, not an achieved result. September's year is unspecified; cash flow is unquantified."
+    },
+    {
+      "claim": "Guest Twitter presence: she says she started a couple of weeks earlier and had approximately 60 followers.",
+      "start_timestamp": "00:57:44",
+      "end_timestamp": "00:58:07",
+      "speaker": "Lolita, guest",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Guest self-report at recording, not Adam's audience size or a publication-date figure."
+    },
+    {
+      "claim": "Adam's founder-content production: approximately three to four hours of his time per week produced around 35 pieces of content, using daily founder videos, one interview per week, repurposed LinkedIn posts and daily Twitter threads, plus two newsletters per week.",
+      "start_timestamp": "00:58:31",
+      "end_timestamp": "00:59:16",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Self-reported output, not engagement or revenue. Other people perform repurposing; headcount, employment status, and labor are unstated. The cadence of 'two LinkedIn posts' is grammatically ambiguous, and the components are not reconciled with 35."
+    },
+    {
+      "claim": "Final-segment LinkedIn post: an unidentified speaker reports 841 comments and approximately 500 likes on a post published the previous week.",
+      "start_timestamp": "00:59:33",
+      "end_timestamp": "00:59:49",
+      "speaker": "Unidentified final-segment speaker addressing Adam",
+      "claim_type": "uncertain_speaker",
+      "pillar": "building in public",
+      "caveat": "Not Adam's post metrics. The passage appears appended or abruptly transitioned; speaker, post, recording date, and measurement time are unverified."
+    }
+  ],
+  "tensions_and_corrections": [
+    "The title implies a rise from a $200 million valuation to over $1 billion. The conversation instead corrects Adam's guess of $1 billion raised to roughly $200 million in funding and a billion-dollar valuation. It provides no documented valuation progression.",
+    "The release date is March 10, 2025, but the recording date is unknown. References to Jasper starting two years earlier, a six-month-old first child, September positioning, and recent Q4 results must remain relative.",
+    "The guest describes development beginning around 2011, a five-year founding-to-exit journey, and acquisition in 2018. These could refer to different milestones, but the source does not reconcile them.",
+    "JetSmarter is called the founders' first job, while the guest also says her husband worked for a jet broker before building it. Preserve the distinction instead of inventing a career chronology.",
+    "Adam initially interprets the pricing changes and sale as a possible flameout. The guest presents a successful acquisition and continuing business, and Adam acknowledges that personal disappointment and media coverage shaped his earlier view. The interview alone cannot adjudicate the transaction's success.",
+    "The guest acknowledges overexpansion and delayed attention to unit economics while defending the pricing transition and rejecting claims of wrongdoing. Her operational admissions and reputational defenses should both remain visible.",
+    "Adam admires intense emotional attachment as a product ambition while acknowledging that it made him react personally to lost benefits. The guest adds that the same attachment amplified complaints.",
+    "The guest recommends unit-economic discipline, whereas Adam admits he had not calculated CAC. His later statements about strong cash flow and tighter focus do not establish that he subsequently measured CAC.",
+    "A lower membership fee plus paid seats was the guest's intended tradeoff, but Adam did not perceive it that way. Different membership prices and booking limits should not be collapsed into one universal plan.",
+    "The guest says New York–Miami was profitable, but that is not equivalent to JetSmarter being profitable overall. Growth percentages also lack a defined metric and period.",
+    "The agency case caption says revenue grew from 500k to '12'; the terminal unit and revenue period are missing. No reliable $12 million or ARR claim can be extracted.",
+    "Retention.com endorsements are commercially connected agency-partner statements. Claims that the tool caused record Q4 performance or helped clients weather a recession are not controlled causal evidence.",
+    "The guest's caution about media exposure differs from Adam's active founder-content strategy. Neither position should be converted into a shared doctrine.",
+    "Adam's reported content totals are approximate, include team production, and are not fully reconciled with the listed cadence. His personal hours are not total production hours.",
+    "The final LinkedIn engagement passage has uncertain attribution and likely represents a separate segment. Its 841 comments and roughly 500 likes must not enter Adam's social-proof ledger.",
+    "Automatic captions are inconsistent for the guest's name, agency, Jasper founder, and JetSmarter successor brand, rendered 'EXO.' No external correction was attempted.",
+    "Statements about future brand voice, ambitious dreams, customer impact, or work motivation are historical source material, not approved voice or mission claims. Public reuse remains uncleared."
+  ],
+  "reusable_topics": [
+    "Products that change a customer's sense of status and possibility",
+    "Finding a market by repackaging unused inventory",
+    "How new product features change the underlying economics",
+    "Customer communities as both distribution and backlash channels",
+    "Why a winning route or segment may not generalize",
+    "Pricing transitions and the emotional cost of removing benefits",
+    "What controlling investors change about growth and exits",
+    "Cash-funded growth alongside tighter customer focus",
+    "A founder's admission that CAC had not yet been calculated",
+    "Learning ambition by watching nearby founders succeed",
+    "Customer-demand benchmarks drawn from Shoe Dog",
+    "Team quality as a source of founder energy",
+    "Agency positioning grounded in operating experience",
+    "Client trust and decision authority in agency delivery",
+    "Partner endorsements versus proven causal product impact",
+    "Founder content repurposing and the difference between founder time and total labor",
+    "Why content systems need context-specific adaptation",
+    "Business choice, family stage, and sustainable workload",
+    "Guest lessons on leaving founder control after acquisition",
+    "Separating fundraising, valuation, revenue, profit, and cash flow"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:00",
+    "last_timestamp_reviewed": "00:59:49",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript, including the opening montage and abrupt final segment; no web search, shell actions, file access, edits, or other agents were used.",
+      "Automatic captions are not diarized. Speaker attribution is contextual and the final speaker remains uncertain.",
+      "The source metadata gives a 3,591-second duration; the final supplied caption begins at 00:59:49. No content beyond the supplied text was available.",
+      "Publication and capture dates are known, but recording date is not. Relative dates were not converted into calendar dates.",
+      "Business figures, biographies, customer outcomes, media allegations, and competitive firsts are source statements rather than independently verified facts.",
+      "Some grouped ledger entries span multiple passages; precise supporting anchors are included in their caveats where needed.",
+      "This extraction supports private wiki synthesis only. Public accessibility does not establish clearance for reuse in new public copy."
+    ]
+  }
+}

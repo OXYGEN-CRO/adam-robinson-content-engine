@@ -1,0 +1,13 @@
+{
+  "id": "Xovf7vlPfOU",
+  "source_sha256": "2d90351785ee23c7e784b6bbc86ee8a9e4fb21aae471a4e05ba5d332dc6edf47",
+  "source_characters": 14514,
+  "source_word_count": 1945,
+  "prompt_sha256": "a4b9cfce5fe989a5cad42142306787e7fdf62ef76ab68a6b9067faab06f03df1",
+  "started_at": "2026-09-08T07:59:20.701882+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/Xovf7vlPfOU/Xovf7vlPfOU.md",
+  "pid": 75980,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:02:28.033794+00:00"
+}

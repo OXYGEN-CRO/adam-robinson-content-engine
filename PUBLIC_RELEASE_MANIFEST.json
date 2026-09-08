@@ -1,0 +1,1093 @@
+{
+  "date": "2026-09-08",
+  "public_repository": "https://github.com/OXYGEN-CRO/adam-robinson-content-engine",
+  "source_head": "ac079860935c0506d8e4dbeb38725997a1baadc3",
+  "source": "working-tree snapshot; existing uncommitted content included",
+  "history": "not included; private source history preserved separately",
+  "included_files": 2503,
+  "omitted": [
+    {
+      "path": ".playwright-mcp/page-2026-09-08T07-42-05-796Z.yml",
+      "reason": "local workspace or incidental artifact"
+    },
+    {
+      "path": "2026-09-08.md",
+      "reason": "local workspace or incidental artifact"
+    },
+    {
+      "path": "Adam Robinson Webinar/Welcome.md",
+      "reason": "local workspace or incidental artifact"
+    },
+    {
+      "path": "brand/motion/audio/library/music/ambient-underscore.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "brand/motion/audio/library/music/electronic-underscore.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "brand/motion/audio/library/sfx/landing-tone.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "brand/motion/audio/library/sfx/selection-tick.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "brand/motion/audio/library/sfx/send-click.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "brand/motion/audio/library/sfx/short-impact.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "brand/motion/audio/library/sfx/short-riser.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "brand/motion/audio/library/sfx/short-whoosh.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "brand/motion/audio/library/sfx/success-chime.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "brand/motion/audio/library/sfx/typing.mp3",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "moltsets-live.png",
+      "reason": "local workspace or incidental artifact"
+    },
+    {
+      "path": "raw/sources/2026-09-08-moltsets-brand/fonts/SF-Mono-Bold.woff2",
+      "reason": "proprietary reference font"
+    },
+    {
+      "path": "raw/sources/2026-09-08-moltsets-brand/fonts/SF-Mono-Heavy.woff2",
+      "reason": "proprietary reference font"
+    },
+    {
+      "path": "raw/sources/2026-09-08-moltsets-brand/fonts/SF-Mono-Light.woff2",
+      "reason": "proprietary reference font"
+    },
+    {
+      "path": "raw/sources/2026-09-08-moltsets-brand/fonts/SF-Mono-Medium.woff2",
+      "reason": "proprietary reference font"
+    },
+    {
+      "path": "raw/sources/2026-09-08-moltsets-brand/fonts/SF-Mono-Regular.woff2",
+      "reason": "proprietary reference font"
+    },
+    {
+      "path": "raw/sources/2026-09-08-moltsets-brand/fonts/SF-Mono-Semibold.woff2",
+      "reason": "proprietary reference font"
+    },
+    {
+      "path": "raw/sources/2026-09-08-moltsets-brand/homepage.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/input-morph-assemble.jpg",
+      "reason": "research-only imagery"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/input-morph-assemble.mp4",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/launch-motion-example.jpg",
+      "reason": "research-only imagery"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/launch-motion-example.mp4",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/shotcraft-1.jpg",
+      "reason": "research-only imagery"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/shotcraft-1.mp4",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/shotcraft-2.jpg",
+      "reason": "research-only imagery"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/shotcraft-2.mp4",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/terminal-typewriter.jpg",
+      "reason": "research-only imagery"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/demos/terminal-typewriter.mp4",
+      "reason": "research media or undocumented audio redistribution entitlement"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/studios/buck-apple-0.jpg",
+      "reason": "research-only imagery"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/studios/buck-apple-1.jpg",
+      "reason": "research-only imagery"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/studios/buck-apple.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/studios/buck-comfy.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/studios/buck-notion-0.jpg",
+      "reason": "research-only imagery"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/studios/buck-notion-1.jpg",
+      "reason": "research-only imagery"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/studios/buck-notion.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/launch-motion-quality-2026-09-08/studios/mvsm-apple.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/rb2b-operating-map/engineering/rb2b-data-services-agreement.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/rb2b-operating-map/engineering/rb2b-security-faq.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/rb2b-operating-map/engineering/rb2b-security.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/rb2b-operating-map/engineering/rb2b-subprocessors.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/rb2b-operating-map/engineering/retention-about.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/rb2b-operating-map/engineering/robb-pr-documentation.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/rb2b-operating-map/engineering/robb-role-change.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "research/rb2b-operating-map/engineering/robb-toolkit.html",
+      "reason": "saved third-party website markup"
+    },
+    {
+      "path": "strategy/notion.json",
+      "reason": "workspace-specific connection configuration"
+    }
+  ],
+  "sanitized": [
+    {
+      "path": "raw/sources/2026-09-08-linkedin/page-02-request.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "df21dd0f3901f90769a70c881e15e097cb63c49395f0f34b198e74308c1e0805",
+      "public_sha256": "2af259fec5d59e253a7b4fb837ed1497beb72f073e8aeaea83b314b3988902d4"
+    },
+    {
+      "path": "raw/sources/2026-09-08-linkedin/page-05-request.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "c5dbfaf3d20069f66fc176d5f089f227cfa83422846c881431a08cabdb7e652c",
+      "public_sha256": "5d1a572528595f66d4819940d5235973b8a7b040d08af5af2246394cd6c85f04"
+    },
+    {
+      "path": "raw/sources/2026-09-08-linkedin/responses/comments-32-live.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "e178659cb81cb26e967a656acc9dbcba28828de3abb1c6d63a3c89136dff8e50",
+      "public_sha256": "c7d8e020826c71735d5836b70d40104f10afd6e7a389e73c019b6c6c919ff7c7"
+    },
+    {
+      "path": "raw/sources/2026-09-08-linkedin/responses/comments-descriptor.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "e6bb0f4805eb49dd15aa85dc6fc251b2bfc513850b2c806a17fb80ef4e89bb9b",
+      "public_sha256": "b4b962e1fceeffcd1849c51f8d42f813d96ee335c6c9e87354d18a31bbc6acf1"
+    },
+    {
+      "path": "raw/sources/2026-09-08-linkedin/responses/extension-ingestion-items.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "3043c5eb4d6daa306048a2a0ff50e239956b72bc8287241175a008b3c90f67f8",
+      "public_sha256": "373a524324b95962157caa6602f15f27ed2f5b0c6af1a70252e7db737c623d7c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-linkedin/responses/ingestion-items.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "9a041d5a7b5a33fab5e28630f8207c41909f8455b475c7f2d222b3b214b21cb3",
+      "public_sha256": "23cc62d8ce522d3b920267504c0395767808b3d0661746f9025f65ebbb63e0b6"
+    },
+    {
+      "path": "raw/sources/2026-09-08-linkedin/responses/page-01-live.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "6fc1003992b5253eb7c15fc608b45f02889c58cb0f3692f9e1f5bf3a2df6aedd",
+      "public_sha256": "ef49e0ccbb24946ccba2a020a9e08de0ad5baa7e8efbb390501e2319a1a3a1e2"
+    },
+    {
+      "path": "raw/sources/2026-09-08-linkedin/responses/search-dry-run.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "f031888defaa82f2c6e0d38c785f994262dc075c77793b877a9c7d86802c7234",
+      "public_sha256": "e61b4b86b2d509e63f77867a084deba17f622dcebf329a1a50d184cecb04374c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-linkedin/responses/search-extension-dry-run.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "e33dd6aa81a92c02990d6112c05a763f87f30d22b490a0190a11c6711047a898",
+      "public_sha256": "0083cba2c6065ac9dc53d4ef3958b69f6a967730852d3698123d47a45620a71e"
+    },
+    {
+      "path": "raw/sources/2026-09-08-linkedin/responses/tool-descriptor.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "d2873017ab30ba4e21e24bac376ea2ecb5c9396d16595c064881b8ae6b9a55ec",
+      "public_sha256": "b0b1731c5855eab1887015f0851c1e404f2844c38c4bc4a8a95405470af121ab"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/-4-S3d65UB8/-4-S3d65UB8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "4a5f8446e6911062f51654d4884f00f6d1421eef07442e2d171760059e321e39",
+      "public_sha256": "0e28a24dab8290700d95569878282a4b8b51ba23e1fb9186d8532c4f7f227702"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/-GDzNq_R0b8/-GDzNq_R0b8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "614d66f7b9bfa56e3468b9c6a6abcd7d67d7c5ae10e35ca1ef53122e8707d1ef",
+      "public_sha256": "15b83cee1d8ad5a530788185b0d502794560a6d9f108c4fc1573f51f62e241f2"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/-bxEuj8Reaw/-bxEuj8Reaw.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "e6e0ed7bae0ffdca6a09697b289987c3a02bdfceecd6328eaa6cb00f9d9276f8",
+      "public_sha256": "4e106e6bc2c587afbeb621fc056f7e170cd370d9228367c53b8b518a07307cad"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/1f19uvtzNds/1f19uvtzNds.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "a98f063dd9d22b6127887b705277388087f6cdbc71b1615599ed94a1048add64",
+      "public_sha256": "083044bc34c07b0b250a154c2ec4d66a0d29239e1ed404a1aedb468ffce6b037"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/23rVr8tozS8/23rVr8tozS8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "7a4be73d288471ce29e32a3e2fc8d7227740e07971227ff2a69d90bdac484a02",
+      "public_sha256": "863d1a82d739c6a295cb0f2efeecd101751f914c795cca5abdd3af5d60c613ba"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/3nvVMHHJffE/3nvVMHHJffE.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "639f7b3ff209d5ebe5be65b800fa72f2c05938b8714fe95915e61bfdbc6baae5",
+      "public_sha256": "11f410e6eb4aba4094fe57627d5703174f39200b566d91627f97f9e16c802e97"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/3wjL3IATsyg/3wjL3IATsyg.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "81beff94ee6c6b81b838873cb48b3c9b4ebc94971687e33b0d41a5ee36527f11",
+      "public_sha256": "4b1e0b62fd0b0e12e2a09e9a82e6a15c4debc4a61731ade4da4faefaa642847a"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/4-lZGjy_8b4/4-lZGjy_8b4.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "33c059c2da9bb23b0aece445637e9a4777bdf27bb8d687b31080f5ed236a4a5a",
+      "public_sha256": "95763abdb6a122914569b0d9aabe4df2372f85b6d1b5d4b3f824890765076335"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/4ET8JOhGab0/4ET8JOhGab0.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "5b8bdc5059bcba21dc384c39e9fd6917623a043190cb3540729a55d260df9112",
+      "public_sha256": "99eadb6557d469c0b615920f5d62356baf42343012e44c4ba8d024307d70fc03"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/4KPeKgSMQwE/4KPeKgSMQwE.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "91f06112f5deb2ac5bb349aacaf7e9118d6953f61b263973f4b17d57c25358e7",
+      "public_sha256": "b3fe30dc42dabcd86e2a405f731d92b740cffadb4fdd7c6cc0f6f121b8e295be"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/4SpQrjf1mwA/4SpQrjf1mwA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "5fb2d024ea8b8f6435d5f8476847fa8b636c7ccc9d00952b566780f7418911f4",
+      "public_sha256": "35931e078b71c3978dbfb5a0c2531d364ba927aa9adb91dc04d6021cdc131dae"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/4Wyy1YiMWwo/4Wyy1YiMWwo.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "f6123acc43d0344eb368a975d3b0cd4c02b44d710366413a960e25fac8d66f69",
+      "public_sha256": "d0d133a20d2f5e43525ead32cfc645e80c0a14d4dec681ab9b92b2c340d5fad2"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/4jfGqnINI6U/4jfGqnINI6U.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "215b2881bd090d7497039732efadd5d3b18fdd08f45ab942475d671e9aa5ee42",
+      "public_sha256": "e95ada28c2aa689923976fcc6b9bdd9b0933acab4034565b3424af5c9c646598"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/4vJt-djbbNw/4vJt-djbbNw.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "758d24fb50b6f00131d42200fa13f8a0d08a39180edf9558396dbfc041f19f0d",
+      "public_sha256": "e8b98004724445dabdde5d3a9d74d1b67d2017e7eb0e0317fc32dbc0a42fc578"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/5bHhkk6UyMM/5bHhkk6UyMM.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "c308a7f2e557d0efb3dee0e1825672c2ed849cae9108af15666f274380efd94b",
+      "public_sha256": "17fac29c1c456779baf8fcf7badcf410fff999430ecc27bce473f073f9e5394b"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/5rO_EoQrkH0/5rO_EoQrkH0.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "7308be0c912d330734f6422c03565f48f275d407a78750fedf51f14e7373577b",
+      "public_sha256": "bf3e8cf32420c616c395e749787766054f49bd426d31f475ba56e856434f76cf"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/5uK1VVxVE5k/5uK1VVxVE5k.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "85981af6d7afdae9ec74b7f7e93a00a7767c39802ee6b7b281953bcafeebf531",
+      "public_sha256": "083cfac0ce4e91fd9ae27565728d82d8d25bfa00fe637c314de10bfa8494c145"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/6kxymC32AvI/6kxymC32AvI.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b44fa2e1f5fa6277975135ba5674d8ed63bf567a767b34f36753b9df05452f98",
+      "public_sha256": "e2a623486cdd5d25ed8440eabf693c205034751583492ee7587595bacd19fbf2"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/6nbfDm2B6fc/6nbfDm2B6fc.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "8038492f3142aeb7861d3cd6bdaea41f3fb87b4be0094289e316d731f517d603",
+      "public_sha256": "fc33717d407af699a852b4fb7f2717e11425692f722f382682e16380ed02b1ac"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/7p-QD-3MtBw/7p-QD-3MtBw.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b2cabab8f13f2230d924b31e52e667decc7e4f6bcc1d5d8228392345653f512a",
+      "public_sha256": "9fa32d37b412df3e3206caf32f295f3c5e74de9add7aa33cf503bfdbf7890b2c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/89Jl-njDguM/89Jl-njDguM.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "8f703e5bdfd4d373204ae0d9dd23518ceca376b49e1629b8745f067b4ca447ba",
+      "public_sha256": "3bbd44bdfa242f2adc82b8bb9363e2f9cd41083080dbc1e417c1ccfac29cb1f3"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/8KobZxJcq4A/8KobZxJcq4A.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "3b5b0d289e182172aad104a6e524f508fc82e5720f2e454bec276ec67fcf0d9a",
+      "public_sha256": "6616a701b4b6f5dc7203092806437479b6e6620d2c1b3c3d6a59755e77c21544"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/ACMED_IDZb8/ACMED_IDZb8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "2a1370fa5bb7be557aa776e9e1e35a5672eadbfca002cd37fef2124de72f0844",
+      "public_sha256": "f52512925934b86477b1220fc12584067a240dcb4f8c71c0ec0aa7acabd55208"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/AdFLL-bFEFI/AdFLL-bFEFI.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "38117dfbbd612a0b28ba0347a02a8b453b50ae2d99cf3d59b7d08173abef5df3",
+      "public_sha256": "13eeb8954d233224e130c0fb2c35b39cfd4a742c330801b9e5492d3fcf019552"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/Ax8HXMz5n1c/Ax8HXMz5n1c.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "546ce8aa25b783020c6ecb834e8c760be235f645c5aa39f21946e5be23864f34",
+      "public_sha256": "ee174791e5505ce23cc16b04eee1f5cccca12ea1bf1b34c6f0b779fae92d93f0"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/C7n2q31PPh4/C7n2q31PPh4.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "609ec45d07f8619f3f2adbf59b8b1c171a8bf2480b336e46987c50894debb19f",
+      "public_sha256": "d743faea71b6d0a1d4cf4b0b8efae36e05cae4577f1105d83054ac257f49300f"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/CKlfNFms790/CKlfNFms790.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "5ffe38c345c08fc35c006e6319f3ba2a7c0e7d1e91b7a410feaa63780d0cde26",
+      "public_sha256": "0f80b29822003c01721c72a8afbb9cf5e2c25d2a56fe48ad827a6b68183d7a58"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/CqlO3vkU_zo/CqlO3vkU_zo.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b00430805446dfd69d596335d44ac7f945a82804c40a169688e52da709582b14",
+      "public_sha256": "18e69a77926853e2fcf5dbe170466505310c745b6d0276fa8fee6869ed41e067"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/D-8umeDdYP0/D-8umeDdYP0.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "17e3c208edffc75b940f6dbcdecc4837098576057d5dbfe24b8a431b4bb1ff6c",
+      "public_sha256": "dc3e8e60eeddce94a2f12b515d285c4c090603a95cc90383c5efa8b26a0e5d07"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/EdDAHrvBDPM/EdDAHrvBDPM.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "ddf618e13a01aa8e1646ebb61bcb336aee169b908a9864ae663e3505455c1381",
+      "public_sha256": "0a87f247587d275f96d73bc1fb07526fa93c0ae48066b4cea2ae8672e249a48e"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "aea1ee9e9c5d806c08f52614726f0542e57fdc213544a3495a2047578fc0e87b",
+      "public_sha256": "0f961c09d55d62a0e358a74a1a2659a9156b5a8d2226f25d197604615fc6e743"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/F-WwDP1d-pM/F-WwDP1d-pM.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "f5e58a269f33ce63612a0d497eb5c306b2c70bcfe564288468ef77021fe93fe9",
+      "public_sha256": "1910dbcaef9172836a849462cc2ac42f074c7ef268b7e83cfb38b14e0bd5bd4e"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/F984DqdFtXo/F984DqdFtXo.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "6f116d7d2dadf2108911fc4166f4d5dd127eecdce27a53f91449dbe1cbe8b370",
+      "public_sha256": "b8f988e73b65a7478172af44c5c49ecf0b588e4ec4c939a5dccc0918a8d2f6d0"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/FVE3uyM94uc/FVE3uyM94uc.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "472b5d6288bfacf22ba41c3ec5cf7609c5b913cbbd3a907bbcf32e5e4e535395",
+      "public_sha256": "64978f885ba7f77c367664462b1ffaf17cdd677df5d0751249e1538a24f5931f"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/GP3NeYdp6qM/GP3NeYdp6qM.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "4b7b2c0049446dc7b2f9a4c140a6299bcd3e3761e9175bab71dd27adeb77abcb",
+      "public_sha256": "0933130bd68f33beee640318fcb8f76ff2e6d4eea3f6d88462f27121dc39ee07"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/H4LpPMR6v1E/H4LpPMR6v1E.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "4bad5c5ada00259a9f8f2f6e653a8128d105828e03be0be8bb01eb15fb595c3a",
+      "public_sha256": "81fb1f2af31a1e165f68fde981e70ab4c3561131eca584eead7734a980d8d6b7"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/HIuvLo23R2M/HIuvLo23R2M.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "2a61c6da58fbe5ab30a2a2a080c3fbea701ac28ee32b39e41d7faeb46408c199",
+      "public_sha256": "e0a63306f094062684be79290ae8bccd9965be152876bf9c772ec9c911728997"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/I0OCKRPDQPY/I0OCKRPDQPY.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "ee5d23b84d7d174bafb42898a3b543b8e9ad28770611d47a618d33133f1a8986",
+      "public_sha256": "715edf2c149b75aa5c44b40d593f1c3058165d57ca734004ebbbb7cd13f8c295"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/IS4rbNLdPOk/IS4rbNLdPOk.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "1222458d6e7728c5b3b23a4fe058780327b177f48b5c963a27421cdc0db51d5a",
+      "public_sha256": "43205216d4b3c8e2c5281967b398b85a5c765cc28252b6e838263cd2db2f9d21"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/IlM44T-Pl_o/IlM44T-Pl_o.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "0a6e6ae3e4c2b5a87457d31235ce5f63966fa012aaee6fe19a25ed33cbb0eb60",
+      "public_sha256": "3ed4652a131719ce43b37bb1154057548eb7ef7bbfbb60002bd419d79f5add18"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/JWK_aDfl9VI/JWK_aDfl9VI.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "331c8efdbf392339a99260dcb58579c6578a8be8f6ccaf9a0d46ac0485712769",
+      "public_sha256": "d422dd7fc22f732990241739b63a39d353f81a32cdbbc7ca962560f20b63d5e8"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/JZiUalL7h-8/JZiUalL7h-8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b5a650e483501b50c9e8014190c39b5099d2f00a7af8ebb4ec7f897d41d857a2",
+      "public_sha256": "43a0f51c51601059e8d471584604c0e4f4166637d42fb4621543e4aa4465435c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/JaN_78GB638/JaN_78GB638.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "c42338675151f00b0d50f2f128379dc0bf7a88fc748f08303119dfdee674455d",
+      "public_sha256": "8b830c42dd5fb52f276f65f54545d4a42980772551e35045260a19469efef578"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/K5oU7gj9PjY/K5oU7gj9PjY.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "bf35e38fdaf4cf0151233bc742aa290018b18be55054643f2462fba8792c5edd",
+      "public_sha256": "2b1fb01d2b8ba6c19043ea0593175edef974ae40bb29bcec125fa2defabe5cc2"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/KDIyrEzb8-8/KDIyrEzb8-8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "5cf7d0f8fcba75ebaa9e00faaaea65fe0858bfe6934f1eec54d8df10989e3e2c",
+      "public_sha256": "5d178c94b62064ef508e6bf84ad8b80175eeea3e96b98085a92d1bd1939afcaa"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/KJbi0TPviRg/KJbi0TPviRg.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "415c979f4d0c5c40a262a25f1daa33b76b7bb66aba96c9d9a31ae09c6373d383",
+      "public_sha256": "f00ef90bf1e42f8f9fc9b8c3b0bb3ba9ba5a3197ee31f3a336b28856f61eb985"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/Kk52hBf2LE8/Kk52hBf2LE8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "1ea8448475c12e197fc7ab9bf5a74a241a4d4d9635ae555767d43e2888f59c31",
+      "public_sha256": "3e03bcba1ca7d981b17df767854111fedf980354d1e21e5ef9b5dd29c7001f17"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/LplZqIJjXyw/LplZqIJjXyw.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "e8eddd923909037d911bc8409d98995d46d94f79208e2f07ec5ccaf875be0ebc",
+      "public_sha256": "e9fccde72eb940e6612c513d32e72507d8e1697fa546b5f92d37ecdb62b0f156"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/M0VvUsyJQ-M/M0VvUsyJQ-M.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "975dd225b57324dca3b2cf03fa5471b1a516f3bec80e533059518358c981f312",
+      "public_sha256": "ccab8b38ad0616122efc761cfba852bba15f6045046cd3d1897dd5eac849dc7a"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/M9Pw3qJdNYE/M9Pw3qJdNYE.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "e0b49c886b2b9389a8b4f3add55e2ced88c4d95fba370b1b01841cbe435a6ec1",
+      "public_sha256": "b071bdb7537849ac8931e8204778e9b759be153d83f7c276c9363a614ce3679b"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/MUQ4f6DkmsA/MUQ4f6DkmsA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b3d702bc6bac730dfc7e79c0ec180c0590f82a3f16cb787f8f8f93604a2b1ab9",
+      "public_sha256": "b4ad5a09acfc58726974fbde9ec1686e00fe38d5b4aa53a671294cdb35a24d5a"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/N94G9hkBluk/N94G9hkBluk.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "1bf99c140fd356e80432dc96d6a379d8a013e99ed4e9b13e3ecf86056191cf28",
+      "public_sha256": "c7a0753b668dcad977d3b2fcc53eadba1ca147e2cd83aa77195291bfe221de28"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/Nk8TEgrMAL4/Nk8TEgrMAL4.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "567988f3e296feaf29674da81b0c7447e6f7128d93d371e18113c08e82c686c6",
+      "public_sha256": "6f87c3b5e80fcc7e51fa64f54da11c072b7cfae8b81a17f040a9c742240e60c8"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/OGLC5ceoQ5w/OGLC5ceoQ5w.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "8b9e7d56c4cc16270a948f288002082b23d397a2e4ce26b7f83144d62335ba19",
+      "public_sha256": "7be78306dc406ed112d02c8157fbf5870071d7fa18faa1ab117f66608047a6b9"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/P7dNHG1Xu6E/P7dNHG1Xu6E.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "d595c46463c1e2fcf4be3be77c9a1ef17eca671bf3e0c6b46127149181658b6f",
+      "public_sha256": "ada0671d3978247bfee463f8a193faf2723ae9f509ff4cdac86f004ced11f860"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/PCClwboo9ls/PCClwboo9ls.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "803a78e512f58da8abee4ed97cc1e0146acea42e7ee3159feced20bc2d7d5139",
+      "public_sha256": "223b747618b76577296bc2c3ccd21bba91ac88ce32cb5dde3fa0d330c5e6ef29"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/QcZ9U3Qf9d4/QcZ9U3Qf9d4.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "cafa0cbf55be2b3dd68a4f7f8aa376df01461d2fab970937023edb56efce4bcc",
+      "public_sha256": "e80facfa9ebb1860ff4bde5a6232951d73bc9df3537fa40d80dd1867992c2954"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/Qj3VtSfoNMQ/Qj3VtSfoNMQ.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "8be51c6f8a1cc1a0586d6f1571237d43d4157e098028456257f89304b9ec1b3b",
+      "public_sha256": "3918e6f09e3461a7467a8822fd50583b107026665bcb35f8785aeefa1a7579ee"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/QqNhenP7jao/QqNhenP7jao.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b0aa4f49840818fffc7792948b323b0dd60154787498445ddee655282d2548e8",
+      "public_sha256": "7eb199d934cd645642dbbd7d45414e76051c9a5c23f31d750fa1c60e7d56673e"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/RK1Kk1h783c/RK1Kk1h783c.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "9cc2e1d404bd5d1026e804a68d08b9ad25cf5d70e1d546c97e9a1b5585c994bc",
+      "public_sha256": "3eaf7ae324ac02694b3278d2410a2821d85a6f34b202cfca93c7a636e99fa04f"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/S3fI3M3ckVE/S3fI3M3ckVE.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "be352ba7633303d32fcf2321251b321210355b253a7f3113d94a6b9ed781e6bd",
+      "public_sha256": "68d9f9c2cf50b6dacf23515986cba5681a5276dbc8c30d72072691cb6ef7b770"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/S70k3Fn2fVM/S70k3Fn2fVM.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "cb2cc927ce1f3d07856592decf1ed309fbfdcce9427af2b1510b7102b2ffd354",
+      "public_sha256": "4be76a1246c248d8a0d13c088009dfed0e34b060bb144547c043946b1a275871"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/ScY0k43N1u8/ScY0k43N1u8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "1f407139cfd2c7b8b9d6708d08e8d0033fbbcdd66b48d8832b90b32272daa206",
+      "public_sha256": "d8890efaefde5e63bf839679f65715c217aaf8781d1fb275fcf3cd44e6eef6d1"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/T7hkOv8NDAw/T7hkOv8NDAw.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "778f4dd778a6044452b86cc92ce9108c3ec05ed37c427542d802639ef0094db9",
+      "public_sha256": "886fd7581c9a9af4c83cb908bcb5e7e07817292f4c40ca41a704560a7dc63524"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/TBgRHplsJhY/TBgRHplsJhY.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "86959f496f4582f274bc3f5d07956d39e55a1fa22533ddf8a73994185193c58e",
+      "public_sha256": "939e829e6eca421cb122c4316a8dbd38c25f7a73fd0100a2f17fa22c616e6c68"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/TqNpYj_wM0k/TqNpYj_wM0k.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b6b0887ca2c6fddb5d84b848008b41e3dc0b1a8b8e168889ede10579e90172b5",
+      "public_sha256": "165b45552b024dcea3f787e1b4e5d62aae3e478765221fcafb9cb7afe3abeb9f"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/V9Mcqy2ssEE/V9Mcqy2ssEE.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "89d89de12690866d78e414f4f312efc722eb473b2a2bb81bd75728bb10445566",
+      "public_sha256": "89f286f827ccbfe10a14afedaacc7de39928479363900d0eb0974e2956d73fd1"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/VAqlMgGq2bs/VAqlMgGq2bs.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "24d06c3e37ab0dc43389a3b79f129be4c7ec8f1faa206f26fcae4b4121e43473",
+      "public_sha256": "5028135a45798bf61f0efeaca152b5a397cc39c75cb0844c4b244807676ac16d"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/VaJ6IK7YeNs/VaJ6IK7YeNs.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "54335ab64da3608f980737c51fc781c823a73ec3c48fb3a645ca69077f78cf8c",
+      "public_sha256": "cf9042e8ac4966dbf159a431e86e96bd7ff20ffcee52c7e36705c363df399f3d"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/VhaxdYjgKyY/VhaxdYjgKyY.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "db55b41b8dd95b035bba10da45fbfefb0298a5057195d1f8628e6b6831373e5b",
+      "public_sha256": "3b1c77a916416839683a75dae834b973f6c3db85bb5d93e0f362a115cd769ebe"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/WLounenLFDg/WLounenLFDg.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "350e7beba64566a3d33e5ce08614e31f546df76448d9ef29a2617005d87cde34",
+      "public_sha256": "3314ebebc5e0366d75104eda69f331d4101d3ebcff3af8e8761f9ed838c254e8"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/Wr1-CoTwg8s/Wr1-CoTwg8s.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "eab7ada5607535949aaa5fa952f9e21da0b1f6ee36d928b52f09e720edcfc377",
+      "public_sha256": "42705763293d56315d18efcfd26b6116c3d56415f9753214d4e43faf33f007cd"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/WrLG0DSUel0/WrLG0DSUel0.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b102a094e82782c1776e0ad0f30f039e1a48e5509daa1346a4d06a0dd9ccad66",
+      "public_sha256": "02e4d5ee8bd043cc9bbaf72e4cff8b5f33244b66b542cfe44c80e70f7f25f178"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/Wy0wSfJA3G0/Wy0wSfJA3G0.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "c140cb870a444653bc5606e1166a3aff811169265cdfa76174df1141f2879bdc",
+      "public_sha256": "a4781482cc229ee9d1224dc096aa3a63e612e8c917e23e54d4487d60a63afde0"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/Xovf7vlPfOU/Xovf7vlPfOU.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "679902ea532d9aded538225150b6f907a33286d981ef18f79d9a5c9c3da5bc5f",
+      "public_sha256": "3f0f6cf4f8a62ed5ca2f71a41d042f6ddb17f446a058e98d1dbcc890515068af"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/Y3xKljQlMzA/Y3xKljQlMzA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "0724f1fa1fd147c908308b7099471091529fa2c2bcd7fdb20d90f03d0afbad57",
+      "public_sha256": "f34fff2821c0249ba18ce005fa92b237e6487ba643bc2e740ede6a21e5a3338a"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/Y63QI4BKEcg/Y63QI4BKEcg.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "457511ffd78e2c1c8e74b61ab2beb4e2b3191ccd7f50efa88634add8c6065701",
+      "public_sha256": "c2602a1e5a4888481180099188951c2cd3d72dab948825cf227fe4218d563ee8"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/YNaPeDu4xo8/YNaPeDu4xo8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "dc7443234da6de50bfefae9c82b457a1bba65775099fe0d4df3fcd2867fa48e9",
+      "public_sha256": "d93b0725d30a45adc6eff754b89843a69bb1725a8590b1d877fb4ca4d9dc6026"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/ZNgpG2fP4zY/ZNgpG2fP4zY.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "8c300142ef2a642e31d6fb7b9ebda6fb1a96c33b7c7e6ec61647864ddaf2b0d2",
+      "public_sha256": "77f0397b2a147c5c2273016d08cc6b39a1749b5b60173ed75ca78704273a413c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/ZaR-0Iqp7vY/ZaR-0Iqp7vY.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "36feaeca3106cc08936408481bc1ee24699611a0e7380ab0e17cb82248822442",
+      "public_sha256": "1dd5ca4324e9faf2d3001da18b3642aa9f478540d3a1d605de054912ff3613b4"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/ZlMVVCuVGd4/ZlMVVCuVGd4.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "12ea3a80ac5432028c731932a6d2fa6345986b101394368a0189fdb8a44bd22d",
+      "public_sha256": "2483551a23db7137e342bfb5ae4da2f8abc72025172da57b074160ba75253f79"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/ZtJaI-5_sVk/ZtJaI-5_sVk.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "246887265787097e96051f9fd529724e4ed694f1a603b9e2739940ac8cb0e64b",
+      "public_sha256": "f7bb0049d0576318d7c7b95bda67aabfcb04c6cf52476d88e95f8d0a74c1e69c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/_3zVR0AQLhc/_3zVR0AQLhc.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "ab6dc6f4b13034daaf5ee80776b57a5b25b5a5e168a6bff9f464b46f2ace0641",
+      "public_sha256": "954eb3b998a1943bc31c2b91340fe49df73f72daee76f22475fec6119f3a62c0"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/_Rw7AazkHmg/_Rw7AazkHmg.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "a3a5ae416c79caa92d324e3fd3fd0a157559fbdda3923600b9a4bd83b6ed60ca",
+      "public_sha256": "425de445995c9552c57b53e22c315893e15c9393d3b82e29f53b25305b416d9e"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/_ZK7wgkHuG4/_ZK7wgkHuG4.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "aa7dc973b5674672538bf8998c1591dd5623f79b7ce17e647e09dc179c9ff726",
+      "public_sha256": "08de316794986b3adc1f31b3a3536e52a284c0c973b28d972fabac102a893627"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/_ezpDfnHltk/_ezpDfnHltk.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "395af7db6c5a56d5a05bcee6523409c0b6343cc2fe7f63862e4d03f60f6b5de2",
+      "public_sha256": "1bd3321864a18ce5d9e03468aadf855bf719714c263cff26a8d903c9f0282073"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/_v-cZJc001s/_v-cZJc001s.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "6ccb36ad3b9abfbc187141158977dc9615e3a243e779629d9ef35fde45ccb0f1",
+      "public_sha256": "877e98c08ad01b5f99054725a7c83ad6322ef08bce065b5e07a82437bffb841e"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/aaBZ3f5TViQ/aaBZ3f5TViQ.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "32f176ce13e757ad7a6acd173fb1051263421937722df590e69e9442fbc521e8",
+      "public_sha256": "6723755c03afc0dcf8cf86b27f9fb693e71e74a320232c72ca1cf81c2ab929ab"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/atzcNzDIsgg/atzcNzDIsgg.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "2aaf62b7f4a24a67f955ea61dfd11463b84d3fba27364c3806dcf0fbd8aa551c",
+      "public_sha256": "4ac2af3fbf2ca8578278996b181095211dc2a56061feef5b41f7a7150ef1c6e5"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/b2L2rX26a6A/b2L2rX26a6A.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "bb28d3f1599eadc54f205f4fc376eedf48b527688755b14805bf977b24a657c3",
+      "public_sha256": "6737350561257fc23e8cd31b921690d40cc4b12d325d69a5a124ddecf722de0f"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/b7wERLHGkDo/b7wERLHGkDo.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "0266299ef3e4db756ab7ef16812a1f28462fd6aee0af83f7f1155c0ece62bf21",
+      "public_sha256": "fd5956c3b008338dbac02070011eadd953b1d73c3c467f1f44ae6cf358a5a035"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/bMm9bYTTeJs/bMm9bYTTeJs.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "0a36f708ef47de9d6961f4c0dfe0d9186f219df79005422145e6373e3c19db98",
+      "public_sha256": "aaf857ff90af32261bbddd41f94e82af626802a7a72d92e6114cd1126ae4b8d8"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/c5DvcHlt1c8/c5DvcHlt1c8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "7c92d3126cbb34cd48bc4f94c5fa79888594fd6207d09057112faf93f95f2277",
+      "public_sha256": "bda81ac64f0ecad1c6e8e3adf84b216d02eac273299f3a71ea0ad01081f3ff45"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/cxke-F1XL3w/cxke-F1XL3w.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "37d556c5dedbc7013be9415c476b23155c935be612e0529a7bd6398c8551ae00",
+      "public_sha256": "088cf00e477a6d5a3694cad2a6807276f3d6308452a84c7d08eb65131966c385"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/dBmCgPPA2iA/dBmCgPPA2iA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "d7fea0228d3d049352ea4f1c69fb2d8021ceb96e5320efa17208f25609e6e8d7",
+      "public_sha256": "e5a920bd258fb687755047fd26d2dd46d023998ce76b77ddcd24546e7beaeae2"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/dUmSnlgiFqI/dUmSnlgiFqI.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "fbdf1e8347cb748c41ef0ac349bf51ae7a61df04cb0edc01567eaecd6f47573f",
+      "public_sha256": "66524bbd420854da7cb8cd02dca25edd85732e2b4d412d19414424bbde5a8f94"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/d_rVwh521po/d_rVwh521po.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "6e72397731f415bdff1f723d42702ce4ccbf3cd2625e0f9211a887961d77c48e",
+      "public_sha256": "b34ceb85a5bd14d6de01bc099fba7304c01b3d49b2725a60eb225afcd8e1bb8f"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/eUzqVJpZPP4/eUzqVJpZPP4.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "e1b7f5ff3be5ef508ecd9c43ef0052b302f4777f1db5b3720bc2e8da9014ae0b",
+      "public_sha256": "20660ed2186c956ca028dbe197ceb032715beffb88de01470fb66cffec0143b5"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/fZrJqB1xG4w/fZrJqB1xG4w.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "e1b3a346e5fb554a738529f3fe12528ad0fd6647c5795235233020fc91078901",
+      "public_sha256": "ebfdb9154708041b4b86ac4d71fbc569ca1a862427669ea969b1feeb5ff58a38"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/fdE2N2ckDSw/fdE2N2ckDSw.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "19c6d38b245d44315f6f13ee8f00e6db3014826a49377d5741252fd2f77629d4",
+      "public_sha256": "0d2e564f98efa1731dbc78bf161fa69b92eb66c6e089704dcf38baeb8c8ca980"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/fg4kNYt38FM/fg4kNYt38FM.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "11173cd78d91f7f8a976011d1283798f970cc86a165edeffd2d9705f16e979a1",
+      "public_sha256": "9d1518430f1213d901e6bcede3cace09986a093e814618d9b147ec671d492315"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/g9mejr_-odc/g9mejr_-odc.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b99d4347743ea061a1bff9bee5fe83039cccf258c321fea0d0ce849b4a97212a",
+      "public_sha256": "642bf077e1dd2e5d7cd8e98a7427b67d52ed6bd89d39da295a4590e65fb36e30"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/gOvQngBqw80/gOvQngBqw80.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "c2c2eb7af5a1df7e7916df6d0a805fe8e17dd03177173313f5dbe21d5e79cb70",
+      "public_sha256": "1be89c900636f3f60a444035a11ae5aaac7403d803b574181b62b5be80ebeb2c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/j0tm-2eKgs0/j0tm-2eKgs0.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "3a1b96ab1ce9a65c775d3dd64ee6e1522489bad01f92b326893b4e557f19512a",
+      "public_sha256": "eef1dc2f5f89ae5ee42b5d05591a33e9e2872b475b1e7ad49e82d3147a7aaf88"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/jUTHYPaWyeo/jUTHYPaWyeo.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "7dea6f3d9851c2b3bb09fac0b03afa797e12d81859bd00f5496853ac2d69b28d",
+      "public_sha256": "8f2f34e7b623d5a88a71e262e5163ed38fb41450e954f70aff1d9fe18dca41a5"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/jZ4o_B2g5bo/jZ4o_B2g5bo.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "97cc14632867f445446bd633b3d367a3aad97a1ca6aa02123fc2b300100b0dd0",
+      "public_sha256": "a6e7298e6b2b326af74721c0669ed8e98fe3a0aae5e480f0f9024ca497250d09"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/jkBFQ85hV30/jkBFQ85hV30.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "68253b3032e1c84087224245a151cf538c4cd6d589faef596381dbe1c382b8e7",
+      "public_sha256": "9d945b8748497cf0e7075b1f32a9603ec8e3f3304cd46aeab91ccac9079a174f"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/kS9ii5vYbOM/kS9ii5vYbOM.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "cd2a407c74f0c24a00e61806a8262ad6b32a160b67a0f4535b7b19bae36bb460",
+      "public_sha256": "94a3f984098d9f50d1fb7cdf16cee3246a0bf5d4499ec558fbb2a20d52d26881"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/kglxkP-s6lI/kglxkP-s6lI.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "92b143416b51ecedc46b8ae866ed4aec000482640ef8953671fba029175b6077",
+      "public_sha256": "93c011361427bd29258ff43c38f7e93210a33bc1e9b0539e62c1a3c5501b7726"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/kqeTcw14jW8/kqeTcw14jW8.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "3da0e6465b06e3fd906975372221c163b9da693ce7a22116f187e7dc2959308c",
+      "public_sha256": "727556ab22adc811f31ceef16be4bc93c1550956691e0d56b0b6671b1a5f4c3a"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/lF2axpN3mic/lF2axpN3mic.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "0fe62f5402e2adfed6da317b92f37e097b3939f1b32450ee5ebab280010c974b",
+      "public_sha256": "c23f43619780c9271c8ba991d69016826c216dab1b040b47eeda197effd213f9"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/meZrgsAZWos/meZrgsAZWos.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "402bb8ef69b7c5a59903c8dd2c2072d1ee13e89b46b2627ebf3921b204d68938",
+      "public_sha256": "6bb82da9a73a1ac5cca07c9de47924b0d942c46561cc80bfa691d42c5900870d"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/nhQKi4F3GzA/nhQKi4F3GzA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "1f0c21ed33fde1fe3f35ba0bb0afc25b65476e16bb1c8dc05f5aa71f16a1fd0c",
+      "public_sha256": "8529177a0c54088665b08ee08f34b544a0ab38c5c42f107e863403e656b387da"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/nuJYjGljJ4U/nuJYjGljJ4U.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "c5083e22bde3e059259e839ad2caf44701721bcbcc7c68811c574de5bfea3b7c",
+      "public_sha256": "7ee599e464d5fcd54003370515e9a7a8b8d9aee8c1dab03753a8699962c5078c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/o-ulfe0ZzVE/o-ulfe0ZzVE.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "90a08304d672b102294ddce4c31e5cff659a57a4e68c45b345291ac0872f4ebc",
+      "public_sha256": "389a5cc65a96ccab1dedaf23732583d0c6c8e8221cb513a6059f2a18748f0d09"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/o7cDXj9ZmJA/o7cDXj9ZmJA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "add003758f36e71589f8e4525383ec6a650bd32b5132896e8494b2cf581edbc8",
+      "public_sha256": "3fccc5b700f4f9498aa269a3a2bc6961c29186ad36d74a709e4d12f0bfb123ea"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/oEHWebSbkiY/oEHWebSbkiY.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "6ce0301436bea571944fe01fcff6ca2573abc192db07f75a6022fae96afd0fcf",
+      "public_sha256": "41fcf305e82a584c95533019bb615f5393b80dec2ecc31ecb34a1e523cc4c27c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/ojNDLc5FuHc/ojNDLc5FuHc.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "88b87dade4a5e046222e87f073a7dbf9d7682909577150a96fffccb9c57e4c23",
+      "public_sha256": "a774852a89f6bf08420e16e58429a78584828921ee910c0f8dc24a660f2d6fbc"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/onmqgz9Kx5Q/onmqgz9Kx5Q.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b6699650fac3a6d1466dc597db78279df8eabfc05018e99b303534b36bd72323",
+      "public_sha256": "0497a461f4d4b6f3e34d1ef0cdc0bff5e04ad69a17bf7685d1c2e60111fc0c68"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/p2dDw0Dy1VM/p2dDw0Dy1VM.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "d1ecd111e15317b30d566f545d8d9d15a0f1cffe9262e95d2461d91439f8b988",
+      "public_sha256": "50e6254c0d5c1a88beaf5d1356167a90bd8ba359427b90ef08e3047d7fb56740"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/p5fyQaRE7ao/p5fyQaRE7ao.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "285d3373232a785629f3413d4fa439ee474d5edc67cd16832b52f7e2a48bf0d5",
+      "public_sha256": "fa19359c313297be15d056a6a76063bf03ea0985d4e681c6502e25ba8c1364aa"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/pcG_402qsp0/pcG_402qsp0.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "16c1879c9f09523918145de26c608c38b9bb670f88d23bd5f5179c9da97805d9",
+      "public_sha256": "17d0b848dc6e148773da675071d22654854906fcc508e390774fbc463af028a9"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/r47Q4Cfit5s/r47Q4Cfit5s.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "a60590d6404ba778c307d81b49de1a935be7ea213e6ea45f637150116b55cfc0",
+      "public_sha256": "0e8e05d920b9918ee2eed68c8639992899212ac5a0fa70aa347f9a6d39f7493c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/rAAVo1Y61T0/rAAVo1Y61T0.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "72b42470bd60a216091641549c1bd84772a703e652ed24f456b64a20e2dd128a",
+      "public_sha256": "9c9b3841753ed1ad6493b62bc40a4e21106ba25caba45808411ac56c31d2b3fd"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/rpp0OMlH_iA/rpp0OMlH_iA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "367706161891adc9415cbd11b7c08ecb9a4a80146b09eb2b3a2dc0fa2b09745b",
+      "public_sha256": "a86892283c628d5e49761d3c9c47b0910516a9782dae3159e67a05656974318f"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/sr9fzxRW0bA/sr9fzxRW0bA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b0092ec487012e8aa6bd4325b1d96d3585ac70f0d518e9c69944efc943e51353",
+      "public_sha256": "3d956a07e8f42fc20c7d2c65cd15b9614b12aa55fa8a8ed3c4932e1d79efcc04"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/u02bsNddj1E/u02bsNddj1E.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "840e41f7182222c668021338ddb178411f5010f7637b67d64bbd474be726c32f",
+      "public_sha256": "583916c1218980ac9a53a2dc58e65beca48c5068865f33e4edfdba8abed28ab8"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/uP1sYmqMktA/uP1sYmqMktA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "7d39f2612751655cfe6b556b57fdde811618e2f6972ed0d589330f076e126f59",
+      "public_sha256": "2229ef33553b3e71725f44ff6ade37004975e1352f1d36ea2fcc31b7cb065faf"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/vWB5jvfuOn0/vWB5jvfuOn0.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "64f1461ed0491d781df8dcd9f09feb39fcced0e7b3c4127b55a588278bc00102",
+      "public_sha256": "9ff71f089ce1eadb1fe39a4b261be234f9edbfedffd5beb13ab72a2a75591b11"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/viYQHrEmKyU/viYQHrEmKyU.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "53262a68c990a5e72d2b85968f804ceaf1b02be0525620bef34f24fec3923f48",
+      "public_sha256": "c3d40350ec9a9af7f0ef46d9f32100a665aceeb7a79520f52616a78066ff971c"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/wYFjORZCtug/wYFjORZCtug.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "a5b27839c076c5874eef6ae974fe03687029864939a24db7a6a6aebdffbe24e1",
+      "public_sha256": "c905e543f9982f480f2d3a8b33969c8dc60f46c3f4c3a696cc741d5cf4f0ba5d"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/xO6TQx5w4Eo/xO6TQx5w4Eo.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "d6e24fe2898ef15940c4f0049821473778f6760b03f894f5141ff4b4d20a6894",
+      "public_sha256": "0057fb00844c223d2b1033e2de74b32980e1fe1698078ac7b1eda88dd8817701"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/xwidBsviGII/xwidBsviGII.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "a4c7998a5d1932b1181707f99447a6c7daba8f409b32f8f05adac0d74e4da96c",
+      "public_sha256": "1ec47196604eb36059ae8f6a217db6e523ac57ae812efba61778988ea62a9fcc"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/y4R4zyOv2FE/y4R4zyOv2FE.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "468736e76d4f944d1be9bc8c20857de04df6b0879c0732ed73dd5d0e4c67eb45",
+      "public_sha256": "38f0633d91a78bd5945abb28991137e4b17001bca94c9286bf4e1287c41818cf"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/yJ6C1urpnws/yJ6C1urpnws.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "d32d10332f22707af41f8223e2e4b044bc4fb3a9ac7213f7ff0d930af23be3bb",
+      "public_sha256": "4547c280b38b240e1ef30f948c96d9c375f9246dddec3fd8fdebf7668f378bef"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/yMNyVxr4IAo/yMNyVxr4IAo.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "b2f492add27b32c941c89e77d1deae5f1964f1d7bfa7303c32e6f82261fec300",
+      "public_sha256": "bfd26075fe1f1a33fc1694e046b3abc10b45b1b1ac1fea951528ce906297bfe4"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/zFKL-wOLDzA/zFKL-wOLDzA.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "cef1795409bbb6cbb9dcb5f280f105498b49c207a7cea680ee8304813aaeae7d",
+      "public_sha256": "7ad5119b10316aab5e0fa0030d987c4d7f82ad18d2425534b99e14c9d97a0c4e"
+    },
+    {
+      "path": "raw/sources/2026-09-08-youtube/videos/zjrqh1bOm94/zjrqh1bOm94.info.json",
+      "reason": "removed continuation tokens or signed URL queries",
+      "original_sha256": "a24fc4c460939dc059e60f2ad43f22fd524b031b6a473b8c1ce92990cbdf6185",
+      "public_sha256": "8119fa34b10f91a425474f9dfd0c9c99b10f03eeb00ef2890c33cea92b457aee"
+    }
+  ],
+  "integrity": "Source text is retained. SHA256SUMS verifies public bytes; SHA256SUMS.capture preserves original capture hashes when changed."
+}

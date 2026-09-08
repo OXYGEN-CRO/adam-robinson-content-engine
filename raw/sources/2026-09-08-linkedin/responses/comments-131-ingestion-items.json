@@ -1,0 +1,84 @@
+{
+  "ok": true,
+  "data": {
+    "items": [
+      {
+        "id": "28029165-2389-464d-83e1-0760658ffff8",
+        "ingestionRunId": "5cccff4c-ea1e-438d-8546-0999ab22f880",
+        "tableId": "22c7aa81-2c63-4d77-91a5-e780b9f07ab9",
+        "position": 0,
+        "status": "completed",
+        "attemptCount": 1,
+        "maxAttempts": 3,
+        "leaseToken": null,
+        "lockedBy": null,
+        "leaseExpiresAt": null,
+        "readyAt": "2026-09-08T08:04:13.008Z",
+        "startedAt": "2026-09-08T08:04:16.975Z",
+        "completedAt": "2026-09-08T08:04:21.672Z",
+        "sourceCursor": null,
+        "nextCursor": null,
+        "payload": {
+          "request": {
+            "page": 1,
+            "post": "https://www.linkedin.com/posts/retentionadam_if-i-had-to-start-a-brand-new-ai-company-activity-7422336968463765505-nNQz",
+            "sort_by": "relevance"
+          },
+          "tool_id": "scraper.linkedin_post_comments",
+          "tool_ids": [
+            "scraper.linkedin_post_comments"
+          ],
+          "max_pages": 1,
+          "rows_path": "response.raw.elements",
+          "max_credits": 16,
+          "row_mapping": {
+            "url": "linkedinUrl",
+            "content": "commentary",
+            "post_id": "postId",
+            "posted_at": "createdAt",
+            "comment_id": "id",
+            "author_name": "actor.name",
+            "source_payload": ""
+          }
+        },
+        "rowCount": 46,
+        "insertedCount": 46,
+        "updatedCount": 0,
+        "duplicateCount": 0,
+        "skippedCount": 0,
+        "lastError": null,
+        "output": {
+          "page": 0,
+          "tool_id": "scraper.linkedin_post_comments",
+          "max_pages": 1,
+          "row_count": 46,
+          "source_type": "tool_page",
+          "write_engine": "bulk_rows_v1",
+          "write_run_id": "d630ea48-fc29-46af-8ad2-3f83bf818aef",
+          "credits_spent": 16,
+          "effect_outcome": "applied",
+          "has_next_cursor": false,
+          "unchanged_count": 0,
+          "source_row_count": 46,
+          "provider_attempts": [
+            {
+              "status": "success",
+              "tool_id": "scraper.linkedin_post_comments",
+              "latency_ms": 1586
+            }
+          ],
+          "staged_payload_id": "ba1cccd9-8ce5-4b6b-a892-dfc3bb2e5829",
+          "mapping_skipped_count": 0,
+          "reused_staged_payload": false
+        },
+        "createdAt": "2026-09-08T08:04:13.008Z",
+        "updatedAt": "2026-09-08T08:04:21.672Z"
+      }
+    ]
+  },
+  "meta": {
+    "command": "table-ingestions items",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

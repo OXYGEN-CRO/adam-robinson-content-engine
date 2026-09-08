@@ -1,0 +1,13 @@
+{
+  "id": "JaN_78GB638",
+  "source_sha256": "f190c591fa1a306b1918ff940f673a0490056a88579e1da55109392a90e4778c",
+  "source_characters": 63029,
+  "source_word_count": 9438,
+  "prompt_sha256": "b88ee30fd8189efbf87afabe94a170ee0e0cb386ccf19203c5cf9c23eb69d520",
+  "started_at": "2026-09-08T09:57:58.260588+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/JaN_78GB638/JaN_78GB638.md",
+  "pid": 10521,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T10:04:14.823140+00:00"
+}

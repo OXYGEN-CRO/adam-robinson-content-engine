@@ -1,0 +1,63 @@
+{
+  "url": "https://www.linkedin.com/posts/robbclarke_i-manage-support-ai-training-onboarding-activity-7363218952698650626-90Kz",
+  "captured_at": "2026-09-08T14:15:18.522858+00:00",
+  "json_ld": [
+    {
+      "@context": "http://schema.org",
+      "@type": "DiscussionForumPosting",
+      "@id": "https://www.linkedin.com/posts/robbclarke_i-manage-support-ai-training-onboarding-activity-7363218952698650626-90Kz",
+      "datePublished": "2025-08-18T14:43:20.292Z",
+      "headline": "I manage support, AI training, onboarding, QA, product design, testing, and a half dozen other things at RB2B.",
+      "comment": [
+        {
+          "@type": "Comment",
+          "datePublished": "2025-08-19T01:01:15.095Z",
+          "text": "Hey Robb Clarke out of interest - intercom has product walk-through features so why not use that instead of supademo? We're currently evaluating this part of our stack, thanks!",
+          "author": {
+            "@type": "Person",
+            "name": "Tom Welsby"
+          },
+          "interactionStatistic": {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/LikeAction",
+            "userInteractionCount": 0
+          },
+          "url": "https://www.linkedin.com/posts/robbclarke_i-manage-support-ai-training-onboarding-activity-7363218952698650626-90Kz?commentUrn=urn%3Ali%3Acomment%3A(urn%3Ali%3Aactivity%3A7363218952698650626%2C7363374455588352000)"
+        }
+      ],
+      "commentCount": 11,
+      "articleBody": "I manage support, AI training, onboarding, QA, product design, testing, and a half dozen other things at RB2B. Here's what's in my toolkit.\n\n\u279c Intercom is the mission control.\nI triage tickets, train the bot, push proactive nudges, and manage live chats; all from one screen. It's the pulse of RB2B support.\n\n\u279c Lovable saves me from dev backlogs.\nWe're using it to design V3 of RB2B: mapping features, user flows, and UI without writing code. It's where ideas become functional blueprints.\n\n\u279c Supademo kills friction.\nInstead of hand-holding new users, I ship interactive product tours that onboard at scale. One demo replaces 10 DMs.\n\n\u279c Upvoty is my feedback brain.\nEvery upvote, comment, and request tells me what to build next. It's how I turn user pain into AI workflows and messaging plays.\n\n\u279c Postman keeps integrations honest.\nWhen integration API calls go sideways for a user, Postman helps me take a look under the hood and find out why.\n\n\u279c Tolt runs our referral engine.\nTracks referrals, manages payouts, and keeps our growth loop running without manual oversight.\n\n\u279c ChatGPT is my daily editor.\nProcess breakdowns, copy rewrites, bot response ideas; this is where they start. GPT gives me speed. Not fluff.\n\n\u279c Claude brings tone balance.\nWhen I want a softer angle or a second take on phrasing, Claude is where I go. The contrast helps sharpen our messaging.\n\n\u279c n8n for behind the scenes workflows.\nWe use it to link our AI agent to our ESP. So, if an email bounces, the bot knows before support ever sees a ticket.\n\n\u279c NewRelic and Logz.io are my panic buttons.\nIf something breaks, I need answers fast. These tools tell me where the fire started. And whether it\u2019s still burning.\n\nAnyone have an inside line on a tool that I should be using but aren't?",
+      "author": {
+        "name": "Robb Clarke",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D5603AQGwiFdCOj0evw/profile-displayphoto-scale_200_200/B56Z7caHUwIMAc-/0/1781814294555?e=2147483647&v=beta&t=yUSmcHroRipiDHmcOvRVpgiNTdBpw77dyx9tW6miBT4",
+          "@type": "ImageObject"
+        },
+        "url": "https://ca.linkedin.com/in/robbclarke",
+        "@type": "Person",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": "http://schema.org/FollowAction",
+          "userInteractionCount": 4923
+        }
+      },
+      "interactionStatistic": [
+        {
+          "@type": "InteractionCounter",
+          "interactionType": "http://schema.org/LikeAction",
+          "userInteractionCount": 32
+        },
+        {
+          "@type": "InteractionCounter",
+          "interactionType": "https://schema.org/CommentAction",
+          "userInteractionCount": 11
+        }
+      ],
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".details"
+      }
+    }
+  ]
+}

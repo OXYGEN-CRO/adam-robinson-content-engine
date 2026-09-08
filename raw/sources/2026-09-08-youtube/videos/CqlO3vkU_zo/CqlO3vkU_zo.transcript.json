@@ -1,0 +1,6404 @@
+{
+  "video_id": "CqlO3vkU_zo",
+  "title": "Devin.ai is doing 80% of Rivo's Engineering Work",
+  "url": "https://www.youtube.com/watch?v=CqlO3vkU_zo",
+  "upload_date": "20250807",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:41:51.013985+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/CqlO3vkU_zo/CqlO3vkU_zo.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 480,
+      "duration_ms": 4160,
+      "text": "Well, just taking notes. They're not"
+    },
+    {
+      "start_ms": 2720,
+      "duration_ms": 2320,
+      "text": "recording. I got sorry to break the"
+    },
+    {
+      "start_ms": 4640,
+      "duration_ms": 2320,
+      "text": "flow."
+    },
+    {
+      "start_ms": 5040,
+      "duration_ms": 4000,
+      "text": ">> No, no, no worries. So, yeah, you know"
+    },
+    {
+      "start_ms": 6960,
+      "duration_ms": 3840,
+      "text": "when you're working with a team and like"
+    },
+    {
+      "start_ms": 9040,
+      "duration_ms": 4000,
+      "text": "you're like, dude, I this is a small"
+    },
+    {
+      "start_ms": 10800,
+      "duration_ms": 4719,
+      "text": "thing, but like it should be fixed and"
+    },
+    {
+      "start_ms": 13040,
+      "duration_ms": 3600,
+      "text": "like fix it, but you don't want to be"
+    },
+    {
+      "start_ms": 15519,
+      "duration_ms": 3600,
+      "text": "that guy."
+    },
+    {
+      "start_ms": 16640,
+      "duration_ms": 4799,
+      "text": ">> This has been a a game changer for us"
+    },
+    {
+      "start_ms": 19119,
+      "duration_ms": 4400,
+      "text": "because it's like, hey, the robot just"
+    },
+    {
+      "start_ms": 21439,
+      "duration_ms": 3201,
+      "text": "told you that you you kind of didn't do"
+    },
+    {
+      "start_ms": 23519,
+      "duration_ms": 1760,
+      "text": "a good job at this."
+    },
+    {
+      "start_ms": 24640,
+      "duration_ms": 2639,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 25279,
+      "duration_ms": 4801,
+      "text": ">> Go fix it. And all the humans can see"
+    },
+    {
+      "start_ms": 27279,
+      "duration_ms": 4400,
+      "text": "it. So, like there's a around it."
+    },
+    {
+      "start_ms": 30080,
+      "duration_ms": 3760,
+      "text": ">> Yeah. No one's going to prove like see"
+    },
+    {
+      "start_ms": 31679,
+      "duration_ms": 4241,
+      "text": "see what the AI said."
+    },
+    {
+      "start_ms": 33840,
+      "duration_ms": 3600,
+      "text": ">> Yeah, exactly. And the suggestions it"
+    },
+    {
+      "start_ms": 35920,
+      "duration_ms": 3520,
+      "text": "gives back are really good. I don't know"
+    },
+    {
+      "start_ms": 37440,
+      "duration_ms": 2639,
+      "text": "if we've got some here that we can open"
+    },
+    {
+      "start_ms": 39440,
+      "duration_ms": 2560,
+      "text": "up and show."
+    },
+    {
+      "start_ms": 40079,
+      "duration_ms": 3681,
+      "text": ">> Yeah. I'm curious to see"
+    },
+    {
+      "start_ms": 42000,
+      "duration_ms": 3680,
+      "text": ">> here we go. And something it does as"
+    },
+    {
+      "start_ms": 43760,
+      "duration_ms": 4160,
+      "text": "well I like is that it summarizes the"
+    },
+    {
+      "start_ms": 45680,
+      "duration_ms": 3120,
+      "text": "pull request. So, you can just eyeball"
+    },
+    {
+      "start_ms": 47920,
+      "duration_ms": 1920,
+      "text": "it as well."
+    },
+    {
+      "start_ms": 48800,
+      "duration_ms": 3520,
+      "text": ">> Yeah. Yeah. Yeah."
+    },
+    {
+      "start_ms": 49840,
+      "duration_ms": 4399,
+      "text": ">> So, this will go through. This one all"
+    },
+    {
+      "start_ms": 52320,
+      "duration_ms": 5360,
+      "text": "looked good thankfully. And it will tell"
+    },
+    {
+      "start_ms": 54239,
+      "duration_ms": 7441,
+      "text": "you why it made decisions, how confident"
+    },
+    {
+      "start_ms": 57680,
+      "duration_ms": 8640,
+      "text": "it was on like going to comment or not."
+    },
+    {
+      "start_ms": 61680,
+      "duration_ms": 6400,
+      "text": "Um, is there another one I can show?"
+    },
+    {
+      "start_ms": 66320,
+      "duration_ms": 3119,
+      "text": "No, these look good. Thankfully, the the"
+    },
+    {
+      "start_ms": 68080,
+      "duration_ms": 4160,
+      "text": "team is doing good here. So, we don't"
+    },
+    {
+      "start_ms": 69439,
+      "duration_ms": 4401,
+      "text": "even have any uh inside of here. Maybe"
+    },
+    {
+      "start_ms": 72240,
+      "duration_ms": 2960,
+      "text": "this one. This is a big one."
+    },
+    {
+      "start_ms": 73840,
+      "duration_ms": 3360,
+      "text": ">> They've been drugged through the mud by"
+    },
+    {
+      "start_ms": 75200,
+      "duration_ms": 4400,
+      "text": ">> Yeah, I see you're going to rail 7"
+    },
+    {
+      "start_ms": 77200,
+      "duration_ms": 3520,
+      "text": "because we're up like we're updating our"
+    },
+    {
+      "start_ms": 79600,
+      "duration_ms": 2480,
+      "text": "version of Ruby right now. That's"
+    },
+    {
+      "start_ms": 80720,
+      "duration_ms": 2640,
+      "text": "actually where we used AI to fix these"
+    },
+    {
+      "start_ms": 82080,
+      "duration_ms": 2880,
+      "text": "like pedantic things that no one would"
+    },
+    {
+      "start_ms": 83360,
+      "duration_ms": 3360,
+      "text": "ever think of. I'm really curious to see"
+    },
+    {
+      "start_ms": 84960,
+      "duration_ms": 4240,
+      "text": "what this did."
+    },
+    {
+      "start_ms": 86720,
+      "duration_ms": 4640,
+      "text": ">> Um, again, the internet is down, but"
+    },
+    {
+      "start_ms": 89200,
+      "duration_ms": 5200,
+      "text": "let's try this. This is what I would do."
+    },
+    {
+      "start_ms": 91360,
+      "duration_ms": 6240,
+      "text": "So, what we want to do is the first run"
+    },
+    {
+      "start_ms": 94400,
+      "duration_ms": 5359,
+      "text": "is ellipsus, like a light touch AI tool"
+    },
+    {
+      "start_ms": 97600,
+      "duration_ms": 4080,
+      "text": "that will just say like, hey, this is"
+    },
+    {
+      "start_ms": 99759,
+      "duration_ms": 4400,
+      "text": "clearly wrong and that needs to be"
+    },
+    {
+      "start_ms": 101680,
+      "duration_ms": 3920,
+      "text": "updated. Uh, the next step we will do"
+    },
+    {
+      "start_ms": 104159,
+      "duration_ms": 4320,
+      "text": "and what we're starting to automate is"
+    },
+    {
+      "start_ms": 105600,
+      "duration_ms": 5839,
+      "text": "we bring in Claude. So you just can at"
+    },
+    {
+      "start_ms": 108479,
+      "duration_ms": 5361,
+      "text": "Claude and you can say, \"Can you review"
+    },
+    {
+      "start_ms": 111439,
+      "duration_ms": 4320,
+      "text": "this, please?\""
+    },
+    {
+      "start_ms": 113840,
+      "duration_ms": 4000,
+      "text": ">> No [ __ ] Okay."
+    },
+    {
+      "start_ms": 115759,
+      "duration_ms": 4960,
+      "text": ">> Can you see this?"
+    },
+    {
+      "start_ms": 117840,
+      "duration_ms": 5440,
+      "text": ">> Dude, I bet you it's broken right now."
+    },
+    {
+      "start_ms": 120719,
+      "duration_ms": 4161,
+      "text": ">> Okay. I have a question. Question for"
+    },
+    {
+      "start_ms": 123280,
+      "duration_ms": 3360,
+      "text": "when you invoke Claude, like do do you"
+    },
+    {
+      "start_ms": 124880,
+      "duration_ms": 4079,
+      "text": "set any master prompts at all to give it"
+    },
+    {
+      "start_ms": 126640,
+      "duration_ms": 3839,
+      "text": "like background on what you how you want"
+    },
+    {
+      "start_ms": 128959,
+      "duration_ms": 2401,
+      "text": "it to review? Because I I do code"
+    },
+    {
+      "start_ms": 130479,
+      "duration_ms": 2241,
+      "text": "reviews like that all the time. If"
+    },
+    {
+      "start_ms": 131360,
+      "duration_ms": 2400,
+      "text": "someone sends me a massive PR, I'm like,"
+    },
+    {
+      "start_ms": 132720,
+      "duration_ms": 2800,
+      "text": "\"Yeah, I'm not going to read this. I'm"
+    },
+    {
+      "start_ms": 133760,
+      "duration_ms": 3680,
+      "text": "going to read this with AI.\" How do you"
+    },
+    {
+      "start_ms": 135520,
+      "duration_ms": 4160,
+      "text": "like do you have any control over what"
+    },
+    {
+      "start_ms": 137440,
+      "duration_ms": 4400,
+      "text": "Claude looks for? Um,"
+    },
+    {
+      "start_ms": 139680,
+      "duration_ms": 3680,
+      "text": ">> you know, I believe you do. We just have"
+    },
+    {
+      "start_ms": 141840,
+      "duration_ms": 3200,
+      "text": "set it up. We only set this up a couple"
+    },
+    {
+      "start_ms": 143360,
+      "duration_ms": 2560,
+      "text": "of weeks ago as like the second touch"
+    },
+    {
+      "start_ms": 145040,
+      "duration_ms": 3520,
+      "text": "point."
+    },
+    {
+      "start_ms": 145920,
+      "duration_ms": 5760,
+      "text": ">> Um, but I believe you can like tweak"
+    },
+    {
+      "start_ms": 148560,
+      "duration_ms": 4160,
+      "text": "that um, review bot, we'll call it,"
+    },
+    {
+      "start_ms": 151680,
+      "duration_ms": 2480,
+      "text": "that's in there."
+    },
+    {
+      "start_ms": 152720,
+      "duration_ms": 3120,
+      "text": ">> Yeah. Okay. Yeah."
+    },
+    {
+      "start_ms": 154160,
+      "duration_ms": 3040,
+      "text": ">> Yeah, this is working right now. It"
+    },
+    {
+      "start_ms": 155840,
+      "duration_ms": 2720,
+      "text": "usually takes"
+    },
+    {
+      "start_ms": 157200,
+      "duration_ms": 4240,
+      "text": ">> three to four minutes and it'll come"
+    },
+    {
+      "start_ms": 158560,
+      "duration_ms": 5360,
+      "text": "back. Gives you a really comprehensive"
+    },
+    {
+      "start_ms": 161440,
+      "duration_ms": 5280,
+      "text": "um, review on what's happened. Y"
+    },
+    {
+      "start_ms": 163920,
+      "duration_ms": 5280,
+      "text": ">> um which is awesome. So the thing we"
+    },
+    {
+      "start_ms": 166720,
+      "duration_ms": 5760,
+      "text": "want to do is now in general we're"
+    },
+    {
+      "start_ms": 169200,
+      "duration_ms": 6319,
+      "text": "moving towards 80% of the code that we"
+    },
+    {
+      "start_ms": 172480,
+      "duration_ms": 5440,
+      "text": "write here we want it to be written by a"
+    },
+    {
+      "start_ms": 175519,
+      "duration_ms": 4321,
+      "text": "tool called Devon. But the tool doesn't"
+    },
+    {
+      "start_ms": 177920,
+      "duration_ms": 4959,
+      "text": "really matter. The idea for us is that"
+    },
+    {
+      "start_ms": 179840,
+      "duration_ms": 5360,
+      "text": "we've changed to a new model where we"
+    },
+    {
+      "start_ms": 182879,
+      "duration_ms": 4640,
+      "text": "want the first 10% of work to be done by"
+    },
+    {
+      "start_ms": 185200,
+      "duration_ms": 4880,
+      "text": "a human that comes along and says here's"
+    },
+    {
+      "start_ms": 187519,
+      "duration_ms": 5121,
+      "text": "exactly what I want. I'm gonna write a"
+    },
+    {
+      "start_ms": 190080,
+      "duration_ms": 3840,
+      "text": "very good prompt from a template we"
+    },
+    {
+      "start_ms": 192640,
+      "duration_ms": 4239,
+      "text": "already input."
+    },
+    {
+      "start_ms": 193920,
+      "duration_ms": 5360,
+      "text": ">> Uh Devon is gonna go and it's going to"
+    },
+    {
+      "start_ms": 196879,
+      "duration_ms": 4401,
+      "text": "write 80% of the work. And then my job"
+    },
+    {
+      "start_ms": 199280,
+      "duration_ms": 5120,
+      "text": "as a human is to come back and review"
+    },
+    {
+      "start_ms": 201280,
+      "duration_ms": 6160,
+      "text": "the last 10% of the work. And I'm also"
+    },
+    {
+      "start_ms": 204400,
+      "duration_ms": 5759,
+      "text": "going to review and let the AI do the"
+    },
+    {
+      "start_ms": 207440,
+      "duration_ms": 4240,
+      "text": "first run of review so it can catch the"
+    },
+    {
+      "start_ms": 210159,
+      "duration_ms": 2241,
+      "text": "[ __ ] that I don't have to be"
+    },
+    {
+      "start_ms": 211680,
+      "duration_ms": 5279,
+      "text": "involved in."
+    },
+    {
+      "start_ms": 212400,
+      "duration_ms": 8080,
+      "text": ">> Interesting. So human AI AI human."
+    },
+    {
+      "start_ms": 216959,
+      "duration_ms": 6161,
+      "text": ">> Exactly. So, we're just the book ends,"
+    },
+    {
+      "start_ms": 220480,
+      "duration_ms": 4960,
+      "text": "you know. I think there is like a 108010"
+    },
+    {
+      "start_ms": 223120,
+      "duration_ms": 6000,
+      "text": "rule or something in business or some"
+    },
+    {
+      "start_ms": 225440,
+      "duration_ms": 5760,
+      "text": "[ __ ] Some anti-grove [ __ ] Yeah."
+    },
+    {
+      "start_ms": 229120,
+      "duration_ms": 6399,
+      "text": ">> Um but it's kind of similar what we're"
+    },
+    {
+      "start_ms": 231200,
+      "duration_ms": 7520,
+      "text": "doing here. So, let me show you um I'll"
+    },
+    {
+      "start_ms": 235519,
+      "duration_ms": 5761,
+      "text": "kind of wrap that up. That's more like"
+    },
+    {
+      "start_ms": 238720,
+      "duration_ms": 5280,
+      "text": "if you have people who are skeptical,"
+    },
+    {
+      "start_ms": 241280,
+      "duration_ms": 4560,
+      "text": ">> this is a very good place to start."
+    },
+    {
+      "start_ms": 244000,
+      "duration_ms": 3040,
+      "text": ">> Yeah. Yeah, man. reading up reviews."
+    },
+    {
+      "start_ms": 245840,
+      "duration_ms": 1599,
+      "text": "Everyone's gonna be happy with that,"
+    },
+    {
+      "start_ms": 247040,
+      "duration_ms": 3360,
+      "text": "right?"
+    },
+    {
+      "start_ms": 247439,
+      "duration_ms": 5281,
+      "text": ">> Yeah. So, yeah, going into Devon now."
+    },
+    {
+      "start_ms": 250400,
+      "duration_ms": 5520,
+      "text": "Um, so yeah, I've been writing Ruby on"
+    },
+    {
+      "start_ms": 252720,
+      "duration_ms": 6160,
+      "text": "Rails since 2008,"
+    },
+    {
+      "start_ms": 255920,
+      "duration_ms": 5520,
+      "text": "pretty much every day. PHP before that."
+    },
+    {
+      "start_ms": 258880,
+      "duration_ms": 4400,
+      "text": "Um, but even still today, I like barely"
+    },
+    {
+      "start_ms": 261440,
+      "duration_ms": 2640,
+      "text": "miss a day a year that I'm not writing"
+    },
+    {
+      "start_ms": 263280,
+      "duration_ms": 1760,
+      "text": "code."
+    },
+    {
+      "start_ms": 264080,
+      "duration_ms": 3760,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 265040,
+      "duration_ms": 5439,
+      "text": ">> Yep. So the way I think about this and"
+    },
+    {
+      "start_ms": 267840,
+      "duration_ms": 4079,
+      "text": "I'm try trying to like it took a little"
+    },
+    {
+      "start_ms": 270479,
+      "duration_ms": 3201,
+      "text": "while to convince the rest of the team"
+    },
+    {
+      "start_ms": 271919,
+      "duration_ms": 3601,
+      "text": "but when we actually laid it out and"
+    },
+    {
+      "start_ms": 273680,
+      "duration_ms": 4079,
+      "text": "like just push forward and you show"
+    },
+    {
+      "start_ms": 275520,
+      "duration_ms": 4000,
+      "text": "people results they actually will will"
+    },
+    {
+      "start_ms": 277759,
+      "duration_ms": 3041,
+      "text": "jump on board um okay"
+    },
+    {
+      "start_ms": 279520,
+      "duration_ms": 3360,
+      "text": ">> a lot sooner."
+    },
+    {
+      "start_ms": 280800,
+      "duration_ms": 4880,
+      "text": ">> So what we did was we looked at a few"
+    },
+    {
+      "start_ms": 282880,
+      "duration_ms": 7120,
+      "text": "different agentic coding tools. There's"
+    },
+    {
+      "start_ms": 285680,
+      "duration_ms": 6320,
+      "text": "a guy called Sahil Lavinga. He is the"
+    },
+    {
+      "start_ms": 290000,
+      "duration_ms": 2400,
+      "text": "Gumroad CEO if you ever heard of that"
+    },
+    {
+      "start_ms": 292000,
+      "duration_ms": 2320,
+      "text": "product."
+    },
+    {
+      "start_ms": 292400,
+      "duration_ms": 5920,
+      "text": ">> Yeah. Okay. Yeah. Yeah. Yeah. Yep."
+    },
+    {
+      "start_ms": 294320,
+      "duration_ms": 6720,
+      "text": ">> Yeah. He uh his content turned me on to"
+    },
+    {
+      "start_ms": 298320,
+      "duration_ms": 6240,
+      "text": "this which is he was using Devon with"
+    },
+    {
+      "start_ms": 301040,
+      "duration_ms": 5200,
+      "text": "the exact same thing 108010 80% of the"
+    },
+    {
+      "start_ms": 304560,
+      "duration_ms": 4960,
+      "text": "work done by Devon."
+    },
+    {
+      "start_ms": 306240,
+      "duration_ms": 4799,
+      "text": ">> Um and let me show you here how we've"
+    },
+    {
+      "start_ms": 309520,
+      "duration_ms": 3920,
+      "text": "got this set up and how we think about"
+    },
+    {
+      "start_ms": 311039,
+      "duration_ms": 4801,
+      "text": "it. So when we first turn this on,"
+    },
+    {
+      "start_ms": 313440,
+      "duration_ms": 4800,
+      "text": "right, you got to go and you basically"
+    },
+    {
+      "start_ms": 315840,
+      "duration_ms": 4480,
+      "text": "replicate your workspace here. So, it'll"
+    },
+    {
+      "start_ms": 318240,
+      "duration_ms": 5519,
+      "text": "take you about an hour and you go and"
+    },
+    {
+      "start_ms": 320320,
+      "duration_ms": 5360,
+      "text": "you set up your uh like workspace that"
+    },
+    {
+      "start_ms": 323759,
+      "duration_ms": 4081,
+      "text": "you would have on your machine. You just"
+    },
+    {
+      "start_ms": 325680,
+      "duration_ms": 6640,
+      "text": "replicate it inside of Devon. I'm going"
+    },
+    {
+      "start_ms": 327840,
+      "duration_ms": 5600,
+      "text": "to install RVM, Git, all that. Um get it"
+    },
+    {
+      "start_ms": 332320,
+      "duration_ms": 3760,
+      "text": "set up."
+    },
+    {
+      "start_ms": 333440,
+      "duration_ms": 4479,
+      "text": ">> Um which is fine, right? But I think a"
+    },
+    {
+      "start_ms": 336080,
+      "duration_ms": 3679,
+      "text": "lot of people stopped at,"
+    },
+    {
+      "start_ms": 337919,
+      "duration_ms": 4720,
+      "text": ">> hey, this thing should just work the day"
+    },
+    {
+      "start_ms": 339759,
+      "duration_ms": 5440,
+      "text": "you turn it on. It's definitely not what"
+    },
+    {
+      "start_ms": 342639,
+      "duration_ms": 6081,
+      "text": "we found. So we actually spent I would"
+    },
+    {
+      "start_ms": 345199,
+      "duration_ms": 5921,
+      "text": "say three months um"
+    },
+    {
+      "start_ms": 348720,
+      "duration_ms": 3120,
+      "text": "rebuilding the code base and how we work"
+    },
+    {
+      "start_ms": 351120,
+      "duration_ms": 2480,
+      "text": "around this."
+    },
+    {
+      "start_ms": 351840,
+      "duration_ms": 3120,
+      "text": ">> Yeah. Can you expl So because like I"
+    },
+    {
+      "start_ms": 353600,
+      "duration_ms": 2720,
+      "text": "know exact like I think what you're"
+    },
+    {
+      "start_ms": 354960,
+      "duration_ms": 3120,
+      "text": "trying to say is Devon needs to be able"
+    },
+    {
+      "start_ms": 356320,
+      "duration_ms": 3840,
+      "text": "to execute and run like full integration"
+    },
+    {
+      "start_ms": 358080,
+      "duration_ms": 3920,
+      "text": "test truly be effective and to do that"
+    },
+    {
+      "start_ms": 360160,
+      "duration_ms": 3599,
+      "text": "you need a proper environment kind of"
+    },
+    {
+      "start_ms": 362000,
+      "duration_ms": 3520,
+      "text": "like CI/CD right like you want CI/CD to"
+    },
+    {
+      "start_ms": 363759,
+      "duration_ms": 4481,
+      "text": "run. So it's effectively like building"
+    },
+    {
+      "start_ms": 365520,
+      "duration_ms": 4160,
+      "text": "up a proper pipeline. So when you say"
+    },
+    {
+      "start_ms": 368240,
+      "duration_ms": 3200,
+      "text": "what do you mean by like adapting the"
+    },
+    {
+      "start_ms": 369680,
+      "duration_ms": 3280,
+      "text": "codebase? Can you like did you what does"
+    },
+    {
+      "start_ms": 371440,
+      "duration_ms": 2319,
+      "text": "it mean? Super curious."
+    },
+    {
+      "start_ms": 372960,
+      "duration_ms": 3440,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 373759,
+      "duration_ms": 6000,
+      "text": ">> Yeah. So,"
+    },
+    {
+      "start_ms": 376400,
+      "duration_ms": 6000,
+      "text": "the main thing we wanted to do was give"
+    },
+    {
+      "start_ms": 379759,
+      "duration_ms": 5361,
+      "text": "these guard rails to Devon, right? So,"
+    },
+    {
+      "start_ms": 382400,
+      "duration_ms": 6480,
+      "text": "you ever see even in like a chat GPT"
+    },
+    {
+      "start_ms": 385120,
+      "duration_ms": 5919,
+      "text": "claude or cursor or co-pilot, there's"
+    },
+    {
+      "start_ms": 388880,
+      "duration_ms": 2879,
+      "text": "way too much hallucinations. And when"
+    },
+    {
+      "start_ms": 391039,
+      "duration_ms": 2481,
+      "text": "you get"
+    },
+    {
+      "start_ms": 391759,
+      "duration_ms": 2961,
+      "text": ">> when you get a few hallucinations back"
+    },
+    {
+      "start_ms": 393520,
+      "duration_ms": 3519,
+      "text": "and you're trying to get your team on"
+    },
+    {
+      "start_ms": 394720,
+      "duration_ms": 4800,
+      "text": "board, they'll just tune out and they'll"
+    },
+    {
+      "start_ms": 397039,
+      "duration_ms": 3841,
+      "text": "be like, \"Dude, the thing sucks.\" Right?"
+    },
+    {
+      "start_ms": 399520,
+      "duration_ms": 2799,
+      "text": "But the real problem is that there just"
+    },
+    {
+      "start_ms": 400880,
+      "duration_ms": 3759,
+      "text": "aren't enough guard rails. So what we"
+    },
+    {
+      "start_ms": 402319,
+      "duration_ms": 4561,
+      "text": "did instead was we spent probably a"
+    },
+    {
+      "start_ms": 404639,
+      "duration_ms": 4000,
+      "text": "month reducing technical debt on the"
+    },
+    {
+      "start_ms": 406880,
+      "duration_ms": 6960,
+      "text": "codebase itself,"
+    },
+    {
+      "start_ms": 408639,
+      "duration_ms": 7601,
+      "text": ">> we our goal was, hey, for this LLM to"
+    },
+    {
+      "start_ms": 413840,
+      "duration_ms": 5840,
+      "text": "work on the codebase, we need to rewrite"
+    },
+    {
+      "start_ms": 416240,
+      "duration_ms": 6399,
+      "text": "the codebase to be LLM friendly."
+    },
+    {
+      "start_ms": 419680,
+      "duration_ms": 4959,
+      "text": ">> So that means cleaning everything the"
+    },
+    {
+      "start_ms": 422639,
+      "duration_ms": 4000,
+      "text": "[ __ ] up. If something's not being used"
+    },
+    {
+      "start_ms": 424639,
+      "duration_ms": 4960,
+      "text": "and it's hanging around, get it the [ __ ]"
+    },
+    {
+      "start_ms": 426639,
+      "duration_ms": 5921,
+      "text": "out of the repo. Um, we need to clean up"
+    },
+    {
+      "start_ms": 429599,
+      "duration_ms": 5361,
+      "text": "all of our uh docs. So, docs was a big"
+    },
+    {
+      "start_ms": 432560,
+      "duration_ms": 4079,
+      "text": "thing as well. So, like I can show you"
+    },
+    {
+      "start_ms": 434960,
+      "duration_ms": 2959,
+      "text": "here,"
+    },
+    {
+      "start_ms": 436639,
+      "duration_ms": 3761,
+      "text": ">> man. Yeah,"
+    },
+    {
+      "start_ms": 437919,
+      "duration_ms": 6400,
+      "text": ">> we set up these docs, right? Which is"
+    },
+    {
+      "start_ms": 440400,
+      "duration_ms": 8480,
+      "text": "basically like, hey, LLM, this is how we"
+    },
+    {
+      "start_ms": 444319,
+      "duration_ms": 7841,
+      "text": "write code. And do not think even think"
+    },
+    {
+      "start_ms": 448880,
+      "duration_ms": 5039,
+      "text": "about writing it any other way. So, we"
+    },
+    {
+      "start_ms": 452160,
+      "duration_ms": 4240,
+      "text": "have it all set up here. This is basic"
+    },
+    {
+      "start_ms": 453919,
+      "duration_ms": 4000,
+      "text": "highlevel stuff. like when in doubt,"
+    },
+    {
+      "start_ms": 456400,
+      "duration_ms": 3120,
+      "text": "search the codebase for similar"
+    },
+    {
+      "start_ms": 457919,
+      "duration_ms": 4641,
+      "text": "implementations."
+    },
+    {
+      "start_ms": 459520,
+      "duration_ms": 5119,
+      "text": ">> Um all this kind of stuff. Yeah. So we"
+    },
+    {
+      "start_ms": 462560,
+      "duration_ms": 5600,
+      "text": "we worked our way through this even down"
+    },
+    {
+      "start_ms": 464639,
+      "duration_ms": 5601,
+      "text": "into like here's an example of a Rails"
+    },
+    {
+      "start_ms": 468160,
+      "duration_ms": 3280,
+      "text": "controller, how I want you to write it"
+    },
+    {
+      "start_ms": 470240,
+      "duration_ms": 4160,
+      "text": "and like"
+    },
+    {
+      "start_ms": 471440,
+      "duration_ms": 6080,
+      "text": ">> we we're still seeing"
+    },
+    {
+      "start_ms": 474400,
+      "duration_ms": 4880,
+      "text": ">> Sorry. I see. But like F. So you"
+    },
+    {
+      "start_ms": 477520,
+      "duration_ms": 4320,
+      "text": "actually"
+    },
+    {
+      "start_ms": 479280,
+      "duration_ms": 4240,
+      "text": "I'm excited to see this, but like Yeah."
+    },
+    {
+      "start_ms": 481840,
+      "duration_ms": 3199,
+      "text": "So how did you did you get it like how"
+    },
+    {
+      "start_ms": 483520,
+      "duration_ms": 3600,
+      "text": "did you come up with these guard? Is it"
+    },
+    {
+      "start_ms": 485039,
+      "duration_ms": 3201,
+      "text": "just trial and error? Pretty much like"
+    },
+    {
+      "start_ms": 487120,
+      "duration_ms": 1840,
+      "text": ">> pretty much. Yeah."
+    },
+    {
+      "start_ms": 488240,
+      "duration_ms": 3679,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 488960,
+      "duration_ms": 4400,
+      "text": ">> Um, show my screen anyway"
+    },
+    {
+      "start_ms": 491919,
+      "duration_ms": 2641,
+      "text": ">> cuz Yeah, you just said like how do you"
+    },
+    {
+      "start_ms": 493360,
+      "duration_ms": 4320,
+      "text": "how do you Here's"
+    },
+    {
+      "start_ms": 494560,
+      "duration_ms": 7359,
+      "text": ">> During the cleanup process, did you lean"
+    },
+    {
+      "start_ms": 497680,
+      "duration_ms": 6320,
+      "text": "into any AI to help you actually clean"
+    },
+    {
+      "start_ms": 501919,
+      "duration_ms": 5361,
+      "text": "out your noise and garbage?"
+    },
+    {
+      "start_ms": 504000,
+      "duration_ms": 4879,
+      "text": ">> Yeah. Um, yeah, as much as we could, but"
+    },
+    {
+      "start_ms": 507280,
+      "duration_ms": 3039,
+      "text": "a lot of it was a lot of there was a lot"
+    },
+    {
+      "start_ms": 508879,
+      "duration_ms": 4321,
+      "text": "of like grunt work in there, like"
+    },
+    {
+      "start_ms": 510319,
+      "duration_ms": 5600,
+      "text": "changing the name of a file."
+    },
+    {
+      "start_ms": 513200,
+      "duration_ms": 5440,
+      "text": "Instead of being like worker manager,"
+    },
+    {
+      "start_ms": 515919,
+      "duration_ms": 5281,
+      "text": "it's like, hey, it's actually like"
+    },
+    {
+      "start_ms": 518640,
+      "duration_ms": 3680,
+      "text": "customer VIP updater, you know what I"
+    },
+    {
+      "start_ms": 521200,
+      "duration_ms": 2639,
+      "text": "mean? Like"
+    },
+    {
+      "start_ms": 522320,
+      "duration_ms": 4240,
+      "text": ">> very descriptive."
+    },
+    {
+      "start_ms": 523839,
+      "duration_ms": 3921,
+      "text": ">> Um, can you guys see my screen or am I"
+    },
+    {
+      "start_ms": 526560,
+      "duration_ms": 3360,
+      "text": "still [ __ ]"
+    },
+    {
+      "start_ms": 527760,
+      "duration_ms": 3840,
+      "text": ">> See,"
+    },
+    {
+      "start_ms": 529920,
+      "duration_ms": 2960,
+      "text": ">> I'd love to see it. I can definitely"
+    },
+    {
+      "start_ms": 531600,
+      "duration_ms": 2640,
+      "text": "follow along. I think I was following"
+    },
+    {
+      "start_ms": 532880,
+      "duration_ms": 1680,
+      "text": "along with your examples for sure. It's"
+    },
+    {
+      "start_ms": 534240,
+      "duration_ms": 1120,
+      "text": "like"
+    },
+    {
+      "start_ms": 534560,
+      "duration_ms": 2000,
+      "text": ">> let me try this"
+    },
+    {
+      "start_ms": 535360,
+      "duration_ms": 3840,
+      "text": ">> controller template."
+    },
+    {
+      "start_ms": 536560,
+      "duration_ms": 3839,
+      "text": ">> Okay. No."
+    },
+    {
+      "start_ms": 539200,
+      "duration_ms": 4000,
+      "text": ">> No. Julie. No."
+    },
+    {
+      "start_ms": 540399,
+      "duration_ms": 4721,
+      "text": ">> [ __ ] it. Here. I'll show you just uh"
+    },
+    {
+      "start_ms": 543200,
+      "duration_ms": 4480,
+      "text": "just the GitHub instead. It's easier."
+    },
+    {
+      "start_ms": 545120,
+      "duration_ms": 5960,
+      "text": "Here we go."
+    },
+    {
+      "start_ms": 547680,
+      "duration_ms": 3400,
+      "text": "One second."
+    },
+    {
+      "start_ms": 553360,
+      "duration_ms": 4800,
+      "text": "All right, we're back. Here we go."
+    },
+    {
+      "start_ms": 556320,
+      "duration_ms": 2880,
+      "text": ">> You can see GitHub right now."
+    },
+    {
+      "start_ms": 558160,
+      "duration_ms": 4320,
+      "text": ">> Yes."
+    },
+    {
+      "start_ms": 559200,
+      "duration_ms": 6639,
+      "text": ">> All right. So if we go into here docs"
+    },
+    {
+      "start_ms": 562480,
+      "duration_ms": 4560,
+      "text": "llm how to write rails code"
+    },
+    {
+      "start_ms": 565839,
+      "duration_ms": 3921,
+      "text": ">> here we go"
+    },
+    {
+      "start_ms": 567040,
+      "duration_ms": 4640,
+      "text": ">> you can see here everything hey it's"
+    },
+    {
+      "start_ms": 569760,
+      "duration_ms": 3280,
+      "text": "extremely important to maintain code"
+    },
+    {
+      "start_ms": 571680,
+      "duration_ms": 4320,
+      "text": "uniformity and follow established"
+    },
+    {
+      "start_ms": 573040,
+      "duration_ms": 4239,
+      "text": "patterns we have like all these docs"
+    },
+    {
+      "start_ms": 576000,
+      "duration_ms": 5760,
+      "text": "that's like"
+    },
+    {
+      "start_ms": 577279,
+      "duration_ms": 6641,
+      "text": ">> don't do this this is wrong do this um"
+    },
+    {
+      "start_ms": 581760,
+      "duration_ms": 5680,
+      "text": "this is how we want controllers to be"
+    },
+    {
+      "start_ms": 583920,
+      "duration_ms": 5440,
+      "text": "written best practices like we go pretty"
+    },
+    {
+      "start_ms": 587440,
+      "duration_ms": 5440,
+      "text": "detailed like we got thousands of lines"
+    },
+    {
+      "start_ms": 589360,
+      "duration_ms": 5680,
+      "text": "lines of code that it has to read. So"
+    },
+    {
+      "start_ms": 592880,
+      "duration_ms": 4480,
+      "text": "again, we cleaned up the whole uh code"
+    },
+    {
+      "start_ms": 595040,
+      "duration_ms": 6000,
+      "text": "base. We wrote all of these docs, which"
+    },
+    {
+      "start_ms": 597360,
+      "duration_ms": 6800,
+      "text": "is like, hey, I'm going to clobber you"
+    },
+    {
+      "start_ms": 601040,
+      "duration_ms": 5919,
+      "text": "over the head until you like do not"
+    },
+    {
+      "start_ms": 604160,
+      "duration_ms": 6160,
+      "text": "write or return anything that does not"
+    },
+    {
+      "start_ms": 606959,
+      "duration_ms": 4320,
+      "text": "go by the guidelines that we have."
+    },
+    {
+      "start_ms": 610320,
+      "duration_ms": 3440,
+      "text": ">> Holy [ __ ]"
+    },
+    {
+      "start_ms": 611279,
+      "duration_ms": 4560,
+      "text": ">> And then like, okay, for writing tests,"
+    },
+    {
+      "start_ms": 613760,
+      "duration_ms": 4480,
+      "text": "here's how I want you to do it. So like"
+    },
+    {
+      "start_ms": 615839,
+      "duration_ms": 4000,
+      "text": "super detailed like that."
+    },
+    {
+      "start_ms": 618240,
+      "duration_ms": 3760,
+      "text": "all the R spec like Wow."
+    },
+    {
+      "start_ms": 619839,
+      "duration_ms": 3521,
+      "text": ">> Yeah. I like bang my head against the"
+    },
+    {
+      "start_ms": 622000,
+      "duration_ms": 3200,
+      "text": "wall. It was like three months of"
+    },
+    {
+      "start_ms": 623360,
+      "duration_ms": 3680,
+      "text": "absolute torture, but like to get out"
+    },
+    {
+      "start_ms": 625200,
+      "duration_ms": 3360,
+      "text": "the other side of it, it's like just"
+    },
+    {
+      "start_ms": 627040,
+      "duration_ms": 2160,
+      "text": "make things so much easier."
+    },
+    {
+      "start_ms": 628560,
+      "duration_ms": 4640,
+      "text": ">> Yeah. Yeah. Yeah."
+    },
+    {
+      "start_ms": 629200,
+      "duration_ms": 7920,
+      "text": ">> Um so then what we did was we went to"
+    },
+    {
+      "start_ms": 633200,
+      "duration_ms": 5520,
+      "text": "Devon and like anything else, it's the"
+    },
+    {
+      "start_ms": 637120,
+      "duration_ms": 4080,
+      "text": "prompt that you put into it is the"
+    },
+    {
+      "start_ms": 638720,
+      "duration_ms": 6640,
+      "text": "output that you get back out, right? So"
+    },
+    {
+      "start_ms": 641200,
+      "duration_ms": 6319,
+      "text": ">> we made this template that we tested um"
+    },
+    {
+      "start_ms": 645360,
+      "duration_ms": 4159,
+      "text": "over the course of like a few weeks and"
+    },
+    {
+      "start_ms": 647519,
+      "duration_ms": 5760,
+      "text": "this is the only way that the team can"
+    },
+    {
+      "start_ms": 649519,
+      "duration_ms": 5681,
+      "text": "submit a um a prompt to dev"
+    },
+    {
+      "start_ms": 653279,
+      "duration_ms": 3921,
+      "text": ">> is we have this shortcut right where"
+    },
+    {
+      "start_ms": 655200,
+      "duration_ms": 5040,
+      "text": "it's xdevon"
+    },
+    {
+      "start_ms": 657200,
+      "duration_ms": 5040,
+      "text": "and this will just open up um like it'll"
+    },
+    {
+      "start_ms": 660240,
+      "duration_ms": 3760,
+      "text": "pop this in. So that's 90% of the work"
+    },
+    {
+      "start_ms": 662240,
+      "duration_ms": 3760,
+      "text": "done and actually writing it."
+    },
+    {
+      "start_ms": 664000,
+      "duration_ms": 2399,
+      "text": ">> Yeah. Master pro. Okay. Yeah. Yeah."
+    },
+    {
+      "start_ms": 666000,
+      "duration_ms": 2160,
+      "text": "Yeah."
+    },
+    {
+      "start_ms": 666399,
+      "duration_ms": 3601,
+      "text": ">> Yeah. So this is where I do a quick"
+    },
+    {
+      "start_ms": 668160,
+      "duration_ms": 4320,
+      "text": "oneliner. Hey, this is what you need to"
+    },
+    {
+      "start_ms": 670000,
+      "duration_ms": 4720,
+      "text": "do. Like the overall description if it"
+    },
+    {
+      "start_ms": 672480,
+      "duration_ms": 4720,
+      "text": "needs to go into any more detail. We've"
+    },
+    {
+      "start_ms": 674720,
+      "duration_ms": 3920,
+      "text": "also found that referencing files of"
+    },
+    {
+      "start_ms": 677200,
+      "duration_ms": 2160,
+      "text": "where you know that there's similar"
+    },
+    {
+      "start_ms": 678640,
+      "duration_ms": 1520,
+      "text": "code."
+    },
+    {
+      "start_ms": 679360,
+      "duration_ms": 1599,
+      "text": ">> Yep."
+    },
+    {
+      "start_ms": 680160,
+      "duration_ms": 1119,
+      "text": ">> Way better."
+    },
+    {
+      "start_ms": 680959,
+      "duration_ms": 2320,
+      "text": ">> Okay."
+    },
+    {
+      "start_ms": 681279,
+      "duration_ms": 3601,
+      "text": ">> Um so we'll like drop that into there as"
+    },
+    {
+      "start_ms": 683279,
+      "duration_ms": 3601,
+      "text": "well. Hey, check out this file because"
+    },
+    {
+      "start_ms": 684880,
+      "duration_ms": 5920,
+      "text": "this is what it's very similar."
+    },
+    {
+      "start_ms": 686880,
+      "duration_ms": 6560,
+      "text": ">> Um before you start, you must read this"
+    },
+    {
+      "start_ms": 690800,
+      "duration_ms": 5599,
+      "text": "doc on how to on how we write code."
+    },
+    {
+      "start_ms": 693440,
+      "duration_ms": 4480,
+      "text": ">> That's before you. So at the end when"
+    },
+    {
+      "start_ms": 696399,
+      "duration_ms": 3761,
+      "text": "it's when it's done and it's about to"
+    },
+    {
+      "start_ms": 697920,
+      "duration_ms": 4159,
+      "text": "submit its work, here's the checklist"
+    },
+    {
+      "start_ms": 700160,
+      "duration_ms": 4720,
+      "text": "that it has to check off before it can"
+    },
+    {
+      "start_ms": 702079,
+      "duration_ms": 6081,
+      "text": "do that. It needs to submit a test with"
+    },
+    {
+      "start_ms": 704880,
+      "duration_ms": 5199,
+      "text": "the work, it needs to run our llinter,"
+    },
+    {
+      "start_ms": 708160,
+      "duration_ms": 3760,
+      "text": "so our rubu copy."
+    },
+    {
+      "start_ms": 710079,
+      "duration_ms": 4961,
+      "text": ">> That's another big part of keeping guard"
+    },
+    {
+      "start_ms": 711920,
+      "duration_ms": 5280,
+      "text": "rails on. So we want the code to really"
+    },
+    {
+      "start_ms": 715040,
+      "duration_ms": 4400,
+      "text": "be like Lego blocks, right? Yeah,"
+    },
+    {
+      "start_ms": 717200,
+      "duration_ms": 4240,
+      "text": ">> like in a perfect world if you can just"
+    },
+    {
+      "start_ms": 719440,
+      "duration_ms": 5120,
+      "text": "think of it like Lego blocks because"
+    },
+    {
+      "start_ms": 721440,
+      "duration_ms": 5040,
+      "text": "really most engineers will like turn"
+    },
+    {
+      "start_ms": 724560,
+      "duration_ms": 3440,
+      "text": "their nose up at you and be like, \"Dude,"
+    },
+    {
+      "start_ms": 726480,
+      "duration_ms": 3120,
+      "text": "you're you know what I mean? You're not"
+    },
+    {
+      "start_ms": 728000,
+      "duration_ms": 3440,
+      "text": "cultured or whatever, but like we're"
+    },
+    {
+      "start_ms": 729600,
+      "duration_ms": 3359,
+      "text": "here to [ __ ] build businesses and"
+    },
+    {
+      "start_ms": 731440,
+      "duration_ms": 3040,
+      "text": "make money.\" So like,"
+    },
+    {
+      "start_ms": 732959,
+      "duration_ms": 2721,
+      "text": ">> you know, that's the biggest struggle,"
+    },
+    {
+      "start_ms": 734480,
+      "duration_ms": 2799,
+      "text": "right? It's like, yeah, that's nice, but"
+    },
+    {
+      "start_ms": 735680,
+      "duration_ms": 2320,
+      "text": "we're here to sell value. Yeah. Yeah."
+    },
+    {
+      "start_ms": 737279,
+      "duration_ms": 4161,
+      "text": "Yeah. Totally"
+    },
+    {
+      "start_ms": 738000,
+      "duration_ms": 5839,
+      "text": ">> right. Exactly. So like to me, I'm just"
+    },
+    {
+      "start_ms": 741440,
+      "duration_ms": 4399,
+      "text": "trying to make this like this is the"
+    },
+    {
+      "start_ms": 743839,
+      "duration_ms": 4321,
+      "text": "feature, you know, everything. We want"
+    },
+    {
+      "start_ms": 745839,
+      "duration_ms": 4481,
+      "text": "this to be inside the little world that"
+    },
+    {
+      "start_ms": 748160,
+      "duration_ms": 5200,
+      "text": "we built for you and do not go outside"
+    },
+    {
+      "start_ms": 750320,
+      "duration_ms": 3519,
+      "text": "of it or start making [ __ ] up."
+    },
+    {
+      "start_ms": 753360,
+      "duration_ms": 1200,
+      "text": ">> Okay."
+    },
+    {
+      "start_ms": 753839,
+      "duration_ms": 1120,
+      "text": ">> And then"
+    },
+    {
+      "start_ms": 754560,
+      "duration_ms": 2000,
+      "text": ">> got it."
+    },
+    {
+      "start_ms": 754959,
+      "duration_ms": 4081,
+      "text": ">> So every bit of the way you got to be"
+    },
+    {
+      "start_ms": 756560,
+      "duration_ms": 4880,
+      "text": "like here's the checklist just checking"
+    },
+    {
+      "start_ms": 759040,
+      "duration_ms": 3599,
+      "text": "in to make sure that you're like on side"
+    },
+    {
+      "start_ms": 761440,
+      "duration_ms": 3280,
+      "text": "with this."
+    },
+    {
+      "start_ms": 762639,
+      "duration_ms": 4640,
+      "text": ">> Um and then before submitting they have"
+    },
+    {
+      "start_ms": 764720,
+      "duration_ms": 5840,
+      "text": "to run the full test suite. Um we've"
+    },
+    {
+      "start_ms": 767279,
+      "duration_ms": 5360,
+      "text": "also got it set up for um integration"
+    },
+    {
+      "start_ms": 770560,
+      "duration_ms": 4880,
+      "text": "tests but we do that in GitHub because"
+    },
+    {
+      "start_ms": 772639,
+      "duration_ms": 5200,
+      "text": "it takes a bit too long. So, we want the"
+    },
+    {
+      "start_ms": 775440,
+      "duration_ms": 5120,
+      "text": "final run to be an integration test on"
+    },
+    {
+      "start_ms": 777839,
+      "duration_ms": 5041,
+      "text": "GitHub. You could have it uh here, but"
+    },
+    {
+      "start_ms": 780560,
+      "duration_ms": 4000,
+      "text": "we just decided against it. Um, and"
+    },
+    {
+      "start_ms": 782880,
+      "duration_ms": 3840,
+      "text": "again, this just goes through pretty"
+    },
+    {
+      "start_ms": 784560,
+      "duration_ms": 3839,
+      "text": "much everything and just saying like"
+    },
+    {
+      "start_ms": 786720,
+      "duration_ms": 3919,
+      "text": "here's what to do."
+    },
+    {
+      "start_ms": 788399,
+      "duration_ms": 3680,
+      "text": ">> Like it's it gets kind of mind-numbing,"
+    },
+    {
+      "start_ms": 790639,
+      "duration_ms": 5121,
+      "text": "but once you do it once, you just need"
+    },
+    {
+      "start_ms": 792079,
+      "duration_ms": 4081,
+      "text": "to do it like pop it in like this. Um,"
+    },
+    {
+      "start_ms": 795760,
+      "duration_ms": 3440,
+      "text": ">> totally."
+    },
+    {
+      "start_ms": 796160,
+      "duration_ms": 7400,
+      "text": ">> So, like we've built a lot from here. So"
+    },
+    {
+      "start_ms": 799200,
+      "duration_ms": 4360,
+      "text": "like if I show here,"
+    },
+    {
+      "start_ms": 806399,
+      "duration_ms": 4801,
+      "text": "so like we actually only changed this."
+    },
+    {
+      "start_ms": 809279,
+      "duration_ms": 3680,
+      "text": "This should look a lot more impressive,"
+    },
+    {
+      "start_ms": 811200,
+      "duration_ms": 4720,
+      "text": "but I only realized that there's a"
+    },
+    {
+      "start_ms": 812959,
+      "duration_ms": 4560,
+      "text": "setting to change your who runs it was"
+    },
+    {
+      "start_ms": 815920,
+      "duration_ms": 3280,
+      "text": "coming through as Stuart. So a lot of"
+    },
+    {
+      "start_ms": 817519,
+      "duration_ms": 2721,
+      "text": "the tests that were being done."
+    },
+    {
+      "start_ms": 819200,
+      "duration_ms": 3199,
+      "text": ">> Yeah. Yeah."
+    },
+    {
+      "start_ms": 820240,
+      "duration_ms": 5200,
+      "text": ">> Coming through as me. So it's probably"
+    },
+    {
+      "start_ms": 822399,
+      "duration_ms": 4560,
+      "text": "more like 450 I would say that was done"
+    },
+    {
+      "start_ms": 825440,
+      "duration_ms": 3120,
+      "text": "by Devon. And if you look at the next"
+    },
+    {
+      "start_ms": 826959,
+      "duration_ms": 2801,
+      "text": "person down, it's like a 100. So it's"
+    },
+    {
+      "start_ms": 828560,
+      "duration_ms": 1839,
+      "text": "like a 4x"
+    },
+    {
+      "start_ms": 829760,
+      "duration_ms": 4160,
+      "text": ">> Jesus."
+    },
+    {
+      "start_ms": 830399,
+      "duration_ms": 6481,
+      "text": ">> Uh above the next engineer. This guy's"
+    },
+    {
+      "start_ms": 833920,
+      "duration_ms": 5840,
+      "text": "[ __ ] super talented. But again, like"
+    },
+    {
+      "start_ms": 836880,
+      "duration_ms": 6240,
+      "text": "just a lot more volume because it works"
+    },
+    {
+      "start_ms": 839760,
+      "duration_ms": 4480,
+      "text": "24/7 by itself, right? Um"
+    },
+    {
+      "start_ms": 843120,
+      "duration_ms": 5760,
+      "text": ">> crazy, man."
+    },
+    {
+      "start_ms": 844240,
+      "duration_ms": 7839,
+      "text": ">> So let me show you then."
+    },
+    {
+      "start_ms": 848880,
+      "duration_ms": 6160,
+      "text": "So getting back to"
+    },
+    {
+      "start_ms": 852079,
+      "duration_ms": 5681,
+      "text": "how do we get the team involved in this"
+    },
+    {
+      "start_ms": 855040,
+      "duration_ms": 5120,
+      "text": "and then going back to"
+    },
+    {
+      "start_ms": 857760,
+      "duration_ms": 5040,
+      "text": "hey the reviews is a great place to"
+    },
+    {
+      "start_ms": 860160,
+      "duration_ms": 3840,
+      "text": "start and then the next place I found is"
+    },
+    {
+      "start_ms": 862800,
+      "duration_ms": 3760,
+      "text": "really good"
+    },
+    {
+      "start_ms": 864000,
+      "duration_ms": 3680,
+      "text": ">> that it's not going to like make people"
+    },
+    {
+      "start_ms": 866560,
+      "duration_ms": 1680,
+      "text": "skittish."
+    },
+    {
+      "start_ms": 867680,
+      "duration_ms": 3599,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 868240,
+      "duration_ms": 6640,
+      "text": ">> Uh is intercom help docs. This one has"
+    },
+    {
+      "start_ms": 871279,
+      "duration_ms": 5841,
+      "text": "been [ __ ] killer for us. Um and we're"
+    },
+    {
+      "start_ms": 874880,
+      "duration_ms": 4000,
+      "text": "actually really doubling down on it"
+    },
+    {
+      "start_ms": 877120,
+      "duration_ms": 3680,
+      "text": "right now. In fact, we've got a lot of"
+    },
+    {
+      "start_ms": 878880,
+      "duration_ms": 4319,
+      "text": "open poll requests. I'm running it"
+    },
+    {
+      "start_ms": 880800,
+      "duration_ms": 5760,
+      "text": "literally right now. Um, so I can show"
+    },
+    {
+      "start_ms": 883199,
+      "duration_ms": 9041,
+      "text": "you exactly what we're doing here. So,"
+    },
+    {
+      "start_ms": 886560,
+      "duration_ms": 7519,
+      "text": "we switched like a week ago um from this"
+    },
+    {
+      "start_ms": 892240,
+      "duration_ms": 4880,
+      "text": "playbook we've been running on Shopify"
+    },
+    {
+      "start_ms": 894079,
+      "duration_ms": 6161,
+      "text": "for the last 10 years has been jump on a"
+    },
+    {
+      "start_ms": 897120,
+      "duration_ms": 4880,
+      "text": "live chat with somebody and um they'll"
+    },
+    {
+      "start_ms": 900240,
+      "duration_ms": 3360,
+      "text": "leave a review on your Shopify app and"
+    },
+    {
+      "start_ms": 902000,
+      "duration_ms": 2880,
+      "text": "you get the number one in the rankings"
+    },
+    {
+      "start_ms": 903600,
+      "duration_ms": 4880,
+      "text": "for Shopify. Right."
+    },
+    {
+      "start_ms": 904880,
+      "duration_ms": 5519,
+      "text": ">> Okay. That playbook is dead. Like it is"
+    },
+    {
+      "start_ms": 908480,
+      "duration_ms": 4320,
+      "text": "absolutely gone. They I'm not sure if"
+    },
+    {
+      "start_ms": 910399,
+      "duration_ms": 3921,
+      "text": "you saw it. Shopify nuked like 60% of"
+    },
+    {
+      "start_ms": 912800,
+      "duration_ms": 1920,
+      "text": "the reviews on the platform."
+    },
+    {
+      "start_ms": 914320,
+      "duration_ms": 2480,
+      "text": ">> I did"
+    },
+    {
+      "start_ms": 914720,
+      "duration_ms": 3840,
+      "text": ">> and they just dep prioritized that as"
+    },
+    {
+      "start_ms": 916800,
+      "duration_ms": 3039,
+      "text": "being a like"
+    },
+    {
+      "start_ms": 918560,
+      "duration_ms": 3600,
+      "text": ">> reason to go."
+    },
+    {
+      "start_ms": 919839,
+      "duration_ms": 4800,
+      "text": ">> Um which turned out to be actually"
+    },
+    {
+      "start_ms": 922160,
+      "duration_ms": 3600,
+      "text": "fantastic for us because now we're just"
+    },
+    {
+      "start_ms": 924639,
+      "duration_ms": 2880,
+      "text": "actually going to be able to build a"
+    },
+    {
+      "start_ms": 925760,
+      "duration_ms": 3439,
+      "text": "better product, not have to have these"
+    },
+    {
+      "start_ms": 927519,
+      "duration_ms": 3841,
+      "text": "kind of goofy"
+    },
+    {
+      "start_ms": 929199,
+      "duration_ms": 3601,
+      "text": ">> um actions that didn't need to exist in"
+    },
+    {
+      "start_ms": 931360,
+      "duration_ms": 3440,
+      "text": "the first place, right?"
+    },
+    {
+      "start_ms": 932800,
+      "duration_ms": 4719,
+      "text": ">> Yeah. Yeah. Yeah. Okay, fair enough."
+    },
+    {
+      "start_ms": 934800,
+      "duration_ms": 4960,
+      "text": "What we've done instead is we turned on"
+    },
+    {
+      "start_ms": 937519,
+      "duration_ms": 3281,
+      "text": "Finn, uh, which you guys obviously use"
+    },
+    {
+      "start_ms": 939760,
+      "duration_ms": 3840,
+      "text": "as well."
+    },
+    {
+      "start_ms": 940800,
+      "duration_ms": 5039,
+      "text": ">> Um, and we've just been blown away by"
+    },
+    {
+      "start_ms": 943600,
+      "duration_ms": 4720,
+      "text": "how good it is. We tried it like when it"
+    },
+    {
+      "start_ms": 945839,
+      "duration_ms": 5920,
+      "text": "first came out, it was fine. Now it's"
+    },
+    {
+      "start_ms": 948320,
+      "duration_ms": 4160,
+      "text": "just really good what we found."
+    },
+    {
+      "start_ms": 951759,
+      "duration_ms": 2320,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 952480,
+      "duration_ms": 3200,
+      "text": ">> I'm sure you in fact I think you guys"
+    },
+    {
+      "start_ms": 954079,
+      "duration_ms": 2000,
+      "text": "have a case study with them, right?"
+    },
+    {
+      "start_ms": 955680,
+      "duration_ms": 2000,
+      "text": ">> I think."
+    },
+    {
+      "start_ms": 956079,
+      "duration_ms": 3120,
+      "text": ">> Yeah. Yeah. They love us,"
+    },
+    {
+      "start_ms": 957680,
+      "duration_ms": 3360,
+      "text": ">> right? Nice."
+    },
+    {
+      "start_ms": 959199,
+      "duration_ms": 3041,
+      "text": ">> Yeah. So,"
+    },
+    {
+      "start_ms": 961040,
+      "duration_ms": 2560,
+      "text": ">> can I ask you a question about that?"
+    },
+    {
+      "start_ms": 962240,
+      "duration_ms": 3440,
+      "text": "Because here's my biggest concern at"
+    },
+    {
+      "start_ms": 963600,
+      "duration_ms": 3919,
+      "text": "least on on the Yeah."
+    },
+    {
+      "start_ms": 965680,
+      "duration_ms": 3920,
+      "text": ">> How do you get how do you get Finn?"
+    },
+    {
+      "start_ms": 967519,
+      "duration_ms": 3281,
+      "text": "Because I I assume I know and Adam"
+    },
+    {
+      "start_ms": 969600,
+      "duration_ms": 3520,
+      "text": "mentioned this, but you and like Devon"
+    },
+    {
+      "start_ms": 970800,
+      "duration_ms": 4479,
+      "text": "and Finn are the two of them are working"
+    },
+    {
+      "start_ms": 973120,
+      "duration_ms": 3680,
+      "text": "together. How do you prevent proprietary"
+    },
+    {
+      "start_ms": 975279,
+      "duration_ms": 3521,
+      "text": "knowledge from seeping out? Like are you"
+    },
+    {
+      "start_ms": 976800,
+      "duration_ms": 3120,
+      "text": "doing a full review on everything it"
+    },
+    {
+      "start_ms": 978800,
+      "duration_ms": 2640,
+      "text": "generates?"
+    },
+    {
+      "start_ms": 979920,
+      "duration_ms": 3760,
+      "text": ">> Yeah. So, let me show you here."
+    },
+    {
+      "start_ms": 981440,
+      "duration_ms": 4160,
+      "text": ">> Okay. See how you do that."
+    },
+    {
+      "start_ms": 983680,
+      "duration_ms": 4079,
+      "text": ">> Here's what we do. We literally have a"
+    },
+    {
+      "start_ms": 985600,
+      "duration_ms": 3840,
+      "text": "You could automate this, but do you just"
+    },
+    {
+      "start_ms": 987759,
+      "duration_ms": 2561,
+      "text": "run this every two weeks? You're gonna"
+    },
+    {
+      "start_ms": 989440,
+      "duration_ms": 3839,
+      "text": "be fine."
+    },
+    {
+      "start_ms": 990320,
+      "duration_ms": 6639,
+      "text": ">> Yeah. Um, here's what we do. I go to"
+    },
+    {
+      "start_ms": 993279,
+      "duration_ms": 5360,
+      "text": "Claude, right? Uh, so Claude code."
+    },
+    {
+      "start_ms": 996959,
+      "duration_ms": 2560,
+      "text": ">> Oh, shoot. Screen share might have died"
+    },
+    {
+      "start_ms": 998639,
+      "duration_ms": 3921,
+      "text": "again. Damn."
+    },
+    {
+      "start_ms": 999519,
+      "duration_ms": 4721,
+      "text": ">> Oh, [ __ ] me. Um, I won't be able to show"
+    },
+    {
+      "start_ms": 1002560,
+      "duration_ms": 3199,
+      "text": "it then, but you'll you'll get it."
+    },
+    {
+      "start_ms": 1004240,
+      "duration_ms": 3760,
+      "text": ">> Oh, yeah."
+    },
+    {
+      "start_ms": 1005759,
+      "duration_ms": 4561,
+      "text": ">> I go to cloud code in my terminal and I"
+    },
+    {
+      "start_ms": 1008000,
+      "duration_ms": 4560,
+      "text": "paste this in. Usually I'll do like 25"
+    },
+    {
+      "start_ms": 1010320,
+      "duration_ms": 4160,
+      "text": "or something like that. Um, and I'll"
+    },
+    {
+      "start_ms": 1012560,
+      "duration_ms": 5120,
+      "text": "just say, oh, wait, I'm in the wrong"
+    },
+    {
+      "start_ms": 1014480,
+      "duration_ms": 4719,
+      "text": "one. That's for writing tests you can do"
+    },
+    {
+      "start_ms": 1017680,
+      "duration_ms": 2640,
+      "text": "automatically. This is for writing"
+    },
+    {
+      "start_ms": 1019199,
+      "duration_ms": 3361,
+      "text": "articles here."
+    },
+    {
+      "start_ms": 1020320,
+      "duration_ms": 3999,
+      "text": ">> Reason I can't see. So question, did you"
+    },
+    {
+      "start_ms": 1022560,
+      "duration_ms": 3680,
+      "text": "set up like do you have like a master"
+    },
+    {
+      "start_ms": 1024319,
+      "duration_ms": 4081,
+      "text": "prompt or like a workspace and claude"
+    },
+    {
+      "start_ms": 1026240,
+      "duration_ms": 4880,
+      "text": "specifically designed with your"
+    },
+    {
+      "start_ms": 1028400,
+      "duration_ms": 4399,
+      "text": "guardrails in this domain as well then?"
+    },
+    {
+      "start_ms": 1031120,
+      "duration_ms": 3919,
+      "text": ">> Yeah. Um"
+    },
+    {
+      "start_ms": 1032799,
+      "duration_ms": 4160,
+      "text": ">> okay."
+    },
+    {
+      "start_ms": 1035039,
+      "duration_ms": 5920,
+      "text": "I'll show you on the page right now"
+    },
+    {
+      "start_ms": 1036959,
+      "duration_ms": 6561,
+      "text": "somehow. Uh yeah, and what I've done is"
+    },
+    {
+      "start_ms": 1040959,
+      "duration_ms": 6561,
+      "text": "we have we downloaded all of the"
+    },
+    {
+      "start_ms": 1043520,
+      "duration_ms": 10159,
+      "text": "intercom articles to our repository,"
+    },
+    {
+      "start_ms": 1047520,
+      "duration_ms": 8560,
+      "text": "right? So if we go here, we go to docs"
+    },
+    {
+      "start_ms": 1053679,
+      "duration_ms": 6561,
+      "text": "intercom. This is all of our intercom"
+    },
+    {
+      "start_ms": 1056080,
+      "duration_ms": 7839,
+      "text": "articles right here in HTML, right?"
+    },
+    {
+      "start_ms": 1060240,
+      "duration_ms": 6559,
+      "text": ">> [ __ ] Okay. And what we do then is we go"
+    },
+    {
+      "start_ms": 1063919,
+      "duration_ms": 4801,
+      "text": "to this script"
+    },
+    {
+      "start_ms": 1066799,
+      "duration_ms": 3760,
+      "text": "and I say, \"Hey, give me all of those"
+    },
+    {
+      "start_ms": 1068720,
+      "duration_ms": 3280,
+      "text": "files that I just showed you in that big"
+    },
+    {
+      "start_ms": 1070559,
+      "duration_ms": 2480,
+      "text": "list. That's all of our intercom"
+    },
+    {
+      "start_ms": 1072000,
+      "duration_ms": 3039,
+      "text": "articles."
+    },
+    {
+      "start_ms": 1073039,
+      "duration_ms": 3921,
+      "text": ">> Skip this [ __ ] because it's like stuff"
+    },
+    {
+      "start_ms": 1075039,
+      "duration_ms": 3841,
+      "text": "we don't want to improve anyway, like"
+    },
+    {
+      "start_ms": 1076960,
+      "duration_ms": 4160,
+      "text": "office hours. Who gives a shit?\""
+    },
+    {
+      "start_ms": 1078880,
+      "duration_ms": 5120,
+      "text": ">> Uh, go through each one. Make sure it's"
+    },
+    {
+      "start_ms": 1081120,
+      "duration_ms": 4240,
+      "text": "the right files. And now we get to here."
+    },
+    {
+      "start_ms": 1084000,
+      "duration_ms": 3919,
+      "text": ">> And this is going to be run from my"
+    },
+    {
+      "start_ms": 1085360,
+      "duration_ms": 4720,
+      "text": "Rails console, right? where I go"
+    },
+    {
+      "start_ms": 1087919,
+      "duration_ms": 4241,
+      "text": ">> and I say update and improve our"
+    },
+    {
+      "start_ms": 1090080,
+      "duration_ms": 4080,
+      "text": "existing customerf facing help doc"
+    },
+    {
+      "start_ms": 1092160,
+      "duration_ms": 4480,
+      "text": "located at the file"
+    },
+    {
+      "start_ms": 1094160,
+      "duration_ms": 4639,
+      "text": ">> uh update it you are an expert at"
+    },
+    {
+      "start_ms": 1096640,
+      "duration_ms": 4080,
+      "text": "writing customerf facing help doc so"
+    },
+    {
+      "start_ms": 1098799,
+      "duration_ms": 4161,
+      "text": "just a really good prompt or as good as"
+    },
+    {
+      "start_ms": 1100720,
+      "duration_ms": 5839,
+      "text": "we can say it's primarily a knowledge"
+    },
+    {
+      "start_ms": 1102960,
+      "duration_ms": 5920,
+      "text": "base for our AI chatbot deeply research"
+    },
+    {
+      "start_ms": 1106559,
+      "duration_ms": 4240,
+      "text": "do not provide any technical detail to"
+    },
+    {
+      "start_ms": 1108880,
+      "duration_ms": 4320,
+      "text": "the codebase in your work this is a"
+    },
+    {
+      "start_ms": 1110799,
+      "duration_ms": 3361,
+      "text": "customer helping facing help doc we're"
+    },
+    {
+      "start_ms": 1113200,
+      "duration_ms": 3440,
+      "text": "creating"
+    },
+    {
+      "start_ms": 1114160,
+      "duration_ms": 5759,
+      "text": ">> just that line has actually stopped it"
+    },
+    {
+      "start_ms": 1116640,
+      "duration_ms": 5760,
+      "text": "ever providing any information. Now, if"
+    },
+    {
+      "start_ms": 1119919,
+      "duration_ms": 4161,
+      "text": "we ever saw anything otherwise, we would"
+    },
+    {
+      "start_ms": 1122400,
+      "duration_ms": 3519,
+      "text": "like tighten that up."
+    },
+    {
+      "start_ms": 1124080,
+      "duration_ms": 3520,
+      "text": ">> Um,"
+    },
+    {
+      "start_ms": 1125919,
+      "duration_ms": 4880,
+      "text": ">> so yeah, and again, I can just like"
+    },
+    {
+      "start_ms": 1127600,
+      "duration_ms": 6240,
+      "text": "share this with you here."
+    },
+    {
+      "start_ms": 1130799,
+      "duration_ms": 4321,
+      "text": ">> It's just Yeah. So, you"
+    },
+    {
+      "start_ms": 1133840,
+      "duration_ms": 3520,
+      "text": ">> Interesting. So, you're going to pass"
+    },
+    {
+      "start_ms": 1135120,
+      "duration_ms": 3919,
+      "text": "every doc in with the prompt. It will do"
+    },
+    {
+      "start_ms": 1137360,
+      "duration_ms": 3040,
+      "text": "what it needs to. So, yeah. Actually,"
+    },
+    {
+      "start_ms": 1139039,
+      "duration_ms": 2561,
+      "text": "sorry. What is the Sorry. What is the"
+    },
+    {
+      "start_ms": 1140400,
+      "duration_ms": 2399,
+      "text": "rest of that workflow? So, you have this"
+    },
+    {
+      "start_ms": 1141600,
+      "duration_ms": 2400,
+      "text": "workflow. Oh, well, you said it"
+    },
+    {
+      "start_ms": 1142799,
+      "duration_ms": 2000,
+      "text": "yourself. You're connecting to the Devon"
+    },
+    {
+      "start_ms": 1144000,
+      "duration_ms": 3120,
+      "text": "API."
+    },
+    {
+      "start_ms": 1144799,
+      "duration_ms": 4000,
+      "text": ">> Yep. So then from here, we just made a"
+    },
+    {
+      "start_ms": 1147120,
+      "duration_ms": 5600,
+      "text": "prompt. Um, and now we're going to send"
+    },
+    {
+      "start_ms": 1148799,
+      "duration_ms": 5760,
+      "text": "it to Devon. So, um, that is the request"
+    },
+    {
+      "start_ms": 1152720,
+      "duration_ms": 4640,
+      "text": "to Devon right there because look, we're"
+    },
+    {
+      "start_ms": 1154559,
+      "duration_ms": 3120,
+      "text": "going to Devon to create a new session."
+    },
+    {
+      "start_ms": 1157360,
+      "duration_ms": 2800,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 1157679,
+      "duration_ms": 4641,
+      "text": ">> Uh, and this is one I literally just ran"
+    },
+    {
+      "start_ms": 1160160,
+      "duration_ms": 3440,
+      "text": "today, but we're going like all in on"
+    },
+    {
+      "start_ms": 1162320,
+      "duration_ms": 4800,
+      "text": "this now."
+    },
+    {
+      "start_ms": 1163600,
+      "duration_ms": 5120,
+      "text": ">> Um, so like let's take a look at what's"
+    },
+    {
+      "start_ms": 1167120,
+      "duration_ms": 4080,
+      "text": "one here."
+    },
+    {
+      "start_ms": 1168720,
+      "duration_ms": 5280,
+      "text": ">> All right, let's go."
+    },
+    {
+      "start_ms": 1171200,
+      "duration_ms": 4640,
+      "text": "So here's what Devin did."
+    },
+    {
+      "start_ms": 1174000,
+      "duration_ms": 5039,
+      "text": "Devon took this is the prompt that I"
+    },
+    {
+      "start_ms": 1175840,
+      "duration_ms": 5680,
+      "text": "just showed you that I ran with the API."
+    },
+    {
+      "start_ms": 1179039,
+      "duration_ms": 7201,
+      "text": ">> Devon broke this down. It thought about"
+    },
+    {
+      "start_ms": 1181520,
+      "duration_ms": 6720,
+      "text": "it. Um, it said it confidence was low"
+    },
+    {
+      "start_ms": 1186240,
+      "duration_ms": 4720,
+      "text": "and then it keeps working. It searches"
+    },
+    {
+      "start_ms": 1188240,
+      "duration_ms": 5360,
+      "text": "the the browser. It searches the"
+    },
+    {
+      "start_ms": 1190960,
+      "duration_ms": 4640,
+      "text": "internet. It searches all the code bases"
+    },
+    {
+      "start_ms": 1193600,
+      "duration_ms": 4000,
+      "text": "how this thing actually works. And then"
+    },
+    {
+      "start_ms": 1195600,
+      "duration_ms": 4400,
+      "text": "it comes back and it says, \"Okay, I've"
+    },
+    {
+      "start_ms": 1197600,
+      "duration_ms": 4880,
+      "text": "now talked through this. Um, here's the"
+    },
+    {
+      "start_ms": 1200000,
+      "duration_ms": 4559,
+      "text": "help doc we're going to update. here is"
+    },
+    {
+      "start_ms": 1202480,
+      "duration_ms": 4800,
+      "text": "what we're going to do. And then it goes"
+    },
+    {
+      "start_ms": 1204559,
+      "duration_ms": 5041,
+      "text": "back and and executes on that."
+    },
+    {
+      "start_ms": 1207280,
+      "duration_ms": 4800,
+      "text": ">> Then it will come back and it will"
+    },
+    {
+      "start_ms": 1209600,
+      "duration_ms": 4160,
+      "text": "create a pull request inside of GitHub,"
+    },
+    {
+      "start_ms": 1212080,
+      "duration_ms": 5200,
+      "text": "which again we're just going to update"
+    },
+    {
+      "start_ms": 1213760,
+      "duration_ms": 4720,
+      "text": "the intercom article with an API call."
+    },
+    {
+      "start_ms": 1217280,
+      "duration_ms": 4080,
+      "text": "So"
+    },
+    {
+      "start_ms": 1218480,
+      "duration_ms": 3760,
+      "text": ">> here, this was the previous doc. Look at"
+    },
+    {
+      "start_ms": 1221360,
+      "duration_ms": 4480,
+      "text": "this."
+    },
+    {
+      "start_ms": 1222240,
+      "duration_ms": 7000,
+      "text": ">> Like it was one line, right? So like"
+    },
+    {
+      "start_ms": 1225840,
+      "duration_ms": 3400,
+      "text": ">> way dude,"
+    },
+    {
+      "start_ms": 1229840,
+      "duration_ms": 3600,
+      "text": ">> let's leave. curious to see. There's no"
+    },
+    {
+      "start_ms": 1232240,
+      "duration_ms": 3200,
+      "text": "like"
+    },
+    {
+      "start_ms": 1233440,
+      "duration_ms": 5320,
+      "text": ">> look at that. That was the"
+    },
+    {
+      "start_ms": 1235440,
+      "duration_ms": 3320,
+      "text": ">> That was the"
+    },
+    {
+      "start_ms": 1238799,
+      "duration_ms": 3281,
+      "text": "when you come here like"
+    },
+    {
+      "start_ms": 1240320,
+      "duration_ms": 4239,
+      "text": ">> Yeah, I see all this markup. It's like"
+    },
+    {
+      "start_ms": 1242080,
+      "duration_ms": 4800,
+      "text": "it just wrote a whole damn article."
+    },
+    {
+      "start_ms": 1244559,
+      "duration_ms": 3600,
+      "text": ">> Context explains exactly how the feature"
+    },
+    {
+      "start_ms": 1246880,
+      "duration_ms": 3200,
+      "text": "works and Yeah."
+    },
+    {
+      "start_ms": 1248159,
+      "duration_ms": 5721,
+      "text": ">> So like here I can show you what this"
+    },
+    {
+      "start_ms": 1250080,
+      "duration_ms": 3800,
+      "text": "looked like. This will"
+    },
+    {
+      "start_ms": 1254080,
+      "duration_ms": 2160,
+      "text": ">> interesting, man. That's really"
+    },
+    {
+      "start_ms": 1255360,
+      "duration_ms": 4240,
+      "text": "interesting."
+    },
+    {
+      "start_ms": 1256240,
+      "duration_ms": 4480,
+      "text": ">> One sec. I'm just gonna pop this open."
+    },
+    {
+      "start_ms": 1259600,
+      "duration_ms": 3120,
+      "text": "I'm just thinking of"
+    },
+    {
+      "start_ms": 1260720,
+      "duration_ms": 4800,
+      "text": ">> you. We can see then actually how good"
+    },
+    {
+      "start_ms": 1262720,
+      "duration_ms": 4640,
+      "text": "it is."
+    },
+    {
+      "start_ms": 1265520,
+      "duration_ms": 5720,
+      "text": ">> All right, I'm on the new branch. Now"
+    },
+    {
+      "start_ms": 1267360,
+      "duration_ms": 3880,
+      "text": "I'm going to open up this."
+    },
+    {
+      "start_ms": 1272559,
+      "duration_ms": 4721,
+      "text": ">> All right, so that one liner is now all"
+    },
+    {
+      "start_ms": 1276159,
+      "duration_ms": 4801,
+      "text": "this"
+    },
+    {
+      "start_ms": 1277280,
+      "duration_ms": 5519,
+      "text": ">> and like just eyeballed this, it's"
+    },
+    {
+      "start_ms": 1280960,
+      "duration_ms": 2719,
+      "text": "correct and it's right."
+    },
+    {
+      "start_ms": 1282799,
+      "duration_ms": 2321,
+      "text": ">> Yep."
+    },
+    {
+      "start_ms": 1283679,
+      "duration_ms": 2961,
+      "text": ">> Yeah. So you just do like your expert"
+    },
+    {
+      "start_ms": 1285120,
+      "duration_ms": 3600,
+      "text": "human in the loop review to make sure it"
+    },
+    {
+      "start_ms": 1286640,
+      "duration_ms": 4560,
+      "text": "didn't completely lose it mind."
+    },
+    {
+      "start_ms": 1288720,
+      "duration_ms": 4400,
+      "text": ">> And honestly at this stage we've seen"
+    },
+    {
+      "start_ms": 1291200,
+      "duration_ms": 4479,
+      "text": "we've reviewed so many of these now that"
+    },
+    {
+      "start_ms": 1293120,
+      "duration_ms": 5200,
+      "text": "we don't even review them anymore. We"
+    },
+    {
+      "start_ms": 1295679,
+      "duration_ms": 4961,
+      "text": ">> we just we have a script that auto"
+    },
+    {
+      "start_ms": 1298320,
+      "duration_ms": 2960,
+      "text": "merges them from GitHub just because we"
+    },
+    {
+      "start_ms": 1300640,
+      "duration_ms": 1519,
+      "text": "so much"
+    },
+    {
+      "start_ms": 1301280,
+      "duration_ms": 4879,
+      "text": ">> so funny man."
+    },
+    {
+      "start_ms": 1302159,
+      "duration_ms": 6721,
+      "text": ">> Um so this right here what we do then is"
+    },
+    {
+      "start_ms": 1306159,
+      "duration_ms": 5921,
+      "text": "we say yeah this looks fantastic. We are"
+    },
+    {
+      "start_ms": 1308880,
+      "duration_ms": 6720,
+      "text": "going to merge this in. I would merge"
+    },
+    {
+      "start_ms": 1312080,
+      "duration_ms": 6479,
+      "text": "the pull request into"
+    },
+    {
+      "start_ms": 1315600,
+      "duration_ms": 6520,
+      "text": "our codebase. In fact, let me like do it"
+    },
+    {
+      "start_ms": 1318559,
+      "duration_ms": 3561,
+      "text": "right now over here."
+    },
+    {
+      "start_ms": 1323679,
+      "duration_ms": 4641,
+      "text": ">> Even though everything's broken on the"
+    },
+    {
+      "start_ms": 1325360,
+      "duration_ms": 6640,
+      "text": "internet, we will"
+    },
+    {
+      "start_ms": 1328320,
+      "duration_ms": 5599,
+      "text": ">> probably not going to fail any tests."
+    },
+    {
+      "start_ms": 1332000,
+      "duration_ms": 5280,
+      "text": ">> Rob, Rob, what do you think? Is this is"
+    },
+    {
+      "start_ms": 1333919,
+      "duration_ms": 5120,
+      "text": "this something along these lines like"
+    },
+    {
+      "start_ms": 1337280,
+      "duration_ms": 4320,
+      "text": "accomplish our mission of just like"
+    },
+    {
+      "start_ms": 1339039,
+      "duration_ms": 6361,
+      "text": "systematically eradicating"
+    },
+    {
+      "start_ms": 1341600,
+      "duration_ms": 3800,
+      "text": "categories of tickets?"
+    },
+    {
+      "start_ms": 1346080,
+      "duration_ms": 4400,
+      "text": ">> Yeah. Um"
+    },
+    {
+      "start_ms": 1348480,
+      "duration_ms": 5600,
+      "text": "from the development perspective, it's"
+    },
+    {
+      "start_ms": 1350480,
+      "duration_ms": 4720,
+      "text": "more like I I don't have any keys to"
+    },
+    {
+      "start_ms": 1354080,
+      "duration_ms": 2240,
+      "text": "that kingdom whatsoever."
+    },
+    {
+      "start_ms": 1355200,
+      "duration_ms": 2000,
+      "text": ">> Yeah. Yeah. Yeah. I mean, we got to get"
+    },
+    {
+      "start_ms": 1356320,
+      "duration_ms": 1839,
+      "text": "Tate to buy into it."
+    },
+    {
+      "start_ms": 1357200,
+      "duration_ms": 2160,
+      "text": ">> No. Yeah."
+    },
+    {
+      "start_ms": 1358159,
+      "duration_ms": 2481,
+      "text": ">> I don't want to take Hold on. I don't"
+    },
+    {
+      "start_ms": 1359360,
+      "duration_ms": 2240,
+      "text": "want I don't want to take Stuart's time"
+    },
+    {
+      "start_ms": 1360640,
+      "duration_ms": 1279,
+      "text": "talking to you about that. I can talk to"
+    },
+    {
+      "start_ms": 1361600,
+      "duration_ms": 2319,
+      "text": "you."
+    },
+    {
+      "start_ms": 1361919,
+      "duration_ms": 4000,
+      "text": ">> No. No. But you're good. I'm happy."
+    },
+    {
+      "start_ms": 1363919,
+      "duration_ms": 5760,
+      "text": ">> The concept and everything. Oh god. Yes."
+    },
+    {
+      "start_ms": 1365919,
+      "duration_ms": 6640,
+      "text": "Like to be able to come in here and give"
+    },
+    {
+      "start_ms": 1369679,
+      "duration_ms": 4161,
+      "text": "a really like that 10% prompt of, hey,"
+    },
+    {
+      "start_ms": 1372559,
+      "duration_ms": 4161,
+      "text": "this is what we need to solve. We need"
+    },
+    {
+      "start_ms": 1373840,
+      "duration_ms": 5520,
+      "text": "to be able to do this. Go do the thing."
+    },
+    {
+      "start_ms": 1376720,
+      "duration_ms": 5520,
+      "text": "Review yourself. Go do that. Blah blah"
+    },
+    {
+      "start_ms": 1379360,
+      "duration_ms": 4880,
+      "text": "blah blah blah. Like"
+    },
+    {
+      "start_ms": 1382240,
+      "duration_ms": 5280,
+      "text": "hate's time is finite. There's only so"
+    },
+    {
+      "start_ms": 1384240,
+      "duration_ms": 7520,
+      "text": "many hours in a day. And"
+    },
+    {
+      "start_ms": 1387520,
+      "duration_ms": 5200,
+      "text": "if he's able to accomplish 10 side"
+    },
+    {
+      "start_ms": 1391760,
+      "duration_ms": 2000,
+      "text": "quests,"
+    },
+    {
+      "start_ms": 1392720,
+      "duration_ms": 3520,
+      "text": ">> yeah,"
+    },
+    {
+      "start_ms": 1393760,
+      "duration_ms": 5200,
+      "text": ">> by going, hey, this is what I need to"
+    },
+    {
+      "start_ms": 1396240,
+      "duration_ms": 4799,
+      "text": "do. You go do the thing. And then let it"
+    },
+    {
+      "start_ms": 1398960,
+      "duration_ms": 4320,
+      "text": "go off on a side quest form. And then"
+    },
+    {
+      "start_ms": 1401039,
+      "duration_ms": 3760,
+      "text": "then it comes back and he does this 10%"
+    },
+    {
+      "start_ms": 1403280,
+      "duration_ms": 3600,
+      "text": "like review going,"
+    },
+    {
+      "start_ms": 1404799,
+      "duration_ms": 2961,
+      "text": ">> \"Yeah, that's going to do exactly what I"
+    },
+    {
+      "start_ms": 1406880,
+      "duration_ms": 1520,
+      "text": "want.\""
+    },
+    {
+      "start_ms": 1407760,
+      "duration_ms": 2320,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 1408400,
+      "duration_ms": 4159,
+      "text": ">> God, yes. And that's that's our biggest"
+    },
+    {
+      "start_ms": 1410080,
+      "duration_ms": 4560,
+      "text": "hurdle right now is that again, there's"
+    },
+    {
+      "start_ms": 1412559,
+      "duration_ms": 3281,
+      "text": "only so many hours in a day and Tate is"
+    },
+    {
+      "start_ms": 1414640,
+      "duration_ms": 5279,
+      "text": "human. Yeah."
+    },
+    {
+      "start_ms": 1415840,
+      "duration_ms": 7120,
+      "text": ">> And as great as he is, he he he's either"
+    },
+    {
+      "start_ms": 1419919,
+      "duration_ms": 4481,
+      "text": "doing a main quest or a side quest, but"
+    },
+    {
+      "start_ms": 1422960,
+      "duration_ms": 3120,
+      "text": "it'd be great if he could do the main"
+    },
+    {
+      "start_ms": 1424400,
+      "duration_ms": 3120,
+      "text": "quest and side quest at the same time,"
+    },
+    {
+      "start_ms": 1426080,
+      "duration_ms": 3280,
+      "text": "which this would"
+    },
+    {
+      "start_ms": 1427520,
+      "duration_ms": 4080,
+      "text": ">> this concept would allow him to do."
+    },
+    {
+      "start_ms": 1429360,
+      "duration_ms": 4480,
+      "text": ">> Now,"
+    },
+    {
+      "start_ms": 1431600,
+      "duration_ms": 3920,
+      "text": "he's going to have to guard rail stuff"
+    },
+    {
+      "start_ms": 1433840,
+      "duration_ms": 5440,
+      "text": "like"
+    },
+    {
+      "start_ms": 1435520,
+      "duration_ms": 4800,
+      "text": ">> Yeah, probably. So, yeah, Stuart, if you"
+    },
+    {
+      "start_ms": 1439280,
+      "duration_ms": 3120,
+      "text": "don't mind, I have a bunch of like"
+    },
+    {
+      "start_ms": 1440320,
+      "duration_ms": 3920,
+      "text": "operational questions like how you point"
+    },
+    {
+      "start_ms": 1442400,
+      "duration_ms": 3440,
+      "text": "and I know we touched on it. So one"
+    },
+    {
+      "start_ms": 1444240,
+      "duration_ms": 2880,
+      "text": "thing for us like we build like we we"
+    },
+    {
+      "start_ms": 1445840,
+      "duration_ms": 2719,
+      "text": "similar to you we build and support a"
+    },
+    {
+      "start_ms": 1447120,
+      "duration_ms": 2799,
+      "text": "ton integrations and so we're we're"
+    },
+    {
+      "start_ms": 1448559,
+      "duration_ms": 2881,
+      "text": "doing this refactoring project going"
+    },
+    {
+      "start_ms": 1449919,
+      "duration_ms": 3360,
+      "text": "from this old messy pattern to this"
+    },
+    {
+      "start_ms": 1451440,
+      "duration_ms": 4400,
+      "text": "refactored one and funny enough AI"
+    },
+    {
+      "start_ms": 1453279,
+      "duration_ms": 4000,
+      "text": "helped suggest the pattern and so I know"
+    },
+    {
+      "start_ms": 1455840,
+      "duration_ms": 3839,
+      "text": "for sure it could implement it. So I was"
+    },
+    {
+      "start_ms": 1457279,
+      "duration_ms": 3601,
+      "text": "trying to think through it's like"
+    },
+    {
+      "start_ms": 1459679,
+      "duration_ms": 2641,
+      "text": "when you were starting like I imagine"
+    },
+    {
+      "start_ms": 1460880,
+      "duration_ms": 3039,
+      "text": "you started off with like little like"
+    },
+    {
+      "start_ms": 1462320,
+      "duration_ms": 3280,
+      "text": "little projects and little things in a"
+    },
+    {
+      "start_ms": 1463919,
+      "duration_ms": 3201,
+      "text": "in a in a confined space until you"
+    },
+    {
+      "start_ms": 1465600,
+      "duration_ms": 4240,
+      "text": "worked your way up across the whole code"
+    },
+    {
+      "start_ms": 1467120,
+      "duration_ms": 3840,
+      "text": "base. How do you um"
+    },
+    {
+      "start_ms": 1469840,
+      "duration_ms": 2319,
+      "text": "is that how you recommend getting"
+    },
+    {
+      "start_ms": 1470960,
+      "duration_ms": 2959,
+      "text": "started? Like I'm kind of picturing now"
+    },
+    {
+      "start_ms": 1472159,
+      "duration_ms": 3281,
+      "text": "it's like here's an old pattern and you"
+    },
+    {
+      "start_ms": 1473919,
+      "duration_ms": 3041,
+      "text": "the documentation we'd give a human"
+    },
+    {
+      "start_ms": 1475440,
+      "duration_ms": 3680,
+      "text": "here's the new pattern go build like a"
+    },
+    {
+      "start_ms": 1476960,
+      "duration_ms": 5040,
+      "text": "new integration for this and just give"
+    },
+    {
+      "start_ms": 1479120,
+      "duration_ms": 6640,
+      "text": "it API docs like is that something you"
+    },
+    {
+      "start_ms": 1482000,
+      "duration_ms": 6640,
+      "text": "say in it relatively in its scope. Um"
+    },
+    {
+      "start_ms": 1485760,
+      "duration_ms": 6799,
+      "text": ">> yeah in fact speaking of integrations is"
+    },
+    {
+      "start_ms": 1488640,
+      "duration_ms": 4880,
+      "text": "actually a great place to start."
+    },
+    {
+      "start_ms": 1492559,
+      "duration_ms": 2561,
+      "text": ">> That's what I thought because it's"
+    },
+    {
+      "start_ms": 1493520,
+      "duration_ms": 3920,
+      "text": "relatively deterministic and it's"
+    },
+    {
+      "start_ms": 1495120,
+      "duration_ms": 5760,
+      "text": "timeconuming as [ __ ]"
+    },
+    {
+      "start_ms": 1497440,
+      "duration_ms": 6960,
+      "text": ">> Exactly. A win-win, you know. So,"
+    },
+    {
+      "start_ms": 1500880,
+      "duration_ms": 5120,
+      "text": "there's this old boomer, uh, in fact,"
+    },
+    {
+      "start_ms": 1504400,
+      "duration_ms": 3600,
+      "text": "maybe Adam might know it. You know,"
+    },
+    {
+      "start_ms": 1506000,
+      "duration_ms": 3440,
+      "text": "Braves, it's like an ESP."
+    },
+    {
+      "start_ms": 1508000,
+      "duration_ms": 3120,
+      "text": ">> Dude, yeah,"
+    },
+    {
+      "start_ms": 1509440,
+      "duration_ms": 3280,
+      "text": ">> Braze [ __ ] hates us."
+    },
+    {
+      "start_ms": 1511120,
+      "duration_ms": 3200,
+      "text": ">> Yeah. Okay, perfect."
+    },
+    {
+      "start_ms": 1512720,
+      "duration_ms": 5199,
+      "text": ">> They [ __ ] hate us."
+    },
+    {
+      "start_ms": 1514320,
+      "duration_ms": 6560,
+      "text": ">> So, like, nobody on our team wants to"
+    },
+    {
+      "start_ms": 1517919,
+      "duration_ms": 5120,
+      "text": "touch [ __ ] Braze integration. I I'd"
+    },
+    {
+      "start_ms": 1520880,
+      "duration_ms": 2720,
+      "text": "rather walk across traffic than do this."
+    },
+    {
+      "start_ms": 1523039,
+      "duration_ms": 1841,
+      "text": "So, like,"
+    },
+    {
+      "start_ms": 1523600,
+      "duration_ms": 4000,
+      "text": ">> yeah, sounds right."
+    },
+    {
+      "start_ms": 1524880,
+      "duration_ms": 5679,
+      "text": ">> What we did was went here, said, \"Here's"
+    },
+    {
+      "start_ms": 1527600,
+      "duration_ms": 3280,
+      "text": "the original.\" Look at this. Isn't"
+    },
+    {
+      "start_ms": 1530559,
+      "duration_ms": 2000,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 1530880,
+      "duration_ms": 5290,
+      "text": ">> You know what? Actually, funny enough, I"
+    },
+    {
+      "start_ms": 1532559,
+      "duration_ms": 5041,
+      "text": "did this one from my phone. Like I"
+    },
+    {
+      "start_ms": 1536170,
+      "duration_ms": 3989,
+      "text": "[Music]"
+    },
+    {
+      "start_ms": 1537600,
+      "duration_ms": 4800,
+      "text": ">> you can like just give it a task. It'll"
+    },
+    {
+      "start_ms": 1540159,
+      "duration_ms": 4561,
+      "text": "run the template and like do it. So I"
+    },
+    {
+      "start_ms": 1542400,
+      "duration_ms": 3920,
+      "text": "was like, \"Okay, hey, go and make this"
+    },
+    {
+      "start_ms": 1544720,
+      "duration_ms": 4160,
+      "text": "brace integration. It's kind of like"
+    },
+    {
+      "start_ms": 1546320,
+      "duration_ms": 4880,
+      "text": "clavion attentive.\" Um I didn't even"
+    },
+    {
+      "start_ms": 1548880,
+      "duration_ms": 4399,
+      "text": "give it the docs. It went"
+    },
+    {
+      "start_ms": 1551200,
+      "duration_ms": 6000,
+      "text": ">> link any code or anything."
+    },
+    {
+      "start_ms": 1553279,
+      "duration_ms": 5841,
+      "text": ">> Yeah. like um this as well is Claude."
+    },
+    {
+      "start_ms": 1557200,
+      "duration_ms": 3359,
+      "text": "Claude did the review on this and I"
+    },
+    {
+      "start_ms": 1559120,
+      "duration_ms": 2559,
+      "text": "found some things that were actually"
+    },
+    {
+      "start_ms": 1560559,
+      "duration_ms": 4000,
+      "text": "legit"
+    },
+    {
+      "start_ms": 1561679,
+      "duration_ms": 4561,
+      "text": ">> and then Devon goes back and it actually"
+    },
+    {
+      "start_ms": 1564559,
+      "duration_ms": 4081,
+      "text": "looks at Claude's review and it says,"
+    },
+    {
+      "start_ms": 1566240,
+      "duration_ms": 6400,
+      "text": "\"Hey, you know what? That was right.\" So"
+    },
+    {
+      "start_ms": 1568640,
+      "duration_ms": 9039,
+      "text": "now we've got uh and there was zero"
+    },
+    {
+      "start_ms": 1572640,
+      "duration_ms": 8000,
+      "text": "human um interference in this pull"
+    },
+    {
+      "start_ms": 1577679,
+      "duration_ms": 6401,
+      "text": "request whatsoever. I wrote the prompt."
+    },
+    {
+      "start_ms": 1580640,
+      "duration_ms": 5360,
+      "text": "AI Devon went and wrote the um the code"
+    },
+    {
+      "start_ms": 1584080,
+      "duration_ms": 4079,
+      "text": "and you can see here it added the first"
+    },
+    {
+      "start_ms": 1586000,
+      "duration_ms": 3760,
+      "text": "one and then it started getting feedback"
+    },
+    {
+      "start_ms": 1588159,
+      "duration_ms": 4640,
+      "text": "on the work it had done. So it got"
+    },
+    {
+      "start_ms": 1589760,
+      "duration_ms": 4000,
+      "text": "feedback from the um the tests."
+    },
+    {
+      "start_ms": 1592799,
+      "duration_ms": 3120,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 1593760,
+      "duration_ms": 4640,
+      "text": ">> Updated some stuff. It then got feedback"
+    },
+    {
+      "start_ms": 1595919,
+      "duration_ms": 4640,
+      "text": "from Claude and it said, \"Hey, you know"
+    },
+    {
+      "start_ms": 1598400,
+      "duration_ms": 4000,
+      "text": "what? Brings up some good points. So"
+    },
+    {
+      "start_ms": 1600559,
+      "duration_ms": 3281,
+      "text": "look, Devin, look at Claude's feedback"
+    },
+    {
+      "start_ms": 1602400,
+      "duration_ms": 3920,
+      "text": "and determine what is factually"
+    },
+    {
+      "start_ms": 1603840,
+      "duration_ms": 4319,
+      "text": "accurate. Consider updating the PR based"
+    },
+    {
+      "start_ms": 1606320,
+      "duration_ms": 4000,
+      "text": "on your findings.\""
+    },
+    {
+      "start_ms": 1608159,
+      "duration_ms": 3760,
+      "text": "Um, so like"
+    },
+    {
+      "start_ms": 1610320,
+      "duration_ms": 4239,
+      "text": ">> we turned it on and the [ __ ] thing"
+    },
+    {
+      "start_ms": 1611919,
+      "duration_ms": 5041,
+      "text": "works and that's probably I don't know"
+    },
+    {
+      "start_ms": 1614559,
+      "duration_ms": 6881,
+      "text": "three days of work that would take"
+    },
+    {
+      "start_ms": 1616960,
+      "duration_ms": 8240,
+      "text": ">> yeah to do like it there's 13 behind it"
+    },
+    {
+      "start_ms": 1621440,
+      "duration_ms": 6000,
+      "text": ">> nine files like"
+    },
+    {
+      "start_ms": 1625200,
+      "duration_ms": 4160,
+      "text": ">> there all the"
+    },
+    {
+      "start_ms": 1627440,
+      "duration_ms": 3839,
+      "text": ">> exactly it came back with the test too"
+    },
+    {
+      "start_ms": 1629360,
+      "duration_ms": 3919,
+      "text": ">> that dude"
+    },
+    {
+      "start_ms": 1631279,
+      "duration_ms": 4721,
+      "text": ">> no there was not one line of this that"
+    },
+    {
+      "start_ms": 1633279,
+      "duration_ms": 5201,
+      "text": "was written by me or anyone on the team"
+    },
+    {
+      "start_ms": 1636000,
+      "duration_ms": 3919,
+      "text": ">> that's that like That's unreal because I"
+    },
+    {
+      "start_ms": 1638480,
+      "duration_ms": 3439,
+      "text": "I I think that's what our goal is and I"
+    },
+    {
+      "start_ms": 1639919,
+      "duration_ms": 3441,
+      "text": "think this is like we have an awesome I"
+    },
+    {
+      "start_ms": 1641919,
+      "duration_ms": 2880,
+      "text": "love working with Jorge. He's built all"
+    },
+    {
+      "start_ms": 1643360,
+      "duration_ms": 3280,
+      "text": "our integrations and he's the one who"
+    },
+    {
+      "start_ms": 1644799,
+      "duration_ms": 4000,
+      "text": "loves AI. He's the most forward thinking"
+    },
+    {
+      "start_ms": 1646640,
+      "duration_ms": 4320,
+      "text": "there. Do you if you're cool, can you"
+    },
+    {
+      "start_ms": 1648799,
+      "duration_ms": 4081,
+      "text": "share me the the initial prompt? I'd"
+    },
+    {
+      "start_ms": 1650960,
+      "duration_ms": 3440,
+      "text": "love to show because um that's going to"
+    },
+    {
+      "start_ms": 1652880,
+      "duration_ms": 3200,
+      "text": "be I think one of my challenges for him"
+    },
+    {
+      "start_ms": 1654400,
+      "duration_ms": 3040,
+      "text": "and kind of his like quarterly goal. Hey"
+    },
+    {
+      "start_ms": 1656080,
+      "duration_ms": 2880,
+      "text": "man, go build an integration without"
+    },
+    {
+      "start_ms": 1657440,
+      "duration_ms": 4320,
+      "text": "touching a line of code."
+    },
+    {
+      "start_ms": 1658960,
+      "duration_ms": 4079,
+      "text": ">> Right. Like I think and I actually have"
+    },
+    {
+      "start_ms": 1661760,
+      "duration_ms": 3200,
+      "text": "some more operational questions because"
+    },
+    {
+      "start_ms": 1663039,
+      "duration_ms": 3760,
+      "text": "you spent you said you spent was it one"
+    },
+    {
+      "start_ms": 1664960,
+      "duration_ms": 3760,
+      "text": "month refactoring or up to three? Like"
+    },
+    {
+      "start_ms": 1666799,
+      "duration_ms": 4561,
+      "text": "like I know it's iterative but like how"
+    },
+    {
+      "start_ms": 1668720,
+      "duration_ms": 4400,
+      "text": "much time realistically is like how many"
+    },
+    {
+      "start_ms": 1671360,
+      "duration_ms": 3520,
+      "text": "lines of code are we at? It doesn't"
+    },
+    {
+      "start_ms": 1673120,
+      "duration_ms": 2880,
+      "text": "really matter. I'm just curious like I"
+    },
+    {
+      "start_ms": 1674880,
+      "duration_ms": 3039,
+      "text": "think I understand what you're trying to"
+    },
+    {
+      "start_ms": 1676000,
+      "duration_ms": 7039,
+      "text": "say with that but um"
+    },
+    {
+      "start_ms": 1677919,
+      "duration_ms": 7281,
+      "text": ">> oh dude well was kind of like uh here"
+    },
+    {
+      "start_ms": 1683039,
+      "duration_ms": 4081,
+      "text": "I'll show you. It probably depends on"
+    },
+    {
+      "start_ms": 1685200,
+      "duration_ms": 3760,
+      "text": "how much technical debt there is and how"
+    },
+    {
+      "start_ms": 1687120,
+      "duration_ms": 2799,
+      "text": "old the codebase is and"
+    },
+    {
+      "start_ms": 1688960,
+      "duration_ms": 2480,
+      "text": ">> Oh yeah."
+    },
+    {
+      "start_ms": 1689919,
+      "duration_ms": 3041,
+      "text": ">> So after after we set up"
+    },
+    {
+      "start_ms": 1691440,
+      "duration_ms": 3760,
+      "text": ">> in advance, sorry,"
+    },
+    {
+      "start_ms": 1692960,
+      "duration_ms": 4480,
+      "text": ">> I know you're good. Um we spent a"
+    },
+    {
+      "start_ms": 1695200,
+      "duration_ms": 4800,
+      "text": "shitload of time writing docs and then"
+    },
+    {
+      "start_ms": 1697440,
+      "duration_ms": 7599,
+      "text": "like the next week Devin released this."
+    },
+    {
+      "start_ms": 1700000,
+      "duration_ms": 7760,
+      "text": "This is so incredibly good. Like this is"
+    },
+    {
+      "start_ms": 1705039,
+      "duration_ms": 6000,
+      "text": ">> astounding how good this is. Nobody"
+    },
+    {
+      "start_ms": 1707760,
+      "duration_ms": 5760,
+      "text": "wrote this. This just showed up one day"
+    },
+    {
+      "start_ms": 1711039,
+      "duration_ms": 4640,
+      "text": ">> in Devon and it's a complete"
+    },
+    {
+      "start_ms": 1713520,
+      "duration_ms": 4720,
+      "text": "architectural breakdown"
+    },
+    {
+      "start_ms": 1715679,
+      "duration_ms": 5441,
+      "text": ">> of our entire code base and how things"
+    },
+    {
+      "start_ms": 1718240,
+      "duration_ms": 6480,
+      "text": "works. Like here's how our loyalty"
+    },
+    {
+      "start_ms": 1721120,
+      "duration_ms": 5760,
+      "text": "system works in extreme detail and every"
+    },
+    {
+      "start_ms": 1724720,
+      "duration_ms": 2559,
+      "text": "single detail inside of here."
+    },
+    {
+      "start_ms": 1726880,
+      "duration_ms": 2399,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 1727279,
+      "duration_ms": 4721,
+      "text": ">> Like imagine how long it would have"
+    },
+    {
+      "start_ms": 1729279,
+      "duration_ms": 4561,
+      "text": "taken a human to to write all of this."
+    },
+    {
+      "start_ms": 1732000,
+      "duration_ms": 3520,
+      "text": "would have been it would have zapped all"
+    },
+    {
+      "start_ms": 1733840,
+      "duration_ms": 2959,
+      "text": "my energy for who knows"
+    },
+    {
+      "start_ms": 1735520,
+      "duration_ms": 2399,
+      "text": ">> like"
+    },
+    {
+      "start_ms": 1736799,
+      "duration_ms": 3441,
+      "text": ">> I mean"
+    },
+    {
+      "start_ms": 1737919,
+      "duration_ms": 3841,
+      "text": ">> yeah that that right there is like a"
+    },
+    {
+      "start_ms": 1740240,
+      "duration_ms": 2080,
+      "text": "quarterly rock."
+    },
+    {
+      "start_ms": 1741760,
+      "duration_ms": 1519,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 1742320,
+      "duration_ms": 1200,
+      "text": ">> For a person."
+    },
+    {
+      "start_ms": 1743279,
+      "duration_ms": 2640,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 1743520,
+      "duration_ms": 4080,
+      "text": ">> You know like it's like all right I'm"
+    },
+    {
+      "start_ms": 1745919,
+      "duration_ms": 2801,
+      "text": "going to do my job by the end. I'm gonna"
+    },
+    {
+      "start_ms": 1747600,
+      "duration_ms": 2240,
+      "text": "have this"
+    },
+    {
+      "start_ms": 1748720,
+      "duration_ms": 4079,
+      "text": ">> document"
+    },
+    {
+      "start_ms": 1749840,
+      "duration_ms": 4959,
+      "text": ">> super clear PRD. You know every little"
+    },
+    {
+      "start_ms": 1752799,
+      "duration_ms": 3681,
+      "text": "detail about our loyalty system actually"
+    },
+    {
+      "start_ms": 1754799,
+      "duration_ms": 3360,
+      "text": "documented so everybody can use it."
+    },
+    {
+      "start_ms": 1756480,
+      "duration_ms": 4079,
+      "text": ">> Yeah. Heaven forbid somebody"
+    },
+    {
+      "start_ms": 1758159,
+      "duration_ms": 4081,
+      "text": ">> and it just [ __ ] showed up. showed up"
+    },
+    {
+      "start_ms": 1760559,
+      "duration_ms": 3360,
+      "text": "one day,"
+    },
+    {
+      "start_ms": 1762240,
+      "duration_ms": 2960,
+      "text": ">> man. How many models, if you don't mind"
+    },
+    {
+      "start_ms": 1763919,
+      "duration_ms": 3360,
+      "text": "me asking that, how many models do you"
+    },
+    {
+      "start_ms": 1765200,
+      "duration_ms": 2719,
+      "text": "have in in Revo? I think it was Revo"
+    },
+    {
+      "start_ms": 1767279,
+      "duration_ms": 3361,
+      "text": "Commerce."
+    },
+    {
+      "start_ms": 1767919,
+      "duration_ms": 3921,
+      "text": ">> That's big, man. Probably a hundred."
+    },
+    {
+      "start_ms": 1770640,
+      "duration_ms": 2960,
+      "text": ">> Yeah. Okay. Because we're probably"
+    },
+    {
+      "start_ms": 1771840,
+      "duration_ms": 4880,
+      "text": "there, too. That's awesome, man."
+    },
+    {
+      "start_ms": 1773600,
+      "duration_ms": 4480,
+      "text": ">> It's Monolith. Um, Monolith is the way"
+    },
+    {
+      "start_ms": 1776720,
+      "duration_ms": 2160,
+      "text": "to go as well, I found, just because"
+    },
+    {
+      "start_ms": 1778080,
+      "duration_ms": 2719,
+      "text": "it's like"
+    },
+    {
+      "start_ms": 1778880,
+      "duration_ms": 4000,
+      "text": ">> it's all the cont. Yeah."
+    },
+    {
+      "start_ms": 1780799,
+      "duration_ms": 3120,
+      "text": ">> Yeah. Services where like everyone's"
+    },
+    {
+      "start_ms": 1782880,
+      "duration_ms": 2560,
+      "text": "like, \"Yeah, what's what the hell? No"
+    },
+    {
+      "start_ms": 1783919,
+      "duration_ms": 2721,
+      "text": "one does Monolith anymore.\" Then AI came"
+    },
+    {
+      "start_ms": 1785440,
+      "duration_ms": 3200,
+      "text": "along. It's actually"
+    },
+    {
+      "start_ms": 1786640,
+      "duration_ms": 3360,
+      "text": ">> Yeah, exactly. So, we got lucky with"
+    },
+    {
+      "start_ms": 1788640,
+      "duration_ms": 4480,
+      "text": "that. Uh"
+    },
+    {
+      "start_ms": 1790000,
+      "duration_ms": 6480,
+      "text": ">> no no it was forward thinking"
+    },
+    {
+      "start_ms": 1793120,
+      "duration_ms": 5439,
+      "text": ">> but so when you look at that right this"
+    },
+    {
+      "start_ms": 1796480,
+      "duration_ms": 4559,
+      "text": "is what brought us to the intercom help"
+    },
+    {
+      "start_ms": 1798559,
+      "duration_ms": 4641,
+      "text": "docs cuz at the end of the day when you"
+    },
+    {
+      "start_ms": 1801039,
+      "duration_ms": 4161,
+      "text": "tell somebody you ask somebody hey can"
+    },
+    {
+      "start_ms": 1803200,
+      "duration_ms": 3839,
+      "text": "you write a help article on this thing"
+    },
+    {
+      "start_ms": 1805200,
+      "duration_ms": 4160,
+      "text": "oh yeah dude I got it on my list I'll do"
+    },
+    {
+      "start_ms": 1807039,
+      "duration_ms": 4801,
+      "text": "it blah blah blah but like"
+    },
+    {
+      "start_ms": 1809360,
+      "duration_ms": 4319,
+      "text": ">> nobody knows the code better than Devon"
+    },
+    {
+      "start_ms": 1811840,
+      "duration_ms": 4079,
+      "text": "because look at what I just had there so"
+    },
+    {
+      "start_ms": 1813679,
+      "duration_ms": 4480,
+      "text": "if you say to it make a customerf facing"
+    },
+    {
+      "start_ms": 1815919,
+      "duration_ms": 3681,
+      "text": "help doc it'll go yes because I"
+    },
+    {
+      "start_ms": 1818159,
+      "duration_ms": 3361,
+      "text": "absolutely absolutely understand how"
+    },
+    {
+      "start_ms": 1819600,
+      "duration_ms": 3199,
+      "text": "this works better probably than the guy"
+    },
+    {
+      "start_ms": 1821520,
+      "duration_ms": 4879,
+      "text": "who wrote the thing."
+    },
+    {
+      "start_ms": 1822799,
+      "duration_ms": 6321,
+      "text": ">> Yeah. Yeah. I know"
+    },
+    {
+      "start_ms": 1826399,
+      "duration_ms": 4721,
+      "text": "the way like Yeah."
+    },
+    {
+      "start_ms": 1829120,
+      "duration_ms": 6159,
+      "text": ">> So having having the help articles as"
+    },
+    {
+      "start_ms": 1831120,
+      "duration_ms": 7520,
+      "text": "the first place will kind of"
+    },
+    {
+      "start_ms": 1835279,
+      "duration_ms": 6400,
+      "text": "not spook any developers but it will"
+    },
+    {
+      "start_ms": 1838640,
+      "duration_ms": 4720,
+      "text": "also show what it can do. And then what"
+    },
+    {
+      "start_ms": 1841679,
+      "duration_ms": 3521,
+      "text": "I would do is I would start with"
+    },
+    {
+      "start_ms": 1843360,
+      "duration_ms": 3520,
+      "text": "integrations. Look, I just showed like,"
+    },
+    {
+      "start_ms": 1845200,
+      "duration_ms": 5120,
+      "text": "hey, nobody on the team wants to touch"
+    },
+    {
+      "start_ms": 1846880,
+      "duration_ms": 6960,
+      "text": "this thing with a 10- foot pole, but we"
+    },
+    {
+      "start_ms": 1850320,
+      "duration_ms": 5520,
+      "text": "actually did it with Devon and you're"
+    },
+    {
+      "start_ms": 1853840,
+      "duration_ms": 4160,
+      "text": "welcome. You know, you know what I mean?"
+    },
+    {
+      "start_ms": 1855840,
+      "duration_ms": 5199,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 1858000,
+      "duration_ms": 4480,
+      "text": ">> We're in lucky spot like the owner of"
+    },
+    {
+      "start_ms": 1861039,
+      "duration_ms": 3201,
+      "text": "integrations. It's it's one guy. He's"
+    },
+    {
+      "start_ms": 1862480,
+      "duration_ms": 3679,
+      "text": "incredible. He loves like he's so good."
+    },
+    {
+      "start_ms": 1864240,
+      "duration_ms": 4240,
+      "text": "He loves AI. So that's where I'm like"
+    },
+    {
+      "start_ms": 1866159,
+      "duration_ms": 3760,
+      "text": "that's I think my first deliverable with"
+    },
+    {
+      "start_ms": 1868480,
+      "duration_ms": 2880,
+      "text": "getting this started and that's going to"
+    },
+    {
+      "start_ms": 1869919,
+      "duration_ms": 2880,
+      "text": "like you said all the cracks will begin"
+    },
+    {
+      "start_ms": 1871360,
+      "duration_ms": 3039,
+      "text": "to show right when it loses its mind and"
+    },
+    {
+      "start_ms": 1872799,
+      "duration_ms": 2000,
+      "text": "we're like what is it doing? Um,"
+    },
+    {
+      "start_ms": 1874399,
+      "duration_ms": 1760,
+      "text": ">> yeah."
+    },
+    {
+      "start_ms": 1874799,
+      "duration_ms": 3441,
+      "text": ">> So, it's just chipping away at that."
+    },
+    {
+      "start_ms": 1876159,
+      "duration_ms": 3120,
+      "text": "That's really interesting. Then, um, how"
+    },
+    {
+      "start_ms": 1878240,
+      "duration_ms": 2240,
+      "text": "many, so, if you don't mind me asking,"
+    },
+    {
+      "start_ms": 1879279,
+      "duration_ms": 3361,
+      "text": "how many people are contributing to the"
+    },
+    {
+      "start_ms": 1880480,
+      "duration_ms": 5120,
+      "text": "repo right now? Like, you're full."
+    },
+    {
+      "start_ms": 1882640,
+      "duration_ms": 4480,
+      "text": ">> Uh, there there was two of us here until"
+    },
+    {
+      "start_ms": 1885600,
+      "duration_ms": 2000,
+      "text": "three months ago. So, there's three of"
+    },
+    {
+      "start_ms": 1887120,
+      "duration_ms": 3679,
+      "text": "us now."
+    },
+    {
+      "start_ms": 1887600,
+      "duration_ms": 6000,
+      "text": ">> Three of you guys. Yeah. Yeah. Okay."
+    },
+    {
+      "start_ms": 1890799,
+      "duration_ms": 6240,
+      "text": "That that then we're think we're four or"
+    },
+    {
+      "start_ms": 1893600,
+      "duration_ms": 4959,
+      "text": "five now. But I think it's reasonable."
+    },
+    {
+      "start_ms": 1897039,
+      "duration_ms": 1921,
+      "text": ">> It's more than reasonable. That's cool,"
+    },
+    {
+      "start_ms": 1898559,
+      "duration_ms": 2801,
+      "text": "man."
+    },
+    {
+      "start_ms": 1898960,
+      "duration_ms": 3920,
+      "text": ">> Yeah. like um I mean hopefully this"
+    },
+    {
+      "start_ms": 1901360,
+      "duration_ms": 4480,
+      "text": "recording isn't shown by people who I'm"
+    },
+    {
+      "start_ms": 1902880,
+      "duration_ms": 6080,
+      "text": "about to talk about but like uh between"
+    },
+    {
+      "start_ms": 1905840,
+      "duration_ms": 6880,
+      "text": "us it's like if someone on the team"
+    },
+    {
+      "start_ms": 1908960,
+      "duration_ms": 6000,
+      "text": "wasn't bought in that"
+    },
+    {
+      "start_ms": 1912720,
+      "duration_ms": 4319,
+      "text": ">> way is the way forward I'm like dude I"
+    },
+    {
+      "start_ms": 1914960,
+      "duration_ms": 4559,
+      "text": "just can't work with you like"
+    },
+    {
+      "start_ms": 1917039,
+      "duration_ms": 4401,
+      "text": ">> we're on two different paths here"
+    },
+    {
+      "start_ms": 1919519,
+      "duration_ms": 4400,
+      "text": ">> I don't have time to like"
+    },
+    {
+      "start_ms": 1921440,
+      "duration_ms": 4560,
+      "text": ">> fully convince you from zero you know"
+    },
+    {
+      "start_ms": 1923919,
+      "duration_ms": 3441,
+      "text": ">> yeah I I made a similar decision with"
+    },
+    {
+      "start_ms": 1926000,
+      "duration_ms": 3360,
+      "text": "Adam well not with that like when we"
+    },
+    {
+      "start_ms": 1927360,
+      "duration_ms": 4080,
+      "text": "were in Toronto actually made a long"
+    },
+    {
+      "start_ms": 1929360,
+      "duration_ms": 3919,
+      "text": "time ago. But yeah, totally, man. It's"
+    },
+    {
+      "start_ms": 1931440,
+      "duration_ms": 3440,
+      "text": "you have to you just have to. It's"
+    },
+    {
+      "start_ms": 1933279,
+      "duration_ms": 4240,
+      "text": "impossible. Like, man,"
+    },
+    {
+      "start_ms": 1934880,
+      "duration_ms": 3279,
+      "text": ">> well, when you see stuff like this"
+    },
+    {
+      "start_ms": 1937519,
+      "duration_ms": 2160,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 1938159,
+      "duration_ms": 4880,
+      "text": ">> like the first example. I mean, I'm not"
+    },
+    {
+      "start_ms": 1939679,
+      "duration_ms": 6880,
+      "text": "an engineer, but so I and this was the"
+    },
+    {
+      "start_ms": 1943039,
+      "duration_ms": 6240,
+      "text": "first example of"
+    },
+    {
+      "start_ms": 1946559,
+      "duration_ms": 4161,
+      "text": "it's doing 80%, you know, the 10 8010"
+    },
+    {
+      "start_ms": 1949279,
+      "duration_ms": 3361,
+      "text": "like, you know, I've heard from"
+    },
+    {
+      "start_ms": 1950720,
+      "duration_ms": 3520,
+      "text": "Microsoft 20 or 30 and then, you know,"
+    },
+    {
+      "start_ms": 1952640,
+      "duration_ms": 2879,
+      "text": "Tate's like, I use it to debug or"
+    },
+    {
+      "start_ms": 1954240,
+      "duration_ms": 1760,
+      "text": "whatever the [ __ ] Like,"
+    },
+    {
+      "start_ms": 1955519,
+      "duration_ms": 3361,
+      "text": ">> yeah,"
+    },
+    {
+      "start_ms": 1956000,
+      "duration_ms": 4799,
+      "text": ">> this is the first systematic. Yeah, man."
+    },
+    {
+      "start_ms": 1958880,
+      "duration_ms": 3919,
+      "text": ">> Successful execution that I've actually"
+    },
+    {
+      "start_ms": 1960799,
+      "duration_ms": 2801,
+      "text": "seen a plan for."
+    },
+    {
+      "start_ms": 1962799,
+      "duration_ms": 2240,
+      "text": ">> Um,"
+    },
+    {
+      "start_ms": 1963600,
+      "duration_ms": 2720,
+      "text": ">> yeah. And"
+    },
+    {
+      "start_ms": 1965039,
+      "duration_ms": 4480,
+      "text": ">> and dude, I think Tate's probably"
+    },
+    {
+      "start_ms": 1966320,
+      "duration_ms": 5280,
+      "text": "waiting on on this, too. You know,"
+    },
+    {
+      "start_ms": 1969519,
+      "duration_ms": 3760,
+      "text": "I don't know. You tell me like if he"
+    },
+    {
+      "start_ms": 1971600,
+      "duration_ms": 4720,
+      "text": "actually sort of had a clear"
+    },
+    {
+      "start_ms": 1973279,
+      "duration_ms": 4880,
+      "text": "understanding of the whole system."
+    },
+    {
+      "start_ms": 1976320,
+      "duration_ms": 3040,
+      "text": ">> I Well, I have a couple questions for"
+    },
+    {
+      "start_ms": 1978159,
+      "duration_ms": 3281,
+      "text": "you about that, Stuart, actually,"
+    },
+    {
+      "start_ms": 1979360,
+      "duration_ms": 3679,
+      "text": "because it's don't like how good is it"
+    },
+    {
+      "start_ms": 1981440,
+      "duration_ms": 3440,
+      "text": "at the zero to what I where I think"
+    },
+    {
+      "start_ms": 1983039,
+      "duration_ms": 3681,
+      "text": "where where Tate would push back and"
+    },
+    {
+      "start_ms": 1984880,
+      "duration_ms": 3039,
+      "text": "rightfully so. How how have you found it"
+    },
+    {
+      "start_ms": 1986720,
+      "duration_ms": 2559,
+      "text": "for the zero to one? Like building"
+    },
+    {
+      "start_ms": 1987919,
+      "duration_ms": 3120,
+      "text": "integration is not zero to one. It's"
+    },
+    {
+      "start_ms": 1989279,
+      "duration_ms": 3280,
+      "text": "it's one to many, right? Like you've"
+    },
+    {
+      "start_ms": 1991039,
+      "duration_ms": 4321,
+      "text": "done it before even in your I saw in"
+    },
+    {
+      "start_ms": 1992559,
+      "duration_ms": 4401,
+      "text": "your uh your like in the the PRD there,"
+    },
+    {
+      "start_ms": 1995360,
+      "duration_ms": 3280,
+      "text": "if you will. You're like, \"Hey, we have"
+    },
+    {
+      "start_ms": 1996960,
+      "duration_ms": 2480,
+      "text": "Claio"
+    },
+    {
+      "start_ms": 1998640,
+      "duration_ms": 2560,
+      "text": "kind of.\" Yeah."
+    },
+    {
+      "start_ms": 1999440,
+      "duration_ms": 3359,
+      "text": ">> I'll be it. How How are you finding it"
+    },
+    {
+      "start_ms": 2001200,
+      "duration_ms": 4240,
+      "text": "for zero to one? Because I find when I"
+    },
+    {
+      "start_ms": 2002799,
+      "duration_ms": 4321,
+      "text": "like when I I I do I do not tons of PRs,"
+    },
+    {
+      "start_ms": 2005440,
+      "duration_ms": 2800,
+      "text": "but I usually do like complex business"
+    },
+    {
+      "start_ms": 2007120,
+      "duration_ms": 2720,
+      "text": "logic. I just it would take me way"
+    },
+    {
+      "start_ms": 2008240,
+      "duration_ms": 3439,
+      "text": "longer to explain. I'll just program it"
+    },
+    {
+      "start_ms": 2009840,
+      "duration_ms": 4480,
+      "text": "kind of thing. Uh how do but how do you"
+    },
+    {
+      "start_ms": 2011679,
+      "duration_ms": 5521,
+      "text": "find it does with like I call it zero to"
+    },
+    {
+      "start_ms": 2014320,
+      "duration_ms": 4079,
+      "text": "one but just like new stuff like you"
+    },
+    {
+      "start_ms": 2017200,
+      "duration_ms": 4079,
+      "text": "know what I'm trying to say."
+    },
+    {
+      "start_ms": 2018399,
+      "duration_ms": 5201,
+      "text": ">> Yeah. I know maybe ours is slightly"
+    },
+    {
+      "start_ms": 2021279,
+      "duration_ms": 5520,
+      "text": "different because I've been building in"
+    },
+    {
+      "start_ms": 2023600,
+      "duration_ms": 5679,
+      "text": "just the Shopify like little bubble for"
+    },
+    {
+      "start_ms": 2026799,
+      "duration_ms": 5201,
+      "text": "the last 10 years. So like the amount of"
+    },
+    {
+      "start_ms": 2029279,
+      "duration_ms": 4721,
+      "text": "net new stuff that comes across is like"
+    },
+    {
+      "start_ms": 2032000,
+      "duration_ms": 3279,
+      "text": "not much which is where I get back like"
+    },
+    {
+      "start_ms": 2034000,
+      "duration_ms": 4799,
+      "text": "the Lego blocks."
+    },
+    {
+      "start_ms": 2035279,
+      "duration_ms": 7361,
+      "text": ">> Yeah. Would I put it at a zero to one?"
+    },
+    {
+      "start_ms": 2038799,
+      "duration_ms": 5841,
+      "text": ">> Like at the moment Devon really does"
+    },
+    {
+      "start_ms": 2042640,
+      "duration_ms": 5519,
+      "text": "really kills it. Sometimes it'll just do"
+    },
+    {
+      "start_ms": 2044640,
+      "duration_ms": 5680,
+      "text": "like a one shot on junior and midlevel,"
+    },
+    {
+      "start_ms": 2048159,
+      "duration_ms": 4641,
+      "text": "right? Like like integration stuff we"
+    },
+    {
+      "start_ms": 2050320,
+      "duration_ms": 6160,
+      "text": "showed. I think the next step for it and"
+    },
+    {
+      "start_ms": 2052800,
+      "duration_ms": 7279,
+      "text": "the way it's gonna go um is you would"
+    },
+    {
+      "start_ms": 2056480,
+      "duration_ms": 7520,
+      "text": "use either what we found works well is"
+    },
+    {
+      "start_ms": 2060079,
+      "duration_ms": 5760,
+      "text": "using deep research um on chat GPT to"
+    },
+    {
+      "start_ms": 2064000,
+      "duration_ms": 4240,
+      "text": "spend 20 minutes breaking down the"
+    },
+    {
+      "start_ms": 2065839,
+      "duration_ms": 4881,
+      "text": "actual problem. You ask it to break it"
+    },
+    {
+      "start_ms": 2068240,
+      "duration_ms": 5119,
+      "text": "into separate digestible sections that"
+    },
+    {
+      "start_ms": 2070720,
+      "duration_ms": 4959,
+      "text": "you can run and then you actually do"
+    },
+    {
+      "start_ms": 2073359,
+      "duration_ms": 4320,
+      "text": "those as the Devon task."
+    },
+    {
+      "start_ms": 2075679,
+      "duration_ms": 3601,
+      "text": ">> Yeah. So instead of giving it one big"
+    },
+    {
+      "start_ms": 2077679,
+      "duration_ms": 4240,
+      "text": "thing, you give it five little things"
+    },
+    {
+      "start_ms": 2079280,
+      "duration_ms": 5040,
+      "text": "and and incrementally build it."
+    },
+    {
+      "start_ms": 2081919,
+      "duration_ms": 4240,
+      "text": ">> Yeah. Okay. Interest. That's so cool,"
+    },
+    {
+      "start_ms": 2084320,
+      "duration_ms": 4000,
+      "text": "man. That makes perfect sense. Yeah."
+    },
+    {
+      "start_ms": 2086159,
+      "duration_ms": 5601,
+      "text": ">> Yeah. I I find that's where AI excel."
+    },
+    {
+      "start_ms": 2088320,
+      "duration_ms": 6079,
+      "text": "The more you give AI"
+    },
+    {
+      "start_ms": 2091760,
+      "duration_ms": 5680,
+      "text": "in general, the the higher the"
+    },
+    {
+      "start_ms": 2094399,
+      "duration_ms": 4960,
+      "text": "probability that it loses its way as it"
+    },
+    {
+      "start_ms": 2097440,
+      "duration_ms": 4240,
+      "text": "goes. But if you can break it into"
+    },
+    {
+      "start_ms": 2099359,
+      "duration_ms": 4801,
+      "text": "digestible chunks, like you said, hey, I"
+    },
+    {
+      "start_ms": 2101680,
+      "duration_ms": 4080,
+      "text": "want to accomplish A"
+    },
+    {
+      "start_ms": 2104160,
+      "duration_ms": 6480,
+      "text": "and then afterwards, we're gonna move on"
+    },
+    {
+      "start_ms": 2105760,
+      "duration_ms": 6400,
+      "text": "to B. Um it's it's so much better at"
+    },
+    {
+      "start_ms": 2110640,
+      "duration_ms": 2240,
+      "text": "handling all that. And"
+    },
+    {
+      "start_ms": 2112160,
+      "duration_ms": 3600,
+      "text": ">> yeah,"
+    },
+    {
+      "start_ms": 2112880,
+      "duration_ms": 6239,
+      "text": ">> what you're showing here is"
+    },
+    {
+      "start_ms": 2115760,
+      "duration_ms": 4720,
+      "text": "the way nothing makes me like cringe"
+    },
+    {
+      "start_ms": 2119119,
+      "duration_ms": 2960,
+      "text": "more than all the people on LinkedIn"
+    },
+    {
+      "start_ms": 2120480,
+      "duration_ms": 3760,
+      "text": "going, \"Oh, I'm vibe coding this"
+    },
+    {
+      "start_ms": 2122079,
+      "duration_ms": 4881,
+      "text": "weekend.\" I'm like,"
+    },
+    {
+      "start_ms": 2124240,
+      "duration_ms": 5680,
+      "text": "you have no idea what the AI just spit"
+    },
+    {
+      "start_ms": 2126960,
+      "duration_ms": 4639,
+      "text": "out. and that's going to backfire in a"
+    },
+    {
+      "start_ms": 2129920,
+      "duration_ms": 3520,
+      "text": "month when something doesn't work and"
+    },
+    {
+      "start_ms": 2131599,
+      "duration_ms": 3361,
+      "text": "you have no idea how to fix it. It's"
+    },
+    {
+      "start_ms": 2133440,
+      "duration_ms": 3360,
+      "text": "it's the people that don't know how to"
+    },
+    {
+      "start_ms": 2134960,
+      "duration_ms": 2639,
+      "text": "code that they're using AI to code"
+    },
+    {
+      "start_ms": 2136800,
+      "duration_ms": 3279,
+      "text": "something"
+    },
+    {
+      "start_ms": 2137599,
+      "duration_ms": 4161,
+      "text": ">> and they're going this is my product."
+    },
+    {
+      "start_ms": 2140079,
+      "duration_ms": 3921,
+      "text": ">> You're doing the opposite. You know"
+    },
+    {
+      "start_ms": 2141760,
+      "duration_ms": 3599,
+      "text": "exactly like you could write all this"
+    },
+    {
+      "start_ms": 2144000,
+      "duration_ms": 3200,
+      "text": "yourself,"
+    },
+    {
+      "start_ms": 2145359,
+      "duration_ms": 3361,
+      "text": ">> but you're not. You're you're giving it"
+    },
+    {
+      "start_ms": 2147200,
+      "duration_ms": 2960,
+      "text": "that prompt. You're having it do all the"
+    },
+    {
+      "start_ms": 2148720,
+      "duration_ms": 3520,
+      "text": "work and then you're coming in"
+    },
+    {
+      "start_ms": 2150160,
+      "duration_ms": 4000,
+      "text": "afterwards going, \"I'm going to"
+    },
+    {
+      "start_ms": 2152240,
+      "duration_ms": 4160,
+      "text": "proofread it.\" Like what you've done,"
+    },
+    {
+      "start_ms": 2154160,
+      "duration_ms": 4480,
+      "text": "make sure it works. And that only works"
+    },
+    {
+      "start_ms": 2156400,
+      "duration_ms": 4160,
+      "text": "if the person doing it can do it"
+    },
+    {
+      "start_ms": 2158640,
+      "duration_ms": 3840,
+      "text": "themselves in general."
+    },
+    {
+      "start_ms": 2160560,
+      "duration_ms": 3600,
+      "text": ">> Yeah. You're more like a manager than a"
+    },
+    {
+      "start_ms": 2162480,
+      "duration_ms": 2000,
+      "text": "doer. That's the change."
+    },
+    {
+      "start_ms": 2164160,
+      "duration_ms": 2480,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 2164480,
+      "duration_ms": 3920,
+      "text": ">> Right. And that's that's the problem"
+    },
+    {
+      "start_ms": 2166640,
+      "duration_ms": 5360,
+      "text": "with all the vibe coders is they don't"
+    },
+    {
+      "start_ms": 2168400,
+      "duration_ms": 4719,
+      "text": "actually know how to do it. So it's all"
+    },
+    {
+      "start_ms": 2172000,
+      "duration_ms": 3440,
+      "text": "going to backfire and that's why it's"
+    },
+    {
+      "start_ms": 2173119,
+      "duration_ms": 6081,
+      "text": "going to go sideways. But you need a"
+    },
+    {
+      "start_ms": 2175440,
+      "duration_ms": 6000,
+      "text": "Steuart, a Tate, a A Chate Tate, a Mike"
+    },
+    {
+      "start_ms": 2179200,
+      "duration_ms": 4080,
+      "text": "that actually understands it, could"
+    },
+    {
+      "start_ms": 2181440,
+      "duration_ms": 5280,
+      "text": "write it themselves, and is just using"
+    },
+    {
+      "start_ms": 2183280,
+      "duration_ms": 5680,
+      "text": "this as a tool to expedite processes."
+    },
+    {
+      "start_ms": 2186720,
+      "duration_ms": 4240,
+      "text": ">> Yeah. This is just saving time or"
+    },
+    {
+      "start_ms": 2188960,
+      "duration_ms": 4320,
+      "text": "accelerating time. We can build 10x"
+    },
+    {
+      "start_ms": 2190960,
+      "duration_ms": 2960,
+      "text": "faster than like we used to."
+    },
+    {
+      "start_ms": 2193280,
+      "duration_ms": 960,
+      "text": ">> Exactly."
+    },
+    {
+      "start_ms": 2193920,
+      "duration_ms": 1840,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 2194240,
+      "duration_ms": 3119,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 2195760,
+      "duration_ms": 3280,
+      "text": ">> One more two more maybe two more"
+    },
+    {
+      "start_ms": 2197359,
+      "duration_ms": 3361,
+      "text": "questions. So sorry like"
+    },
+    {
+      "start_ms": 2199040,
+      "duration_ms": 2720,
+      "text": ">> like I I mean I think like the advantage"
+    },
+    {
+      "start_ms": 2200720,
+      "duration_ms": 2560,
+      "text": "that we have is that we know what we"
+    },
+    {
+      "start_ms": 2201760,
+      "duration_ms": 2720,
+      "text": "have a lot of context on the business"
+    },
+    {
+      "start_ms": 2203280,
+      "duration_ms": 3120,
+      "text": "and we have the vision for like what"
+    },
+    {
+      "start_ms": 2204480,
+      "duration_ms": 2800,
+      "text": "this thing actually does not not the"
+    },
+    {
+      "start_ms": 2206400,
+      "duration_ms": 2000,
+      "text": "code"
+    },
+    {
+      "start_ms": 2207280,
+      "duration_ms": 2960,
+      "text": ">> and I guess what I'm trying to figure"
+    },
+    {
+      "start_ms": 2208400,
+      "duration_ms": 3040,
+      "text": "out is how do you how have you found you"
+    },
+    {
+      "start_ms": 2210240,
+      "duration_ms": 2960,
+      "text": "said you just recently brought someone"
+    },
+    {
+      "start_ms": 2211440,
+      "duration_ms": 3919,
+      "text": "in like I guess my concern is someone"
+    },
+    {
+      "start_ms": 2213200,
+      "duration_ms": 3600,
+      "text": "who like typically engineers don't share"
+    },
+    {
+      "start_ms": 2215359,
+      "duration_ms": 2801,
+      "text": "the amount of context so a lot of the"
+    },
+    {
+      "start_ms": 2216800,
+      "duration_ms": 3279,
+      "text": "work is giving them the context to do"
+    },
+    {
+      "start_ms": 2218160,
+      "duration_ms": 2959,
+      "text": "the work. Um and I guess where I'm"
+    },
+    {
+      "start_ms": 2220079,
+      "duration_ms": 2081,
+      "text": "getting concerned is if they don't have"
+    },
+    {
+      "start_ms": 2221119,
+      "duration_ms": 3201,
+      "text": "enough context how are they going to"
+    },
+    {
+      "start_ms": 2222160,
+      "duration_ms": 3679,
+      "text": "give the AI the context? How have you"
+    },
+    {
+      "start_ms": 2224320,
+      "duration_ms": 4080,
+      "text": "found that transition for that for that"
+    },
+    {
+      "start_ms": 2225839,
+      "duration_ms": 4240,
+      "text": "new person that you added? Like are like"
+    },
+    {
+      "start_ms": 2228400,
+      "duration_ms": 3760,
+      "text": "did you hire someone really senior? Like"
+    },
+    {
+      "start_ms": 2230079,
+      "duration_ms": 4801,
+      "text": "how did you get over that piece?"
+    },
+    {
+      "start_ms": 2232160,
+      "duration_ms": 5040,
+      "text": ">> Yeah. He's a a longtime friend of mine"
+    },
+    {
+      "start_ms": 2234880,
+      "duration_ms": 4560,
+      "text": "of worked before. He's CTO."
+    },
+    {
+      "start_ms": 2237200,
+      "duration_ms": 2639,
+      "text": ">> Oh [ __ ] Yeah. He's like Yeah. Yeah."
+    },
+    {
+      "start_ms": 2239440,
+      "duration_ms": 2639,
+      "text": "Yeah."
+    },
+    {
+      "start_ms": 2239839,
+      "duration_ms": 4321,
+      "text": ">> Yeah. But like again,"
+    },
+    {
+      "start_ms": 2242079,
+      "duration_ms": 5681,
+      "text": ">> it's just coming back to the the guard"
+    },
+    {
+      "start_ms": 2244160,
+      "duration_ms": 6959,
+      "text": "rails. Like here's the 90% of the like"
+    },
+    {
+      "start_ms": 2247760,
+      "duration_ms": 5760,
+      "text": "prompt or the person that So we're we're"
+    },
+    {
+      "start_ms": 2251119,
+      "duration_ms": 5121,
+      "text": "actually changing the whole business."
+    },
+    {
+      "start_ms": 2253520,
+      "duration_ms": 4079,
+      "text": ">> Um we're trying to take exactly what we"
+    },
+    {
+      "start_ms": 2256240,
+      "duration_ms": 5040,
+      "text": "just showed you here"
+    },
+    {
+      "start_ms": 2257599,
+      "duration_ms": 6240,
+      "text": ">> and apply it [ __ ] everywhere."
+    },
+    {
+      "start_ms": 2261280,
+      "duration_ms": 4480,
+      "text": ">> So like we're starting from scratch. Um"
+    },
+    {
+      "start_ms": 2263839,
+      "duration_ms": 4961,
+      "text": "but something we're trying to do is just"
+    },
+    {
+      "start_ms": 2265760,
+      "duration_ms": 5040,
+      "text": "put those guard rails in place. So,"
+    },
+    {
+      "start_ms": 2268800,
+      "duration_ms": 3680,
+      "text": ">> how do these tickets get to be developed"
+    },
+    {
+      "start_ms": 2270800,
+      "duration_ms": 4640,
+      "text": "in the first place? Well, they start out"
+    },
+    {
+      "start_ms": 2272480,
+      "duration_ms": 4000,
+      "text": "on GitHub issues or linear or sana or"
+    },
+    {
+      "start_ms": 2275440,
+      "duration_ms": 2480,
+      "text": "whatever you guys use."
+    },
+    {
+      "start_ms": 2276480,
+      "duration_ms": 3040,
+      "text": ">> Yeah, totally."
+    },
+    {
+      "start_ms": 2277920,
+      "duration_ms": 3919,
+      "text": ">> We're now we're making guard rails"
+    },
+    {
+      "start_ms": 2279520,
+      "duration_ms": 4800,
+      "text": "around those tickets where when a ticket"
+    },
+    {
+      "start_ms": 2281839,
+      "duration_ms": 4401,
+      "text": "gets submitted, if this ticket is not"
+    },
+    {
+      "start_ms": 2284320,
+      "duration_ms": 4799,
+      "text": "good enough, the robot is going to come"
+    },
+    {
+      "start_ms": 2286240,
+      "duration_ms": 4480,
+      "text": "back and say, \"Steuart, this ticket"
+    },
+    {
+      "start_ms": 2289119,
+      "duration_ms": 3201,
+      "text": "sucks. Here's where it needs to improve"
+    },
+    {
+      "start_ms": 2290720,
+      "duration_ms": 2960,
+      "text": "because our engineers can't work on this"
+    },
+    {
+      "start_ms": 2292320,
+      "duration_ms": 3519,
+      "text": "unless they have context.\""
+    },
+    {
+      "start_ms": 2293680,
+      "duration_ms": 3840,
+      "text": ">> Yep. Um, and again, the next step of"
+    },
+    {
+      "start_ms": 2295839,
+      "duration_ms": 3280,
+      "text": "that is actually getting those linear"
+    },
+    {
+      "start_ms": 2297520,
+      "duration_ms": 3599,
+      "text": "tickets to go straight to Devon, but"
+    },
+    {
+      "start_ms": 2299119,
+      "duration_ms": 4480,
+      "text": "that's a different story altogether."
+    },
+    {
+      "start_ms": 2301119,
+      "duration_ms": 4240,
+      "text": ">> Um, that's like the next the next step"
+    },
+    {
+      "start_ms": 2303599,
+      "duration_ms": 4721,
+      "text": "we're trying to get to. But"
+    },
+    {
+      "start_ms": 2305359,
+      "duration_ms": 5041,
+      "text": ">> having using something like uh this is"
+    },
+    {
+      "start_ms": 2308320,
+      "duration_ms": 3840,
+      "text": "actually a fantastic tool that's"
+    },
+    {
+      "start_ms": 2310400,
+      "duration_ms": 2480,
+      "text": "probably down, but uh have you heard of"
+    },
+    {
+      "start_ms": 2312160,
+      "duration_ms": 1520,
+      "text": "this?"
+    },
+    {
+      "start_ms": 2312880,
+      "duration_ms": 3920,
+      "text": ">> Yep."
+    },
+    {
+      "start_ms": 2313680,
+      "duration_ms": 5520,
+      "text": ">> Yeah. This is the next the next [ __ ]"
+    },
+    {
+      "start_ms": 2316800,
+      "duration_ms": 5520,
+      "text": "here. So, this will set up a trigger."
+    },
+    {
+      "start_ms": 2319200,
+      "duration_ms": 6879,
+      "text": "It'll say uh linear ticket was created."
+    },
+    {
+      "start_ms": 2322320,
+      "duration_ms": 6400,
+      "text": "You say AI go and do your agent stuff"
+    },
+    {
+      "start_ms": 2326079,
+      "duration_ms": 4241,
+      "text": "and go through this and make sure that"
+    },
+    {
+      "start_ms": 2328720,
+      "duration_ms": 3920,
+      "text": "it hits all of these requirements that"
+    },
+    {
+      "start_ms": 2330320,
+      "duration_ms": 4799,
+      "text": "we have for the ticket. If not, comment"
+    },
+    {
+      "start_ms": 2332640,
+      "duration_ms": 3840,
+      "text": "back and at the person and say, \"You"
+    },
+    {
+      "start_ms": 2335119,
+      "duration_ms": 3121,
+      "text": "need to update this. We don't have"
+    },
+    {
+      "start_ms": 2336480,
+      "duration_ms": 2800,
+      "text": "enough information for our engineers to"
+    },
+    {
+      "start_ms": 2338240,
+      "duration_ms": 4960,
+      "text": "work on it"
+    },
+    {
+      "start_ms": 2339280,
+      "duration_ms": 5120,
+      "text": ">> because you know, man, ours want to like"
+    },
+    {
+      "start_ms": 2343200,
+      "duration_ms": 2879,
+      "text": "some of the tickets that come through"
+    },
+    {
+      "start_ms": 2344400,
+      "duration_ms": 3679,
+      "text": "and it's like this is broken.\" And I'm"
+    },
+    {
+      "start_ms": 2346079,
+      "duration_ms": 3520,
+      "text": "like, \"What's broken?\""
+    },
+    {
+      "start_ms": 2348079,
+      "duration_ms": 4321,
+      "text": ">> You know what I mean? It's like a not"
+    },
+    {
+      "start_ms": 2349599,
+      "duration_ms": 4321,
+      "text": "even a screenshot or nothing. Yeah,"
+    },
+    {
+      "start_ms": 2352400,
+      "duration_ms": 3600,
+      "text": ">> I can feel that pain. Yeah,"
+    },
+    {
+      "start_ms": 2353920,
+      "duration_ms": 4000,
+      "text": ">> that's like sometimes that's like three"
+    },
+    {
+      "start_ms": 2356000,
+      "duration_ms": 3839,
+      "text": "days you get lost because you're talking"
+    },
+    {
+      "start_ms": 2357920,
+      "duration_ms": 3040,
+      "text": "back and forth on a ticket that just is"
+    },
+    {
+      "start_ms": 2359839,
+      "duration_ms": 1841,
+      "text": "not good enough."
+    },
+    {
+      "start_ms": 2360960,
+      "duration_ms": 1840,
+      "text": ">> Interesting."
+    },
+    {
+      "start_ms": 2361680,
+      "duration_ms": 2800,
+      "text": ">> Yeah, totally."
+    },
+    {
+      "start_ms": 2362800,
+      "duration_ms": 4880,
+      "text": ">> So stuff like that. Just making the t"
+    },
+    {
+      "start_ms": 2364480,
+      "duration_ms": 6080,
+      "text": "the initial ticket has to be like the"
+    },
+    {
+      "start_ms": 2367680,
+      "duration_ms": 4800,
+      "text": "same idea behind it here."
+    },
+    {
+      "start_ms": 2370560,
+      "duration_ms": 3200,
+      "text": ">> Totally. It's just all Yeah, you're"
+    },
+    {
+      "start_ms": 2372480,
+      "duration_ms": 2639,
+      "text": "right. It's guardrails and context."
+    },
+    {
+      "start_ms": 2373760,
+      "duration_ms": 2720,
+      "text": "That's literally what like that's how"
+    },
+    {
+      "start_ms": 2375119,
+      "duration_ms": 2081,
+      "text": "we've always operated. We just never had"
+    },
+    {
+      "start_ms": 2376480,
+      "duration_ms": 2160,
+      "text": "to think about it because we're not"
+    },
+    {
+      "start_ms": 2377200,
+      "duration_ms": 2320,
+      "text": "prompting a machine. We're just talking"
+    },
+    {
+      "start_ms": 2378640,
+      "duration_ms": 3120,
+      "text": "to people. But like"
+    },
+    {
+      "start_ms": 2379520,
+      "duration_ms": 5680,
+      "text": ">> Yeah. And when it's a human humans don't"
+    },
+    {
+      "start_ms": 2381760,
+      "duration_ms": 5359,
+      "text": "like telling the truth 100% but the"
+    },
+    {
+      "start_ms": 2385200,
+      "duration_ms": 3520,
+      "text": "robots don't know so they'll tell you it"
+    },
+    {
+      "start_ms": 2387119,
+      "duration_ms": 3921,
+      "text": "sucks"
+    },
+    {
+      "start_ms": 2388720,
+      "duration_ms": 3760,
+      "text": ">> I don't like overseas developers but it"
+    },
+    {
+      "start_ms": 2391040,
+      "duration_ms": 3200,
+      "text": "feels like I'm working with like the top"
+    },
+    {
+      "start_ms": 2392480,
+      "duration_ms": 3200,
+      "text": "of the top guy who doesn't really speak"
+    },
+    {
+      "start_ms": 2394240,
+      "duration_ms": 2160,
+      "text": "like sounds weird to say it that way but"
+    },
+    {
+      "start_ms": 2395680,
+      "duration_ms": 1439,
+      "text": "you know what I'm trying to say it's"
+    },
+    {
+      "start_ms": 2396400,
+      "duration_ms": 2080,
+      "text": "like"
+    },
+    {
+      "start_ms": 2397119,
+      "duration_ms": 2960,
+      "text": ">> I need to be so careful with how I"
+    },
+    {
+      "start_ms": 2398480,
+      "duration_ms": 3200,
+      "text": "communicate you and if I am you'll do a"
+    },
+    {
+      "start_ms": 2400079,
+      "duration_ms": 6321,
+      "text": "great job and if I'm not you will you"
+    },
+    {
+      "start_ms": 2401680,
+      "duration_ms": 6240,
+      "text": "fail beyond belief. Um yeah that's cool"
+    },
+    {
+      "start_ms": 2406400,
+      "duration_ms": 2800,
+      "text": "man. Okay this is really helpful. I'm"
+    },
+    {
+      "start_ms": 2407920,
+      "duration_ms": 3520,
+      "text": "trying to I'm already picturing ways"
+    },
+    {
+      "start_ms": 2409200,
+      "duration_ms": 3680,
+      "text": "like I think I think the way I almost"
+    },
+    {
+      "start_ms": 2411440,
+      "duration_ms": 3280,
+      "text": "want to do this is I want to get those"
+    },
+    {
+      "start_ms": 2412880,
+      "duration_ms": 3520,
+      "text": "incremental wins. Um I think it was the"
+    },
+    {
+      "start_ms": 2414720,
+      "duration_ms": 2560,
+      "text": "Eclipse the review bot. I'm gonna"
+    },
+    {
+      "start_ms": 2416400,
+      "duration_ms": 3840,
+      "text": "absolutely try that."
+    },
+    {
+      "start_ms": 2417280,
+      "duration_ms": 4640,
+      "text": ">> Uh Ellipse."
+    },
+    {
+      "start_ms": 2420240,
+      "duration_ms": 2879,
+      "text": ">> Yeah, that's Thank you. Yeah, I'm going"
+    },
+    {
+      "start_ms": 2421920,
+      "duration_ms": 2480,
+      "text": "to absolutely get that in. That's an"
+    },
+    {
+      "start_ms": 2423119,
+      "duration_ms": 2960,
+      "text": "easy win. No one's like I think"
+    },
+    {
+      "start_ms": 2424400,
+      "duration_ms": 3920,
+      "text": "everyone's going to be relieved when"
+    },
+    {
+      "start_ms": 2426079,
+      "duration_ms": 2721,
+      "text": "they're getting a review of posting a"
+    },
+    {
+      "start_ms": 2428320,
+      "duration_ms": 1840,
+      "text": "PR."
+    },
+    {
+      "start_ms": 2428800,
+      "duration_ms": 3039,
+      "text": ">> Oh, you know what? I don't think that"
+    },
+    {
+      "start_ms": 2430160,
+      "duration_ms": 4320,
+      "text": "the full prompt came through in the"
+    },
+    {
+      "start_ms": 2431839,
+      "duration_ms": 3681,
+      "text": "chat. I'll uh I'll email you the uh the"
+    },
+    {
+      "start_ms": 2434480,
+      "duration_ms": 4720,
+      "text": "still"
+    },
+    {
+      "start_ms": 2435520,
+      "duration_ms": 4880,
+      "text": ">> please. Yeah, cuz I I really like I"
+    },
+    {
+      "start_ms": 2439200,
+      "duration_ms": 2960,
+      "text": "don't know what I don't know. And like"
+    },
+    {
+      "start_ms": 2440400,
+      "duration_ms": 3040,
+      "text": "you said, it did take that time to kind"
+    },
+    {
+      "start_ms": 2442160,
+      "duration_ms": 3120,
+      "text": "of tackle that tech debt. Like you got"
+    },
+    {
+      "start_ms": 2443440,
+      "duration_ms": 2720,
+      "text": "to go slow to go fast."
+    },
+    {
+      "start_ms": 2445280,
+      "duration_ms": 2400,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 2446160,
+      "duration_ms": 3199,
+      "text": ">> But I'm a little greedy. I kind of want"
+    },
+    {
+      "start_ms": 2447680,
+      "duration_ms": 3120,
+      "text": "to try to see what how fast we can go"
+    },
+    {
+      "start_ms": 2449359,
+      "duration_ms": 2881,
+      "text": "without doing a lot of that work first"
+    },
+    {
+      "start_ms": 2450800,
+      "duration_ms": 2720,
+      "text": "and then figuring out, okay, [ __ ] I've"
+    },
+    {
+      "start_ms": 2452240,
+      "duration_ms": 2879,
+      "text": "pushed a little too hard here. Here's"
+    },
+    {
+      "start_ms": 2453520,
+      "duration_ms": 4319,
+      "text": "how we build those guardrails."
+    },
+    {
+      "start_ms": 2455119,
+      "duration_ms": 4561,
+      "text": ">> And I think I think just doing the help"
+    },
+    {
+      "start_ms": 2457839,
+      "duration_ms": 2801,
+      "text": "articles first is going to be the best"
+    },
+    {
+      "start_ms": 2459680,
+      "duration_ms": 3120,
+      "text": "way to do it."
+    },
+    {
+      "start_ms": 2460640,
+      "duration_ms": 4000,
+      "text": ">> Yum. Because it's not code critical."
+    },
+    {
+      "start_ms": 2462800,
+      "duration_ms": 4080,
+      "text": "It's just help articles. developers"
+    },
+    {
+      "start_ms": 2464640,
+      "duration_ms": 3920,
+      "text": "won't get their pants in a twist or"
+    },
+    {
+      "start_ms": 2466880,
+      "duration_ms": 2160,
+      "text": "whatever, you know?"
+    },
+    {
+      "start_ms": 2468560,
+      "duration_ms": 2400,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 2469040,
+      "duration_ms": 4160,
+      "text": ">> Easiest way to start it."
+    },
+    {
+      "start_ms": 2470960,
+      "duration_ms": 3920,
+      "text": ">> Yeah. Yeah."
+    },
+    {
+      "start_ms": 2473200,
+      "duration_ms": 3680,
+      "text": ">> This is awesome, man. Thank you. This is"
+    },
+    {
+      "start_ms": 2474880,
+      "duration_ms": 4000,
+      "text": "like It's nice. I think what Adam nailed"
+    },
+    {
+      "start_ms": 2476880,
+      "duration_ms": 3840,
+      "text": "it, like it's nice to actually see it in"
+    },
+    {
+      "start_ms": 2478880,
+      "duration_ms": 3439,
+      "text": "real life adding value to a real"
+    },
+    {
+      "start_ms": 2480720,
+      "duration_ms": 3440,
+      "text": "business, not someone talking about on"
+    },
+    {
+      "start_ms": 2482319,
+      "duration_ms": 3121,
+      "text": "YouTube or wherever. It's like, oh [ __ ]"
+    },
+    {
+      "start_ms": 2484160,
+      "duration_ms": 2880,
+      "text": "makes sense."
+    },
+    {
+      "start_ms": 2485440,
+      "duration_ms": 5040,
+      "text": ">> Yeah, things are going to get weird,"
+    },
+    {
+      "start_ms": 2487040,
+      "duration_ms": 6000,
+      "text": "man. It's um it's weird times."
+    },
+    {
+      "start_ms": 2490480,
+      "duration_ms": 3040,
+      "text": ">> Yeah, things are weird, man."
+    },
+    {
+      "start_ms": 2493040,
+      "duration_ms": 2480,
+      "text": "Yeah,"
+    },
+    {
+      "start_ms": 2493520,
+      "duration_ms": 3760,
+      "text": ">> but hey, it's good to be it's good to"
+    },
+    {
+      "start_ms": 2495520,
+      "duration_ms": 3520,
+      "text": "capture and know what to do in the weird"
+    },
+    {
+      "start_ms": 2497280,
+      "duration_ms": 3280,
+      "text": "because then you're set. So,"
+    },
+    {
+      "start_ms": 2499040,
+      "duration_ms": 3120,
+      "text": ">> yeah, absolutely. I'm like, I think I"
+    },
+    {
+      "start_ms": 2500560,
+      "duration_ms": 3440,
+      "text": "think we might have emailed before like"
+    },
+    {
+      "start_ms": 2502160,
+      "duration_ms": 2720,
+      "text": "a couple of years ago or a year ago."
+    },
+    {
+      "start_ms": 2504000,
+      "duration_ms": 2319,
+      "text": ">> Yeah, definitely."
+    },
+    {
+      "start_ms": 2504880,
+      "duration_ms": 2400,
+      "text": ">> Yeah. So, you have my email. So, any"
+    },
+    {
+      "start_ms": 2506319,
+      "duration_ms": 2321,
+      "text": "questions you have or anything like"
+    },
+    {
+      "start_ms": 2507280,
+      "duration_ms": 2559,
+      "text": "that, feel free to hit me up."
+    },
+    {
+      "start_ms": 2508640,
+      "duration_ms": 2560,
+      "text": ">> I appreciate that, man. Thank you so"
+    },
+    {
+      "start_ms": 2509839,
+      "duration_ms": 3681,
+      "text": "much for your time. This was like this"
+    },
+    {
+      "start_ms": 2511200,
+      "duration_ms": 4720,
+      "text": "is cool. You're definitely I don't know,"
+    },
+    {
+      "start_ms": 2513520,
+      "duration_ms": 3920,
+      "text": "man. You're doing really good stuff. I'm"
+    },
+    {
+      "start_ms": 2515920,
+      "duration_ms": 2240,
+      "text": "just say like that was awesome to see,"
+    },
+    {
+      "start_ms": 2517440,
+      "duration_ms": 2639,
+      "text": "dude. Thank you."
+    },
+    {
+      "start_ms": 2518160,
+      "duration_ms": 3600,
+      "text": ">> Yeah, man. I appreciate it. Absolutely."
+    },
+    {
+      "start_ms": 2520079,
+      "duration_ms": 2240,
+      "text": ">> Agree. George, can I ask you one more"
+    },
+    {
+      "start_ms": 2521760,
+      "duration_ms": 1520,
+      "text": "question?"
+    },
+    {
+      "start_ms": 2522319,
+      "duration_ms": 3040,
+      "text": ">> Yeah. Yeah."
+    },
+    {
+      "start_ms": 2523280,
+      "duration_ms": 4160,
+      "text": ">> So, do you now that you're not getting"
+    },
+    {
+      "start_ms": 2525359,
+      "duration_ms": 3521,
+      "text": "reviews from free users, do you still"
+    },
+    {
+      "start_ms": 2527440,
+      "duration_ms": 2879,
+      "text": "have the view that if you're not getting"
+    },
+    {
+      "start_ms": 2528880,
+      "duration_ms": 3439,
+      "text": "something from them, you're being an"
+    },
+    {
+      "start_ms": 2530319,
+      "duration_ms": 4000,
+      "text": "idiot? Because this has been tormenting"
+    },
+    {
+      "start_ms": 2532319,
+      "duration_ms": 3361,
+      "text": "me for the last 15 months. Like, we're"
+    },
+    {
+      "start_ms": 2534319,
+      "duration_ms": 4601,
+      "text": "not getting anything from these [ __ ]"
+    },
+    {
+      "start_ms": 2535680,
+      "duration_ms": 3240,
+      "text": "free guys."
+    },
+    {
+      "start_ms": 2539599,
+      "duration_ms": 6161,
+      "text": ">> Yeah. I mean, ours is kind of we made"
+    },
+    {
+      "start_ms": 2542400,
+      "duration_ms": 5040,
+      "text": "the move up market. Um, where anyone"
+    },
+    {
+      "start_ms": 2545760,
+      "duration_ms": 4960,
+      "text": "who's using our product who's doing"
+    },
+    {
+      "start_ms": 2547440,
+      "duration_ms": 5520,
+      "text": "under 500 grand a year, a million, just"
+    },
+    {
+      "start_ms": 2550720,
+      "duration_ms": 3680,
+      "text": "like you're definitely going to turn"
+    },
+    {
+      "start_ms": 2552960,
+      "duration_ms": 2399,
+      "text": "like I don't even recommend you install"
+    },
+    {
+      "start_ms": 2554400,
+      "duration_ms": 1600,
+      "text": "this thing at all."
+    },
+    {
+      "start_ms": 2555359,
+      "duration_ms": 3760,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 2556000,
+      "duration_ms": 5119,
+      "text": ">> Um, but in your case, I'm sure there's"
+    },
+    {
+      "start_ms": 2559119,
+      "duration_ms": 4401,
+      "text": "still some other stuff. I remember we"
+    },
+    {
+      "start_ms": 2561119,
+      "duration_ms": 5761,
+      "text": "first talked, you were talking about"
+    },
+    {
+      "start_ms": 2563520,
+      "duration_ms": 3839,
+      "text": "like free people have to post UGC to"
+    },
+    {
+      "start_ms": 2566880,
+      "duration_ms": 2160,
+      "text": "keep"
+    },
+    {
+      "start_ms": 2567359,
+      "duration_ms": 4240,
+      "text": ">> Yeah, something like that. I don't know."
+    },
+    {
+      "start_ms": 2569040,
+      "duration_ms": 4960,
+      "text": "It's we we had another Yeah. problem"
+    },
+    {
+      "start_ms": 2571599,
+      "duration_ms": 4401,
+      "text": "with UGC is like to get people to put"
+    },
+    {
+      "start_ms": 2574000,
+      "duration_ms": 2960,
+      "text": "out good posts, it needs to benefit them"
+    },
+    {
+      "start_ms": 2576000,
+      "duration_ms": 1359,
+      "text": "too,"
+    },
+    {
+      "start_ms": 2576960,
+      "duration_ms": 960,
+      "text": ">> you know,"
+    },
+    {
+      "start_ms": 2577359,
+      "duration_ms": 3281,
+      "text": ">> right?"
+    },
+    {
+      "start_ms": 2577920,
+      "duration_ms": 5840,
+      "text": ">> So like the agency ecosystem for Clay"
+    },
+    {
+      "start_ms": 2580640,
+      "duration_ms": 6640,
+      "text": "was great for us, but then it stopped"
+    },
+    {
+      "start_ms": 2583760,
+      "duration_ms": 4880,
+      "text": "being great because our use case really"
+    },
+    {
+      "start_ms": 2587280,
+      "duration_ms": 3360,
+      "text": "you have to have a ton of traffic to"
+    },
+    {
+      "start_ms": 2588640,
+      "duration_ms": 4640,
+      "text": "like use Clay and Smart Lead and like"
+    },
+    {
+      "start_ms": 2590640,
+      "duration_ms": 4640,
+      "text": "actually make it work. So it's like"
+    },
+    {
+      "start_ms": 2593280,
+      "duration_ms": 3360,
+      "text": ">> it was just it was it was not great. And"
+    },
+    {
+      "start_ms": 2595280,
+      "duration_ms": 3760,
+      "text": "it's like how much can you write about"
+    },
+    {
+      "start_ms": 2596640,
+      "duration_ms": 5040,
+      "text": "one signal? Clay's Clay UGC is amazing"
+    },
+    {
+      "start_ms": 2599040,
+      "duration_ms": 3279,
+      "text": "because you can create anything,"
+    },
+    {
+      "start_ms": 2601680,
+      "duration_ms": 1600,
+      "text": "you know,"
+    },
+    {
+      "start_ms": 2602319,
+      "duration_ms": 3760,
+      "text": ">> right?"
+    },
+    {
+      "start_ms": 2603280,
+      "duration_ms": 3680,
+      "text": ">> Their ecosystem. Anyway, um yeah, I'll"
+    },
+    {
+      "start_ms": 2606079,
+      "duration_ms": 2641,
+      "text": "keep thinking about it."
+    },
+    {
+      "start_ms": 2606960,
+      "duration_ms": 3200,
+      "text": ">> Is there are they like draining"
+    },
+    {
+      "start_ms": 2608720,
+      "duration_ms": 2720,
+      "text": "resources? The free people like"
+    },
+    {
+      "start_ms": 2610160,
+      "duration_ms": 2640,
+      "text": ">> No, they're not doing [ __ ] By the way,"
+    },
+    {
+      "start_ms": 2611440,
+      "duration_ms": 3520,
+      "text": "we just let two people go. We're going"
+    },
+    {
+      "start_ms": 2612800,
+      "duration_ms": 5440,
+      "text": "to try to get to 10 million with three"
+    },
+    {
+      "start_ms": 2614960,
+      "duration_ms": 5920,
+      "text": "bodies. Me, Rob, and Tate."
+    },
+    {
+      "start_ms": 2618240,
+      "duration_ms": 3760,
+      "text": ">> Rob. No, but I'm actually I'm going to"
+    },
+    {
+      "start_ms": 2620880,
+      "duration_ms": 4239,
+      "text": "start I'm going to start answering"
+    },
+    {
+      "start_ms": 2622000,
+      "duration_ms": 6240,
+      "text": "tickets and doing I I was spending way"
+    },
+    {
+      "start_ms": 2625119,
+      "duration_ms": 5200,
+      "text": "too much of my week on [ __ ] that was not"
+    },
+    {
+      "start_ms": 2628240,
+      "duration_ms": 4079,
+      "text": "related to RB2B and I'm not in touch"
+    },
+    {
+      "start_ms": 2630319,
+      "duration_ms": 4721,
+      "text": "with the customer at all. So like I"
+    },
+    {
+      "start_ms": 2632319,
+      "duration_ms": 4321,
+      "text": "basically just quit my other job of I'm"
+    },
+    {
+      "start_ms": 2635040,
+      "duration_ms": 3039,
+      "text": "gonna I'm going to write LinkedIn posts,"
+    },
+    {
+      "start_ms": 2636640,
+      "duration_ms": 2800,
+      "text": "answer customer support tickets, and"
+    },
+    {
+      "start_ms": 2638079,
+      "duration_ms": 4481,
+      "text": "talk to customers for the next six"
+    },
+    {
+      "start_ms": 2639440,
+      "duration_ms": 5040,
+      "text": "months and that's it. So"
+    },
+    {
+      "start_ms": 2642560,
+      "duration_ms": 6160,
+      "text": ">> well, dude, it's worked out so far. some"
+    },
+    {
+      "start_ms": 2644480,
+      "duration_ms": 6080,
+      "text": "of the some of the burden off of Rob."
+    },
+    {
+      "start_ms": 2648720,
+      "duration_ms": 4320,
+      "text": ">> He's he's about to have his finger on"
+    },
+    {
+      "start_ms": 2650560,
+      "duration_ms": 2799,
+      "text": "many many many pulses."
+    },
+    {
+      "start_ms": 2653040,
+      "duration_ms": 1440,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 2653359,
+      "duration_ms": 1841,
+      "text": ">> Love it."
+    },
+    {
+      "start_ms": 2654480,
+      "duration_ms": 3119,
+      "text": ">> Exactly."
+    },
+    {
+      "start_ms": 2655200,
+      "duration_ms": 3840,
+      "text": ">> Instead of just hearing about me telling"
+    },
+    {
+      "start_ms": 2657599,
+      "duration_ms": 1841,
+      "text": "him what the pulse is. So,"
+    },
+    {
+      "start_ms": 2659040,
+      "duration_ms": 2640,
+      "text": ">> yeah."
+    },
+    {
+      "start_ms": 2659440,
+      "duration_ms": 3200,
+      "text": ">> Yeah."
+    },
+    {
+      "start_ms": 2661680,
+      "duration_ms": 2880,
+      "text": ">> Um,"
+    },
+    {
+      "start_ms": 2662640,
+      "duration_ms": 4959,
+      "text": ">> dude, Stuart, you're the man. If you"
+    },
+    {
+      "start_ms": 2664560,
+      "duration_ms": 4960,
+      "text": "ever need anything from us, please."
+    },
+    {
+      "start_ms": 2667599,
+      "duration_ms": 2480,
+      "text": ">> I appreciate it, guys. Always good to"
+    },
+    {
+      "start_ms": 2669520,
+      "duration_ms": 3040,
+      "text": "chat."
+    },
+    {
+      "start_ms": 2670079,
+      "duration_ms": 2801,
+      "text": ">> Yeah, man. Thank you so much."
+    },
+    {
+      "start_ms": 2672560,
+      "duration_ms": 1840,
+      "text": ">> Bye."
+    },
+    {
+      "start_ms": 2672880,
+      "duration_ms": 5239,
+      "text": ">> Thanks, Stuart. Take care everyone. See"
+    },
+    {
+      "start_ms": 2674400,
+      "duration_ms": 3719,
+      "text": "everyone. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ACMED_IDZb8",
+  "source_sha256": "f150f48847869e74a5d25b1b0a6db488258ad85ad4e8834259e8bfc0a3fee260",
+  "source_characters": 15309,
+  "source_word_count": 1989,
+  "prompt_sha256": "8b8296a7fbe8d773cceb0890d9fb80eccb4965f69ffe3b6cad0e5d965e03d363",
+  "started_at": "2026-09-08T08:13:26.023831+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/ACMED_IDZb8/ACMED_IDZb8.md",
+  "pid": 63318,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:16:30.332349+00:00"
+}

@@ -1,0 +1,5619 @@
+{
+  "video_id": "p2dDw0Dy1VM",
+  "title": "The Cold Email Advice That’s Getting You Blacklisted",
+  "url": "https://www.youtube.com/watch?v=p2dDw0Dy1VM",
+  "upload_date": "20250514",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:43:13.109562+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/p2dDw0Dy1VM/p2dDw0Dy1VM.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 80,
+      "duration_ms": 4400,
+      "text": "Poppy, right? Um, that's that's pretty"
+    },
+    {
+      "start_ms": 2800,
+      "duration_ms": 3120,
+      "text": "much the way it is. And and the reason"
+    },
+    {
+      "start_ms": 4480,
+      "duration_ms": 3760,
+      "text": "why I think this has happened is pretty"
+    },
+    {
+      "start_ms": 5920,
+      "duration_ms": 5839,
+      "text": "pretty simple. It's it's pretty much um"
+    },
+    {
+      "start_ms": 8240,
+      "duration_ms": 6000,
+      "text": "peeling the onion back in 2010s. Um,"
+    },
+    {
+      "start_ms": 11759,
+      "duration_ms": 4000,
+      "text": "what occurred was Gmail and Outlook."
+    },
+    {
+      "start_ms": 14240,
+      "duration_ms": 4720,
+      "text": "Again, this is me with the tinfoil hat"
+    },
+    {
+      "start_ms": 15759,
+      "duration_ms": 4360,
+      "text": "on. Of course, Gmail outlook said, \"All"
+    },
+    {
+      "start_ms": 18960,
+      "duration_ms": 3200,
+      "text": "right, we'll beat them on the"
+    },
+    {
+      "start_ms": 20119,
+      "duration_ms": 4121,
+      "text": "technicals. You know, the MX records,"
+    },
+    {
+      "start_ms": 22160,
+      "duration_ms": 4320,
+      "text": "DKB, Mark SPF. We've all heard the, you"
+    },
+    {
+      "start_ms": 24240,
+      "duration_ms": 3600,
+      "text": "know, the fancy titles.\" Um, then they"
+    },
+    {
+      "start_ms": 26480,
+      "duration_ms": 3119,
+      "text": "said, \"All right, now everyone's doing"
+    },
+    {
+      "start_ms": 27840,
+      "duration_ms": 3839,
+      "text": "the fancy [ __ ] Let's just go something"
+    },
+    {
+      "start_ms": 29599,
+      "duration_ms": 3761,
+      "text": "a bit further than that. They started"
+    },
+    {
+      "start_ms": 31679,
+      "duration_ms": 3841,
+      "text": "getting into things like tenant"
+    },
+    {
+      "start_ms": 33360,
+      "duration_ms": 5120,
+      "text": "fingerprinting and not buying too many"
+    },
+    {
+      "start_ms": 35520,
+      "duration_ms": 4719,
+      "text": "mailboxes from a single uh uh workspace"
+    },
+    {
+      "start_ms": 38480,
+      "duration_ms": 4239,
+      "text": "or tenant. Tenant is the equivalent of"
+    },
+    {
+      "start_ms": 40239,
+      "duration_ms": 4561,
+      "text": "an admin for anyone who uses Microsoft."
+    },
+    {
+      "start_ms": 42719,
+      "duration_ms": 3360,
+      "text": "Um all that fancy stuff, right? We"
+    },
+    {
+      "start_ms": 44800,
+      "duration_ms": 2960,
+      "text": "cannot have too many mailboxes per"
+    },
+    {
+      "start_ms": 46079,
+      "duration_ms": 3761,
+      "text": "tenant. Bounce rates matter, reply rates"
+    },
+    {
+      "start_ms": 47760,
+      "duration_ms": 4639,
+      "text": "matter, etc. That was part two and that"
+    },
+    {
+      "start_ms": 49840,
+      "duration_ms": 4480,
+      "text": "still existed. Part three is kind of"
+    },
+    {
+      "start_ms": 52399,
+      "duration_ms": 3921,
+      "text": "where we are right now. effectively"
+    },
+    {
+      "start_ms": 54320,
+      "duration_ms": 3759,
+      "text": "meaning they're now going to use content"
+    },
+    {
+      "start_ms": 56320,
+      "duration_ms": 3759,
+      "text": "as a way to identify whether you're a"
+    },
+    {
+      "start_ms": 58079,
+      "duration_ms": 3441,
+      "text": "spammer or not, right? Or your relevance"
+    },
+    {
+      "start_ms": 60079,
+      "duration_ms": 4720,
+      "text": "is high or not. We've seen this and"
+    },
+    {
+      "start_ms": 61520,
+      "duration_ms": 5680,
+      "text": "again uh sorry I may say that the whole"
+    },
+    {
+      "start_ms": 64799,
+      "duration_ms": 4320,
+      "text": "um I've said this in the I've previously"
+    },
+    {
+      "start_ms": 67200,
+      "duration_ms": 4000,
+      "text": "said this so please forgive me cuz I I"
+    },
+    {
+      "start_ms": 69119,
+      "duration_ms": 4401,
+      "text": "I've repeated this a few times on my on"
+    },
+    {
+      "start_ms": 71200,
+      "duration_ms": 4640,
+      "text": "my side as well which is we've literally"
+    },
+    {
+      "start_ms": 73520,
+      "duration_ms": 5440,
+      "text": "seen where we would send mails to 10"
+    },
+    {
+      "start_ms": 75840,
+      "duration_ms": 5680,
+      "text": "people which is our own mailboxes and"
+    },
+    {
+      "start_ms": 78960,
+      "duration_ms": 4960,
+      "text": "when I would mark the first mail as spam"
+    },
+    {
+      "start_ms": 81520,
+      "duration_ms": 5120,
+      "text": "and I refresh on the right side maybe"
+    },
+    {
+      "start_ms": 83920,
+      "duration_ms": 4480,
+      "text": "three or four you would see that mail"
+    },
+    {
+      "start_ms": 86640,
+      "duration_ms": 3200,
+      "text": "disappear and hit the spam folder and"
+    },
+    {
+      "start_ms": 88400,
+      "duration_ms": 2960,
+      "text": "it's it's common other people have seen"
+    },
+    {
+      "start_ms": 89840,
+      "duration_ms": 2959,
+      "text": "it We're not the first ones to discover"
+    },
+    {
+      "start_ms": 91360,
+      "duration_ms": 3600,
+      "text": "it. It happens. And the reason why that"
+    },
+    {
+      "start_ms": 92799,
+      "duration_ms": 4320,
+      "text": "happens cuz the content is the same. So"
+    },
+    {
+      "start_ms": 94960,
+      "duration_ms": 4880,
+      "text": "when your content is the same, these"
+    },
+    {
+      "start_ms": 97119,
+      "duration_ms": 4640,
+      "text": "basin algorithm baseline secure mail"
+    },
+    {
+      "start_ms": 99840,
+      "duration_ms": 3520,
+      "text": "gateways or Google spam filter or"
+    },
+    {
+      "start_ms": 101759,
+      "duration_ms": 3360,
+      "text": "Outlook spam filters pretty much pick up"
+    },
+    {
+      "start_ms": 103360,
+      "duration_ms": 3360,
+      "text": "that this content has been previously"
+    },
+    {
+      "start_ms": 105119,
+      "duration_ms": 3360,
+      "text": "marked as spam. So I'm going to go ahead"
+    },
+    {
+      "start_ms": 106720,
+      "duration_ms": 4560,
+      "text": "and change it up or move it to spam."
+    },
+    {
+      "start_ms": 108479,
+      "duration_ms": 4561,
+      "text": "Right? So yeah, that's the TLDDR. The"
+    },
+    {
+      "start_ms": 111280,
+      "duration_ms": 3440,
+      "text": "the baseline format is quite"
+    },
+    {
+      "start_ms": 113040,
+      "duration_ms": 3680,
+      "text": "straightforward. You're in the world of"
+    },
+    {
+      "start_ms": 114720,
+      "duration_ms": 3200,
+      "text": "AI, in the world of relevance. RB2B"
+    },
+    {
+      "start_ms": 116720,
+      "duration_ms": 4320,
+      "text": "obviously has something great to offer"
+    },
+    {
+      "start_ms": 117920,
+      "duration_ms": 5920,
+      "text": "on that part as well, which is um stay"
+    },
+    {
+      "start_ms": 121040,
+      "duration_ms": 5119,
+      "text": "very very relevant to your lead, change"
+    },
+    {
+      "start_ms": 123840,
+      "duration_ms": 3919,
+      "text": "your copy very proactively, spin tax the"
+    },
+    {
+      "start_ms": 126159,
+      "duration_ms": 4481,
+      "text": "crap out of it, use AI where you have"
+    },
+    {
+      "start_ms": 127759,
+      "duration_ms": 6161,
+      "text": "to. Um and it's not that hard to close a"
+    },
+    {
+      "start_ms": 130640,
+      "duration_ms": 4959,
+      "text": "deal then at that point. I want I have a"
+    },
+    {
+      "start_ms": 133920,
+      "duration_ms": 3440,
+      "text": "lot of questions about well I have a"
+    },
+    {
+      "start_ms": 135599,
+      "duration_ms": 5121,
+      "text": "couple really big questions about this"
+    },
+    {
+      "start_ms": 137360,
+      "duration_ms": 5920,
+      "text": "this content or copy thing. So, I"
+    },
+    {
+      "start_ms": 140720,
+      "duration_ms": 4879,
+      "text": "remember I mean I think we've all seen"
+    },
+    {
+      "start_ms": 143280,
+      "duration_ms": 4720,
+      "text": "that HubSpot list of like it's like here"
+    },
+    {
+      "start_ms": 145599,
+      "duration_ms": 3921,
+      "text": "are the 400 spam words uh that you want"
+    },
+    {
+      "start_ms": 148000,
+      "duration_ms": 3440,
+      "text": "to avoid in your email copy. We were all"
+    },
+    {
+      "start_ms": 149520,
+      "duration_ms": 4960,
+      "text": "using that for probably 10 years. Is"
+    },
+    {
+      "start_ms": 151440,
+      "duration_ms": 4640,
+      "text": "there um I would imagine with just AI"
+    },
+    {
+      "start_ms": 154480,
+      "duration_ms": 3600,
+      "text": "and I mean Google has one of the most"
+    },
+    {
+      "start_ms": 156080,
+      "duration_ms": 6080,
+      "text": "robust AI systems. I use Gemini every"
+    },
+    {
+      "start_ms": 158080,
+      "duration_ms": 5840,
+      "text": "day. Um are there new rules to follow"
+    },
+    {
+      "start_ms": 162160,
+      "duration_ms": 4159,
+      "text": "when it comes to copy? Are there is it"
+    },
+    {
+      "start_ms": 163920,
+      "duration_ms": 4800,
+      "text": "still based on words or is it more like"
+    },
+    {
+      "start_ms": 166319,
+      "duration_ms": 4401,
+      "text": "the repetition of the copy? Are there"
+    },
+    {
+      "start_ms": 168720,
+      "duration_ms": 4320,
+      "text": "certain kind of changing principles that"
+    },
+    {
+      "start_ms": 170720,
+      "duration_ms": 4720,
+      "text": "people should be aware of? Great"
+    },
+    {
+      "start_ms": 173040,
+      "duration_ms": 3680,
+      "text": "question. Um, a bit nent for me to give"
+    },
+    {
+      "start_ms": 175440,
+      "duration_ms": 2400,
+      "text": "a direct answer saying this is the"
+    },
+    {
+      "start_ms": 176720,
+      "duration_ms": 2799,
+      "text": "absolute because I know when I say"
+    },
+    {
+      "start_ms": 177840,
+      "duration_ms": 3360,
+      "text": "something everyone says I told you said"
+    },
+    {
+      "start_ms": 179519,
+      "duration_ms": 3761,
+      "text": "that in this I get a screenshot"
+    },
+    {
+      "start_ms": 181200,
+      "duration_ms": 4959,
+      "text": "recording and I'm like all right. Okay."
+    },
+    {
+      "start_ms": 183280,
+      "duration_ms": 5280,
+      "text": "I I So I've I've been caught in the past"
+    },
+    {
+      "start_ms": 186159,
+      "duration_ms": 4481,
+      "text": "for that. So I try to be very neutral."
+    },
+    {
+      "start_ms": 188560,
+      "duration_ms": 3840,
+      "text": "So please forgive me if I come with very"
+    },
+    {
+      "start_ms": 190640,
+      "duration_ms": 4640,
+      "text": "lame politically correct answers. Been"
+    },
+    {
+      "start_ms": 192400,
+      "duration_ms": 4640,
+      "text": "burnt. Um but um and that's just because"
+    },
+    {
+      "start_ms": 195280,
+      "duration_ms": 3520,
+      "text": "it changes. what I say right now as you"
+    },
+    {
+      "start_ms": 197040,
+      "duration_ms": 3600,
+      "text": "all know will probably change by the"
+    },
+    {
+      "start_ms": 198800,
+      "duration_ms": 4560,
+      "text": "19th of May right something's going to"
+    },
+    {
+      "start_ms": 200640,
+      "duration_ms": 5679,
+      "text": "happen by then um but to to answer your"
+    },
+    {
+      "start_ms": 203360,
+      "duration_ms": 5519,
+      "text": "question very quickly uh we've actually"
+    },
+    {
+      "start_ms": 206319,
+      "duration_ms": 4000,
+      "text": "got a spam tracker the the words it's"
+    },
+    {
+      "start_ms": 208879,
+      "duration_ms": 3681,
+      "text": "actually when you create content you can"
+    },
+    {
+      "start_ms": 210319,
+      "duration_ms": 5200,
+      "text": "see that yourself at that point in end"
+    },
+    {
+      "start_ms": 212560,
+      "duration_ms": 4800,
+      "text": "um and what we also go and do is we have"
+    },
+    {
+      "start_ms": 215519,
+      "duration_ms": 4041,
+      "text": "something on the delivery side where you"
+    },
+    {
+      "start_ms": 217360,
+      "duration_ms": 4640,
+      "text": "can actually see which when you change"
+    },
+    {
+      "start_ms": 219560,
+      "duration_ms": 4440,
+      "text": "content how many meals land in primary"
+    },
+    {
+      "start_ms": 222000,
+      "duration_ms": 4080,
+      "text": "how many land in secondary how many land"
+    },
+    {
+      "start_ms": 224000,
+      "duration_ms": 5040,
+      "text": "in the promotion or spam folder"
+    },
+    {
+      "start_ms": 226080,
+      "duration_ms": 4960,
+      "text": "So u what I can point out to very"
+    },
+    {
+      "start_ms": 229040,
+      "duration_ms": 4559,
+      "text": "straightforward over here is without"
+    },
+    {
+      "start_ms": 231040,
+      "duration_ms": 4400,
+      "text": "going into certain I guess patterns to"
+    },
+    {
+      "start_ms": 233599,
+      "duration_ms": 4321,
+      "text": "follow what I can suggest is what you"
+    },
+    {
+      "start_ms": 235440,
+      "duration_ms": 4400,
+      "text": "can do to be on top of your game so that"
+    },
+    {
+      "start_ms": 237920,
+      "duration_ms": 4480,
+      "text": "I'm not giving a templated solution"
+    },
+    {
+      "start_ms": 239840,
+      "duration_ms": 4640,
+      "text": "right if you got Microsoft or if you got"
+    },
+    {
+      "start_ms": 242400,
+      "duration_ms": 3640,
+      "text": "Google with Microsoft you got Microsoft"
+    },
+    {
+      "start_ms": 244480,
+      "duration_ms": 4240,
+      "text": "Defender and with Google you got"
+    },
+    {
+      "start_ms": 246040,
+      "duration_ms": 4759,
+      "text": "Postmasters um so Microsoft Defender the"
+    },
+    {
+      "start_ms": 248720,
+      "duration_ms": 3519,
+      "text": "interesting thing I don't know which"
+    },
+    {
+      "start_ms": 250799,
+      "duration_ms": 3281,
+      "text": "subscription model it is but on the"
+    },
+    {
+      "start_ms": 252239,
+      "duration_ms": 4481,
+      "text": "higher tiers you can effectively see"
+    },
+    {
+      "start_ms": 254080,
+      "duration_ms": 4399,
+      "text": "where your emails And so it's not that"
+    },
+    {
+      "start_ms": 256720,
+      "duration_ms": 2960,
+      "text": "secretive. So if you set up for"
+    },
+    {
+      "start_ms": 258479,
+      "duration_ms": 3201,
+      "text": "Microsoft Defender and you send your"
+    },
+    {
+      "start_ms": 259680,
+      "duration_ms": 3680,
+      "text": "mails through Microsoft Defender, um"
+    },
+    {
+      "start_ms": 261680,
+      "duration_ms": 4000,
+      "text": "which is basically you can connect your"
+    },
+    {
+      "start_ms": 263360,
+      "duration_ms": 4720,
+      "text": "mailboxes to Microsoft Defender, um it"
+    },
+    {
+      "start_ms": 265680,
+      "duration_ms": 4880,
+      "text": "will tell you if your mail has landed in"
+    },
+    {
+      "start_ms": 268080,
+      "duration_ms": 4240,
+      "text": "the target leads Microsoft account if it"
+    },
+    {
+      "start_ms": 270560,
+      "duration_ms": 3359,
+      "text": "is Microsoft if it's landed in the spam"
+    },
+    {
+      "start_ms": 272320,
+      "duration_ms": 3760,
+      "text": "or primary folder. It's not 100%"
+    },
+    {
+      "start_ms": 273919,
+      "duration_ms": 6401,
+      "text": "accurate 99% of the time. There's irony"
+    },
+    {
+      "start_ms": 276080,
+      "duration_ms": 5839,
+      "text": "in that, but it does work. Cool. Um and"
+    },
+    {
+      "start_ms": 280320,
+      "duration_ms": 3200,
+      "text": "the second thing is with postmasters."
+    },
+    {
+      "start_ms": 281919,
+      "duration_ms": 3761,
+      "text": "What post masters does for you is it"
+    },
+    {
+      "start_ms": 283520,
+      "duration_ms": 3600,
+      "text": "gives you very good indication of how"
+    },
+    {
+      "start_ms": 285680,
+      "duration_ms": 3040,
+      "text": "many people are marking your content as"
+    },
+    {
+      "start_ms": 287120,
+      "duration_ms": 3600,
+      "text": "spam and how many people are not"
+    },
+    {
+      "start_ms": 288720,
+      "duration_ms": 3840,
+      "text": "marketing as spam. When people marking"
+    },
+    {
+      "start_ms": 290720,
+      "duration_ms": 3759,
+      "text": "as spam, what you can easily do, it's"
+    },
+    {
+      "start_ms": 292560,
+      "duration_ms": 3520,
+      "text": "it's actually straightforward. You get a"
+    },
+    {
+      "start_ms": 294479,
+      "duration_ms": 3521,
+      "text": "list of those mails that have been"
+    },
+    {
+      "start_ms": 296080,
+      "duration_ms": 6000,
+      "text": "marked as spam. Pull it down and"
+    },
+    {
+      "start_ms": 298000,
+      "duration_ms": 4080,
+      "text": "generally if you're just lazy"
+    },
+    {
+      "start_ms": 303320,
+      "duration_ms": 4920,
+      "text": "afgra say, \"What are some common word"
+    },
+    {
+      "start_ms": 306080,
+      "duration_ms": 3920,
+      "text": "clouds of patterns of words that I'm"
+    },
+    {
+      "start_ms": 308240,
+      "duration_ms": 3679,
+      "text": "using here?\" that's marking me as spam."
+    },
+    {
+      "start_ms": 310000,
+      "duration_ms": 5120,
+      "text": "So, it's not that your mail will go to"
+    },
+    {
+      "start_ms": 311919,
+      "duration_ms": 5041,
+      "text": "spam directly because of this, but what"
+    },
+    {
+      "start_ms": 315120,
+      "duration_ms": 3840,
+      "text": "it will mean is there's a higher chance"
+    },
+    {
+      "start_ms": 316960,
+      "duration_ms": 4000,
+      "text": "now future mails you send that contain"
+    },
+    {
+      "start_ms": 318960,
+      "duration_ms": 4079,
+      "text": "similar that contain similar words will"
+    },
+    {
+      "start_ms": 320960,
+      "duration_ms": 3920,
+      "text": "probably end up in spam. These are just"
+    },
+    {
+      "start_ms": 323039,
+      "duration_ms": 3681,
+      "text": "preventative patterns I can offer. So,"
+    },
+    {
+      "start_ms": 324880,
+      "duration_ms": 4080,
+      "text": "sort of flipped it if you don't mind"
+    },
+    {
+      "start_ms": 326720,
+      "duration_ms": 4720,
+      "text": "which was less around here's what you"
+    },
+    {
+      "start_ms": 328960,
+      "duration_ms": 4320,
+      "text": "should do versus here's the measures"
+    },
+    {
+      "start_ms": 331440,
+      "duration_ms": 3280,
+      "text": "that you can set up and you'll be able"
+    },
+    {
+      "start_ms": 333280,
+      "duration_ms": 3680,
+      "text": "to figure out or you know sail your own"
+    },
+    {
+      "start_ms": 334720,
+      "duration_ms": 4240,
+      "text": "boat as a result."
+    },
+    {
+      "start_ms": 336960,
+      "duration_ms": 3799,
+      "text": "Can I ask some detail about something"
+    },
+    {
+      "start_ms": 338960,
+      "duration_ms": 5920,
+      "text": "you said earlier?"
+    },
+    {
+      "start_ms": 340759,
+      "duration_ms": 6601,
+      "text": "So you were like, are are you suggesting"
+    },
+    {
+      "start_ms": 344880,
+      "duration_ms": 6800,
+      "text": "that it's a good idea to send completely"
+    },
+    {
+      "start_ms": 347360,
+      "duration_ms": 6320,
+      "text": "unique emails to all of your leads? So"
+    },
+    {
+      "start_ms": 351680,
+      "duration_ms": 4320,
+      "text": "you use AI to do that, use clay to do"
+    },
+    {
+      "start_ms": 353680,
+      "duration_ms": 4480,
+      "text": "that, whatever. But you can use AI, you"
+    },
+    {
+      "start_ms": 356000,
+      "duration_ms": 5400,
+      "text": "can use spinaxing, like regressive"
+    },
+    {
+      "start_ms": 358160,
+      "duration_ms": 6159,
+      "text": "spinaxing. So, so the the magic"
+    },
+    {
+      "start_ms": 361400,
+      "duration_ms": 5320,
+      "text": "number basically means is pretty much"
+    },
+    {
+      "start_ms": 364319,
+      "duration_ms": 4561,
+      "text": "just instead of saying hey first name"
+    },
+    {
+      "start_ms": 366720,
+      "duration_ms": 4640,
+      "text": "blah blah blah you get to say hey hi"
+    },
+    {
+      "start_ms": 368880,
+      "duration_ms": 4960,
+      "text": "hello hello first name. So the change of"
+    },
+    {
+      "start_ms": 371360,
+      "duration_ms": 4800,
+      "text": "verbiage effectively quote unquote the"
+    },
+    {
+      "start_ms": 373840,
+      "duration_ms": 4160,
+      "text": "the job of that is to effectively help"
+    },
+    {
+      "start_ms": 376160,
+      "duration_ms": 4159,
+      "text": "bring in more randomization and draw in"
+    },
+    {
+      "start_ms": 378000,
+      "duration_ms": 4720,
+      "text": "a bit more humanistic pattern. But the"
+    },
+    {
+      "start_ms": 380319,
+      "duration_ms": 4641,
+      "text": "the the the concept to draw here is"
+    },
+    {
+      "start_ms": 382720,
+      "duration_ms": 4000,
+      "text": "Google's not dumb, right? Hey, hi hello"
+    },
+    {
+      "start_ms": 384960,
+      "duration_ms": 3280,
+      "text": "is kind of all the same [ __ ] right?"
+    },
+    {
+      "start_ms": 386720,
+      "duration_ms": 4240,
+      "text": "Yeah. Um, so what they're going to look"
+    },
+    {
+      "start_ms": 388240,
+      "duration_ms": 4399,
+      "text": "for is intent or switch. So effectively,"
+    },
+    {
+      "start_ms": 390960,
+      "duration_ms": 2959,
+      "text": "it's the same as doing AB testing. So"
+    },
+    {
+      "start_ms": 392639,
+      "duration_ms": 3680,
+      "text": "you have to try different angles and"
+    },
+    {
+      "start_ms": 393919,
+      "duration_ms": 4081,
+      "text": "offers or your spin tax needs to be so"
+    },
+    {
+      "start_ms": 396319,
+      "duration_ms": 3841,
+      "text": "aggressive, which is not, \"Hey, hi,"
+    },
+    {
+      "start_ms": 398000,
+      "duration_ms": 5680,
+      "text": "hello,\" but it has to be um, good"
+    },
+    {
+      "start_ms": 400160,
+      "duration_ms": 5840,
+      "text": "morning, Adam or um, I I read about you"
+    },
+    {
+      "start_ms": 403680,
+      "duration_ms": 4160,
+      "text": "somewhere, Adam. So it's all greetings,"
+    },
+    {
+      "start_ms": 406000,
+      "duration_ms": 4080,
+      "text": "but very different greetings. It's not"
+    },
+    {
+      "start_ms": 407840,
+      "duration_ms": 4000,
+      "text": "just hey, hi, hello, anymore. And you"
+    },
+    {
+      "start_ms": 410080,
+      "duration_ms": 3679,
+      "text": "can do that in nested ways, and you can"
+    },
+    {
+      "start_ms": 411840,
+      "duration_ms": 4160,
+      "text": "do that littered across your entire"
+    },
+    {
+      "start_ms": 413759,
+      "duration_ms": 4560,
+      "text": "content. So, when you're sending an"
+    },
+    {
+      "start_ms": 416000,
+      "duration_ms": 4479,
+      "text": "email, it can be the same copy or"
+    },
+    {
+      "start_ms": 418319,
+      "duration_ms": 3841,
+      "text": "intent, but it's completely separate"
+    },
+    {
+      "start_ms": 420479,
+      "duration_ms": 3840,
+      "text": "messages because of the permutation"
+    },
+    {
+      "start_ms": 422160,
+      "duration_ms": 4800,
+      "text": "combinations you've got going for 1,000"
+    },
+    {
+      "start_ms": 424319,
+      "duration_ms": 6641,
+      "text": "separate leads."
+    },
+    {
+      "start_ms": 426960,
+      "duration_ms": 5120,
+      "text": "That's crazy. Does your system do that?"
+    },
+    {
+      "start_ms": 430960,
+      "duration_ms": 2799,
+      "text": "Yeah. Yeah, we've been doing it for two"
+    },
+    {
+      "start_ms": 432080,
+      "duration_ms": 5360,
+      "text": "years, two, three years, whatever it is."
+    },
+    {
+      "start_ms": 433759,
+      "duration_ms": 6321,
+      "text": "Yeah. Is and is that is that like a is"
+    },
+    {
+      "start_ms": 437440,
+      "duration_ms": 4400,
+      "text": "that like a PLG fe like some everybody"
+    },
+    {
+      "start_ms": 440080,
+      "duration_ms": 4720,
+      "text": "listening could just sign up and like"
+    },
+    {
+      "start_ms": 441840,
+      "duration_ms": 4240,
+      "text": "within they could uplevel their skill"
+    },
+    {
+      "start_ms": 444800,
+      "duration_ms": 2799,
+      "text": "and they could just get in there and do"
+    },
+    {
+      "start_ms": 446080,
+      "duration_ms": 3839,
+      "text": "it. They don't need agency help or"
+    },
+    {
+      "start_ms": 447599,
+      "duration_ms": 4081,
+      "text": "anything. Uh great question. So as of"
+    },
+    {
+      "start_ms": 449919,
+      "duration_ms": 3361,
+      "text": "now you want to use like a spin tax"
+    },
+    {
+      "start_ms": 451680,
+      "duration_ms": 3120,
+      "text": "generator but probably as of tomorrow"
+    },
+    {
+      "start_ms": 453280,
+      "duration_ms": 2960,
+      "text": "day after we've got our own like we've"
+    },
+    {
+      "start_ms": 454800,
+      "duration_ms": 4239,
+      "text": "got a spin tax creator. So you can click"
+    },
+    {
+      "start_ms": 456240,
+      "duration_ms": 5600,
+      "text": "a button put in like general content or"
+    },
+    {
+      "start_ms": 459039,
+      "duration_ms": 4401,
+      "text": "your your singular copy click a button"
+    },
+    {
+      "start_ms": 461840,
+      "duration_ms": 4160,
+      "text": "and then we'll spin tax the crap out of"
+    },
+    {
+      "start_ms": 463440,
+      "duration_ms": 3920,
+      "text": "it for you. So you should be sorted. Tom"
+    },
+    {
+      "start_ms": 466000,
+      "duration_ms": 2479,
+      "text": "in the chat asked about the subject"
+    },
+    {
+      "start_ms": 467360,
+      "duration_ms": 4080,
+      "text": "line. Do you do the same thing for"
+    },
+    {
+      "start_ms": 468479,
+      "duration_ms": 4801,
+      "text": "subject lines where you fabulous"
+    },
+    {
+      "start_ms": 471440,
+      "duration_ms": 3199,
+      "text": "question? No, I don't do it for subject"
+    },
+    {
+      "start_ms": 473280,
+      "duration_ms": 3280,
+      "text": "lines. For subject lines, you actually"
+    },
+    {
+      "start_ms": 474639,
+      "duration_ms": 3840,
+      "text": "have to have AB testing. The reason is"
+    },
+    {
+      "start_ms": 476560,
+      "duration_ms": 3440,
+      "text": "simple because the goal of spin tax over"
+    },
+    {
+      "start_ms": 478479,
+      "duration_ms": 2720,
+      "text": "here is to beat the spam filter. The"
+    },
+    {
+      "start_ms": 480000,
+      "duration_ms": 3280,
+      "text": "goal of the subject line is to get"
+    },
+    {
+      "start_ms": 481199,
+      "duration_ms": 3921,
+      "text": "through clickthrough rates. So if your"
+    },
+    {
+      "start_ms": 483280,
+      "duration_ms": 4479,
+      "text": "subject line is different and you've got"
+    },
+    {
+      "start_ms": 485120,
+      "duration_ms": 4400,
+      "text": "spin taxing, most platforms including us"
+    },
+    {
+      "start_ms": 487759,
+      "duration_ms": 4321,
+      "text": "will not be able to tell. You won't have"
+    },
+    {
+      "start_ms": 489520,
+      "duration_ms": 3840,
+      "text": "the analytics to get the exact verbiage"
+    },
+    {
+      "start_ms": 492080,
+      "duration_ms": 2640,
+      "text": "that converted. I mean, you'll have all"
+    },
+    {
+      "start_ms": 493360,
+      "duration_ms": 3679,
+      "text": "the data, but you'll have to actually"
+    },
+    {
+      "start_ms": 494720,
+      "duration_ms": 3520,
+      "text": "pull it down and do it your way. But if"
+    },
+    {
+      "start_ms": 497039,
+      "duration_ms": 3201,
+      "text": "you're you want to do different"
+    },
+    {
+      "start_ms": 498240,
+      "duration_ms": 4639,
+      "text": "subjects, you can simply AB test it. You"
+    },
+    {
+      "start_ms": 500240,
+      "duration_ms": 5600,
+      "text": "can you can add like 90 um AB variants"
+    },
+    {
+      "start_ms": 502879,
+      "duration_ms": 5040,
+      "text": "on our platform. So don't spin tax, just"
+    },
+    {
+      "start_ms": 505840,
+      "duration_ms": 5600,
+      "text": "create your 90 variants. So that way you"
+    },
+    {
+      "start_ms": 507919,
+      "duration_ms": 5441,
+      "text": "actually have pretty um solidified data"
+    },
+    {
+      "start_ms": 511440,
+      "duration_ms": 3839,
+      "text": "sets to let you know this is working"
+    },
+    {
+      "start_ms": 513360,
+      "duration_ms": 5760,
+      "text": "versus this isn't because again with"
+    },
+    {
+      "start_ms": 515279,
+      "duration_ms": 5200,
+      "text": "Spintax, it's not treated as a separate"
+    },
+    {
+      "start_ms": 519120,
+      "duration_ms": 3279,
+      "text": "um variant altogether. is just"
+    },
+    {
+      "start_ms": 520479,
+      "duration_ms": 4241,
+      "text": "randomization."
+    },
+    {
+      "start_ms": 522399,
+      "duration_ms": 4481,
+      "text": "A few other questions popped up about"
+    },
+    {
+      "start_ms": 524720,
+      "duration_ms": 3840,
+      "text": "subject line. Are there a specific"
+    },
+    {
+      "start_ms": 526880,
+      "duration_ms": 4800,
+      "text": "number of words that you are finding"
+    },
+    {
+      "start_ms": 528560,
+      "duration_ms": 5760,
+      "text": "from smart lead folks who are getting I"
+    },
+    {
+      "start_ms": 531680,
+      "duration_ms": 5120,
+      "text": "guess quality open rates like it's not"
+    },
+    {
+      "start_ms": 534320,
+      "duration_ms": 4800,
+      "text": "words um it's actually it's it's how"
+    },
+    {
+      "start_ms": 536800,
+      "duration_ms": 3840,
+      "text": "human you keep it. So some a new pattern"
+    },
+    {
+      "start_ms": 539120,
+      "duration_ms": 3200,
+      "text": "that a trend we're seeing a lot of"
+    },
+    {
+      "start_ms": 540640,
+      "duration_ms": 4480,
+      "text": "people do more recently I think as of"
+    },
+    {
+      "start_ms": 542320,
+      "duration_ms": 5400,
+      "text": "just like literally April May is all"
+    },
+    {
+      "start_ms": 545120,
+      "duration_ms": 5600,
+      "text": "lowercase and like three or four"
+    },
+    {
+      "start_ms": 547720,
+      "duration_ms": 5720,
+      "text": "words. It literally looks like it's like"
+    },
+    {
+      "start_ms": 550720,
+      "duration_ms": 5200,
+      "text": "a work work email. Yeah. Actually"
+    },
+    {
+      "start_ms": 553440,
+      "duration_ms": 5360,
+      "text": "somebody Veni in the chat had asked"
+    },
+    {
+      "start_ms": 555920,
+      "duration_ms": 4960,
+      "text": "about um yeah Veni said pretty much"
+    },
+    {
+      "start_ms": 558800,
+      "duration_ms": 3760,
+      "text": "anyone's everyone's inbox is flooded. I"
+    },
+    {
+      "start_ms": 560880,
+      "duration_ms": 3120,
+      "text": "wonder if any economic buyer is spending"
+    },
+    {
+      "start_ms": 562560,
+      "duration_ms": 3839,
+      "text": "more than one second to look at cold"
+    },
+    {
+      "start_ms": 564000,
+      "duration_ms": 4240,
+      "text": "email these days. I think they are if it"
+    },
+    {
+      "start_ms": 566399,
+      "duration_ms": 3201,
+      "text": "looks like it's coming from a human. Uh"
+    },
+    {
+      "start_ms": 568240,
+      "duration_ms": 3440,
+      "text": "if it looks like you're actually trying"
+    },
+    {
+      "start_ms": 569600,
+      "duration_ms": 5280,
+      "text": "to reach out to them with something of"
+    },
+    {
+      "start_ms": 571680,
+      "duration_ms": 6000,
+      "text": "value and and there's intent behind it."
+    },
+    {
+      "start_ms": 574880,
+      "duration_ms": 4880,
+      "text": "Um I think even at the end of it, if"
+    },
+    {
+      "start_ms": 577680,
+      "duration_ms": 3680,
+      "text": "they realize that it's a sales email,"
+    },
+    {
+      "start_ms": 579760,
+      "duration_ms": 3120,
+      "text": "they've already digested your value"
+    },
+    {
+      "start_ms": 581360,
+      "duration_ms": 4640,
+      "text": "proposition and at that point that's"
+    },
+    {
+      "start_ms": 582880,
+      "duration_ms": 5360,
+      "text": "that's really what matters. Um and yeah,"
+    },
+    {
+      "start_ms": 586000,
+      "duration_ms": 4480,
+      "text": "I mean we're we're big users of Fixer"
+    },
+    {
+      "start_ms": 588240,
+      "duration_ms": 4080,
+      "text": "here. I don't know if you use Fixer. I"
+    },
+    {
+      "start_ms": 590480,
+      "duration_ms": 3600,
+      "text": "do. We had we had the Fixer guys,"
+    },
+    {
+      "start_ms": 592320,
+      "duration_ms": 3920,
+      "text": "Richard and Archie on uh on the show,"
+    },
+    {
+      "start_ms": 594080,
+      "duration_ms": 3439,
+      "text": "too. So, I mean, heck, that all goes"
+    },
+    {
+      "start_ms": 596240,
+      "duration_ms": 3920,
+      "text": "into a marketing folder that I don't"
+    },
+    {
+      "start_ms": 597519,
+      "duration_ms": 5121,
+      "text": "even see, but the really really good"
+    },
+    {
+      "start_ms": 600160,
+      "duration_ms": 4640,
+      "text": "ones still hit my inbox. I still open"
+    },
+    {
+      "start_ms": 602640,
+      "duration_ms": 3600,
+      "text": "them and I read them. So, well, I think"
+    },
+    {
+      "start_ms": 604800,
+      "duration_ms": 2880,
+      "text": "you've you've nailed a really good point"
+    },
+    {
+      "start_ms": 606240,
+      "duration_ms": 3920,
+      "text": "over here, which is kind of what"
+    },
+    {
+      "start_ms": 607680,
+      "duration_ms": 4000,
+      "text": "happened to résumés where a you're not"
+    },
+    {
+      "start_ms": 610160,
+      "duration_ms": 4000,
+      "text": "actually building the resume for a"
+    },
+    {
+      "start_ms": 611680,
+      "duration_ms": 3680,
+      "text": "recruiter, but for AI. Now, you're"
+    },
+    {
+      "start_ms": 614160,
+      "duration_ms": 4480,
+      "text": "you're actually going to be writing"
+    },
+    {
+      "start_ms": 615360,
+      "duration_ms": 6240,
+      "text": "emails to be categorized by AI. So, step"
+    },
+    {
+      "start_ms": 618640,
+      "duration_ms": 4960,
+      "text": "one is to be the spam folder. Step two"
+    },
+    {
+      "start_ms": 621600,
+      "duration_ms": 3679,
+      "text": "is now to beat an AI categorizer that"
+    },
+    {
+      "start_ms": 623600,
+      "duration_ms": 3359,
+      "text": "decides that yeah, your mail is actually"
+    },
+    {
+      "start_ms": 625279,
+      "duration_ms": 3921,
+      "text": "something that's important versus"
+    },
+    {
+      "start_ms": 626959,
+      "duration_ms": 4000,
+      "text": "marketing, right? Um and I think because"
+    },
+    {
+      "start_ms": 629200,
+      "duration_ms": 4000,
+      "text": "I use Fixer as well, there's, you know,"
+    },
+    {
+      "start_ms": 630959,
+      "duration_ms": 5120,
+      "text": "the the important marketing, um"
+    },
+    {
+      "start_ms": 633200,
+      "duration_ms": 4560,
+      "text": "promotion, notification, all that jazz."
+    },
+    {
+      "start_ms": 636079,
+      "duration_ms": 4000,
+      "text": "So, you probably now want to use these"
+    },
+    {
+      "start_ms": 637760,
+      "duration_ms": 4240,
+      "text": "tools or sign up to them. Um good idea."
+    },
+    {
+      "start_ms": 640079,
+      "duration_ms": 4561,
+      "text": "So, I'm thinking to go through it and"
+    },
+    {
+      "start_ms": 642000,
+      "duration_ms": 5440,
+      "text": "figure out where their AI categorizes"
+    },
+    {
+      "start_ms": 644640,
+      "duration_ms": 5920,
+      "text": "your mail. Cuz to your exact point,"
+    },
+    {
+      "start_ms": 647440,
+      "duration_ms": 4560,
+      "text": "Pete, I pretty much don't even read"
+    },
+    {
+      "start_ms": 650560,
+      "duration_ms": 3120,
+      "text": "anything that says marketing or"
+    },
+    {
+      "start_ms": 652000,
+      "duration_ms": 4720,
+      "text": "notification. I literally just click on"
+    },
+    {
+      "start_ms": 653680,
+      "duration_ms": 5360,
+      "text": "it, select all, mark as read, right? Um,"
+    },
+    {
+      "start_ms": 656720,
+      "duration_ms": 4400,
+      "text": "I only focus on the I think urgent or"
+    },
+    {
+      "start_ms": 659040,
+      "duration_ms": 4880,
+      "text": "whatever the term like needs needs"
+    },
+    {
+      "start_ms": 661120,
+      "duration_ms": 4480,
+      "text": "respon needs response FYI. Yeah. To"
+    },
+    {
+      "start_ms": 663920,
+      "duration_ms": 3560,
+      "text": "respond. Those are the only two ones."
+    },
+    {
+      "start_ms": 665600,
+      "duration_ms": 5200,
+      "text": "Yeah. I wouldn't be"
+    },
+    {
+      "start_ms": 667480,
+      "duration_ms": 5960,
+      "text": "surprised if more people start offering"
+    },
+    {
+      "start_ms": 670800,
+      "duration_ms": 5320,
+      "text": "email filtering with needs response if"
+    },
+    {
+      "start_ms": 673440,
+      "duration_ms": 6959,
+      "text": "you start getting really clever outbound"
+    },
+    {
+      "start_ms": 676120,
+      "duration_ms": 5640,
+      "text": "that solicits response. Yeah. Yeah. Um"
+    },
+    {
+      "start_ms": 680399,
+      "duration_ms": 2801,
+      "text": "so it's it's actually a great way for"
+    },
+    {
+      "start_ms": 681760,
+      "duration_ms": 3600,
+      "text": "you to go ahead and figure out what"
+    },
+    {
+      "start_ms": 683200,
+      "duration_ms": 3440,
+      "text": "these tools are doing because you're"
+    },
+    {
+      "start_ms": 685360,
+      "duration_ms": 3280,
+      "text": "probably going to be reaching out the"
+    },
+    {
+      "start_ms": 686640,
+      "duration_ms": 3520,
+      "text": "more they grow, you're probably going to"
+    },
+    {
+      "start_ms": 688640,
+      "duration_ms": 3840,
+      "text": "be reaching out to someone who's their"
+    },
+    {
+      "start_ms": 690160,
+      "duration_ms": 4239,
+      "text": "customer. That means they effectively"
+    },
+    {
+      "start_ms": 692480,
+      "duration_ms": 4000,
+      "text": "kind of become a meta Google because"
+    },
+    {
+      "start_ms": 694399,
+      "duration_ms": 4241,
+      "text": "they now get to decide your fate, not"
+    },
+    {
+      "start_ms": 696480,
+      "duration_ms": 6640,
+      "text": "just Google itself."
+    },
+    {
+      "start_ms": 698640,
+      "duration_ms": 6560,
+      "text": "Oh, dude, why is it so hard?"
+    },
+    {
+      "start_ms": 703120,
+      "duration_ms": 4640,
+      "text": "Uh, we say that, but we're all using"
+    },
+    {
+      "start_ms": 705200,
+      "duration_ms": 5360,
+      "text": "Fixer. Like, yeah. Yeah, I know, I know,"
+    },
+    {
+      "start_ms": 707760,
+      "duration_ms": 4079,
+      "text": "I know, I know, I know, I know. Uh, but"
+    },
+    {
+      "start_ms": 710560,
+      "duration_ms": 3360,
+      "text": "but that's the ultimate play, right? I"
+    },
+    {
+      "start_ms": 711839,
+      "duration_ms": 5680,
+      "text": "mean, if someone goes ahead and um"
+    },
+    {
+      "start_ms": 713920,
+      "duration_ms": 6320,
+      "text": "builds the the the root and the cause,"
+    },
+    {
+      "start_ms": 717519,
+      "duration_ms": 6000,
+      "text": "meaning that you you you built a filter"
+    },
+    {
+      "start_ms": 720240,
+      "duration_ms": 4960,
+      "text": "on top of other mailboxes to classify"
+    },
+    {
+      "start_ms": 723519,
+      "duration_ms": 3841,
+      "text": "mails, but you only just allow like"
+    },
+    {
+      "start_ms": 725200,
+      "duration_ms": 3360,
+      "text": "smart leads to come through. That'll be"
+    },
+    {
+      "start_ms": 727360,
+      "duration_ms": 2960,
+      "text": "that'll be I don't know if that's going"
+    },
+    {
+      "start_ms": 728560,
+      "duration_ms": 3040,
+      "text": "to have some legal cycle, but that'll be"
+    },
+    {
+      "start_ms": 730320,
+      "duration_ms": 2959,
+      "text": "a fun one to build. Hey, how about this?"
+    },
+    {
+      "start_ms": 731600,
+      "duration_ms": 5919,
+      "text": "We'll build the product and you can just"
+    },
+    {
+      "start_ms": 733279,
+      "duration_ms": 6321,
+      "text": "like pay us. I'm ready for it."
+    },
+    {
+      "start_ms": 737519,
+      "duration_ms": 3841,
+      "text": "Uh, okay. Lucina has a great question,"
+    },
+    {
+      "start_ms": 739600,
+      "duration_ms": 4000,
+      "text": "but let's do the unfuck my startup"
+    },
+    {
+      "start_ms": 741360,
+      "duration_ms": 3840,
+      "text": "segment first and then we want to ask"
+    },
+    {
+      "start_ms": 743600,
+      "duration_ms": 3760,
+      "text": "you about enterprise spam filters"
+    },
+    {
+      "start_ms": 745200,
+      "duration_ms": 3680,
+      "text": "because Jesse Wulette was on here two"
+    },
+    {
+      "start_ms": 747360,
+      "duration_ms": 2960,
+      "text": "weeks ago. Yeah, I've seen that. And he"
+    },
+    {
+      "start_ms": 748880,
+      "duration_ms": 2959,
+      "text": "was and he was like he was like,"
+    },
+    {
+      "start_ms": 750320,
+      "duration_ms": 2880,
+      "text": "\"Nobody's getting through [ __ ]"
+    },
+    {
+      "start_ms": 751839,
+      "duration_ms": 2881,
+      "text": "enterprise filter.\" I just want to know"
+    },
+    {
+      "start_ms": 753200,
+      "duration_ms": 3520,
+      "text": "if you have a differing opinion. Yeah."
+    },
+    {
+      "start_ms": 754720,
+      "duration_ms": 4480,
+      "text": "Yeah. Yeah. I'm very curious about it."
+    },
+    {
+      "start_ms": 756720,
+      "duration_ms": 4400,
+      "text": "That that was new news to me. He was"
+    },
+    {
+      "start_ms": 759200,
+      "duration_ms": 3360,
+      "text": "basically he made us believe that you"
+    },
+    {
+      "start_ms": 761120,
+      "duration_ms": 4399,
+      "text": "shouldn't even waste your time emailing"
+    },
+    {
+      "start_ms": 762560,
+      "duration_ms": 4279,
+      "text": "anybody if they could afford Barracuda"
+    },
+    {
+      "start_ms": 765519,
+      "duration_ms": 5201,
+      "text": "or whatever if they could afford"
+    },
+    {
+      "start_ms": 766839,
+      "duration_ms": 5641,
+      "text": "$50,000. So anyway, so let's go. Yeah,"
+    },
+    {
+      "start_ms": 770720,
+      "duration_ms": 6080,
+      "text": "let's pull somebody. So I would love"
+    },
+    {
+      "start_ms": 772480,
+      "duration_ms": 6479,
+      "text": "somebody to come up um and whose email"
+    },
+    {
+      "start_ms": 776800,
+      "duration_ms": 5599,
+      "text": "infrastructure or they just can't land"
+    },
+    {
+      "start_ms": 778959,
+      "duration_ms": 5120,
+      "text": "in an inbox or they can't um convert or"
+    },
+    {
+      "start_ms": 782399,
+      "duration_ms": 4321,
+      "text": "get opens or whatever it might be."
+    },
+    {
+      "start_ms": 784079,
+      "duration_ms": 4161,
+      "text": "They're just their um their email"
+    },
+    {
+      "start_ms": 786720,
+      "duration_ms": 4080,
+      "text": "infrastructure is completely [ __ ] An"
+    },
+    {
+      "start_ms": 788240,
+      "duration_ms": 6800,
+      "text": "audience, we are talking to you. Who"
+    },
+    {
+      "start_ms": 790800,
+      "duration_ms": 6240,
+      "text": "wants to ask the foremost expert in"
+    },
+    {
+      "start_ms": 795040,
+      "duration_ms": 3919,
+      "text": "everything related to cold email"
+    },
+    {
+      "start_ms": 797040,
+      "duration_ms": 5520,
+      "text": "anything about cold email? Surely"
+    },
+    {
+      "start_ms": 798959,
+      "duration_ms": 5680,
+      "text": "someone does. Surely somebody is stuck"
+    },
+    {
+      "start_ms": 802560,
+      "duration_ms": 4480,
+      "text": "on their cold email outreach and wants"
+    },
+    {
+      "start_ms": 804639,
+      "duration_ms": 4721,
+      "text": "to come ask me something. Please raise"
+    },
+    {
+      "start_ms": 807040,
+      "duration_ms": 4880,
+      "text": "your hand. Couple good Mike. Yeah, raise"
+    },
+    {
+      "start_ms": 809360,
+      "duration_ms": 3919,
+      "text": "your hand. Yeah, like said 85. You're"
+    },
+    {
+      "start_ms": 811920,
+      "duration_ms": 4280,
+      "text": "like, \"Mike, will you come up here and"
+    },
+    {
+      "start_ms": 813279,
+      "duration_ms": 5360,
+      "text": "talk to us about this 850,000 email"
+    },
+    {
+      "start_ms": 816200,
+      "duration_ms": 6439,
+      "text": "sends?\" Uh, here we go. Steve hat her"
+    },
+    {
+      "start_ms": 818639,
+      "duration_ms": 5760,
+      "text": "raises. Oh, Steve hater, where'd you go?"
+    },
+    {
+      "start_ms": 822639,
+      "duration_ms": 3681,
+      "text": "All right, let's pull up uh let's pull"
+    },
+    {
+      "start_ms": 824399,
+      "duration_ms": 4641,
+      "text": "up Steve. Steve, why don't you come up"
+    },
+    {
+      "start_ms": 826320,
+      "duration_ms": 4880,
+      "text": "here and then uh Mike, you can uh well,"
+    },
+    {
+      "start_ms": 829040,
+      "duration_ms": 3919,
+      "text": "drop additional questions in here. But"
+    },
+    {
+      "start_ms": 831200,
+      "duration_ms": 3840,
+      "text": "Steve raised Wait, is Mike the guy that"
+    },
+    {
+      "start_ms": 832959,
+      "duration_ms": 3921,
+      "text": "like casually dropped that he"
+    },
+    {
+      "start_ms": 835040,
+      "duration_ms": 3919,
+      "text": "bootstrapped $8 million and raised 42"
+    },
+    {
+      "start_ms": 836880,
+      "duration_ms": 4399,
+      "text": "million? Is that you, Mike? We're trying"
+    },
+    {
+      "start_ms": 838959,
+      "duration_ms": 3680,
+      "text": "to have Mike on the show. Is that Mike"
+    },
+    {
+      "start_ms": 841279,
+      "duration_ms": 2800,
+      "text": "or is that somebody? Oh, I think I know"
+    },
+    {
+      "start_ms": 842639,
+      "duration_ms": 4241,
+      "text": "who you're talking about. Yeah. Yeah."
+    },
+    {
+      "start_ms": 844079,
+      "duration_ms": 3841,
+      "text": "Who was that? I gota go through that. We"
+    },
+    {
+      "start_ms": 846880,
+      "duration_ms": 2240,
+      "text": "were just talking. Yeah, it was like"
+    },
+    {
+      "start_ms": 847920,
+      "duration_ms": 2320,
+      "text": "somebody in the comments, dude. They"
+    },
+    {
+      "start_ms": 849120,
+      "duration_ms": 2959,
+      "text": "were just like, \"Yeah, you know, we just"
+    },
+    {
+      "start_ms": 850240,
+      "duration_ms": 5440,
+      "text": "bootstrapped 8 million and raised 42.\""
+    },
+    {
+      "start_ms": 852079,
+      "duration_ms": 6241,
+      "text": "It's like what? Casually."
+    },
+    {
+      "start_ms": 855680,
+      "duration_ms": 5200,
+      "text": "Uh, it was me and I'm masking my name."
+    },
+    {
+      "start_ms": 858320,
+      "duration_ms": 6560,
+      "text": "Kareem, what's up? That's hilarious."
+    },
+    {
+      "start_ms": 860880,
+      "duration_ms": 5800,
+      "text": "Steve here video on."
+    },
+    {
+      "start_ms": 864880,
+      "duration_ms": 4800,
+      "text": "Cool."
+    },
+    {
+      "start_ms": 866680,
+      "duration_ms": 5320,
+      "text": "Steve, how you doing, my friend?"
+    },
+    {
+      "start_ms": 869680,
+      "duration_ms": 4480,
+      "text": "Um,"
+    },
+    {
+      "start_ms": 872000,
+      "duration_ms": 4040,
+      "text": "all right. We'll give them a minute. I"
+    },
+    {
+      "start_ms": 874160,
+      "duration_ms": 4320,
+      "text": "saw another comment I want to ask V"
+    },
+    {
+      "start_ms": 876040,
+      "duration_ms": 6720,
+      "text": "about it's enterprise and it's links,"
+    },
+    {
+      "start_ms": 878480,
+      "duration_ms": 4280,
+      "text": "but we're going to let Steve talk first."
+    },
+    {
+      "start_ms": 884079,
+      "duration_ms": 3841,
+      "text": "Hey guys, sorry I was just having a"
+    },
+    {
+      "start_ms": 885600,
+      "duration_ms": 5039,
+      "text": "technical difficulty here. So, sorry"
+    },
+    {
+      "start_ms": 887920,
+      "duration_ms": 4080,
+      "text": "about that. Thanks for coming on, Steve."
+    },
+    {
+      "start_ms": 890639,
+      "duration_ms": 3760,
+      "text": "Thank you guys. Uh, thank you for the"
+    },
+    {
+      "start_ms": 892000,
+      "duration_ms": 5480,
+      "text": "opportunity to ask some questions and uh"
+    },
+    {
+      "start_ms": 894399,
+      "duration_ms": 5361,
+      "text": "see how things go."
+    },
+    {
+      "start_ms": 897480,
+      "duration_ms": 3960,
+      "text": "Um, so yeah, just let me know where"
+    },
+    {
+      "start_ms": 899760,
+      "duration_ms": 4400,
+      "text": "where where to start and uh, you know,"
+    },
+    {
+      "start_ms": 901440,
+      "duration_ms": 4440,
+      "text": "I'm just uh and I can start from there."
+    },
+    {
+      "start_ms": 904160,
+      "duration_ms": 5039,
+      "text": "I have some email sequences that"
+    },
+    {
+      "start_ms": 905880,
+      "duration_ms": 5480,
+      "text": "basically I um I uploaded to like a"
+    },
+    {
+      "start_ms": 909199,
+      "duration_ms": 4000,
+      "text": "Google Sheets that I can if if that's"
+    },
+    {
+      "start_ms": 911360,
+      "duration_ms": 3760,
+      "text": "something that I can share like and then"
+    },
+    {
+      "start_ms": 913199,
+      "duration_ms": 3760,
+      "text": "we can go over that like I just to know"
+    },
+    {
+      "start_ms": 915120,
+      "duration_ms": 4560,
+      "text": "how it works."
+    },
+    {
+      "start_ms": 916959,
+      "duration_ms": 4481,
+      "text": "Sure. Yeah. Yeah, feel free to share."
+    },
+    {
+      "start_ms": 919680,
+      "duration_ms": 4640,
+      "text": "Why not? You know the best place to"
+    },
+    {
+      "start_ms": 921440,
+      "duration_ms": 5040,
+      "text": "start. So,"
+    },
+    {
+      "start_ms": 924320,
+      "duration_ms": 3920,
+      "text": "uh, let me see here. You're getting a"
+    },
+    {
+      "start_ms": 926480,
+      "duration_ms": 3039,
+      "text": "lot of, uh, good comments on your on"
+    },
+    {
+      "start_ms": 928240,
+      "duration_ms": 3360,
+      "text": "your collection behind you as well."
+    },
+    {
+      "start_ms": 929519,
+      "duration_ms": 6680,
+      "text": "Yeah, I was going to say, thanks."
+    },
+    {
+      "start_ms": 931600,
+      "duration_ms": 4599,
+      "text": "Impressive. Thanks. Um,"
+    },
+    {
+      "start_ms": 936320,
+      "duration_ms": 4240,
+      "text": "Keith Gill, is that Are you the Keith"
+    },
+    {
+      "start_ms": 938240,
+      "duration_ms": 4240,
+      "text": "Gil that did the GameStop thing? Is this"
+    },
+    {
+      "start_ms": 940560,
+      "duration_ms": 4639,
+      "text": "a different Keith Gil? You know, the"
+    },
+    {
+      "start_ms": 942480,
+      "duration_ms": 4320,
+      "text": "Roaring Kitty. Never mind. Anyway, we'll"
+    },
+    {
+      "start_ms": 945199,
+      "duration_ms": 4241,
+      "text": "we'll have Steve share his screen."
+    },
+    {
+      "start_ms": 946800,
+      "duration_ms": 4719,
+      "text": "Different guy. Right on. All right."
+    },
+    {
+      "start_ms": 949440,
+      "duration_ms": 3920,
+      "text": "Sorry, I'm just uh pulling it up. I I"
+    },
+    {
+      "start_ms": 951519,
+      "duration_ms": 4081,
+      "text": "did just start like u I've been in the"
+    },
+    {
+      "start_ms": 953360,
+      "duration_ms": 5039,
+      "text": "company for 2 months and um I feel like"
+    },
+    {
+      "start_ms": 955600,
+      "duration_ms": 4720,
+      "text": "most of my emails are going to spam as I"
+    },
+    {
+      "start_ms": 958399,
+      "duration_ms": 4081,
+      "text": "did similar sequences to what I used to"
+    },
+    {
+      "start_ms": 960320,
+      "duration_ms": 4319,
+      "text": "do in my previous com company as it's it"
+    },
+    {
+      "start_ms": 962480,
+      "duration_ms": 6400,
+      "text": "was a similar uh tool. It wasn't you"
+    },
+    {
+      "start_ms": 964639,
+      "duration_ms": 6921,
+      "text": "know um uh copy and paste and basically"
+    },
+    {
+      "start_ms": 968880,
+      "duration_ms": 5759,
+      "text": "um it wasn't it wasn't working as"
+    },
+    {
+      "start_ms": 971560,
+      "duration_ms": 6680,
+      "text": "expected. Um so I'm very curious maybe I"
+    },
+    {
+      "start_ms": 974639,
+      "duration_ms": 4961,
+      "text": "use spam words cuz um in in our industry"
+    },
+    {
+      "start_ms": 978240,
+      "duration_ms": 3760,
+      "text": "there's a lot of uh basically"
+    },
+    {
+      "start_ms": 979600,
+      "duration_ms": 5840,
+      "text": "fraudsters. So, I'm guessing that that"
+    },
+    {
+      "start_ms": 982000,
+      "duration_ms": 7360,
+      "text": "might be one of the um spammy words,"
+    },
+    {
+      "start_ms": 985440,
+      "duration_ms": 5680,
+      "text": "let's say. Right. Um so, have you shared"
+    },
+    {
+      "start_ms": 989360,
+      "duration_ms": 4080,
+      "text": "it somewhere or Yeah, can share your"
+    },
+    {
+      "start_ms": 991120,
+      "duration_ms": 5560,
+      "text": "screen. I'm trying to I'm trying to"
+    },
+    {
+      "start_ms": 993440,
+      "duration_ms": 4810,
+      "text": "share. There we go. Okay. Uh window."
+    },
+    {
+      "start_ms": 996680,
+      "duration_ms": 3120,
+      "text": "Okay. One"
+    },
+    {
+      "start_ms": 998250,
+      "duration_ms": 4470,
+      "text": "[Music]"
+    },
+    {
+      "start_ms": 999800,
+      "duration_ms": 4599,
+      "text": "second. Uh you might need to hit more."
+    },
+    {
+      "start_ms": 1002720,
+      "duration_ms": 4640,
+      "text": "It's got three dots and a circle around"
+    },
+    {
+      "start_ms": 1004399,
+      "duration_ms": 5041,
+      "text": "it. There you go. Here. Here. Do you"
+    },
+    {
+      "start_ms": 1007360,
+      "duration_ms": 4320,
+      "text": "guys see the screen with my email? We"
+    },
+    {
+      "start_ms": 1009440,
+      "duration_ms": 5120,
+      "text": "now see a bunch of docs."
+    },
+    {
+      "start_ms": 1011680,
+      "duration_ms": 5279,
+      "text": "Okay. All right. So, this is um you"
+    },
+    {
+      "start_ms": 1014560,
+      "duration_ms": 6000,
+      "text": "know, let's say for example, uh my"
+    },
+    {
+      "start_ms": 1016959,
+      "duration_ms": 6320,
+      "text": "starter email. Um I ask if they're aware"
+    },
+    {
+      "start_ms": 1020560,
+      "duration_ms": 4320,
+      "text": "and then I have like a B version where"
+    },
+    {
+      "start_ms": 1023279,
+      "duration_ms": 4081,
+      "text": "I'm telling them we're monitoring your"
+    },
+    {
+      "start_ms": 1024880,
+      "duration_ms": 4000,
+      "text": "website and we see over X amount of"
+    },
+    {
+      "start_ms": 1027360,
+      "duration_ms": 5520,
+      "text": "active users. So, all this information"
+    },
+    {
+      "start_ms": 1028880,
+      "duration_ms": 7039,
+      "text": "is true, right? Um so, we're giving them"
+    },
+    {
+      "start_ms": 1032880,
+      "duration_ms": 4480,
+      "text": "actual data. So, in my in my view, I'm"
+    },
+    {
+      "start_ms": 1035919,
+      "duration_ms": 3361,
+      "text": "not I'm I'm sending them something"
+    },
+    {
+      "start_ms": 1037360,
+      "duration_ms": 4920,
+      "text": "that's humanized and not, you know,"
+    },
+    {
+      "start_ms": 1039280,
+      "duration_ms": 3000,
+      "text": "robust."
+    },
+    {
+      "start_ms": 1043520,
+      "duration_ms": 4480,
+      "text": "I'm going to let V answer this one, but"
+    },
+    {
+      "start_ms": 1045679,
+      "duration_ms": 4000,
+      "text": "the word articulating the word"
+    },
+    {
+      "start_ms": 1048000,
+      "duration_ms": 5039,
+      "text": "fraudsters and saying things like"
+    },
+    {
+      "start_ms": 1049679,
+      "duration_ms": 5041,
+      "text": "hijacked in a prospecting email is the"
+    },
+    {
+      "start_ms": 1053039,
+      "duration_ms": 4441,
+      "text": "wrong is my opinion the wrong vibe. But"
+    },
+    {
+      "start_ms": 1054720,
+      "duration_ms": 6640,
+      "text": "turning it over to V."
+    },
+    {
+      "start_ms": 1057480,
+      "duration_ms": 5880,
+      "text": "Um, yeah. uh anything with hijack"
+    },
+    {
+      "start_ms": 1061360,
+      "duration_ms": 4800,
+      "text": "fishing itself that probably will be"
+    },
+    {
+      "start_ms": 1063360,
+      "duration_ms": 4800,
+      "text": "flagged directly by Gmail and Outlook."
+    },
+    {
+      "start_ms": 1066160,
+      "duration_ms": 4800,
+      "text": "Um even saying things like fraudsters"
+    },
+    {
+      "start_ms": 1068160,
+      "duration_ms": 5759,
+      "text": "will probably come towards that point."
+    },
+    {
+      "start_ms": 1070960,
+      "duration_ms": 5040,
+      "text": "Um I would just I think this is great in"
+    },
+    {
+      "start_ms": 1073919,
+      "duration_ms": 4640,
+      "text": "terms of the the brevity. Um and you're"
+    },
+    {
+      "start_ms": 1076000,
+      "duration_ms": 4720,
+      "text": "getting straight towards it. Let's just"
+    },
+    {
+      "start_ms": 1078559,
+      "duration_ms": 3841,
+      "text": "say you were trying to go ahead and sell"
+    },
+    {
+      "start_ms": 1080720,
+      "duration_ms": 4480,
+      "text": "I I always look at a whiff, right?"
+    },
+    {
+      "start_ms": 1082400,
+      "duration_ms": 5040,
+      "text": "What's in it for me? Um, and if I were"
+    },
+    {
+      "start_ms": 1085200,
+      "duration_ms": 3760,
+      "text": "to position it as a whiff type approach,"
+    },
+    {
+      "start_ms": 1087440,
+      "duration_ms": 3040,
+      "text": "which is you're trying to sell to me,"
+    },
+    {
+      "start_ms": 1088960,
+      "duration_ms": 2719,
+      "text": "saying, \"We've got a bunch of people"
+    },
+    {
+      "start_ms": 1090480,
+      "duration_ms": 2800,
+      "text": "targeting my brand,\" cuz we've had this"
+    },
+    {
+      "start_ms": 1091679,
+      "duration_ms": 4401,
+      "text": "issue, right? Affiliate jacking has"
+    },
+    {
+      "start_ms": 1093280,
+      "duration_ms": 4960,
+      "text": "happened to us, right? Um, if you can"
+    },
+    {
+      "start_ms": 1096080,
+      "duration_ms": 4000,
+      "text": "just go and throw a random number, it"
+    },
+    {
+      "start_ms": 1098240,
+      "duration_ms": 3840,
+      "text": "can be completely inaccurate or if you"
+    },
+    {
+      "start_ms": 1100080,
+      "duration_ms": 4160,
+      "text": "got the accuracy even 10 times better,"
+    },
+    {
+      "start_ms": 1102080,
+      "duration_ms": 4320,
+      "text": "right? Be like, \"Hey, I found 50"
+    },
+    {
+      "start_ms": 1104240,
+      "duration_ms": 7120,
+      "text": "something fraudsters targeting your"
+    },
+    {
+      "start_ms": 1106400,
+      "duration_ms": 6960,
+      "text": "brand and what does that mean?\" Mhm. So,"
+    },
+    {
+      "start_ms": 1111360,
+      "duration_ms": 4400,
+      "text": "for example, here like I'll I'll have"
+    },
+    {
+      "start_ms": 1113360,
+      "duration_ms": 4400,
+      "text": "that, right? Like usually my idea is to"
+    },
+    {
+      "start_ms": 1115760,
+      "duration_ms": 3840,
+      "text": "do a small intro on the first email and"
+    },
+    {
+      "start_ms": 1117760,
+      "duration_ms": 4000,
+      "text": "to try to get in the in the inbox,"
+    },
+    {
+      "start_ms": 1119600,
+      "duration_ms": 4959,
+      "text": "right? I try not to send any pictures,"
+    },
+    {
+      "start_ms": 1121760,
+      "duration_ms": 4000,
+      "text": "URL links, uh demo demo. Uh that's what"
+    },
+    {
+      "start_ms": 1124559,
+      "duration_ms": 2881,
+      "text": "I'm saying. So, that this is actually"
+    },
+    {
+      "start_ms": 1125760,
+      "duration_ms": 4320,
+      "text": "perfect, right? Because the the brevity"
+    },
+    {
+      "start_ms": 1127440,
+      "duration_ms": 4400,
+      "text": "is actually good. It's plain. It's very"
+    },
+    {
+      "start_ms": 1130080,
+      "duration_ms": 2959,
+      "text": "simple and straightforward. I'm just"
+    },
+    {
+      "start_ms": 1131840,
+      "duration_ms": 2959,
+      "text": "saying if I were to receive this"
+    },
+    {
+      "start_ms": 1133039,
+      "duration_ms": 3441,
+      "text": "message, I guess cuz I'm in the"
+    },
+    {
+      "start_ms": 1134799,
+      "duration_ms": 2880,
+      "text": "industry, I sort of get called out and"
+    },
+    {
+      "start_ms": 1136480,
+      "duration_ms": 3840,
+      "text": "see that this is pretty much an"
+    },
+    {
+      "start_ms": 1137679,
+      "duration_ms": 4561,
+      "text": "automated mail. Mhm. But if you were to"
+    },
+    {
+      "start_ms": 1140320,
+      "duration_ms": 4320,
+      "text": "just send me a message saying, \"Hey, we"
+    },
+    {
+      "start_ms": 1142240,
+      "duration_ms": 4160,
+      "text": "been monitoring smart leads impressions."
+    },
+    {
+      "start_ms": 1144640,
+      "duration_ms": 4159,
+      "text": "Notice that you've got about 30"
+    },
+    {
+      "start_ms": 1146400,
+      "duration_ms": 4880,
+      "text": "something fraudsters um hitting your"
+    },
+    {
+      "start_ms": 1148799,
+      "duration_ms": 5521,
+      "text": "brand and probably causing you unwanted"
+    },
+    {
+      "start_ms": 1151280,
+      "duration_ms": 5519,
+      "text": "affiliate revenue.\" Great. Okay, now I'm"
+    },
+    {
+      "start_ms": 1154320,
+      "duration_ms": 4560,
+      "text": "interested. So, so I do have like I do"
+    },
+    {
+      "start_ms": 1156799,
+      "duration_ms": 4240,
+      "text": "want to say like for example here my"
+    },
+    {
+      "start_ms": 1158880,
+      "duration_ms": 4159,
+      "text": "first email that I decided to do that"
+    },
+    {
+      "start_ms": 1161039,
+      "duration_ms": 3760,
+      "text": "was my first draft. This is like my what"
+    },
+    {
+      "start_ms": 1163039,
+      "duration_ms": 4721,
+      "text": "I what I've sent. I just wanted to get"
+    },
+    {
+      "start_ms": 1164799,
+      "duration_ms": 4641,
+      "text": "an idea. So here like this is for like"
+    },
+    {
+      "start_ms": 1167760,
+      "duration_ms": 4400,
+      "text": "CMOs, head of growth. So people that"
+    },
+    {
+      "start_ms": 1169440,
+      "duration_ms": 5119,
+      "text": "have like a lot of um responsibilities"
+    },
+    {
+      "start_ms": 1172160,
+      "duration_ms": 3840,
+      "text": "for the company's uh brand. So I'll say"
+    },
+    {
+      "start_ms": 1174559,
+      "duration_ms": 2881,
+      "text": "like several marketing leaders we've"
+    },
+    {
+      "start_ms": 1176000,
+      "duration_ms": 3200,
+      "text": "spoken to were shocked to learn how many"
+    },
+    {
+      "start_ms": 1177440,
+      "duration_ms": 3599,
+      "text": "impersonators abuse their brand in paid"
+    },
+    {
+      "start_ms": 1179200,
+      "duration_ms": 3280,
+      "text": "search hijacking blah blah blah. And"
+    },
+    {
+      "start_ms": 1181039,
+      "duration_ms": 3361,
+      "text": "then I talk about pain points. It"
+    },
+    {
+      "start_ms": 1182480,
+      "duration_ms": 4640,
+      "text": "damages your brand's reputation. It"
+    },
+    {
+      "start_ms": 1184400,
+      "duration_ms": 4800,
+      "text": "drives up CPC and it makes it harder to"
+    },
+    {
+      "start_ms": 1187120,
+      "duration_ms": 4559,
+      "text": "mar uh measure um true marketing"
+    },
+    {
+      "start_ms": 1189200,
+      "duration_ms": 7359,
+      "text": "performance which these three things um"
+    },
+    {
+      "start_ms": 1191679,
+      "duration_ms": 6481,
+      "text": "CMOs care about. Um Yep. Yeah. Um sorry,"
+    },
+    {
+      "start_ms": 1196559,
+      "duration_ms": 5761,
+      "text": "can I ask what your role is in your"
+    },
+    {
+      "start_ms": 1198160,
+      "duration_ms": 6960,
+      "text": "company? So I'm a BDR. I do from A to Z."
+    },
+    {
+      "start_ms": 1202320,
+      "duration_ms": 4239,
+      "text": "Okay, sweet. So um this just a genuine"
+    },
+    {
+      "start_ms": 1205120,
+      "duration_ms": 3200,
+      "text": "question, right? So so please let me"
+    },
+    {
+      "start_ms": 1206559,
+      "duration_ms": 3281,
+      "text": "know if you you can completely disagree"
+    },
+    {
+      "start_ms": 1208320,
+      "duration_ms": 3520,
+      "text": "because some copy is sometimes just"
+    },
+    {
+      "start_ms": 1209840,
+      "duration_ms": 4160,
+      "text": "opinion and uh I might be wrong in this,"
+    },
+    {
+      "start_ms": 1211840,
+      "duration_ms": 5360,
+      "text": "right? Um, if I were to say, \"Hey,"
+    },
+    {
+      "start_ms": 1214000,
+      "duration_ms": 5440,
+      "text": "Steve, um, sales is a very important"
+    },
+    {
+      "start_ms": 1217200,
+      "duration_ms": 4080,
+      "text": "part of any business and it's important"
+    },
+    {
+      "start_ms": 1219440,
+      "duration_ms": 3440,
+      "text": "to drive revenue for the company.\""
+    },
+    {
+      "start_ms": 1221280,
+      "duration_ms": 5360,
+      "text": "People are shocked when they realize"
+    },
+    {
+      "start_ms": 1222880,
+      "duration_ms": 5760,
+      "text": "that, you know, the adband engine drove"
+    },
+    {
+      "start_ms": 1226640,
+      "duration_ms": 4320,
+      "text": "x amount of revenue for them. I've"
+    },
+    {
+      "start_ms": 1228640,
+      "duration_ms": 4560,
+      "text": "helped companies blah blah blah to do"
+    },
+    {
+      "start_ms": 1230960,
+      "duration_ms": 5120,
+      "text": "this much revenue. Would you like me to"
+    },
+    {
+      "start_ms": 1233200,
+      "duration_ms": 4320,
+      "text": "see how the second part is fine, but the"
+    },
+    {
+      "start_ms": 1236080,
+      "duration_ms": 3839,
+      "text": "first part is you're explaining my own"
+    },
+    {
+      "start_ms": 1237520,
+      "duration_ms": 3760,
+      "text": "job to me in the sense that it it's um I"
+    },
+    {
+      "start_ms": 1239919,
+      "duration_ms": 3601,
+      "text": "think there's a term I learned. is"
+    },
+    {
+      "start_ms": 1241280,
+      "duration_ms": 4000,
+      "text": "called uh the presumed knowledge curse."
+    },
+    {
+      "start_ms": 1243520,
+      "duration_ms": 4320,
+      "text": "The presumed knowledge curse effectively"
+    },
+    {
+      "start_ms": 1245280,
+      "duration_ms": 5519,
+      "text": "means it comes in two ways. Either you"
+    },
+    {
+      "start_ms": 1247840,
+      "duration_ms": 4959,
+      "text": "you speak less about it assuming that"
+    },
+    {
+      "start_ms": 1250799,
+      "duration_ms": 4240,
+      "text": "the c the other person knows about it"
+    },
+    {
+      "start_ms": 1252799,
+      "duration_ms": 3681,
+      "text": "already or you speak more about it"
+    },
+    {
+      "start_ms": 1255039,
+      "duration_ms": 4801,
+      "text": "assuming the person doesn't know about"
+    },
+    {
+      "start_ms": 1256480,
+      "duration_ms": 6640,
+      "text": "it, right? Um so if you're selling to a"
+    },
+    {
+      "start_ms": 1259840,
+      "duration_ms": 5120,
+      "text": "CMO, they're already well aware of brand"
+    },
+    {
+      "start_ms": 1263120,
+      "duration_ms": 3760,
+      "text": "impersonations causing impact to their"
+    },
+    {
+      "start_ms": 1264960,
+      "duration_ms": 4800,
+      "text": "business. So you've wasted three lines"
+    },
+    {
+      "start_ms": 1266880,
+      "duration_ms": 5520,
+      "text": "on that part, right? I would go into I"
+    },
+    {
+      "start_ms": 1269760,
+      "duration_ms": 4480,
+      "text": "would go more into the point of yo if"
+    },
+    {
+      "start_ms": 1272400,
+      "duration_ms": 3920,
+      "text": "this is hurting your brand right now"
+    },
+    {
+      "start_ms": 1274240,
+      "duration_ms": 4319,
+      "text": "I've got a solution for you right"
+    },
+    {
+      "start_ms": 1276320,
+      "duration_ms": 4880,
+      "text": "qualify them straight away because like"
+    },
+    {
+      "start_ms": 1278559,
+      "duration_ms": 5521,
+      "text": "I said I always put myself in it I am"
+    },
+    {
+      "start_ms": 1281200,
+      "duration_ms": 5120,
+      "text": "the person who was having some people"
+    },
+    {
+      "start_ms": 1284080,
+      "duration_ms": 3680,
+      "text": "take our affiliate link make some money"
+    },
+    {
+      "start_ms": 1286320,
+      "duration_ms": 2960,
+      "text": "out of it and we were actually paying"
+    },
+    {
+      "start_ms": 1287760,
+      "duration_ms": 5760,
+      "text": "they were actually targeting our own"
+    },
+    {
+      "start_ms": 1289280,
+      "duration_ms": 6320,
+      "text": "brand keyword right and even if it was a"
+    },
+    {
+      "start_ms": 1293520,
+      "duration_ms": 4240,
+      "text": "cold email I would have just reached out"
+    },
+    {
+      "start_ms": 1295600,
+      "duration_ms": 3439,
+      "text": "saying send me a link right and if you"
+    },
+    {
+      "start_ms": 1297760,
+      "duration_ms": 2799,
+      "text": "send me a screenshot showing me the"
+    },
+    {
+      "start_ms": 1299039,
+      "duration_ms": 2880,
+      "text": "Google thing. One of two things would"
+    },
+    {
+      "start_ms": 1300559,
+      "duration_ms": 2561,
+      "text": "have happened. Either I would have I"
+    },
+    {
+      "start_ms": 1301919,
+      "duration_ms": 2721,
+      "text": "would have just ignored your mail and I"
+    },
+    {
+      "start_ms": 1303120,
+      "duration_ms": 3360,
+      "text": "said I would have gone after my head of"
+    },
+    {
+      "start_ms": 1304640,
+      "duration_ms": 2880,
+      "text": "growth saying hey can we get this fixed"
+    },
+    {
+      "start_ms": 1306480,
+      "duration_ms": 2720,
+      "text": "or I would have reached out to you"
+    },
+    {
+      "start_ms": 1307520,
+      "duration_ms": 2880,
+      "text": "saying what the hell are you doing? What"
+    },
+    {
+      "start_ms": 1309200,
+      "duration_ms": 3040,
+      "text": "software are you using cuz I'm not able"
+    },
+    {
+      "start_ms": 1310400,
+      "duration_ms": 4560,
+      "text": "to solve it myself."
+    },
+    {
+      "start_ms": 1312240,
+      "duration_ms": 5520,
+      "text": "So I do I do have in my second or third"
+    },
+    {
+      "start_ms": 1314960,
+      "duration_ms": 4880,
+      "text": "email which my third email like I'm that"
+    },
+    {
+      "start_ms": 1317760,
+      "duration_ms": 4480,
+      "text": "basically like"
+    },
+    {
+      "start_ms": 1319840,
+      "duration_ms": 4000,
+      "text": "um it goes here into more details right"
+    },
+    {
+      "start_ms": 1322240,
+      "duration_ms": 3600,
+      "text": "I'm telling them this is what our tool"
+    },
+    {
+      "start_ms": 1323840,
+      "duration_ms": 4400,
+      "text": "uncovered um and I'm sending a"
+    },
+    {
+      "start_ms": 1325840,
+      "duration_ms": 4880,
+      "text": "screenshot with verification backed up"
+    },
+    {
+      "start_ms": 1328240,
+      "duration_ms": 3919,
+      "text": "by like Google ad transparency so I'm"
+    },
+    {
+      "start_ms": 1330720,
+      "duration_ms": 4319,
+      "text": "showing them like this is again where"
+    },
+    {
+      "start_ms": 1332159,
+      "duration_ms": 4321,
+      "text": "it's not personal I went I I actually"
+    },
+    {
+      "start_ms": 1335039,
+      "duration_ms": 2961,
+      "text": "have a screenshot of their company it's"
+    },
+    {
+      "start_ms": 1336480,
+      "duration_ms": 4960,
+      "text": "not a random company you you've done"
+    },
+    {
+      "start_ms": 1338000,
+      "duration_ms": 5840,
+      "text": "that but uh so this is in terms of you"
+    },
+    {
+      "start_ms": 1341440,
+      "duration_ms": 3680,
+      "text": "what um you know um Adam and Pete have"
+    },
+    {
+      "start_ms": 1343840,
+      "duration_ms": 2839,
+      "text": "been asking in terms of hey trends and"
+    },
+    {
+      "start_ms": 1345120,
+      "duration_ms": 4160,
+      "text": "patterns"
+    },
+    {
+      "start_ms": 1346679,
+      "duration_ms": 4921,
+      "text": "uh most people don't go through even the"
+    },
+    {
+      "start_ms": 1349280,
+      "duration_ms": 4480,
+      "text": "third mail um I think by the third meal"
+    },
+    {
+      "start_ms": 1351600,
+      "duration_ms": 4400,
+      "text": "you're probably hitting spam"
+    },
+    {
+      "start_ms": 1353760,
+      "duration_ms": 3600,
+      "text": "um it's it's one or two after which it's"
+    },
+    {
+      "start_ms": 1356000,
+      "duration_ms": 3440,
+      "text": "kind of just like you're doing it"
+    },
+    {
+      "start_ms": 1357360,
+      "duration_ms": 3280,
+      "text": "because your team has said you have to"
+    },
+    {
+      "start_ms": 1359440,
+      "duration_ms": 3760,
+      "text": "send a certain number of mails because"
+    },
+    {
+      "start_ms": 1360640,
+      "duration_ms": 4880,
+      "text": "you need to hit a KPI but it's either"
+    },
+    {
+      "start_ms": 1363200,
+      "duration_ms": 4959,
+      "text": "one or two nowadays nowadays not not"
+    },
+    {
+      "start_ms": 1365520,
+      "duration_ms": 4320,
+      "text": "before I'm wrong there but nowadays yeah"
+    },
+    {
+      "start_ms": 1368159,
+      "duration_ms": 5520,
+      "text": "I remember I'm curious to know when you"
+    },
+    {
+      "start_ms": 1369840,
+      "duration_ms": 5360,
+      "text": "say that cuz Um I was uh um I had a"
+    },
+    {
+      "start_ms": 1373679,
+      "duration_ms": 3360,
+      "text": "ratio of let's say of a 100 companies"
+    },
+    {
+      "start_ms": 1375200,
+      "duration_ms": 4800,
+      "text": "that I would reach out to. I booked"
+    },
+    {
+      "start_ms": 1377039,
+      "duration_ms": 5041,
+      "text": "around four meetings um with my with my"
+    },
+    {
+      "start_ms": 1380000,
+      "duration_ms": 4000,
+      "text": "sequence that I had and I had a five"
+    },
+    {
+      "start_ms": 1382080,
+      "duration_ms": 3839,
+      "text": "sequence and like basically my last"
+    },
+    {
+      "start_ms": 1384000,
+      "duration_ms": 3360,
+      "text": "sequence like is like very simple,"
+    },
+    {
+      "start_ms": 1385919,
+      "duration_ms": 3361,
+      "text": "right? It's a is this something that"
+    },
+    {
+      "start_ms": 1387360,
+      "duration_ms": 3920,
+      "text": "will be relevant to you? And I actually"
+    },
+    {
+      "start_ms": 1389280,
+      "duration_ms": 4240,
+      "text": "got the most answers on this one here."
+    },
+    {
+      "start_ms": 1391280,
+      "duration_ms": 3440,
+      "text": "Like it's such a simple thing like"
+    },
+    {
+      "start_ms": 1393520,
+      "duration_ms": 2480,
+      "text": "they'll go back in the thread and"
+    },
+    {
+      "start_ms": 1394720,
+      "duration_ms": 4079,
+      "text": "they'll most likely read it I'm"
+    },
+    {
+      "start_ms": 1396000,
+      "duration_ms": 4240,
+      "text": "guessing. Um but yeah, like that's why"
+    },
+    {
+      "start_ms": 1398799,
+      "duration_ms": 2961,
+      "text": "it's curious to me. But again, this was"
+    },
+    {
+      "start_ms": 1400240,
+      "duration_ms": 2960,
+      "text": "like around No, like I said, if that"
+    },
+    {
+      "start_ms": 1401760,
+      "duration_ms": 3680,
+      "text": "works for you, fabulous. Right. If that"
+    },
+    {
+      "start_ms": 1403200,
+      "duration_ms": 4080,
+      "text": "works, you fabulous. Um, what we've"
+    },
+    {
+      "start_ms": 1405440,
+      "duration_ms": 3599,
+      "text": "tentatively seen and and my perception"
+    },
+    {
+      "start_ms": 1407280,
+      "duration_ms": 4160,
+      "text": "has come mainly from spam, not from"
+    },
+    {
+      "start_ms": 1409039,
+      "duration_ms": 4081,
+      "text": "content, right? So, like I said at the"
+    },
+    {
+      "start_ms": 1411440,
+      "duration_ms": 4719,
+      "text": "start of the conversation, after two,"
+    },
+    {
+      "start_ms": 1413120,
+      "duration_ms": 4720,
+      "text": "you're hitting spam. Mhm. Um, it's not"
+    },
+    {
+      "start_ms": 1416159,
+      "duration_ms": 3760,
+      "text": "not your fault. It's not their fault."
+    },
+    {
+      "start_ms": 1417840,
+      "duration_ms": 3760,
+      "text": "It's just that you're not going to get"
+    },
+    {
+      "start_ms": 1419919,
+      "duration_ms": 3441,
+      "text": "beyond two. And I think if you've had"
+    },
+    {
+      "start_ms": 1421600,
+      "duration_ms": 3120,
+      "text": "Jesse in the previous session, Jesse"
+    },
+    {
+      "start_ms": 1423360,
+      "duration_ms": 2799,
+      "text": "would have repeated a very similar"
+    },
+    {
+      "start_ms": 1424720,
+      "duration_ms": 3120,
+      "text": "concept saying that as well. And we've"
+    },
+    {
+      "start_ms": 1426159,
+      "duration_ms": 3760,
+      "text": "seen the same thing. Um, just for"
+    },
+    {
+      "start_ms": 1427840,
+      "duration_ms": 4719,
+      "text": "reference, Smartle has a 1:5 ratio of"
+    },
+    {
+      "start_ms": 1429919,
+      "duration_ms": 4481,
+      "text": "leads to um, email sequences. That's"
+    },
+    {
+      "start_ms": 1432559,
+      "duration_ms": 2961,
+      "text": "pretty much our pricing model, but we've"
+    },
+    {
+      "start_ms": 1434400,
+      "duration_ms": 2399,
+      "text": "actually seen a lot of customers"
+    },
+    {
+      "start_ms": 1435520,
+      "duration_ms": 4320,
+      "text": "actually just stick to one to three, one"
+    },
+    {
+      "start_ms": 1436799,
+      "duration_ms": 5681,
+      "text": "to four. Um, rarely do they get to 1:5"
+    },
+    {
+      "start_ms": 1439840,
+      "duration_ms": 4240,
+      "text": "nowadays, right? Um, for no reason"
+    },
+    {
+      "start_ms": 1442480,
+      "duration_ms": 4480,
+      "text": "alone, but the fact that their mailboxes"
+    },
+    {
+      "start_ms": 1444080,
+      "duration_ms": 5280,
+      "text": "get burnt out. I see. Um, okay. Just to"
+    },
+    {
+      "start_ms": 1446960,
+      "duration_ms": 4640,
+      "text": "add one slight caveat to everyone, um,"
+    },
+    {
+      "start_ms": 1449360,
+      "duration_ms": 5600,
+      "text": "while you're over here, everyone talks"
+    },
+    {
+      "start_ms": 1451600,
+      "duration_ms": 5840,
+      "text": "about being marked as spam or bounces,"
+    },
+    {
+      "start_ms": 1454960,
+      "duration_ms": 5280,
+      "text": "etc. leads to you going to spam. No. Um,"
+    },
+    {
+      "start_ms": 1457440,
+      "duration_ms": 4560,
+      "text": "it's not that. It's it's we all need to"
+    },
+    {
+      "start_ms": 1460240,
+      "duration_ms": 3919,
+      "text": "realize that males are built for getting"
+    },
+    {
+      "start_ms": 1462000,
+      "duration_ms": 4080,
+      "text": "and receiving meals. That's it. That's"
+    },
+    {
+      "start_ms": 1464159,
+      "duration_ms": 3281,
+      "text": "the that's the balance. It's not that"
+    },
+    {
+      "start_ms": 1466080,
+      "duration_ms": 2880,
+      "text": "complex. It's we're we're making a"
+    },
+    {
+      "start_ms": 1467440,
+      "duration_ms": 4160,
+      "text": "science out of something that is just,"
+    },
+    {
+      "start_ms": 1468960,
+      "duration_ms": 6719,
+      "text": "you know, very, you know, playground"
+    },
+    {
+      "start_ms": 1471600,
+      "duration_ms": 6679,
+      "text": "clay stuff. So, um, if you are sending"
+    },
+    {
+      "start_ms": 1475679,
+      "duration_ms": 5761,
+      "text": "thousands of mails for a very long"
+    },
+    {
+      "start_ms": 1478279,
+      "duration_ms": 4681,
+      "text": "period and your ratio is even 10%."
+    },
+    {
+      "start_ms": 1481440,
+      "duration_ms": 3920,
+      "text": "That's great in the market, right? You"
+    },
+    {
+      "start_ms": 1482960,
+      "duration_ms": 4079,
+      "text": "get 10% reply rates or even 20% reply"
+    },
+    {
+      "start_ms": 1485360,
+      "duration_ms": 4080,
+      "text": "rates. That's still 80% who've not"
+    },
+    {
+      "start_ms": 1487039,
+      "duration_ms": 4561,
+      "text": "replied back to you. You scale that over"
+    },
+    {
+      "start_ms": 1489440,
+      "duration_ms": 4719,
+      "text": "three to six months and now you've got a"
+    },
+    {
+      "start_ms": 1491600,
+      "duration_ms": 4720,
+      "text": "mailbox that effectively has not got 80%"
+    },
+    {
+      "start_ms": 1494159,
+      "duration_ms": 5361,
+      "text": "of mails every day for 6 months in a"
+    },
+    {
+      "start_ms": 1496320,
+      "duration_ms": 5359,
+      "text": "row. Your mailbox will burn out. Now, if"
+    },
+    {
+      "start_ms": 1499520,
+      "duration_ms": 4159,
+      "text": "you do that with a five sequence ratio,"
+    },
+    {
+      "start_ms": 1501679,
+      "duration_ms": 4721,
+      "text": "that 6 months probably gets squeezed"
+    },
+    {
+      "start_ms": 1503679,
+      "duration_ms": 4000,
+      "text": "down to 3 months or two months. So,"
+    },
+    {
+      "start_ms": 1506400,
+      "duration_ms": 3680,
+      "text": "that's that's the only thing that's"
+    },
+    {
+      "start_ms": 1507679,
+      "duration_ms": 4480,
+      "text": "that's what we've seen. But I will put"
+    },
+    {
+      "start_ms": 1510080,
+      "duration_ms": 4000,
+      "text": "my hand up over here and say I've had"
+    },
+    {
+      "start_ms": 1512159,
+      "duration_ms": 4481,
+      "text": "many, many, many times where I've been"
+    },
+    {
+      "start_ms": 1514080,
+      "duration_ms": 5120,
+      "text": "proven straight up wrong. Um, so all I"
+    },
+    {
+      "start_ms": 1516640,
+      "duration_ms": 4880,
+      "text": "can share is trends and patterns. And if"
+    },
+    {
+      "start_ms": 1519200,
+      "duration_ms": 3760,
+      "text": "it's working for you,"
+    },
+    {
+      "start_ms": 1521520,
+      "duration_ms": 3840,
+      "text": "I'll always say this. I'll keep saying"
+    },
+    {
+      "start_ms": 1522960,
+      "duration_ms": 6560,
+      "text": "it. If it works, no touchy, let it do"
+    },
+    {
+      "start_ms": 1525360,
+      "duration_ms": 6720,
+      "text": "itself. I I agree. I agree. If it works,"
+    },
+    {
+      "start_ms": 1529520,
+      "duration_ms": 4320,
+      "text": "no touchy. Yeah. Write that down. One"
+    },
+    {
+      "start_ms": 1532080,
+      "duration_ms": 6079,
+      "text": "one other thing I just want to add too"
+    },
+    {
+      "start_ms": 1533840,
+      "duration_ms": 6240,
+      "text": "like um I think it's really like if you"
+    },
+    {
+      "start_ms": 1538159,
+      "duration_ms": 4721,
+      "text": "are going into your cold email trying to"
+    },
+    {
+      "start_ms": 1540080,
+      "duration_ms": 4800,
+      "text": "educate the heck out of people the way"
+    },
+    {
+      "start_ms": 1542880,
+      "duration_ms": 5200,
+      "text": "to do it is by meeting them where they"
+    },
+    {
+      "start_ms": 1544880,
+      "duration_ms": 4960,
+      "text": "already are like start by h start by"
+    },
+    {
+      "start_ms": 1548080,
+      "duration_ms": 2880,
+      "text": "telling the people telling people the"
+    },
+    {
+      "start_ms": 1549840,
+      "duration_ms": 3360,
+      "text": "story that they're already telling"
+    },
+    {
+      "start_ms": 1550960,
+      "duration_ms": 3599,
+      "text": "themselves and then work backwards from"
+    },
+    {
+      "start_ms": 1553200,
+      "duration_ms": 3760,
+      "text": "there. If you're trying to tell this"
+    },
+    {
+      "start_ms": 1554559,
+      "duration_ms": 4921,
+      "text": "completely different story, it's not"
+    },
+    {
+      "start_ms": 1556960,
+      "duration_ms": 4640,
+      "text": "going to pass the two-c rule, which is"
+    },
+    {
+      "start_ms": 1559480,
+      "duration_ms": 4439,
+      "text": "essentially with the two seconds that I"
+    },
+    {
+      "start_ms": 1561600,
+      "duration_ms": 4880,
+      "text": "go to scan this to decide if I'm going"
+    },
+    {
+      "start_ms": 1563919,
+      "duration_ms": 5441,
+      "text": "to read it. Am I able to filter it out"
+    },
+    {
+      "start_ms": 1566480,
+      "duration_ms": 5439,
+      "text": "in a way that my inbox wasn't right? So,"
+    },
+    {
+      "start_ms": 1569360,
+      "duration_ms": 5040,
+      "text": "um I think uh a lot of people just try"
+    },
+    {
+      "start_ms": 1571919,
+      "duration_ms": 3681,
+      "text": "to educate way too much um and and"
+    },
+    {
+      "start_ms": 1574400,
+      "duration_ms": 4159,
+      "text": "immediately speak within their own"
+    },
+    {
+      "start_ms": 1575600,
+      "duration_ms": 5920,
+      "text": "world. But um Steve, thank you for"
+    },
+    {
+      "start_ms": 1578559,
+      "duration_ms": 4240,
+      "text": "coming on, my friend. Appreciate you."
+    },
+    {
+      "start_ms": 1581520,
+      "duration_ms": 3600,
+      "text": "Thank you so much. I really appreciate"
+    },
+    {
+      "start_ms": 1582799,
+      "duration_ms": 5601,
+      "text": "it. Love the feedback."
+    },
+    {
+      "start_ms": 1585120,
+      "duration_ms": 6640,
+      "text": "Very great. Uh very great."
+    },
+    {
+      "start_ms": 1588400,
+      "duration_ms": 6120,
+      "text": "Bye. Thank you, man. Very great. Boom."
+    },
+    {
+      "start_ms": 1591760,
+      "duration_ms": 5840,
+      "text": "Well, Steve, thanks a ton, man."
+    },
+    {
+      "start_ms": 1594520,
+      "duration_ms": 6920,
+      "text": "Um so, let's get into Lucine had a great"
+    },
+    {
+      "start_ms": 1597600,
+      "duration_ms": 6880,
+      "text": "question about uh enterprise. So, uh"
+    },
+    {
+      "start_ms": 1601440,
+      "duration_ms": 6320,
+      "text": "let's chat about emailing those heavier"
+    },
+    {
+      "start_ms": 1604480,
+      "duration_ms": 5760,
+      "text": "hitters. Let's say a, you know, a CEO"
+    },
+    {
+      "start_ms": 1607760,
+      "duration_ms": 5200,
+      "text": "of, I don't know, a hospital or, you"
+    },
+    {
+      "start_ms": 1610240,
+      "duration_ms": 6799,
+      "text": "know, a chief at, you know, whatever. We"
+    },
+    {
+      "start_ms": 1612960,
+      "duration_ms": 6400,
+      "text": "all know what anybody at like Nike,"
+    },
+    {
+      "start_ms": 1617039,
+      "duration_ms": 6161,
+      "text": "right? Or like, you know, can I reach"
+    },
+    {
+      "start_ms": 1619360,
+      "duration_ms": 6160,
+      "text": "somebody at Amazon? Yeah, 100%. I I"
+    },
+    {
+      "start_ms": 1623200,
+      "duration_ms": 5760,
+      "text": "think Jesse was warranted in what he"
+    },
+    {
+      "start_ms": 1625520,
+      "duration_ms": 7399,
+      "text": "said. Um, and he's got a lot of data and"
+    },
+    {
+      "start_ms": 1628960,
+      "duration_ms": 7839,
+      "text": "information to back his point. Um, not a"
+    },
+    {
+      "start_ms": 1632919,
+      "duration_ms": 5561,
+      "text": "butt. However, to add to that piece, we"
+    },
+    {
+      "start_ms": 1636799,
+      "duration_ms": 3441,
+      "text": "see people booking meetings with large"
+    },
+    {
+      "start_ms": 1638480,
+      "duration_ms": 3360,
+      "text": "companies every other day. Like I think"
+    },
+    {
+      "start_ms": 1640240,
+      "duration_ms": 3120,
+      "text": "I just scrolled upon a LinkedIn post"
+    },
+    {
+      "start_ms": 1641840,
+      "duration_ms": 4079,
+      "text": "yesterday where someone shared a"
+    },
+    {
+      "start_ms": 1643360,
+      "duration_ms": 4720,
+      "text": "screenshot which was our UI and they"
+    },
+    {
+      "start_ms": 1645919,
+      "duration_ms": 4081,
+      "text": "booked a meeting with Nike. Um you you"
+    },
+    {
+      "start_ms": 1648080,
+      "duration_ms": 4240,
+      "text": "called out Nike very actively. So it was"
+    },
+    {
+      "start_ms": 1650000,
+      "duration_ms": 4880,
+      "text": "a Nike executive, right? We had someone"
+    },
+    {
+      "start_ms": 1652320,
+      "duration_ms": 4479,
+      "text": "who booked someone with an Apple. So and"
+    },
+    {
+      "start_ms": 1654880,
+      "duration_ms": 4240,
+      "text": "that's this is old as yesterday or two"
+    },
+    {
+      "start_ms": 1656799,
+      "duration_ms": 6081,
+      "text": "days ago. So this works um that"
+    },
+    {
+      "start_ms": 1659120,
+      "duration_ms": 7799,
+      "text": "definitely works. However, um the whole"
+    },
+    {
+      "start_ms": 1662880,
+      "duration_ms": 7840,
+      "text": "perspective over here is that will"
+    },
+    {
+      "start_ms": 1666919,
+      "duration_ms": 5521,
+      "text": "work once or twice and not at all after"
+    },
+    {
+      "start_ms": 1670720,
+      "duration_ms": 4640,
+      "text": "that for that particular"
+    },
+    {
+      "start_ms": 1672440,
+      "duration_ms": 4920,
+      "text": "domain. So if I were to go and reach out"
+    },
+    {
+      "start_ms": 1675360,
+      "duration_ms": 3840,
+      "text": "to someone at Apple with a particular"
+    },
+    {
+      "start_ms": 1677360,
+      "duration_ms": 3520,
+      "text": "mailbox domain and so on and so forth,"
+    },
+    {
+      "start_ms": 1679200,
+      "duration_ms": 4719,
+      "text": "the whole barracuda example or proof"
+    },
+    {
+      "start_ms": 1680880,
+      "duration_ms": 4880,
+      "text": "point example you gave, once my IP or"
+    },
+    {
+      "start_ms": 1683919,
+      "duration_ms": 3760,
+      "text": "once my domain's blacklisted, that's it."
+    },
+    {
+      "start_ms": 1685760,
+      "duration_ms": 3519,
+      "text": "Say goodbye not only to my domain, but"
+    },
+    {
+      "start_ms": 1687679,
+      "duration_ms": 3761,
+      "text": "say goodbye to everything within that"
+    },
+    {
+      "start_ms": 1689279,
+      "duration_ms": 4801,
+      "text": "tenant."
+    },
+    {
+      "start_ms": 1691440,
+      "duration_ms": 4479,
+      "text": "Right. So, it's a bit of a catch 22"
+    },
+    {
+      "start_ms": 1694080,
+      "duration_ms": 4560,
+      "text": "where if you're sending to a Fortune"
+    },
+    {
+      "start_ms": 1695919,
+      "duration_ms": 4961,
+      "text": "500, you probably want to keep like a a"
+    },
+    {
+      "start_ms": 1698640,
+      "duration_ms": 4560,
+      "text": "separate set of mailboxes in completely"
+    },
+    {
+      "start_ms": 1700880,
+      "duration_ms": 5880,
+      "text": "separate isolated tenants. Um because"
+    },
+    {
+      "start_ms": 1703200,
+      "duration_ms": 5920,
+      "text": "once you get called out there, um yeah,"
+    },
+    {
+      "start_ms": 1706760,
+      "duration_ms": 4360,
+      "text": "there's the the tenant level thing that"
+    },
+    {
+      "start_ms": 1709120,
+      "duration_ms": 4480,
+      "text": "I said is a bit aggressive, but if you"
+    },
+    {
+      "start_ms": 1711120,
+      "duration_ms": 5799,
+      "text": "are very proactive um and you're you're"
+    },
+    {
+      "start_ms": 1713600,
+      "duration_ms": 6360,
+      "text": "you know, very uh aggressively reaching"
+    },
+    {
+      "start_ms": 1716919,
+      "duration_ms": 5401,
+      "text": "out, you will be you will be blocked."
+    },
+    {
+      "start_ms": 1719960,
+      "duration_ms": 4280,
+      "text": "Um, and it'll be a straight block. Like"
+    },
+    {
+      "start_ms": 1722320,
+      "duration_ms": 3839,
+      "text": "it will not even bother. It'll be very"
+    },
+    {
+      "start_ms": 1724240,
+      "duration_ms": 3280,
+      "text": "unforgiving. Um, it'll just lock you out"
+    },
+    {
+      "start_ms": 1726159,
+      "duration_ms": 3201,
+      "text": "altogether. So, you will pretty much"
+    },
+    {
+      "start_ms": 1727520,
+      "duration_ms": 3120,
+      "text": "have to get a whole bunch of mailboxes"
+    },
+    {
+      "start_ms": 1729360,
+      "duration_ms": 3280,
+      "text": "that are not associated to your"
+    },
+    {
+      "start_ms": 1730640,
+      "duration_ms": 4639,
+      "text": "workspace or tenant at all and then"
+    },
+    {
+      "start_ms": 1732640,
+      "duration_ms": 4720,
+      "text": "start sending it way up. It's probably"
+    },
+    {
+      "start_ms": 1735279,
+      "duration_ms": 3201,
+      "text": "worth on those being Sorry, continue."
+    },
+    {
+      "start_ms": 1737360,
+      "duration_ms": 2720,
+      "text": "No, no, no. Go for go. I was just"
+    },
+    {
+      "start_ms": 1738480,
+      "duration_ms": 3360,
+      "text": "reading the chat and popped in. I was"
+    },
+    {
+      "start_ms": 1740080,
+      "duration_ms": 3360,
+      "text": "just going to say it's probably worth on"
+    },
+    {
+      "start_ms": 1741840,
+      "duration_ms": 4079,
+      "text": "those two since you are sending out to"
+    },
+    {
+      "start_ms": 1743440,
+      "duration_ms": 4880,
+      "text": "enterprise and the opportunity is so"
+    },
+    {
+      "start_ms": 1745919,
+      "duration_ms": 4081,
+      "text": "much higher. Um, I mean, one, the"
+    },
+    {
+      "start_ms": 1748320,
+      "duration_ms": 3839,
+      "text": "infrastructure recommendation v of"
+    },
+    {
+      "start_ms": 1750000,
+      "duration_ms": 4480,
+      "text": "having your own domains is fantastic,"
+    },
+    {
+      "start_ms": 1752159,
+      "duration_ms": 4081,
+      "text": "but number two, like send less emails"
+    },
+    {
+      "start_ms": 1754480,
+      "duration_ms": 3280,
+      "text": "and send more personalized emails, like"
+    },
+    {
+      "start_ms": 1756240,
+      "duration_ms": 3120,
+      "text": "stuff that shouldn't get flagged as"
+    },
+    {
+      "start_ms": 1757760,
+      "duration_ms": 2880,
+      "text": "spam. Like, it should be very I think"
+    },
+    {
+      "start_ms": 1759360,
+      "duration_ms": 2799,
+      "text": "that's a general rule. Like I think"
+    },
+    {
+      "start_ms": 1760640,
+      "duration_ms": 4399,
+      "text": "everyone says, \"How do I not get flagged"
+    },
+    {
+      "start_ms": 1762159,
+      "duration_ms": 4481,
+      "text": "as spam by not being spam?\" That's the"
+    },
+    {
+      "start_ms": 1765039,
+      "duration_ms": 3841,
+      "text": "easiest answer I can give you, right?"
+    },
+    {
+      "start_ms": 1766640,
+      "duration_ms": 5120,
+      "text": "It's a um, how do I not kill someone?"
+    },
+    {
+      "start_ms": 1768880,
+      "duration_ms": 4960,
+      "text": "Don't stab them. Um,"
+    },
+    {
+      "start_ms": 1771760,
+      "duration_ms": 4000,
+      "text": "is the spam uh is the current spam"
+    },
+    {
+      "start_ms": 1773840,
+      "duration_ms": 3360,
+      "text": "threshold? I remember like 10 years ago"
+    },
+    {
+      "start_ms": 1775760,
+      "duration_ms": 2880,
+      "text": "when we were selling email marketing"
+    },
+    {
+      "start_ms": 1777200,
+      "duration_ms": 2560,
+      "text": "software, it was like, you know, you"
+    },
+    {
+      "start_ms": 1778640,
+      "duration_ms": 2639,
+      "text": "don't want to be more than you don't"
+    },
+    {
+      "start_ms": 1779760,
+      "duration_ms": 4320,
+      "text": "want to get more than one spam complaint"
+    },
+    {
+      "start_ms": 1781279,
+      "duration_ms": 4721,
+      "text": "per thousand uh per thousand emails"
+    },
+    {
+      "start_ms": 1784080,
+      "duration_ms": 4640,
+      "text": "sent. Is that still kind of a benchmark"
+    },
+    {
+      "start_ms": 1786000,
+      "duration_ms": 5279,
+      "text": "that you follow or are you even more um"
+    },
+    {
+      "start_ms": 1788720,
+      "duration_ms": 4640,
+      "text": "No. Um I think it's it's actually not as"
+    },
+    {
+      "start_ms": 1791279,
+      "duration_ms": 3681,
+      "text": "bad as that. Um, but Google did have"
+    },
+    {
+      "start_ms": 1793360,
+      "duration_ms": 5120,
+      "text": "that thing they pushed out about a year"
+    },
+    {
+      "start_ms": 1794960,
+      "duration_ms": 5199,
+      "text": "and a bit ago where I think the sorry um"
+    },
+    {
+      "start_ms": 1798480,
+      "duration_ms": 3280,
+      "text": "I'm I'm forgetting the number top my"
+    },
+    {
+      "start_ms": 1800159,
+      "duration_ms": 3760,
+      "text": "head but I think it was three complaints"
+    },
+    {
+      "start_ms": 1801760,
+      "duration_ms": 7919,
+      "text": "per thousand messages but for personal"
+    },
+    {
+      "start_ms": 1803919,
+      "duration_ms": 7441,
+      "text": "Gmail accounts only um and uh so you're"
+    },
+    {
+      "start_ms": 1809679,
+      "duration_ms": 4000,
+      "text": "if you get three mails if you're sending"
+    },
+    {
+      "start_ms": 1811360,
+      "duration_ms": 6319,
+      "text": "to private mailboxes um like at Gmail"
+    },
+    {
+      "start_ms": 1813679,
+      "duration_ms": 6240,
+      "text": "leads and three leads mark you as spam"
+    },
+    {
+      "start_ms": 1817679,
+      "duration_ms": 5681,
+      "text": "uh Gmail pretty much said it face first"
+    },
+    {
+      "start_ms": 1819919,
+      "duration_ms": 5841,
+      "text": "that they'll screw you over after that."
+    },
+    {
+      "start_ms": 1823360,
+      "duration_ms": 4720,
+      "text": "Interesting. Um, but that was that was"
+    },
+    {
+      "start_ms": 1825760,
+      "duration_ms": 5120,
+      "text": "that that was for Gmail and then I think"
+    },
+    {
+      "start_ms": 1828080,
+      "duration_ms": 6240,
+      "text": "they redacted um because they initially"
+    },
+    {
+      "start_ms": 1830880,
+      "duration_ms": 4720,
+      "text": "set it for B2B and it like spewed the"
+    },
+    {
+      "start_ms": 1834320,
+      "duration_ms": 2800,
+      "text": "whole market. Everyone was like lead"
+    },
+    {
+      "start_ms": 1835600,
+      "duration_ms": 3439,
+      "text": "genen's dead, Adbound's dead, which"
+    },
+    {
+      "start_ms": 1837120,
+      "duration_ms": 3520,
+      "text": "happens every six months in our space."
+    },
+    {
+      "start_ms": 1839039,
+      "duration_ms": 4321,
+      "text": "Um, and then I think literally two weeks"
+    },
+    {
+      "start_ms": 1840640,
+      "duration_ms": 4800,
+      "text": "after they they they pull back on their"
+    },
+    {
+      "start_ms": 1843360,
+      "duration_ms": 4880,
+      "text": "statement."
+    },
+    {
+      "start_ms": 1845440,
+      "duration_ms": 4080,
+      "text": "Yeah. Uh, Jim had a good summary. These"
+    },
+    {
+      "start_ms": 1848240,
+      "duration_ms": 3200,
+      "text": "are old school rules and also old school"
+    },
+    {
+      "start_ms": 1849520,
+      "duration_ms": 3840,
+      "text": "solutions. There really isn't uh a way"
+    },
+    {
+      "start_ms": 1851440,
+      "duration_ms": 4000,
+      "text": "around doing it right. Own hundreds of"
+    },
+    {
+      "start_ms": 1853360,
+      "duration_ms": 5439,
+      "text": "domains of possibles. Don't overspend."
+    },
+    {
+      "start_ms": 1855440,
+      "duration_ms": 7599,
+      "text": "No spammy crap. Right on V, he says. I"
+    },
+    {
+      "start_ms": 1858799,
+      "duration_ms": 6240,
+      "text": "think that sums it all up. Um so I want"
+    },
+    {
+      "start_ms": 1863039,
+      "duration_ms": 3921,
+      "text": "to quickly Oh, right before I dive into"
+    },
+    {
+      "start_ms": 1865039,
+      "duration_ms": 3760,
+      "text": "this next topic, guys, Adam and I are"
+    },
+    {
+      "start_ms": 1866960,
+      "duration_ms": 4079,
+      "text": "recording our new show. We're doing two"
+    },
+    {
+      "start_ms": 1868799,
+      "duration_ms": 4081,
+      "text": "episodes tomorrow. Uh some of you have"
+    },
+    {
+      "start_ms": 1871039,
+      "duration_ms": 3681,
+      "text": "already left us voice notes. Uh if"
+    },
+    {
+      "start_ms": 1872880,
+      "duration_ms": 3519,
+      "text": "you've seen podcasts before where they"
+    },
+    {
+      "start_ms": 1874720,
+      "duration_ms": 3360,
+      "text": "take audience calls, that is what we're"
+    },
+    {
+      "start_ms": 1876399,
+      "duration_ms": 4081,
+      "text": "doing. Click the link in the bottom. It"
+    },
+    {
+      "start_ms": 1878080,
+      "duration_ms": 3680,
+      "text": "says, \"Leave us a voicemail.\" And uh"
+    },
+    {
+      "start_ms": 1880480,
+      "duration_ms": 2559,
+      "text": "leave us a voicemail about your"
+    },
+    {
+      "start_ms": 1881760,
+      "duration_ms": 3840,
+      "text": "successes, your failures, your"
+    },
+    {
+      "start_ms": 1883039,
+      "duration_ms": 4161,
+      "text": "entrepreneurial journey, crazy stories,"
+    },
+    {
+      "start_ms": 1885600,
+      "duration_ms": 3439,
+      "text": "whatever it might be. We'll send you"
+    },
+    {
+      "start_ms": 1887200,
+      "duration_ms": 3959,
+      "text": "some dope ass swag if you leave us a"
+    },
+    {
+      "start_ms": 1889039,
+      "duration_ms": 5281,
+      "text": "voicemail. We're just"
+    },
+    {
+      "start_ms": 1891159,
+      "duration_ms": 5000,
+      "text": "looking. We want to help solve people's"
+    },
+    {
+      "start_ms": 1894320,
+      "duration_ms": 3359,
+      "text": "problems. So, leave us a voicemail. Um"
+    },
+    {
+      "start_ms": 1896159,
+      "duration_ms": 3681,
+      "text": "audience, we are talking to you again. I"
+    },
+    {
+      "start_ms": 1897679,
+      "duration_ms": 4641,
+      "text": "feel like it's helpful to remind the"
+    },
+    {
+      "start_ms": 1899840,
+      "duration_ms": 5280,
+      "text": "people sometimes who are like currently"
+    },
+    {
+      "start_ms": 1902320,
+      "duration_ms": 4479,
+      "text": "doing four things and watching this. Uh,"
+    },
+    {
+      "start_ms": 1905120,
+      "duration_ms": 3600,
+      "text": "leave us a voice note if you want to"
+    },
+    {
+      "start_ms": 1906799,
+      "duration_ms": 4321,
+      "text": "make it on our new show as someone with"
+    },
+    {
+      "start_ms": 1908720,
+      "duration_ms": 5120,
+      "text": "a featured problem. You can even prank"
+    },
+    {
+      "start_ms": 1911120,
+      "duration_ms": 5200,
+      "text": "call us if you want. That might be kind"
+    },
+    {
+      "start_ms": 1913840,
+      "duration_ms": 4000,
+      "text": "of funny. I don't want to invite that."
+    },
+    {
+      "start_ms": 1916320,
+      "duration_ms": 3440,
+      "text": "Anybody got a personality here and want"
+    },
+    {
+      "start_ms": 1917840,
+      "duration_ms": 3679,
+      "text": "to prank call us and just surprise us on"
+    },
+    {
+      "start_ms": 1919760,
+      "duration_ms": 4880,
+      "text": "the YouTube show? We'll take Hey, it's"
+    },
+    {
+      "start_ms": 1921519,
+      "duration_ms": 5520,
+      "text": "all about entertainment. So, yeah. Equal"
+    },
+    {
+      "start_ms": 1924640,
+      "duration_ms": 4560,
+      "text": "parts equal parts entertainment and"
+    },
+    {
+      "start_ms": 1927039,
+      "duration_ms": 4721,
+      "text": "education is what we're going for. So,"
+    },
+    {
+      "start_ms": 1929200,
+      "duration_ms": 6000,
+      "text": "that's right, V. Next question. Can you"
+    },
+    {
+      "start_ms": 1931760,
+      "duration_ms": 6080,
+      "text": "put links in cold emails? Mark, and then"
+    },
+    {
+      "start_ms": 1935200,
+      "duration_ms": 6160,
+      "text": "I got a followup to this one. Got a hot"
+    },
+    {
+      "start_ms": 1937840,
+      "duration_ms": 5439,
+      "text": "take. Um, if just to be controversial,"
+    },
+    {
+      "start_ms": 1941360,
+      "duration_ms": 5679,
+      "text": "if that link is brand fresh and you,"
+    },
+    {
+      "start_ms": 1943279,
+      "duration_ms": 6801,
+      "text": "sure, why not? Um, but otherwise, um,"
+    },
+    {
+      "start_ms": 1947039,
+      "duration_ms": 5441,
+      "text": "no. Um, you don't send the same link in"
+    },
+    {
+      "start_ms": 1950080,
+      "duration_ms": 4800,
+      "text": "cold emails, right? That's it. That the"
+    },
+    {
+      "start_ms": 1952480,
+      "duration_ms": 3760,
+      "text": "general rule over here as to why links"
+    },
+    {
+      "start_ms": 1954880,
+      "duration_ms": 3360,
+      "text": "should not be included beyond the fact"
+    },
+    {
+      "start_ms": 1956240,
+      "duration_ms": 4240,
+      "text": "that it's HTML and CSS, and that's"
+    },
+    {
+      "start_ms": 1958240,
+      "duration_ms": 4960,
+      "text": "usually a easy red flag for most mailbox"
+    },
+    {
+      "start_ms": 1960480,
+      "duration_ms": 5039,
+      "text": "providers or secure email gateways. um"
+    },
+    {
+      "start_ms": 1963200,
+      "duration_ms": 5120,
+      "text": "beyond anything the principle of links"
+    },
+    {
+      "start_ms": 1965519,
+      "duration_ms": 4160,
+      "text": "it's static right because it's static it"
+    },
+    {
+      "start_ms": 1968320,
+      "duration_ms": 3520,
+      "text": "actually ends up having an impact we"
+    },
+    {
+      "start_ms": 1969679,
+      "duration_ms": 3761,
+      "text": "actually had a customer who removed um"
+    },
+    {
+      "start_ms": 1971840,
+      "duration_ms": 5600,
+      "text": "they were going through the whole thing"
+    },
+    {
+      "start_ms": 1973440,
+      "duration_ms": 5599,
+      "text": "did not know what's up just they did it"
+    },
+    {
+      "start_ms": 1977440,
+      "duration_ms": 3800,
+      "text": "not to take any credit they did it they"
+    },
+    {
+      "start_ms": 1979039,
+      "duration_ms": 5360,
+      "text": "removed the phone number from the"
+    },
+    {
+      "start_ms": 1981240,
+      "duration_ms": 6279,
+      "text": "signature boom flipped now causation"
+    },
+    {
+      "start_ms": 1984399,
+      "duration_ms": 5041,
+      "text": "versus correlation I don't know but"
+    },
+    {
+      "start_ms": 1987519,
+      "duration_ms": 3760,
+      "text": "seems pretty neat and makes sense in"
+    },
+    {
+      "start_ms": 1989440,
+      "duration_ms": 3359,
+      "text": "terms of staticization because Google's"
+    },
+    {
+      "start_ms": 1991279,
+      "duration_ms": 3681,
+      "text": "picked up or g outlook's picked of the"
+    },
+    {
+      "start_ms": 1992799,
+      "duration_ms": 3760,
+      "text": "fact that the second this little digit"
+    },
+    {
+      "start_ms": 1994960,
+      "duration_ms": 5360,
+      "text": "like you know this combination of"
+    },
+    {
+      "start_ms": 1996559,
+      "duration_ms": 6401,
+      "text": "numbers exist people have market as so"
+    },
+    {
+      "start_ms": 2000320,
+      "duration_ms": 5680,
+      "text": "same concept with links as well so can"
+    },
+    {
+      "start_ms": 2002960,
+      "duration_ms": 4880,
+      "text": "we send a Sensspark hey Bethany if"
+    },
+    {
+      "start_ms": 2006000,
+      "duration_ms": 3519,
+      "text": "you're here I'm shouting you out again"
+    },
+    {
+      "start_ms": 2007840,
+      "duration_ms": 3520,
+      "text": "check Sensspark out it's dope I'm going"
+    },
+    {
+      "start_ms": 2009519,
+      "duration_ms": 3040,
+      "text": "to start actually doing this stuff I"
+    },
+    {
+      "start_ms": 2011360,
+      "duration_ms": 2760,
+      "text": "keep saying this but I'm actually going"
+    },
+    {
+      "start_ms": 2012559,
+      "duration_ms": 4960,
+      "text": "to do it now"
+    },
+    {
+      "start_ms": 2014120,
+      "duration_ms": 5399,
+      "text": "uh can you send something like a"
+    },
+    {
+      "start_ms": 2017519,
+      "duration_ms": 4400,
+      "text": "Senspark video because that would be a"
+    },
+    {
+      "start_ms": 2019519,
+      "duration_ms": 3681,
+      "text": "unique right if they're personalizing"
+    },
+    {
+      "start_ms": 2021919,
+      "duration_ms": 4721,
+      "text": "the name of the person you're sending"
+    },
+    {
+      "start_ms": 2023200,
+      "duration_ms": 5199,
+      "text": "to. That would be a unique So the So to"
+    },
+    {
+      "start_ms": 2026640,
+      "duration_ms": 3919,
+      "text": "be clear, if you just put in like a dead"
+    },
+    {
+      "start_ms": 2028399,
+      "duration_ms": 3760,
+      "text": "domain like um yeah, firstly, shout out"
+    },
+    {
+      "start_ms": 2030559,
+      "duration_ms": 2801,
+      "text": "Bethany Sensspark. Love them. They're"
+    },
+    {
+      "start_ms": 2032159,
+      "duration_ms": 2321,
+      "text": "great tools. They know what they're"
+    },
+    {
+      "start_ms": 2033360,
+      "duration_ms": 4159,
+      "text": "doing. They're ahead of the market"
+    },
+    {
+      "start_ms": 2034480,
+      "duration_ms": 6079,
+      "text": "compared to most people. Um if I attach"
+    },
+    {
+      "start_ms": 2037519,
+      "duration_ms": 4561,
+      "text": "a Loom video, I don't end up in spam,"
+    },
+    {
+      "start_ms": 2040559,
+      "duration_ms": 2881,
+      "text": "right? And I've seen that happen"
+    },
+    {
+      "start_ms": 2042080,
+      "duration_ms": 3760,
+      "text": "multiple time. I send Looms all the"
+    },
+    {
+      "start_ms": 2043440,
+      "duration_ms": 3760,
+      "text": "time. I don't end up in spam. Um the"
+    },
+    {
+      "start_ms": 2045840,
+      "duration_ms": 4120,
+      "text": "premise over here is if you have a"
+    },
+    {
+      "start_ms": 2047200,
+      "duration_ms": 5360,
+      "text": "single like, hey, check out my website"
+    },
+    {
+      "start_ms": 2049960,
+      "duration_ms": 4840,
+      "text": "blah.com, right? and that blah is just"
+    },
+    {
+      "start_ms": 2052560,
+      "duration_ms": 5200,
+      "text": "there all over the place that has an"
+    },
+    {
+      "start_ms": 2054800,
+      "duration_ms": 7039,
+      "text": "impact right um but I do believe even"
+    },
+    {
+      "start_ms": 2057760,
+      "duration_ms": 5000,
+      "text": "the team uh the sensark team um go ahead"
+    },
+    {
+      "start_ms": 2061839,
+      "duration_ms": 3361,
+      "text": "and"
+    },
+    {
+      "start_ms": 2062760,
+      "duration_ms": 5040,
+      "text": "actually do the the sense spark message"
+    },
+    {
+      "start_ms": 2065200,
+      "duration_ms": 4879,
+      "text": "in the follow-up as well um so general"
+    },
+    {
+      "start_ms": 2067800,
+      "duration_ms": 4760,
+      "text": "rule you want to keep the first mail as"
+    },
+    {
+      "start_ms": 2070079,
+      "duration_ms": 3921,
+      "text": "vanilla as possible and the second mill"
+    },
+    {
+      "start_ms": 2072560,
+      "duration_ms": 5519,
+      "text": "is where you want to sparkle all the"
+    },
+    {
+      "start_ms": 2074000,
+      "duration_ms": 6520,
+      "text": "HTML and fancy grub ah okay so first"
+    },
+    {
+      "start_ms": 2078079,
+      "duration_ms": 5241,
+      "text": "email should be all lowercase four"
+    },
+    {
+      "start_ms": 2080520,
+      "duration_ms": 6359,
+      "text": "words. And then the second email should"
+    },
+    {
+      "start_ms": 2083320,
+      "duration_ms": 5559,
+      "text": "be personalized video of me stripping in"
+    },
+    {
+      "start_ms": 2086879,
+      "duration_ms": 5520,
+      "text": "front of the LinkedIn that everybody"
+    },
+    {
+      "start_ms": 2088879,
+      "duration_ms": 6480,
+      "text": "with with a Bitcoin logo tattooed to"
+    },
+    {
+      "start_ms": 2092399,
+      "duration_ms": 5761,
+      "text": "your chest. Um that's what you want to"
+    },
+    {
+      "start_ms": 2095359,
+      "duration_ms": 4881,
+      "text": "show. And then just Yeah. Have a habibi"
+    },
+    {
+      "start_ms": 2098160,
+      "duration_ms": 3760,
+      "text": "come to Dubai at the background. That's"
+    },
+    {
+      "start_ms": 2100240,
+      "duration_ms": 3200,
+      "text": "what you want to have driving. Yeah. Um"
+    },
+    {
+      "start_ms": 2101920,
+      "duration_ms": 3520,
+      "text": "yeah, once you get once you get your"
+    },
+    {
+      "start_ms": 2103440,
+      "duration_ms": 4720,
+      "text": "foot in the door, then it's pretty much,"
+    },
+    {
+      "start_ms": 2105440,
+      "duration_ms": 4600,
+      "text": "you know, the gateways are open."
+    },
+    {
+      "start_ms": 2108160,
+      "duration_ms": 4240,
+      "text": "Rock and roll."
+    },
+    {
+      "start_ms": 2110040,
+      "duration_ms": 3480,
+      "text": "Um, what about open tracking? Somebody's"
+    },
+    {
+      "start_ms": 2112400,
+      "duration_ms": 2480,
+      "text": "asking about that. Do you believe in it?"
+    },
+    {
+      "start_ms": 2113520,
+      "duration_ms": 3440,
+      "text": "Do you not believe in that? No, it was"
+    },
+    {
+      "start_ms": 2114880,
+      "duration_ms": 4239,
+      "text": "gone. How do how do we evaluate if our"
+    },
+    {
+      "start_ms": 2116960,
+      "duration_ms": 5520,
+      "text": "stuff's working if we can't track opens?"
+    },
+    {
+      "start_ms": 2119119,
+      "duration_ms": 5041,
+      "text": "Um, I think, uh, delability tests, a"
+    },
+    {
+      "start_ms": 2122480,
+      "duration_ms": 2960,
+      "text": "common thing a lot of people do. Um, you"
+    },
+    {
+      "start_ms": 2124160,
+      "duration_ms": 3439,
+      "text": "can run. And what is that? What does"
+    },
+    {
+      "start_ms": 2125440,
+      "duration_ms": 4560,
+      "text": "that entail? Delability test is simple."
+    },
+    {
+      "start_ms": 2127599,
+      "duration_ms": 4000,
+      "text": "Just it's literally like we offer it,"
+    },
+    {
+      "start_ms": 2130000,
+      "duration_ms": 4800,
+      "text": "other tools offer it as well without any"
+    },
+    {
+      "start_ms": 2131599,
+      "duration_ms": 4321,
+      "text": "bias. um it's your actual campaign, but"
+    },
+    {
+      "start_ms": 2134800,
+      "duration_ms": 3279,
+      "text": "you're actually sending it to a bunch of"
+    },
+    {
+      "start_ms": 2135920,
+      "duration_ms": 4240,
+      "text": "mailboxes that that particular platform"
+    },
+    {
+      "start_ms": 2138079,
+      "duration_ms": 3280,
+      "text": "owns and then you can just see whether"
+    },
+    {
+      "start_ms": 2140160,
+      "duration_ms": 4000,
+      "text": "the mails are landing in the primary"
+    },
+    {
+      "start_ms": 2141359,
+      "duration_ms": 4000,
+      "text": "secondary folder. Um some caveat for you"
+    },
+    {
+      "start_ms": 2144160,
+      "duration_ms": 3800,
+      "text": "over there, something that we're we're"
+    },
+    {
+      "start_ms": 2145359,
+      "duration_ms": 5000,
+      "text": "excited to bring in very soon is um"
+    },
+    {
+      "start_ms": 2147960,
+      "duration_ms": 5800,
+      "text": "mailboxes just like anything else have"
+    },
+    {
+      "start_ms": 2150359,
+      "duration_ms": 6121,
+      "text": "personas. So what I mean by that is um"
+    },
+    {
+      "start_ms": 2153760,
+      "duration_ms": 3839,
+      "text": "if you send um me an email about hair"
+    },
+    {
+      "start_ms": 2156480,
+      "duration_ms": 2160,
+      "text": "products, it's going to land in spam"
+    },
+    {
+      "start_ms": 2157599,
+      "duration_ms": 2961,
+      "text": "because I don't give a [ __ ] about that"
+    },
+    {
+      "start_ms": 2158640,
+      "duration_ms": 2959,
+      "text": "unfortunately. But if you send Adam an"
+    },
+    {
+      "start_ms": 2160560,
+      "duration_ms": 2160,
+      "text": "email about hair products, it'll"
+    },
+    {
+      "start_ms": 2161599,
+      "duration_ms": 3441,
+      "text": "probably land in the primary folder"
+    },
+    {
+      "start_ms": 2162720,
+      "duration_ms": 3840,
+      "text": "because it's relevant to him. Right. I"
+    },
+    {
+      "start_ms": 2165040,
+      "duration_ms": 5000,
+      "text": "mean, it's what I spend most of my time"
+    },
+    {
+      "start_ms": 2166560,
+      "duration_ms": 5600,
+      "text": "on when I'm not Exactly. Right. That's"
+    },
+    {
+      "start_ms": 2170040,
+      "duration_ms": 5640,
+      "text": "that's I'm going to I'm going to ask for"
+    },
+    {
+      "start_ms": 2172160,
+      "duration_ms": 5360,
+      "text": "some links right after this. Um so with"
+    },
+    {
+      "start_ms": 2175680,
+      "duration_ms": 4320,
+      "text": "that perspective, so mailboxes actually"
+    },
+    {
+      "start_ms": 2177520,
+      "duration_ms": 3599,
+      "text": "have personas as well. So um we've got"
+    },
+    {
+      "start_ms": 2180000,
+      "duration_ms": 2400,
+      "text": "it coming. We know a bunch of other"
+    },
+    {
+      "start_ms": 2181119,
+      "duration_ms": 2561,
+      "text": "people might be doing it as well. So we"
+    },
+    {
+      "start_ms": 2182400,
+      "duration_ms": 2640,
+      "text": "we've got a bunch of mailboxes where"
+    },
+    {
+      "start_ms": 2183680,
+      "duration_ms": 3919,
+      "text": "we're going to have 500 mailboxes that"
+    },
+    {
+      "start_ms": 2185040,
+      "duration_ms": 4559,
+      "text": "are personified to be a CEO, 500"
+    },
+    {
+      "start_ms": 2187599,
+      "duration_ms": 4881,
+      "text": "personified to be an accountant, 500"
+    },
+    {
+      "start_ms": 2189599,
+      "duration_ms": 4480,
+      "text": "personified to be a sales leader, right?"
+    },
+    {
+      "start_ms": 2192480,
+      "duration_ms": 3280,
+      "text": "And the same mail sent for this person"
+    },
+    {
+      "start_ms": 2194079,
+      "duration_ms": 4721,
+      "text": "will land in primary here but secondary"
+    },
+    {
+      "start_ms": 2195760,
+      "duration_ms": 6400,
+      "text": "here and promotional here. So uh the"
+    },
+    {
+      "start_ms": 2198800,
+      "duration_ms": 5680,
+      "text": "TLDR answer for you is if you want to go"
+    },
+    {
+      "start_ms": 2202160,
+      "duration_ms": 4720,
+      "text": "ahead and track uh you want to see"
+    },
+    {
+      "start_ms": 2204480,
+      "duration_ms": 4400,
+      "text": "performance, you can use the uh tools"
+    },
+    {
+      "start_ms": 2206880,
+      "duration_ms": 3920,
+      "text": "that do placement tests as a way to"
+    },
+    {
+      "start_ms": 2208880,
+      "duration_ms": 4000,
+      "text": "validate your open copy, your open rate"
+    },
+    {
+      "start_ms": 2210800,
+      "duration_ms": 3760,
+      "text": "tracking, etc. However, if you don't"
+    },
+    {
+      "start_ms": 2212880,
+      "duration_ms": 4080,
+      "text": "want to do that and you're like, \"Nah,"
+    },
+    {
+      "start_ms": 2214560,
+      "duration_ms": 4720,
+      "text": "this is too redundant.\" You can use open"
+    },
+    {
+      "start_ms": 2216960,
+      "duration_ms": 4080,
+      "text": "open tracking, no one's stopping you."
+    },
+    {
+      "start_ms": 2219280,
+      "duration_ms": 3120,
+      "text": "But just don't use it as an end all be"
+    },
+    {
+      "start_ms": 2221040,
+      "duration_ms": 3440,
+      "text": "all. That's not your measurement of"
+    },
+    {
+      "start_ms": 2222400,
+      "duration_ms": 4719,
+      "text": "success. It is it's a pretty redundant"
+    },
+    {
+      "start_ms": 2224480,
+      "duration_ms": 4720,
+      "text": "metric. It's been so well, we're in 2025"
+    },
+    {
+      "start_ms": 2227119,
+      "duration_ms": 5521,
+      "text": "May. So, it's been redundant for about"
+    },
+    {
+      "start_ms": 2229200,
+      "duration_ms": 5760,
+      "text": "three and a half years now."
+    },
+    {
+      "start_ms": 2232640,
+      "duration_ms": 3680,
+      "text": "Nope. Are there any my one question I"
+    },
+    {
+      "start_ms": 2234960,
+      "duration_ms": 3280,
+      "text": "just wanted to get to. There any"
+    },
+    {
+      "start_ms": 2236320,
+      "duration_ms": 3840,
+      "text": "filtering tactics that you're seeing"
+    },
+    {
+      "start_ms": 2238240,
+      "duration_ms": 4440,
+      "text": "work well? Because I think the thing"
+    },
+    {
+      "start_ms": 2240160,
+      "duration_ms": 5280,
+      "text": "nothing is going to ruin your domain or"
+    },
+    {
+      "start_ms": 2242680,
+      "duration_ms": 5000,
+      "text": "your or increase your your email"
+    },
+    {
+      "start_ms": 2245440,
+      "duration_ms": 5440,
+      "text": "infrastructure cost or decrease your"
+    },
+    {
+      "start_ms": 2247680,
+      "duration_ms": 5679,
+      "text": "success like sending uh emails to a"
+    },
+    {
+      "start_ms": 2250880,
+      "duration_ms": 5440,
+      "text": "really shitty list. Um so are there"
+    },
+    {
+      "start_ms": 2253359,
+      "duration_ms": 4480,
+      "text": "specific tools that your users are using"
+    },
+    {
+      "start_ms": 2256320,
+      "duration_ms": 3840,
+      "text": "whether it's inside of smart lead"
+    },
+    {
+      "start_ms": 2257839,
+      "duration_ms": 4240,
+      "text": "outside clay whatever it might be uh"
+    },
+    {
+      "start_ms": 2260160,
+      "duration_ms": 3439,
+      "text": "that you recommend using as a filtering"
+    },
+    {
+      "start_ms": 2262079,
+      "duration_ms": 3121,
+      "text": "mechanism before you hit the send"
+    },
+    {
+      "start_ms": 2263599,
+      "duration_ms": 3441,
+      "text": "button. So when you say filtering you"
+    },
+    {
+      "start_ms": 2265200,
+      "duration_ms": 5360,
+      "text": "mean validation."
+    },
+    {
+      "start_ms": 2267040,
+      "duration_ms": 7680,
+      "text": "Validating and filtering out probable"
+    },
+    {
+      "start_ms": 2270560,
+      "duration_ms": 6640,
+      "text": "nonICP fits. Okay. Prob uh nonICP fits"
+    },
+    {
+      "start_ms": 2274720,
+      "duration_ms": 4399,
+      "text": "comes from the very root itself. So clay"
+    },
+    {
+      "start_ms": 2277200,
+      "duration_ms": 5600,
+      "text": "after mentioning that's the most common"
+    },
+    {
+      "start_ms": 2279119,
+      "duration_ms": 4881,
+      "text": "one we've seen. Um people don't talk"
+    },
+    {
+      "start_ms": 2282800,
+      "duration_ms": 3360,
+      "text": "about it a lot just maybe because they"
+    },
+    {
+      "start_ms": 2284000,
+      "duration_ms": 4480,
+      "text": "don't think it's cool. But you know we"
+    },
+    {
+      "start_ms": 2286160,
+      "duration_ms": 4720,
+      "text": "love Clay. I love Clay. Um Ven's"
+    },
+    {
+      "start_ms": 2288480,
+      "duration_ms": 5280,
+      "text": "incredible. The entire team K are are"
+    },
+    {
+      "start_ms": 2290880,
+      "duration_ms": 4800,
+      "text": "fabulous."
+    },
+    {
+      "start_ms": 2293760,
+      "duration_ms": 4640,
+      "text": "Clay solves a very important problem,"
+    },
+    {
+      "start_ms": 2295680,
+      "duration_ms": 5679,
+      "text": "but Apollo still exists and Apollo does"
+    },
+    {
+      "start_ms": 2298400,
+      "duration_ms": 4560,
+      "text": "a great job, right? Um, so the irony of"
+    },
+    {
+      "start_ms": 2301359,
+      "duration_ms": 4881,
+      "text": "all of this is Apollo's actually what"
+    },
+    {
+      "start_ms": 2302960,
+      "duration_ms": 5520,
+      "text": "we've seen a pretty decent um share of"
+    },
+    {
+      "start_ms": 2306240,
+      "duration_ms": 4240,
+      "text": "uh lead sourcing for people. So if I"
+    },
+    {
+      "start_ms": 2308480,
+      "duration_ms": 5040,
+      "text": "were to put in like it is a balance but"
+    },
+    {
+      "start_ms": 2310480,
+      "duration_ms": 5520,
+      "text": "we have a lot of customers who use uh"
+    },
+    {
+      "start_ms": 2313520,
+      "duration_ms": 4640,
+      "text": "probably get their lists from Apollo"
+    },
+    {
+      "start_ms": 2316000,
+      "duration_ms": 5200,
+      "text": "upload the list to clay and then do all"
+    },
+    {
+      "start_ms": 2318160,
+      "duration_ms": 7840,
+      "text": "the like they do the relevance relevance"
+    },
+    {
+      "start_ms": 2321200,
+      "duration_ms": 6960,
+      "text": "generation the content etc using clay."
+    },
+    {
+      "start_ms": 2326000,
+      "duration_ms": 5400,
+      "text": "So it's not that clay alone does a job"
+    },
+    {
+      "start_ms": 2328160,
+      "duration_ms": 7679,
+      "text": "or Apollo alone does a job most of the"
+    },
+    {
+      "start_ms": 2331400,
+      "duration_ms": 6600,
+      "text": "time you you can use Apollo not alone"
+    },
+    {
+      "start_ms": 2335839,
+      "duration_ms": 4801,
+      "text": "but you need clay but you can't like so"
+    },
+    {
+      "start_ms": 2338000,
+      "duration_ms": 4800,
+      "text": "clay can be used alone by itself right"
+    },
+    {
+      "start_ms": 2340640,
+      "duration_ms": 4160,
+      "text": "but Apollo most of the time you probably"
+    },
+    {
+      "start_ms": 2342800,
+      "duration_ms": 3120,
+      "text": "want to have Apollo plus clay to get"
+    },
+    {
+      "start_ms": 2344800,
+      "duration_ms": 4000,
+      "text": "something out you in terms of the"
+    },
+    {
+      "start_ms": 2345920,
+      "duration_ms": 4240,
+      "text": "relevance in terms of validation um I"
+    },
+    {
+      "start_ms": 2348800,
+      "duration_ms": 3600,
+      "text": "would simply say we we've got a"
+    },
+    {
+      "start_ms": 2350160,
+      "duration_ms": 5760,
+      "text": "validation tool internally or you got"
+    },
+    {
+      "start_ms": 2352400,
+      "duration_ms": 4959,
+      "text": "lead magic um Jesse's it's by far been"
+    },
+    {
+      "start_ms": 2355920,
+      "duration_ms": 3600,
+      "text": "the one that's worked the best. We've"
+    },
+    {
+      "start_ms": 2357359,
+      "duration_ms": 4121,
+      "text": "seen customers prove that, um, through"
+    },
+    {
+      "start_ms": 2359520,
+      "duration_ms": 4480,
+      "text": "and through. I do not get paid for this"
+    },
+    {
+      "start_ms": 2361480,
+      "duration_ms": 4119,
+      "text": "affiliation. I just have no agenda but"
+    },
+    {
+      "start_ms": 2364000,
+      "duration_ms": 3599,
+      "text": "to, you know, push something that works."
+    },
+    {
+      "start_ms": 2365599,
+      "duration_ms": 4240,
+      "text": "So, um, lead magic does a pretty sick"
+    },
+    {
+      "start_ms": 2367599,
+      "duration_ms": 4081,
+      "text": "job. Um, people have good results from"
+    },
+    {
+      "start_ms": 2369839,
+      "duration_ms": 3681,
+      "text": "that if you want to validate your leads."
+    },
+    {
+      "start_ms": 2371680,
+      "duration_ms": 4960,
+      "text": "Uh, in terms of relevance, like I said,"
+    },
+    {
+      "start_ms": 2373520,
+      "duration_ms": 4640,
+      "text": "Clay does the job for you. Um, but, uh,"
+    },
+    {
+      "start_ms": 2376640,
+      "duration_ms": 3760,
+      "text": "Apollo is where you want to get the bulk"
+    },
+    {
+      "start_ms": 2378160,
+      "duration_ms": 4400,
+      "text": "of the, you know, get the meat and then"
+    },
+    {
+      "start_ms": 2380400,
+      "duration_ms": 4959,
+      "text": "you want to trim it all down based upon"
+    },
+    {
+      "start_ms": 2382560,
+      "duration_ms": 5039,
+      "text": "what Clay gives you."
+    },
+    {
+      "start_ms": 2385359,
+      "duration_ms": 7201,
+      "text": "Did you hear that everybody? That is"
+    },
+    {
+      "start_ms": 2387599,
+      "duration_ms": 6641,
+      "text": "great, great advice right there. Um,"
+    },
+    {
+      "start_ms": 2392560,
+      "duration_ms": 3760,
+      "text": "uh, let's see. Let's pick out one last"
+    },
+    {
+      "start_ms": 2394240,
+      "duration_ms": 4560,
+      "text": "audience question. Yes, we are posting"
+    },
+    {
+      "start_ms": 2396320,
+      "duration_ms": 3920,
+      "text": "the recording on YouTube shortly after"
+    },
+    {
+      "start_ms": 2398800,
+      "duration_ms": 2840,
+      "text": "this. We changed up our editing, so"
+    },
+    {
+      "start_ms": 2400240,
+      "duration_ms": 6080,
+      "text": "hopefully it'll be out there before"
+    },
+    {
+      "start_ms": 2401640,
+      "duration_ms": 6600,
+      "text": "Friday. Um, let's see. Um, are you using"
+    },
+    {
+      "start_ms": 2406320,
+      "duration_ms": 3360,
+      "text": "Clay to write AI personalization? Are"
+    },
+    {
+      "start_ms": 2408240,
+      "duration_ms": 5440,
+      "text": "you doing that elsewhere? Brian Smith"
+    },
+    {
+      "start_ms": 2409680,
+      "duration_ms": 6000,
+      "text": "asks. Uh, yes. Um, play works great for"
+    },
+    {
+      "start_ms": 2413680,
+      "duration_ms": 4000,
+      "text": "AI personalization. It does the job. It"
+    },
+    {
+      "start_ms": 2415680,
+      "duration_ms": 3760,
+      "text": "does what you have to do. Uh, Smartly's"
+    },
+    {
+      "start_ms": 2417680,
+      "duration_ms": 3439,
+      "text": "got personalization set up as well. You"
+    },
+    {
+      "start_ms": 2419440,
+      "duration_ms": 3679,
+      "text": "can do that instantly. It's got it. A"
+    },
+    {
+      "start_ms": 2421119,
+      "duration_ms": 3681,
+      "text": "lot of the tools have it. Um, you know,"
+    },
+    {
+      "start_ms": 2423119,
+      "duration_ms": 5121,
+      "text": "to be honest, it's it's such a feature"
+    },
+    {
+      "start_ms": 2424800,
+      "duration_ms": 4799,
+      "text": "parodyied market right now. Um, if if we"
+    },
+    {
+      "start_ms": 2428240,
+      "duration_ms": 2879,
+      "text": "have it, the next person is going to get"
+    },
+    {
+      "start_ms": 2429599,
+      "duration_ms": 2961,
+      "text": "it in like 3 weeks. If someone else has"
+    },
+    {
+      "start_ms": 2431119,
+      "duration_ms": 3681,
+      "text": "it, we'll bring it in in three weeks."
+    },
+    {
+      "start_ms": 2432560,
+      "duration_ms": 4799,
+      "text": "So, um, as customers, it's the best time"
+    },
+    {
+      "start_ms": 2434800,
+      "duration_ms": 6640,
+      "text": "to be. Uh but in terms of you know that"
+    },
+    {
+      "start_ms": 2437359,
+      "duration_ms": 6321,
+      "text": "that extra nudge of of relevance, Clay"
+    },
+    {
+      "start_ms": 2441440,
+      "duration_ms": 4000,
+      "text": "um is built for that. So fortunately"
+    },
+    {
+      "start_ms": 2443680,
+      "duration_ms": 4480,
+      "text": "unfortunately takes the takes the lion"
+    },
+    {
+      "start_ms": 2445440,
+      "duration_ms": 4720,
+      "text": "share for that. And folks, Clay has so"
+    },
+    {
+      "start_ms": 2448160,
+      "duration_ms": 3760,
+      "text": "many great resources on YouTube on Clay"
+    },
+    {
+      "start_ms": 2450160,
+      "duration_ms": 3040,
+      "text": "University to figure out Clay. We're not"
+    },
+    {
+      "start_ms": 2451920,
+      "duration_ms": 4560,
+      "text": "affiliated with Clay by the way. We're"
+    },
+    {
+      "start_ms": 2453200,
+      "duration_ms": 7680,
+      "text": "just fans and uh users."
+    },
+    {
+      "start_ms": 2456480,
+      "duration_ms": 7280,
+      "text": "Yeah. Um B dude, thank you for coming on"
+    },
+    {
+      "start_ms": 2460880,
+      "duration_ms": 4320,
+      "text": "and dropping knowledge. Um, I'm excited"
+    },
+    {
+      "start_ms": 2463760,
+      "duration_ms": 3359,
+      "text": "to start this outbound thing again and"
+    },
+    {
+      "start_ms": 2465200,
+      "duration_ms": 4320,
+      "text": "to start using some of these tips that"
+    },
+    {
+      "start_ms": 2467119,
+      "duration_ms": 3921,
+      "text": "you gave us. I wouldn't have guessed the"
+    },
+    {
+      "start_ms": 2469520,
+      "duration_ms": 3200,
+      "text": "three to four word thing. I wouldn't"
+    },
+    {
+      "start_ms": 2471040,
+      "duration_ms": 3840,
+      "text": "have known the two email thing, but to"
+    },
+    {
+      "start_ms": 2472720,
+      "duration_ms": 5119,
+      "text": "be fair, Taylor Herren probably would."
+    },
+    {
+      "start_ms": 2474880,
+      "duration_ms": 4719,
+      "text": "Um, yeah, a lot of this stuff is is"
+    },
+    {
+      "start_ms": 2477839,
+      "duration_ms": 4000,
+      "text": "incredibly helpful, man. Thank you very"
+    },
+    {
+      "start_ms": 2479599,
+      "duration_ms": 3520,
+      "text": "much. Absolutely. Thank you so much,"
+    },
+    {
+      "start_ms": 2481839,
+      "duration_ms": 4801,
+      "text": "Pierre. It's good to see you, man. It's"
+    },
+    {
+      "start_ms": 2483119,
+      "duration_ms": 4801,
+      "text": "been a minute 100%. Uh, next week, by"
+    },
+    {
+      "start_ms": 2486640,
+      "duration_ms": 3199,
+      "text": "the way, for everybody who's still here,"
+    },
+    {
+      "start_ms": 2487920,
+      "duration_ms": 3640,
+      "text": "we got one of the most legendary epic"
+    },
+    {
+      "start_ms": 2489839,
+      "duration_ms": 5841,
+      "text": "bootstrappers, Nathan Barry from"
+    },
+    {
+      "start_ms": 2491560,
+      "duration_ms": 8200,
+      "text": "ConvertKit. Oh, OG bootstrapper, 45"
+    },
+    {
+      "start_ms": 2495680,
+      "duration_ms": 6000,
+      "text": "million ARR. Um, yeah, I met him I met"
+    },
+    {
+      "start_ms": 2499760,
+      "duration_ms": 4000,
+      "text": "him last week at this YPO marketing"
+    },
+    {
+      "start_ms": 2501680,
+      "duration_ms": 4240,
+      "text": "summit event. And, uh, he's he's going"
+    },
+    {
+      "start_ms": 2503760,
+      "duration_ms": 5280,
+      "text": "to be live with us next Tuesday, same"
+    },
+    {
+      "start_ms": 2505920,
+      "duration_ms": 5120,
+      "text": "time, same place. Until next week, thank"
+    },
+    {
+      "start_ms": 2509040,
+      "duration_ms": 4880,
+      "text": "you for showing up. Thank you again, V."
+    },
+    {
+      "start_ms": 2511040,
+      "duration_ms": 5760,
+      "text": "This is so valuable. Uh, email is what"
+    },
+    {
+      "start_ms": 2513920,
+      "duration_ms": 2880,
+      "text": "everybody can't figure out."
+    }
+  ]
+}

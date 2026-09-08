@@ -1,0 +1,101 @@
+{
+  "reviews": [
+    {
+      "video_id": "D-8umeDdYP0",
+      "reviewed_at": "2026-09-08T08:43:36.578792+00:00",
+      "reviewer": "root integration reader",
+      "flag_code": "large_lesson_anchor_gap",
+      "source_path": "raw/sources/2026-09-08-youtube/videos/D-8umeDdYP0/D-8umeDdYP0.md",
+      "source_sha256": "5f3410502c2fe7d38d6941b87dbaaebe45ecd8ff2e47c48687d7ecb673d3c685",
+      "note_path": "research/youtube-video-notes/D-8umeDdYP0.json",
+      "note_sha256": "3cfd48ad775d36dc7e9469adaa1a815308dcb0a14367c102813d109da2b593d4",
+      "flagged_interval_seconds": [
+        0.719,
+        739.5
+      ],
+      "raw_interval_read_seconds": [
+        0,
+        800
+      ],
+      "finding": "reviewed_no_material_gap",
+      "reason": "The heuristic counts only key-learning midpoints. This opening contains a repeated teaser, introductions and company/financing histories already captured under backstory_and_values and metrics_and_dates. The first substantive financing lesson is also anchored 11:34–13:05. No substantive omission was identified in the entire flagged interval.",
+      "evidence": [
+        {
+          "range": "00:00–01:34",
+          "treatment": "Repeated teaser of later 15:48–19:06 argument; existing key learnings0–1 and tensions preserve transaction dependence and speculative Clay comparison."
+        },
+        {
+          "range": "01:50–06:42",
+          "treatment": "Introductions/housekeeping plus content motivation. Backstory9 captures contentious-debate motivation; metric29 preserves38demo hostclaim; metric0 preserves hostthreepeople/nofunding introduction."
+        },
+        {
+          "range": "07:18–08:58",
+          "treatment": "Max companyhistory captured in backstory10 and metrics1–2, with guest attribution."
+        },
+        {
+          "range": "09:10–11:03",
+          "treatment": "Adam finance/roommates/Robly/literary influences captured in backstory0–2 and metric4."
+        },
+        {
+          "range": "11:34–13:05",
+          "treatment": "Max default-to-VC explanation captured in keylearning4 and accelerator/seed terms in metric3."
+        }
+      ],
+      "limits": "This resolves the specific temporal-coverage heuristic after direct source review; it is not certification of every factual claim or audio accuracy. Automatic verifier flags remain visible."
+    },
+    {
+      "video_id": "wYFjORZCtug",
+      "reviewed_at": "2026-09-08T09:26:02.861532+00:00",
+      "reviewer": "root integration reader",
+      "flag_code": "thin_claim",
+      "flag_detail": "metrics_and_dates[1]: Retention.com: Adam reports 60 employees at recording.",
+      "source_path": "raw/sources/2026-09-08-youtube/videos/wYFjORZCtug/wYFjORZCtug.md",
+      "source_sha256": "21fe158a53cc88d4eaa0e6dc8b6450ef059a50d1f420ccc45b299487225f3d1e",
+      "note_path": "research/youtube-video-notes/wYFjORZCtug.json",
+      "note_sha256": "3a658dcddaf0245d7160c36e05084c1d3d36c17edb37091d60371ef39f084fe7",
+      "claim_path": "metrics_and_dates.1",
+      "raw_interval_read_seconds": [
+        0,
+        190
+      ],
+      "finding": "reviewed_no_material_gap",
+      "reason": "The short claim is a complete scoped staffing observation, not an empty learning. At171.360 seconds Adam explicitly says Retention.com has60 employees. The note already identifies company, speaker, recording-relative time and the absence of an FTE/shared-role breakdown. The surrounding opening discusses the2023 journey and describes RB2B as two months old, so the publication date is not treated as the measurement date. No word-count padding or new numerical inference is warranted.",
+      "evidence": [
+        {
+          "range": "02:41–02:54",
+          "treatment": "metrics_and_dates[1] preserves the directly spoken Retention.com staffing report and its scope caveat."
+        },
+        {
+          "range": "02:15–03:02",
+          "treatment": "The surrounding2023 journey and early-RB2B references remain historical; summary and coverage already mark an earlier unspecified recording."
+        }
+      ],
+      "limits": "Resolves the specific fewer-than-ten-words heuristic after reading the complete opening0–190seconds. Does not independently verify staffing, recording date or audio accuracy. Automatic flag remains visible."
+    },
+    {
+      "video_id": "Y63QI4BKEcg",
+      "reviewed_at": "2026-09-08T09:48:01.010624+00:00",
+      "reviewer": "root integration reader",
+      "flag_code": "thin_claim",
+      "flag_detail": "metrics_and_dates[11]: Dave describes himself as a nine-time entrepreneur.",
+      "source_path": "raw/sources/2026-09-08-youtube/videos/Y63QI4BKEcg/Y63QI4BKEcg.md",
+      "source_sha256": "0572732915c88e723e4dfa7fe6f442bbe50971679cba080da7ab832dd7110073",
+      "note_path": "research/youtube-video-notes/Y63QI4BKEcg.json",
+      "note_sha256": "78b4259883303c8f7763a259c5e1cfa548262f583222eabf4c176724e67ad257",
+      "claim_path": "metrics_and_dates.11",
+      "raw_interval_read_seconds": [
+        2143,
+        2210
+      ],
+      "finding": "reviewed_no_material_gap",
+      "reason": "The complete surrounding introduction identifies Dave as an audience participant, and at2173.960–2179.240 seconds he explicitly describes himself as a nine-time entrepreneur. The concise metric retains guest attribution and already states that companies, dates and outcomes are unspecified. It is not Adam’s biography and needs no invented detail or word-count padding.",
+      "evidence": [
+        {
+          "range": "35:43–36:50",
+          "treatment": "Complete surrounding introduction and claim read; metrics_and_dates[11] preserves the literal self-reported count and its evidentiary limits."
+        }
+      ],
+      "limits": "Resolves only the short-claim heuristic. This does not independently verify Dave’s companies or their outcomes. Automatic flag remains visible."
+    }
+  ]
+}

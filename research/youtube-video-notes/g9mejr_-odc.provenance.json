@@ -1,0 +1,13 @@
+{
+  "id": "g9mejr_-odc",
+  "source_sha256": "642a179c2c7159fc7def96779e224883835a4a6f1f738ce34dcc7bc7a40aa2eb",
+  "source_characters": 77908,
+  "source_word_count": 11335,
+  "prompt_sha256": "2ac0cf24c14e43019d2f52325039399b91f0037cc48d984e03b63cb8ab201f5d",
+  "started_at": "2026-09-08T08:27:57.964186+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/g9mejr_-odc/g9mejr_-odc.md",
+  "pid": 67334,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:33:06.890372+00:00"
+}

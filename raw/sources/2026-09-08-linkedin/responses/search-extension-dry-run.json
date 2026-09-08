@@ -1,0 +1,93 @@
+{
+  "ok": true,
+  "data": {
+    "dry_run": true,
+    "execution_preview": {
+      "plan_id": "search_plan_jrbpat",
+      "route_id": "source_specific_scrape",
+      "route_kind": "source_specific_scrape",
+      "table": "adam-robinson-linkedin-corpus-2026-09-08",
+      "tool_id": "scraper.linkedin_profile_posts",
+      "mode": "dry_run",
+      "request": {
+        "profile": "https://www.linkedin.com/in/retentionadam",
+        "page": 5,
+        "pagination_token": "[REDACTED FOR PUBLIC RELEASE]"
+      },
+      "rows_path": "response.raw.elements",
+      "row_mapping": {
+        "post_id": "id",
+        "url": "linkedinUrl",
+        "author_name": "author.name",
+        "content": "content",
+        "posted_at": "postedAt.date",
+        "source_payload": ""
+      },
+      "cursor_path": "response.raw.pagination.paginationToken",
+      "cursor_request_key": "pagination_token",
+      "max_pages": 1,
+      "max_concurrency": 1,
+      "upsert_key": "post_id",
+      "max_credits": 16,
+      "credits": {
+        "credits_per_page": 16,
+        "estimated_total_credits": 16,
+        "reason": "scraper_managed_provider"
+      },
+      "live_provider_calls": false
+    },
+    "route": {
+      "id": "source_specific_scrape",
+      "kind": "source_specific_scrape",
+      "label": "Source-specific scrape",
+      "description": "Use a specialized adapter for a known source such as LinkedIn posts or source-specific web data.",
+      "table_role": "pages",
+      "preflight": [
+        "Use source-specific adapters only when the target source is explicit.",
+        "Confirm the URL pattern and row scope before live execution.",
+        "Avoid public side effects; scraping is read-only but may still consume credits."
+      ],
+      "approval": {
+        "requires_live_approval": true,
+        "requires_max_credits": true,
+        "default_mode": "dry_run",
+        "default_page_cap": 3
+      },
+      "unavailable_provider_candidates": [],
+      "primary_tool_id": "scraper.linkedin_profile_posts",
+      "provider_order": [
+        {
+          "tool_id": "scraper.linkedin_profile_posts",
+          "role": "primary",
+          "use_for": "User-requested Oxygen native managed scraper for Adam Robinson public recent posts",
+          "position": 1,
+          "status": "available"
+        }
+      ],
+      "ingestion": {
+        "rows_path": "response.raw.elements",
+        "cursor_path": "response.raw.pagination.paginationToken",
+        "cursor_request_key": "pagination_token",
+        "row_mapping": {
+          "post_id": "id",
+          "url": "linkedinUrl",
+          "author_name": "author.name",
+          "content": "content",
+          "posted_at": "postedAt.date",
+          "source_payload": ""
+        },
+        "default_upsert_key": "post_id",
+        "default_max_pages": 3,
+        "tool_id": "scraper.linkedin_profile_posts",
+        "tool_ids": [
+          "scraper.linkedin_profile_posts"
+        ]
+      }
+    }
+  },
+  "meta": {
+    "command": "search run",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

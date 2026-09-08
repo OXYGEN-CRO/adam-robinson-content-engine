@@ -1,0 +1,1269 @@
+{
+  "video_id": "_v-cZJc001s",
+  "title": "I tried building a SaaS for 700 days (and hit $6.7m/yr)",
+  "url": "https://www.youtube.com/watch?v=_v-cZJc001s",
+  "upload_date": "20260128",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:41:29.878800+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/_v-cZJc001s/_v-cZJc001s.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 480,
+      "duration_ms": 5414,
+      "text": "700 days ago, I started building a new"
+    },
+    {
+      "start_ms": 3040,
+      "duration_ms": 4400,
+      "text": "SAS from scratch. Today, it's at 6.7"
+    },
+    {
+      "start_ms": 5894,
+      "duration_ms": 3546,
+      "text": "[music] million annual recurring revenue"
+    },
+    {
+      "start_ms": 7440,
+      "duration_ms": 4159,
+      "text": "with a team of just three people and"
+    },
+    {
+      "start_ms": 9440,
+      "duration_ms": 4400,
+      "text": "zero external funding. Now, this wasn't"
+    },
+    {
+      "start_ms": 11599,
+      "duration_ms": 4401,
+      "text": "my first rodeo. I'd already built and"
+    },
+    {
+      "start_ms": 13840,
+      "duration_ms": 3760,
+      "text": "exited Robblely Email Marketing for 10"
+    },
+    {
+      "start_ms": 16000,
+      "duration_ms": 4560,
+      "text": "million bucks, then bootstrapped"
+    },
+    {
+      "start_ms": 17600,
+      "duration_ms": 5280,
+      "text": "retention.com to over 20 million in ARR,"
+    },
+    {
+      "start_ms": 20560,
+      "duration_ms": 4400,
+      "text": "but my new company, RB2B's growth has"
+    },
+    {
+      "start_ms": 22880,
+      "duration_ms": 3760,
+      "text": "been unlike anything I've ever"
+    },
+    {
+      "start_ms": 24960,
+      "duration_ms": 3520,
+      "text": "experienced. [music] So, in this video,"
+    },
+    {
+      "start_ms": 26640,
+      "duration_ms": 3920,
+      "text": "I'm going to walk you through the entire"
+    },
+    {
+      "start_ms": 28480,
+      "duration_ms": 4400,
+      "text": "700 day journey from the painful"
+    },
+    {
+      "start_ms": 30560,
+      "duration_ms": 5360,
+      "text": "situation that led me to start RB2B to"
+    },
+    {
+      "start_ms": 32880,
+      "duration_ms": 5120,
+      "text": "hitting 1 million ARR in just 6 weeks to"
+    },
+    {
+      "start_ms": 35920,
+      "duration_ms": 5120,
+      "text": "the brutal challenges we faced scaling"
+    },
+    {
+      "start_ms": 38000,
+      "duration_ms": 5600,
+      "text": "beyond that to where we are today. Let's"
+    },
+    {
+      "start_ms": 41040,
+      "duration_ms": 5199,
+      "text": "dive in. So, here's the situation before"
+    },
+    {
+      "start_ms": 43600,
+      "duration_ms": 4479,
+      "text": "RBDB. I was running retention.com and"
+    },
+    {
+      "start_ms": 46239,
+      "duration_ms": 4561,
+      "text": "things were falling apart. I started"
+    },
+    {
+      "start_ms": 48079,
+      "duration_ms": 4881,
+      "text": "retention.com in November 2019 as a"
+    },
+    {
+      "start_ms": 50800,
+      "duration_ms": 3840,
+      "text": "productled growth SAS. We didn't really"
+    },
+    {
+      "start_ms": 52960,
+      "duration_ms": 4000,
+      "text": "know who our best customers were in the"
+    },
+    {
+      "start_ms": 54640,
+      "duration_ms": 4719,
+      "text": "beginning, but by mid 2022, we'd figured"
+    },
+    {
+      "start_ms": 56960,
+      "duration_ms": 4720,
+      "text": "out that large Shopify stores were our"
+    },
+    {
+      "start_ms": 59359,
+      "duration_ms": 5361,
+      "text": "ideal customer profile. So, we decided"
+    },
+    {
+      "start_ms": 61680,
+      "duration_ms": 4799,
+      "text": "to focus exclusively on them. Then, we"
+    },
+    {
+      "start_ms": 64720,
+      "duration_ms": 4000,
+      "text": "experienced the most insane product"
+    },
+    {
+      "start_ms": 66479,
+      "duration_ms": 4000,
+      "text": "market fit I'd ever seen. We were the"
+    },
+    {
+      "start_ms": 68720,
+      "duration_ms": 3920,
+      "text": "only vendor who did what we did in the"
+    },
+    {
+      "start_ms": 70479,
+      "duration_ms": 4000,
+      "text": "entire Shopify ecosystem. There was more"
+    },
+    {
+      "start_ms": 72640,
+      "duration_ms": 4479,
+      "text": "inbound demand than we had salespeople"
+    },
+    {
+      "start_ms": 74479,
+      "duration_ms": 5280,
+      "text": "to take demos. We were closing $30,000"
+    },
+    {
+      "start_ms": 77119,
+      "duration_ms": 5040,
+      "text": "deals in seven days with an 80% close"
+    },
+    {
+      "start_ms": 79759,
+      "duration_ms": 5040,
+      "text": "rate and we scaled to 12 million ARR"
+    },
+    {
+      "start_ms": 82159,
+      "duration_ms": 6320,
+      "text": "with just six people. That's when I made"
+    },
+    {
+      "start_ms": 84799,
+      "duration_ms": 5680,
+      "text": "a huge mistake. I hired 50 people in 60"
+    },
+    {
+      "start_ms": 88479,
+      "duration_ms": 4081,
+      "text": "days because I thought we were ready to"
+    },
+    {
+      "start_ms": 90479,
+      "duration_ms": 4081,
+      "text": "scale. I called my shot on LinkedIn and"
+    },
+    {
+      "start_ms": 92560,
+      "duration_ms": 5519,
+      "text": "predicted we'd triple our revenue from"
+    },
+    {
+      "start_ms": 94560,
+      "duration_ms": 6640,
+      "text": "15 to 45 million ARR in under one year."
+    },
+    {
+      "start_ms": 98079,
+      "duration_ms": 5121,
+      "text": "Instead, we barely grew 40%. We realized"
+    },
+    {
+      "start_ms": 101200,
+      "duration_ms": 3919,
+      "text": "we've been overselling. Then multiple"
+    },
+    {
+      "start_ms": 103200,
+      "duration_ms": 4000,
+      "text": "competitors copied our offer and"
+    },
+    {
+      "start_ms": 105119,
+      "duration_ms": 4561,
+      "text": "undercut us substantially. I had to fire"
+    },
+    {
+      "start_ms": 107200,
+      "duration_ms": 5199,
+      "text": "my entire BDR team and our cold outreach"
+    },
+    {
+      "start_ms": 109680,
+      "duration_ms": 4320,
+      "text": "operation crashed and burned. Now most"
+    },
+    {
+      "start_ms": 112399,
+      "duration_ms": 3841,
+      "text": "founders would have hidden all of this."
+    },
+    {
+      "start_ms": 114000,
+      "duration_ms": 4159,
+      "text": "I did the exact opposite. I started"
+    },
+    {
+      "start_ms": 116240,
+      "duration_ms": 3760,
+      "text": "sharing everything on LinkedIn. I talked"
+    },
+    {
+      "start_ms": 118159,
+      "duration_ms": 4000,
+      "text": "about the tumultuous year when my"
+    },
+    {
+      "start_ms": 120000,
+      "duration_ms": 4479,
+      "text": "strategy blew up in my face. I shared"
+    },
+    {
+      "start_ms": 122159,
+      "duration_ms": 4320,
+      "text": "the painful process of letting people go"
+    },
+    {
+      "start_ms": 124479,
+      "duration_ms": 3760,
+      "text": "and the real numbers behind what was"
+    },
+    {
+      "start_ms": 126479,
+      "duration_ms": 3361,
+      "text": "happening. People told me I was crazy"
+    },
+    {
+      "start_ms": 128239,
+      "duration_ms": 4080,
+      "text": "for being so transparent, but this"
+    },
+    {
+      "start_ms": 129840,
+      "duration_ms": 4479,
+      "text": "created the most engaged audience I'd"
+    },
+    {
+      "start_ms": 132319,
+      "duration_ms": 4321,
+      "text": "ever built. Now, here's how I discovered"
+    },
+    {
+      "start_ms": 134319,
+      "duration_ms": 4161,
+      "text": "the RB2B opportunity. While dealing with"
+    },
+    {
+      "start_ms": 136640,
+      "duration_ms": 3520,
+      "text": "all this chaos, I was building a"
+    },
+    {
+      "start_ms": 138480,
+      "duration_ms": 3520,
+      "text": "personal brand on LinkedIn. I was trying"
+    },
+    {
+      "start_ms": 140160,
+      "duration_ms": 3920,
+      "text": "to grow the Shopify business through"
+    },
+    {
+      "start_ms": 142000,
+      "duration_ms": 4080,
+      "text": "creating thought leadership content. It"
+    },
+    {
+      "start_ms": 144080,
+      "duration_ms": 4159,
+      "text": "worked okay, but whenever I talked about"
+    },
+    {
+      "start_ms": 146080,
+      "duration_ms": 4799,
+      "text": "trying to grow my SAS, the engagement"
+    },
+    {
+      "start_ms": 148239,
+      "duration_ms": 4321,
+      "text": "was at least 10 times higher. Other B2B"
+    },
+    {
+      "start_ms": 150879,
+      "duration_ms": 3921,
+      "text": "SAS founders were going through the"
+    },
+    {
+      "start_ms": 152560,
+      "duration_ms": 4319,
+      "text": "exact same struggles I was, but nobody"
+    },
+    {
+      "start_ms": 154800,
+      "duration_ms": 3760,
+      "text": "was talking about it. Then my business"
+    },
+    {
+      "start_ms": 156879,
+      "duration_ms": 3761,
+      "text": "partner, Santos Chiron, told me"
+    },
+    {
+      "start_ms": 158560,
+      "duration_ms": 3920,
+      "text": "something that changed everything. He"
+    },
+    {
+      "start_ms": 160640,
+      "duration_ms": 3920,
+      "text": "said, \"Nobody's offering personle level"
+    },
+    {
+      "start_ms": 162480,
+      "duration_ms": 4000,
+      "text": "website visitor identity in the B2B"
+    },
+    {
+      "start_ms": 164560,
+      "duration_ms": 3759,
+      "text": "space. All the identity stops at the"
+    },
+    {
+      "start_ms": 166480,
+      "duration_ms": 3680,
+      "text": "company level. And there'd be massive"
+    },
+    {
+      "start_ms": 168319,
+      "duration_ms": 3681,
+      "text": "demand if we created a person level"
+    },
+    {
+      "start_ms": 170160,
+      "duration_ms": 3920,
+      "text": "product.\" This was the B2B version of"
+    },
+    {
+      "start_ms": 172000,
+      "duration_ms": 4160,
+      "text": "what we were already doing for Shopify"
+    },
+    {
+      "start_ms": 174080,
+      "duration_ms": 4640,
+      "text": "stores. And honestly, my favorite part"
+    },
+    {
+      "start_ms": 176160,
+      "duration_ms": 4719,
+      "text": "of startups is the 0 to 10 million ARR"
+    },
+    {
+      "start_ms": 178720,
+      "duration_ms": 3599,
+      "text": "stage. Anyway, I was kind of over all"
+    },
+    {
+      "start_ms": 180879,
+      "duration_ms": 3761,
+      "text": "this nonsense that was going on at"
+    },
+    {
+      "start_ms": 182319,
+      "duration_ms": 5121,
+      "text": "retention.com. So, I pivoted my LinkedIn"
+    },
+    {
+      "start_ms": 184640,
+      "duration_ms": 5519,
+      "text": "content entirely to B2B SAS on Labor Day"
+    },
+    {
+      "start_ms": 187440,
+      "duration_ms": 4640,
+      "text": "of 2024. Then, I had three of the most"
+    },
+    {
+      "start_ms": 190159,
+      "duration_ms": 4961,
+      "text": "banger posts in a row that I've ever"
+    },
+    {
+      "start_ms": 192080,
+      "duration_ms": 5840,
+      "text": "had. They got 1.8 million impressions"
+    },
+    {
+      "start_ms": 195120,
+      "duration_ms": 4560,
+      "text": "combined in just three posts. One post"
+    },
+    {
+      "start_ms": 197920,
+      "duration_ms": 4239,
+      "text": "talked about how we shrunk our sales"
+    },
+    {
+      "start_ms": 199680,
+      "duration_ms": 4400,
+      "text": "team of our 20 million AR SAS growth"
+    },
+    {
+      "start_ms": 202159,
+      "duration_ms": 4160,
+      "text": "actually sped up. Another said that I"
+    },
+    {
+      "start_ms": 204080,
+      "duration_ms": 4400,
+      "text": "bootstrapped 12 million AR with only six"
+    },
+    {
+      "start_ms": 206319,
+      "duration_ms": 3840,
+      "text": "people and was launching a new product."
+    },
+    {
+      "start_ms": 208480,
+      "duration_ms": 4000,
+      "text": "These posts resonated because I was"
+    },
+    {
+      "start_ms": 210159,
+      "duration_ms": 4481,
+      "text": "being brutally honest about what wasn't"
+    },
+    {
+      "start_ms": 212480,
+      "duration_ms": 4160,
+      "text": "working, not just talking about what"
+    },
+    {
+      "start_ms": 214640,
+      "duration_ms": 4319,
+      "text": "was. Now, let's talk about validating"
+    },
+    {
+      "start_ms": 216640,
+      "duration_ms": 4159,
+      "text": "the idea. I started writing posts on the"
+    },
+    {
+      "start_ms": 218959,
+      "duration_ms": 3840,
+      "text": "shortcomings of company level"
+    },
+    {
+      "start_ms": 220799,
+      "duration_ms": 4881,
+      "text": "identification. And at the end of every"
+    },
+    {
+      "start_ms": 222799,
+      "duration_ms": 4401,
+      "text": "post, I put a simple CTA. DM me if you"
+    },
+    {
+      "start_ms": 225680,
+      "duration_ms": 3119,
+      "text": "want to identify your website visitors"
+    },
+    {
+      "start_ms": 227200,
+      "duration_ms": 3840,
+      "text": "and push their LinkedIn profiles to"
+    },
+    {
+      "start_ms": 228799,
+      "duration_ms": 5520,
+      "text": "Slack. It's 100% free. And I'm not"
+    },
+    {
+      "start_ms": 231040,
+      "duration_ms": 5040,
+      "text": "kidding. My DMs absolutely exploded."
+    },
+    {
+      "start_ms": 234319,
+      "duration_ms": 3601,
+      "text": "Hundreds of messages came in from people"
+    },
+    {
+      "start_ms": 236080,
+      "duration_ms": 4000,
+      "text": "that wanted the product. Santosh and I"
+    },
+    {
+      "start_ms": 237920,
+      "duration_ms": 3920,
+      "text": "did over 300 discovery calls through"
+    },
+    {
+      "start_ms": 240080,
+      "duration_ms": 4000,
+      "text": "posts like this. These weren't sales"
+    },
+    {
+      "start_ms": 241840,
+      "duration_ms": 3840,
+      "text": "calls. They were validation calls. We"
+    },
+    {
+      "start_ms": 244080,
+      "duration_ms": 3359,
+      "text": "were trying to understand exactly what"
+    },
+    {
+      "start_ms": 245680,
+      "duration_ms": 4160,
+      "text": "people wanted and how much they paid for"
+    },
+    {
+      "start_ms": 247439,
+      "duration_ms": 4561,
+      "text": "it. We tried to get people to pay 495 a"
+    },
+    {
+      "start_ms": 249840,
+      "duration_ms": 4720,
+      "text": "month for a spreadsheet of LinkedIn URLs"
+    },
+    {
+      "start_ms": 252000,
+      "duration_ms": 5040,
+      "text": "and hardly anyone did it. But then we"
+    },
+    {
+      "start_ms": 254560,
+      "duration_ms": 4799,
+      "text": "discovered a magic moment. When we"
+    },
+    {
+      "start_ms": 257040,
+      "duration_ms": 4400,
+      "text": "showed people a Slack notification with"
+    },
+    {
+      "start_ms": 259359,
+      "duration_ms": 4241,
+      "text": "head shot and LinkedIn URLs on our"
+    },
+    {
+      "start_ms": 261440,
+      "duration_ms": 3759,
+      "text": "phones, their eyes lit up. I would just"
+    },
+    {
+      "start_ms": 263600,
+      "duration_ms": 3520,
+      "text": "show them the phone and say, \"These"
+    },
+    {
+      "start_ms": 265199,
+      "duration_ms": 4161,
+      "text": "people just hit the retention.com"
+    },
+    {
+      "start_ms": 267120,
+      "duration_ms": 4400,
+      "text": "website.\" That was the moment we knew we"
+    },
+    {
+      "start_ms": 269360,
+      "duration_ms": 4399,
+      "text": "had something. I wanted to launch and be"
+    },
+    {
+      "start_ms": 271520,
+      "duration_ms": 4399,
+      "text": "as explosive as possible. I've always"
+    },
+    {
+      "start_ms": 273759,
+      "duration_ms": 4000,
+      "text": "admired Mailchimp's premium model, so we"
+    },
+    {
+      "start_ms": 275919,
+      "duration_ms": 4161,
+      "text": "decided to give the LinkedIn push to"
+    },
+    {
+      "start_ms": 277759,
+      "duration_ms": 4000,
+      "text": "Slack completely free. Competitors were"
+    },
+    {
+      "start_ms": 280080,
+      "duration_ms": 3760,
+      "text": "charging hundreds of thousands of"
+    },
+    {
+      "start_ms": 281759,
+      "duration_ms": 4160,
+      "text": "dollars, and all they did was a company"
+    },
+    {
+      "start_ms": 283840,
+      "duration_ms": 4160,
+      "text": "name. They didn't even ID the actual"
+    },
+    {
+      "start_ms": 285919,
+      "duration_ms": 4000,
+      "text": "person. Our offer was simple. Free"
+    },
+    {
+      "start_ms": 288000,
+      "duration_ms": 3520,
+      "text": "forever. Get LinkedIn profiles of your"
+    },
+    {
+      "start_ms": 289919,
+      "duration_ms": 3921,
+      "text": "anonymous website visitors pushed to"
+    },
+    {
+      "start_ms": 291520,
+      "duration_ms": 4480,
+      "text": "Slack. Then there was a paid tier at 149"
+    },
+    {
+      "start_ms": 293840,
+      "duration_ms": 4480,
+      "text": "a month that was business emails plus"
+    },
+    {
+      "start_ms": 296000,
+      "duration_ms": 4639,
+      "text": "access to all of the integrations other"
+    },
+    {
+      "start_ms": 298320,
+      "duration_ms": 4800,
+      "text": "than Slack. This generated over 1,600"
+    },
+    {
+      "start_ms": 300639,
+      "duration_ms": 4721,
+      "text": "weightless signups in 300 meetings in a"
+    },
+    {
+      "start_ms": 303120,
+      "duration_ms": 4799,
+      "text": "few months. But shortly after launch, we"
+    },
+    {
+      "start_ms": 305360,
+      "duration_ms": 4640,
+      "text": "hit a brutal wall. We had 3,000 signups"
+    },
+    {
+      "start_ms": 307919,
+      "duration_ms": 3681,
+      "text": "and only 13 paying customers. That's a"
+    },
+    {
+      "start_ms": 310000,
+      "duration_ms": 3520,
+      "text": "terrible conversion rate and it was"
+    },
+    {
+      "start_ms": 311600,
+      "duration_ms": 4240,
+      "text": "keeping me up at night. I posted about"
+    },
+    {
+      "start_ms": 313520,
+      "duration_ms": 3840,
+      "text": "this problem constantly on LinkedIn. The"
+    },
+    {
+      "start_ms": 315840,
+      "duration_ms": 3520,
+      "text": "commenters helped me figure out the"
+    },
+    {
+      "start_ms": 317360,
+      "duration_ms": 3839,
+      "text": "pricing and they gave me direct feedback"
+    },
+    {
+      "start_ms": 319360,
+      "duration_ms": 4720,
+      "text": "on exactly what it should look like. We"
+    },
+    {
+      "start_ms": 321199,
+      "duration_ms": 4801,
+      "text": "fixed the pricing and got to a 12.5%"
+    },
+    {
+      "start_ms": 324080,
+      "duration_ms": 4080,
+      "text": "touchless freeto paid conversion rate"
+    },
+    {
+      "start_ms": 326000,
+      "duration_ms": 3919,
+      "text": "that we're still enjoying today. That"
+    },
+    {
+      "start_ms": 328160,
+      "duration_ms": 4319,
+      "text": "was the unlock that we needed. After"
+    },
+    {
+      "start_ms": 329919,
+      "duration_ms": 5521,
+      "text": "fixing the pricing, growth exploded. We"
+    },
+    {
+      "start_ms": 332479,
+      "duration_ms": 4241,
+      "text": "hit 1 million ARR in just 6 weeks. This"
+    },
+    {
+      "start_ms": 335440,
+      "duration_ms": 3520,
+      "text": "happened during one of the hardest"
+    },
+    {
+      "start_ms": 336720,
+      "duration_ms": 4319,
+      "text": "periods for earlystage SAS in recent"
+    },
+    {
+      "start_ms": 338960,
+      "duration_ms": 4000,
+      "text": "history. Once we had organic traction,"
+    },
+    {
+      "start_ms": 341039,
+      "duration_ms": 4000,
+      "text": "we layered on growth accelerators. I"
+    },
+    {
+      "start_ms": 342960,
+      "duration_ms": 4239,
+      "text": "tapped into Clay's creator community,"
+    },
+    {
+      "start_ms": 345039,
+      "duration_ms": 3921,
+      "text": "exactly the people who needed our B2B."
+    },
+    {
+      "start_ms": 347199,
+      "duration_ms": 3840,
+      "text": "We started doing weekly podcast"
+    },
+    {
+      "start_ms": 348960,
+      "duration_ms": 4239,
+      "text": "interviews and I went on a ton of guest"
+    },
+    {
+      "start_ms": 351039,
+      "duration_ms": 4081,
+      "text": "appearances. We turned on cold email as"
+    },
+    {
+      "start_ms": 353199,
+      "duration_ms": 4161,
+      "text": "well and cold email became a massive"
+    },
+    {
+      "start_ms": 355120,
+      "duration_ms": 3919,
+      "text": "growth driver. It drove 42% of our"
+    },
+    {
+      "start_ms": 357360,
+      "duration_ms": 4240,
+      "text": "entire revenue as we scaled the team"
+    },
+    {
+      "start_ms": 359039,
+      "duration_ms": 4801,
+      "text": "from 0 to 4 million ARR in just 6"
+    },
+    {
+      "start_ms": 361600,
+      "duration_ms": 4240,
+      "text": "months. We built three distinct cold"
+    },
+    {
+      "start_ms": 363840,
+      "duration_ms": 4240,
+      "text": "email strategies. Number one was weight"
+    },
+    {
+      "start_ms": 365840,
+      "duration_ms": 4000,
+      "text": "list campaigns to the 1,600 people who"
+    },
+    {
+      "start_ms": 368080,
+      "duration_ms": 4320,
+      "text": "signed up before launch. Number two was"
+    },
+    {
+      "start_ms": 369840,
+      "duration_ms": 4720,
+      "text": "pure cold outbound to US-based SAS"
+    },
+    {
+      "start_ms": 372400,
+      "duration_ms": 3519,
+      "text": "companies with 3 to 200 employees. The"
+    },
+    {
+      "start_ms": 374560,
+      "duration_ms": 3520,
+      "text": "third one was website visitor"
+    },
+    {
+      "start_ms": 375919,
+      "duration_ms": 4801,
+      "text": "retargeting using RB2B. And this one"
+    },
+    {
+      "start_ms": 378080,
+      "duration_ms": 4320,
+      "text": "converted one sign up for every 10"
+    },
+    {
+      "start_ms": 380720,
+      "duration_ms": 3039,
+      "text": "emails that we sent. I still can't"
+    },
+    {
+      "start_ms": 382400,
+      "duration_ms": 3600,
+      "text": "believe how well this worked. One sign"
+    },
+    {
+      "start_ms": 383759,
+      "duration_ms": 3921,
+      "text": "up for every 10 emails is like a hundred"
+    },
+    {
+      "start_ms": 386000,
+      "duration_ms": 3600,
+      "text": "times better than any other type of cold"
+    },
+    {
+      "start_ms": 387680,
+      "duration_ms": 4320,
+      "text": "email I've ever done. The whole point of"
+    },
+    {
+      "start_ms": 389600,
+      "duration_ms": 4480,
+      "text": "RBDB is to turn anonymous visitors into"
+    },
+    {
+      "start_ms": 392000,
+      "duration_ms": 3759,
+      "text": "leads you can actually talk to. And this"
+    },
+    {
+      "start_ms": 394080,
+      "duration_ms": 3280,
+      "text": "proved that it works. So if you want to"
+    },
+    {
+      "start_ms": 395759,
+      "duration_ms": 4160,
+      "text": "try it yourself, you can click the first"
+    },
+    {
+      "start_ms": 397360,
+      "duration_ms": 4240,
+      "text": "link below and start using RB2B. As I"
+    },
+    {
+      "start_ms": 399919,
+      "duration_ms": 3681,
+      "text": "said, it's completely free. After"
+    },
+    {
+      "start_ms": 401600,
+      "duration_ms": 4080,
+      "text": "hitting 4 million ARR, we took a pause"
+    },
+    {
+      "start_ms": 403600,
+      "duration_ms": 3920,
+      "text": "to fix a major product problem. We had"
+    },
+    {
+      "start_ms": 405680,
+      "duration_ms": 3359,
+      "text": "issues with filtering, routing, and what"
+    },
+    {
+      "start_ms": 407520,
+      "duration_ms": 2799,
+      "text": "we called the what now problem."
+    },
+    {
+      "start_ms": 409039,
+      "duration_ms": 2720,
+      "text": "Basically, people would get a Slack"
+    },
+    {
+      "start_ms": 410319,
+      "duration_ms": 3121,
+      "text": "notification when someone visited their"
+    },
+    {
+      "start_ms": 411759,
+      "duration_ms": 3361,
+      "text": "site and they just stare at it. They"
+    },
+    {
+      "start_ms": 413440,
+      "duration_ms": 3039,
+      "text": "didn't know what to do next. Should they"
+    },
+    {
+      "start_ms": 415120,
+      "duration_ms": 2799,
+      "text": "email them? Should they connect with"
+    },
+    {
+      "start_ms": 416479,
+      "duration_ms": 3201,
+      "text": "them on LinkedIn? Should they wait for"
+    },
+    {
+      "start_ms": 417919,
+      "duration_ms": 3521,
+      "text": "another website visit? We had to build a"
+    },
+    {
+      "start_ms": 419680,
+      "duration_ms": 4079,
+      "text": "better integrations and workflow so"
+    },
+    {
+      "start_ms": 421440,
+      "duration_ms": 4800,
+      "text": "people could actually act on the data."
+    },
+    {
+      "start_ms": 423759,
+      "duration_ms": 4321,
+      "text": "Plus, our churn rate was around 10%"
+    },
+    {
+      "start_ms": 426240,
+      "duration_ms": 3920,
+      "text": "monthly, which I'll be the first to"
+    },
+    {
+      "start_ms": 428080,
+      "duration_ms": 4160,
+      "text": "admit is absolutely horrible. We needed"
+    },
+    {
+      "start_ms": 430160,
+      "duration_ms": 4640,
+      "text": "to rebuild the product to actually"
+    },
+    {
+      "start_ms": 432240,
+      "duration_ms": 4959,
+      "text": "retain customers. And over time, as we"
+    },
+    {
+      "start_ms": 434800,
+      "duration_ms": 4399,
+      "text": "slowly fixed every problem people had"
+    },
+    {
+      "start_ms": 437199,
+      "duration_ms": 4321,
+      "text": "that led to them churning, churn got"
+    },
+    {
+      "start_ms": 439199,
+      "duration_ms": 5681,
+      "text": "lower and lower. We also started going"
+    },
+    {
+      "start_ms": 441520,
+      "duration_ms": 5040,
+      "text": "allin on AI. We use deli.ai to create a"
+    },
+    {
+      "start_ms": 444880,
+      "duration_ms": 3599,
+      "text": "clone of me that handles pre-sales"
+    },
+    {
+      "start_ms": 446560,
+      "duration_ms": 4240,
+      "text": "conversations on our website. Then we"
+    },
+    {
+      "start_ms": 448479,
+      "duration_ms": 4160,
+      "text": "use intercom Finn after the sign up and"
+    },
+    {
+      "start_ms": 450800,
+      "duration_ms": 3519,
+      "text": "that handles everything after people"
+    },
+    {
+      "start_ms": 452639,
+      "duration_ms": 4241,
+      "text": "create an account. When we started using"
+    },
+    {
+      "start_ms": 454319,
+      "duration_ms": 5600,
+      "text": "Finn over 2 years ago, AI was resolving"
+    },
+    {
+      "start_ms": 456880,
+      "duration_ms": 5520,
+      "text": "about 25% of our support inquiries. Now"
+    },
+    {
+      "start_ms": 459919,
+      "duration_ms": 4961,
+      "text": "AI resolves over 90% of our support"
+    },
+    {
+      "start_ms": 462400,
+      "duration_ms": 4720,
+      "text": "inquiries. AI is truly an amazing tool"
+    },
+    {
+      "start_ms": 464880,
+      "duration_ms": 4560,
+      "text": "for customer support if you build the"
+    },
+    {
+      "start_ms": 467120,
+      "duration_ms": 4880,
+      "text": "system correctly. Where are we today?"
+    },
+    {
+      "start_ms": 469440,
+      "duration_ms": 5039,
+      "text": "700 days later, this is what RB2B looks"
+    },
+    {
+      "start_ms": 472000,
+      "duration_ms": 4639,
+      "text": "like. 6.7 million in annual recurring"
+    },
+    {
+      "start_ms": 474479,
+      "duration_ms": 4641,
+      "text": "revenue, a team of just three full-time"
+    },
+    {
+      "start_ms": 476639,
+      "duration_ms": 5361,
+      "text": "employees, me, Rob, and Tate. zero"
+    },
+    {
+      "start_ms": 479120,
+      "duration_ms": 4960,
+      "text": "external funding and over 60,000 users."
+    },
+    {
+      "start_ms": 482000,
+      "duration_ms": 4240,
+      "text": "AI is handling the vast majority of our"
+    },
+    {
+      "start_ms": 484080,
+      "duration_ms": 3440,
+      "text": "customer interactions. Over 9 out of 10."
+    },
+    {
+      "start_ms": 486240,
+      "duration_ms": 3280,
+      "text": "Here's a current growth engine that"
+    },
+    {
+      "start_ms": 487520,
+      "duration_ms": 3600,
+      "text": "drives a business. I've gotten 16"
+    },
+    {
+      "start_ms": 489520,
+      "duration_ms": 3920,
+      "text": "million LinkedIn impressions over the"
+    },
+    {
+      "start_ms": 491120,
+      "duration_ms": 5040,
+      "text": "past 12 months. 30,000 unique visitors"
+    },
+    {
+      "start_ms": 493440,
+      "duration_ms": 5599,
+      "text": "per month hit the rb.com website. We get"
+    },
+    {
+      "start_ms": 496160,
+      "duration_ms": 4800,
+      "text": "2,000 free signups per month and 12.5%"
+    },
+    {
+      "start_ms": 499039,
+      "duration_ms": 4801,
+      "text": "of those convert to paid in an average"
+    },
+    {
+      "start_ms": 500960,
+      "duration_ms": 5040,
+      "text": "of $230 a month. Cold email still drives"
+    },
+    {
+      "start_ms": 503840,
+      "duration_ms": 4639,
+      "text": "around 20% of new signups and we spend"
+    },
+    {
+      "start_ms": 506000,
+      "duration_ms": 4400,
+      "text": "around $10,000 per month on retargeting"
+    },
+    {
+      "start_ms": 508479,
+      "duration_ms": 3601,
+      "text": "ads. Now, if you want to start"
+    },
+    {
+      "start_ms": 510400,
+      "duration_ms": 3759,
+      "text": "identifying your own website visitors"
+    },
+    {
+      "start_ms": 512080,
+      "duration_ms": 4079,
+      "text": "for free and replicate the outreach"
+    },
+    {
+      "start_ms": 514159,
+      "duration_ms": 3760,
+      "text": "strategy that got us the best results,"
+    },
+    {
+      "start_ms": 516159,
+      "duration_ms": 4081,
+      "text": "just click the link in the description"
+    },
+    {
+      "start_ms": 517919,
+      "duration_ms": 4081,
+      "text": "below and get started with RB2B today."
+    },
+    {
+      "start_ms": 520240,
+      "duration_ms": 3679,
+      "text": "We'll push LinkedIn profiles of your"
+    },
+    {
+      "start_ms": 522000,
+      "duration_ms": 3839,
+      "text": "website visitors to Slack completely"
+    },
+    {
+      "start_ms": 523919,
+      "duration_ms": 4001,
+      "text": "free, just like I talked about in this"
+    },
+    {
+      "start_ms": 525839,
+      "duration_ms": 3680,
+      "text": "video. So again, click the link below"
+    },
+    {
+      "start_ms": 527920,
+      "duration_ms": 3599,
+      "text": "and get started for free. And if you"
+    },
+    {
+      "start_ms": 529519,
+      "duration_ms": 4721,
+      "text": "want to see how I would scale a SAS from"
+    },
+    {
+      "start_ms": 531519,
+      "duration_ms": 6161,
+      "text": "zero to a,000 users today, then watch"
+    },
+    {
+      "start_ms": 534240,
+      "duration_ms": 3440,
+      "text": "this video next."
+    }
+  ]
+}

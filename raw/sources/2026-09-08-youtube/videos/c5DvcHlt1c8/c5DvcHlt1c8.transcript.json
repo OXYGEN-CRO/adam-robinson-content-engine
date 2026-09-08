@@ -1,0 +1,7879 @@
+{
+  "video_id": "c5DvcHlt1c8",
+  "title": "Reigniting Outbound with Jason Bay",
+  "url": "https://www.youtube.com/watch?v=c5DvcHlt1c8",
+  "upload_date": "20240828",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:42:54.429055+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/c5DvcHlt1c8/c5DvcHlt1c8.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 719,
+      "duration_ms": 7200,
+      "text": "Now we are technically all set up. Um,"
+    },
+    {
+      "start_ms": 4799,
+      "duration_ms": 5281,
+      "text": "and we're going to rip it. Look, uh,"
+    },
+    {
+      "start_ms": 7919,
+      "duration_ms": 3840,
+      "text": "Jason Bay is with us. I'm going to let"
+    },
+    {
+      "start_ms": 10080,
+      "duration_ms": 3599,
+      "text": "him introduce himself and talk about the"
+    },
+    {
+      "start_ms": 11759,
+      "duration_ms": 6001,
+      "text": "companies, uh, that he works with, but"
+    },
+    {
+      "start_ms": 13679,
+      "duration_ms": 6641,
+      "text": "this guy's specialty is outbound. Um the"
+    },
+    {
+      "start_ms": 17760,
+      "duration_ms": 6800,
+      "text": "entire sort of aim of this conversation"
+    },
+    {
+      "start_ms": 20320,
+      "duration_ms": 7440,
+      "text": "today is going to be what does a founder"
+    },
+    {
+      "start_ms": 24560,
+      "duration_ms": 5520,
+      "text": "or founder-like role of a smaller SAS"
+    },
+    {
+      "start_ms": 27760,
+      "duration_ms": 4560,
+      "text": "with much larger competitors do about"
+    },
+    {
+      "start_ms": 30080,
+      "duration_ms": 3680,
+      "text": "outbound in 2024."
+    },
+    {
+      "start_ms": 32320,
+      "duration_ms": 4480,
+      "text": "I think everybody on this call probably"
+    },
+    {
+      "start_ms": 33760,
+      "duration_ms": 5280,
+      "text": "knows we tried to scale BDR or in 2023"
+    },
+    {
+      "start_ms": 36800,
+      "duration_ms": 4240,
+      "text": "at retention.com. It did not work at"
+    },
+    {
+      "start_ms": 39040,
+      "duration_ms": 3679,
+      "text": "all. Ever since I've been totally"
+    },
+    {
+      "start_ms": 41040,
+      "duration_ms": 5519,
+      "text": "obsessed with this inbound le outbound"
+    },
+    {
+      "start_ms": 42719,
+      "duration_ms": 5601,
+      "text": "idea. Uh, but Appbound still works and"
+    },
+    {
+      "start_ms": 46559,
+      "duration_ms": 4801,
+      "text": "there are strategies and tactics that"
+    },
+    {
+      "start_ms": 48320,
+      "duration_ms": 4960,
+      "text": "work and um Jason's working with a lot"
+    },
+    {
+      "start_ms": 51360,
+      "duration_ms": 3280,
+      "text": "of companies that are making them more"
+    },
+    {
+      "start_ms": 53280,
+      "duration_ms": 3040,
+      "text": "that are making it work. Some of which"
+    },
+    {
+      "start_ms": 54640,
+      "duration_ms": 5120,
+      "text": "you've heard with, some some some you've"
+    },
+    {
+      "start_ms": 56320,
+      "duration_ms": 6160,
+      "text": "heard of, some you have not. So um, let"
+    },
+    {
+      "start_ms": 59760,
+      "duration_ms": 5039,
+      "text": "me turn it over to Jason and allow him"
+    },
+    {
+      "start_ms": 62480,
+      "duration_ms": 4639,
+      "text": "to introduce himself."
+    },
+    {
+      "start_ms": 64799,
+      "duration_ms": 4721,
+      "text": "Yeah, what's up? Great for having me."
+    },
+    {
+      "start_ms": 67119,
+      "duration_ms": 5841,
+      "text": "Uh, Adam Santosh, good to meet you as"
+    },
+    {
+      "start_ms": 69520,
+      "duration_ms": 5120,
+      "text": "well. I uh I've heard you on the on the"
+    },
+    {
+      "start_ms": 72960,
+      "duration_ms": 3920,
+      "text": "shows and seen your content, but never"
+    },
+    {
+      "start_ms": 74640,
+      "duration_ms": 4320,
+      "text": "gotten to meet you. Uh super happy to be"
+    },
+    {
+      "start_ms": 76880,
+      "duration_ms": 5919,
+      "text": "here. The best way to describe what I do"
+    },
+    {
+      "start_ms": 78960,
+      "duration_ms": 5519,
+      "text": "is my entire sales career, it started as"
+    },
+    {
+      "start_ms": 82799,
+      "duration_ms": 3121,
+      "text": "a freshman in college going door to door"
+    },
+    {
+      "start_ms": 84479,
+      "duration_ms": 3441,
+      "text": "selling house painting services. I've"
+    },
+    {
+      "start_ms": 85920,
+      "duration_ms": 4000,
+      "text": "always been like the cold outbound or"
+    },
+    {
+      "start_ms": 87920,
+      "duration_ms": 3360,
+      "text": "doortodoor guy. And what I've been"
+    },
+    {
+      "start_ms": 89920,
+      "duration_ms": 5440,
+      "text": "really obsessed with in the last eight"
+    },
+    {
+      "start_ms": 91280,
+      "duration_ms": 6000,
+      "text": "or nine years is as a B2B company where"
+    },
+    {
+      "start_ms": 95360,
+      "duration_ms": 3759,
+      "text": "I can actually get email addresses and"
+    },
+    {
+      "start_ms": 97280,
+      "duration_ms": 3120,
+      "text": "phone numbers and now I can have intent"
+    },
+    {
+      "start_ms": 99119,
+      "duration_ms": 3841,
+      "text": "and learn a little bit more about what"
+    },
+    {
+      "start_ms": 100400,
+      "duration_ms": 4960,
+      "text": "the buyer is doing. Uh what is the best"
+    },
+    {
+      "start_ms": 102960,
+      "duration_ms": 4560,
+      "text": "way to systematically reach out to them"
+    },
+    {
+      "start_ms": 105360,
+      "duration_ms": 3920,
+      "text": "and get their attention? Uh I've worked"
+    },
+    {
+      "start_ms": 107520,
+      "duration_ms": 4000,
+      "text": "with companies as large as like your"
+    },
+    {
+      "start_ms": 109280,
+      "duration_ms": 4400,
+      "text": "Zooms and your Gongs and your Shopifies"
+    },
+    {
+      "start_ms": 111520,
+      "duration_ms": 3840,
+      "text": "of the world and about half of my client"
+    },
+    {
+      "start_ms": 113680,
+      "duration_ms": 3920,
+      "text": "base honestly is probably very similar"
+    },
+    {
+      "start_ms": 115360,
+      "duration_ms": 4399,
+      "text": "to the businesses here. uh very small"
+    },
+    {
+      "start_ms": 117600,
+      "duration_ms": 4400,
+      "text": "sales teams ranging from three to 15"
+    },
+    {
+      "start_ms": 119759,
+      "duration_ms": 3841,
+      "text": "reps, people that are still figuring out"
+    },
+    {
+      "start_ms": 122000,
+      "duration_ms": 3040,
+      "text": "product market fit. They're not the"
+    },
+    {
+      "start_ms": 123600,
+      "duration_ms": 3199,
+      "text": "category leader yet, so they're"
+    },
+    {
+      "start_ms": 125040,
+      "duration_ms": 4559,
+      "text": "competing against some of the giants"
+    },
+    {
+      "start_ms": 126799,
+      "duration_ms": 4240,
+      "text": "that I mentioned earlier. And uh yeah, I"
+    },
+    {
+      "start_ms": 129599,
+      "duration_ms": 3441,
+      "text": "have some stuff prepared, Adam. I don't"
+    },
+    {
+      "start_ms": 131039,
+      "duration_ms": 4641,
+      "text": "know. I will kind of let you kind of"
+    },
+    {
+      "start_ms": 133040,
+      "duration_ms": 4400,
+      "text": "lead the way here, but uh I have"
+    },
+    {
+      "start_ms": 135680,
+      "duration_ms": 3760,
+      "text": "uh what I really like to do is give"
+    },
+    {
+      "start_ms": 137440,
+      "duration_ms": 4080,
+      "text": "people tactical things that they can"
+    },
+    {
+      "start_ms": 139440,
+      "duration_ms": 4080,
+      "text": "take away and and then go uh take action"
+    },
+    {
+      "start_ms": 141520,
+      "duration_ms": 3200,
+      "text": "on. Uh so that's what we've prepared for"
+    },
+    {
+      "start_ms": 143520,
+      "duration_ms": 2960,
+      "text": "you guys today. So yeah, I'm looking"
+    },
+    {
+      "start_ms": 144720,
+      "duration_ms": 5680,
+      "text": "forward to it. Let's diamond. Let's take"
+    },
+    {
+      "start_ms": 146480,
+      "duration_ms": 5520,
+      "text": "a look. Uh Jason in the space."
+    },
+    {
+      "start_ms": 150400,
+      "duration_ms": 4240,
+      "text": "Before we do that, let's do question"
+    },
+    {
+      "start_ms": 152000,
+      "duration_ms": 5840,
+      "text": "number one. So I want to float the poll"
+    },
+    {
+      "start_ms": 154640,
+      "duration_ms": 8400,
+      "text": "question out. Um and it's about the"
+    },
+    {
+      "start_ms": 157840,
+      "duration_ms": 9360,
+      "text": "roles. So boom, can you please do us the"
+    },
+    {
+      "start_ms": 163040,
+      "duration_ms": 7199,
+      "text": "great favor of filling this out? We'll"
+    },
+    {
+      "start_ms": 167200,
+      "duration_ms": 4720,
+      "text": "share. Um I think we have a"
+    },
+    {
+      "start_ms": 170239,
+      "duration_ms": 3441,
+      "text": "disproportionately large sales audience"
+    },
+    {
+      "start_ms": 171920,
+      "duration_ms": 2966,
+      "text": "today because Jason probably promoted it"
+    },
+    {
+      "start_ms": 173680,
+      "duration_ms": 1440,
+      "text": "to his list."
+    },
+    {
+      "start_ms": 174886,
+      "duration_ms": 2474,
+      "text": "[laughter]"
+    },
+    {
+      "start_ms": 175120,
+      "duration_ms": 4640,
+      "text": "I don't think we normally have that many"
+    },
+    {
+      "start_ms": 177360,
+      "duration_ms": 3680,
+      "text": "uh that many people in sales, but here's"
+    },
+    {
+      "start_ms": 179760,
+      "duration_ms": 2399,
+      "text": "where this is shaken out. Just so"
+    },
+    {
+      "start_ms": 181040,
+      "duration_ms": 4000,
+      "text": "everybody knows, I don't know if people"
+    },
+    {
+      "start_ms": 182159,
+      "duration_ms": 6321,
+      "text": "can see this or it's just me. We have,"
+    },
+    {
+      "start_ms": 185040,
+      "duration_ms": 7279,
+      "text": "let's see, we have uh 273 people live"
+    },
+    {
+      "start_ms": 188480,
+      "duration_ms": 8080,
+      "text": "right now, 35% founders, 26% growth"
+    },
+    {
+      "start_ms": 192319,
+      "duration_ms": 5521,
+      "text": "marketing, 30 37% sales to other. So,"
+    },
+    {
+      "start_ms": 196560,
+      "duration_ms": 3599,
+      "text": "that is where we're at with the"
+    },
+    {
+      "start_ms": 197840,
+      "duration_ms": 5520,
+      "text": "audience. I'm sure Jason now appreciates"
+    },
+    {
+      "start_ms": 200159,
+      "duration_ms": 5041,
+      "text": "knowing that. Um, thank you very much"
+    },
+    {
+      "start_ms": 203360,
+      "duration_ms": 5040,
+      "text": "for answering that question. Super"
+    },
+    {
+      "start_ms": 205200,
+      "duration_ms": 5679,
+      "text": "valuable. Uh, let's turn it over to"
+    },
+    {
+      "start_ms": 208400,
+      "duration_ms": 5199,
+      "text": "Jason for data tactics, the state of"
+    },
+    {
+      "start_ms": 210879,
+      "duration_ms": 4720,
+      "text": "outbound. Let's go."
+    },
+    {
+      "start_ms": 213599,
+      "duration_ms": 3841,
+      "text": "Cool. All right. Here, let me close out"
+    },
+    {
+      "start_ms": 215599,
+      "duration_ms": 3121,
+      "text": "the poll. So, got some slides here for"
+    },
+    {
+      "start_ms": 217440,
+      "duration_ms": 4480,
+      "text": "you guys. We'll get this deck to you"
+    },
+    {
+      "start_ms": 218720,
+      "duration_ms": 4640,
+      "text": "afterwards, too. Um, I think just the"
+    },
+    {
+      "start_ms": 221920,
+      "duration_ms": 3760,
+      "text": "thing that I want to point out most from"
+    },
+    {
+      "start_ms": 223360,
+      "duration_ms": 3680,
+      "text": "what you see on the screen here is I'm"
+    },
+    {
+      "start_ms": 225680,
+      "duration_ms": 2800,
+      "text": "not one of those sales trainers that"
+    },
+    {
+      "start_ms": 227040,
+      "duration_ms": 3119,
+      "text": "people hire to come in for a workshop"
+    },
+    {
+      "start_ms": 228480,
+      "duration_ms": 4000,
+      "text": "and like bounce. I actually work with"
+    },
+    {
+      "start_ms": 230159,
+      "duration_ms": 4160,
+      "text": "teams for an extended period of time and"
+    },
+    {
+      "start_ms": 232480,
+      "duration_ms": 3039,
+      "text": "almost all of my clients get results"
+    },
+    {
+      "start_ms": 234319,
+      "duration_ms": 2801,
+      "text": "like what you see on the screen. It's"
+    },
+    {
+      "start_ms": 235519,
+      "duration_ms": 2881,
+      "text": "either how do we get more meetings, how"
+    },
+    {
+      "start_ms": 237120,
+      "duration_ms": 3199,
+      "text": "do we increase more revenue from"
+    },
+    {
+      "start_ms": 238400,
+      "duration_ms": 4800,
+      "text": "outbound, how do we increase more"
+    },
+    {
+      "start_ms": 240319,
+      "duration_ms": 5200,
+      "text": "pipeline revenue uh and generator from"
+    },
+    {
+      "start_ms": 243200,
+      "duration_ms": 4640,
+      "text": "outbound. Everything is very measurable."
+    },
+    {
+      "start_ms": 245519,
+      "duration_ms": 4481,
+      "text": "So we have those goals coming in. Um"
+    },
+    {
+      "start_ms": 247840,
+      "duration_ms": 4080,
+      "text": "what I want to walk you through first,"
+    },
+    {
+      "start_ms": 250000,
+      "duration_ms": 3200,
+      "text": "so I have like kind of a highlevel"
+    },
+    {
+      "start_ms": 251920,
+      "duration_ms": 2720,
+      "text": "framework that I'm going to share with"
+    },
+    {
+      "start_ms": 253200,
+      "duration_ms": 3999,
+      "text": "you guys and how to think about"
+    },
+    {
+      "start_ms": 254640,
+      "duration_ms": 3999,
+      "text": "outbound. And then I have five core"
+    },
+    {
+      "start_ms": 257199,
+      "duration_ms": 3040,
+      "text": "strategies that I'm going to share with"
+    },
+    {
+      "start_ms": 258639,
+      "duration_ms": 4161,
+      "text": "you guys that'll give you like really"
+    },
+    {
+      "start_ms": 260239,
+      "duration_ms": 4400,
+      "text": "actionable things that you can take away"
+    },
+    {
+      "start_ms": 262800,
+      "duration_ms": 3839,
+      "text": "and start putting into action once you"
+    },
+    {
+      "start_ms": 264639,
+      "duration_ms": 4721,
+      "text": "leave. Uh so this is what I call the"
+    },
+    {
+      "start_ms": 266639,
+      "duration_ms": 4560,
+      "text": "outbound equation."
+    },
+    {
+      "start_ms": 269360,
+      "duration_ms": 4480,
+      "text": "So what you see on the screen here, this"
+    },
+    {
+      "start_ms": 271199,
+      "duration_ms": 5921,
+      "text": "is a way to think about the outreach."
+    },
+    {
+      "start_ms": 273840,
+      "duration_ms": 5919,
+      "text": "Okay? So it's R equals CRM. So the R is"
+    },
+    {
+      "start_ms": 277120,
+      "duration_ms": 5200,
+      "text": "responses. So for me to get responses,"
+    },
+    {
+      "start_ms": 279759,
+      "duration_ms": 5281,
+      "text": "it's a combination of three things. Uh"
+    },
+    {
+      "start_ms": 282320,
+      "duration_ms": 4879,
+      "text": "one is the call to action. So the call"
+    },
+    {
+      "start_ms": 285040,
+      "duration_ms": 4640,
+      "text": "to action is a combination of and I"
+    },
+    {
+      "start_ms": 287199,
+      "duration_ms": 4641,
+      "text": "actually have this here effort"
+    },
+    {
+      "start_ms": 289680,
+      "duration_ms": 4320,
+      "text": "and value. So in other words, what is"
+    },
+    {
+      "start_ms": 291840,
+      "duration_ms": 5840,
+      "text": "the thing that I am giving the prospect"
+    },
+    {
+      "start_ms": 294000,
+      "duration_ms": 5840,
+      "text": "in return for their time and what effort"
+    },
+    {
+      "start_ms": 297680,
+      "duration_ms": 3920,
+      "text": "am I asking them to put in? So an"
+    },
+    {
+      "start_ms": 299840,
+      "duration_ms": 4880,
+      "text": "example of something that's very high"
+    },
+    {
+      "start_ms": 301600,
+      "duration_ms": 5120,
+      "text": "effort is, hey Santo, do you have 60"
+    },
+    {
+      "start_ms": 304720,
+      "duration_ms": 4960,
+      "text": "minutes for us to connect next week?"
+    },
+    {
+      "start_ms": 306720,
+      "duration_ms": 5759,
+      "text": "That's a very higheffort ask. And the"
+    },
+    {
+      "start_ms": 309680,
+      "duration_ms": 5760,
+      "text": "higher that effort, the less likely that"
+    },
+    {
+      "start_ms": 312479,
+      "duration_ms": 4160,
+      "text": "the person is to respond. On the value"
+    },
+    {
+      "start_ms": 315440,
+      "duration_ms": 3520,
+      "text": "side of the equation, I'm going to give"
+    },
+    {
+      "start_ms": 316639,
+      "duration_ms": 5041,
+      "text": "you guys a bunch of ideas. An example of"
+    },
+    {
+      "start_ms": 318960,
+      "duration_ms": 5600,
+      "text": "very low value would be that 60-minute"
+    },
+    {
+      "start_ms": 321680,
+      "duration_ms": 6079,
+      "text": "ask. An example of very high value would"
+    },
+    {
+      "start_ms": 324560,
+      "duration_ms": 4800,
+      "text": "be I did a uh you know a website audit"
+    },
+    {
+      "start_ms": 327759,
+      "duration_ms": 3121,
+      "text": "on your shopping cart experience and"
+    },
+    {
+      "start_ms": 329360,
+      "duration_ms": 3839,
+      "text": "found three things that you can improve"
+    },
+    {
+      "start_ms": 330880,
+      "duration_ms": 4319,
+      "text": "to uh increase your conversion. That"
+    },
+    {
+      "start_ms": 333199,
+      "duration_ms": 3521,
+      "text": "would be a very high value gift for a"
+    },
+    {
+      "start_ms": 335199,
+      "duration_ms": 3521,
+      "text": "prospect."
+    },
+    {
+      "start_ms": 336720,
+      "duration_ms": 3840,
+      "text": "On the R side of the equation, we have"
+    },
+    {
+      "start_ms": 338720,
+      "duration_ms": 4800,
+      "text": "relevance."
+    },
+    {
+      "start_ms": 340560,
+      "duration_ms": 4800,
+      "text": "So, the more specific our message is"
+    },
+    {
+      "start_ms": 343520,
+      "duration_ms": 3679,
+      "text": "related to the prospect's priorities,"
+    },
+    {
+      "start_ms": 345360,
+      "duration_ms": 3360,
+      "text": "problems, and stuff that their peers"
+    },
+    {
+      "start_ms": 347199,
+      "duration_ms": 4161,
+      "text": "care about, the more likely we're going"
+    },
+    {
+      "start_ms": 348720,
+      "duration_ms": 5360,
+      "text": "to get a response. And then everything"
+    },
+    {
+      "start_ms": 351360,
+      "duration_ms": 6080,
+      "text": "that we do has to be multi-"
+    },
+    {
+      "start_ms": 354080,
+      "duration_ms": 6800,
+      "text": "channelannel. So, medium, do we choose"
+    },
+    {
+      "start_ms": 357440,
+      "duration_ms": 4880,
+      "text": "to engage via phone, email, social, or"
+    },
+    {
+      "start_ms": 360880,
+      "duration_ms": 4080,
+      "text": "physical mail is a really big thing"
+    },
+    {
+      "start_ms": 362320,
+      "duration_ms": 4159,
+      "text": "right now, too. Um, what I would love to"
+    },
+    {
+      "start_ms": 364960,
+      "duration_ms": 3200,
+      "text": "hear in the audience, Adam, is like, can"
+    },
+    {
+      "start_ms": 366479,
+      "duration_ms": 4401,
+      "text": "you guys let us know like what size is"
+    },
+    {
+      "start_ms": 368160,
+      "duration_ms": 4640,
+      "text": "your sales team in the audience? Is this"
+    },
+    {
+      "start_ms": 370880,
+      "duration_ms": 3280,
+      "text": "just you founder le sales? You're doing"
+    },
+    {
+      "start_ms": 372800,
+      "duration_ms": 3519,
+      "text": "all this stuff. Do you have a couple"
+    },
+    {
+      "start_ms": 374160,
+      "duration_ms": 3680,
+      "text": "sales reps? Do you have a couple dozen?"
+    },
+    {
+      "start_ms": 376319,
+      "duration_ms": 1761,
+      "text": "Can you guys type that into the chat for"
+    },
+    {
+      "start_ms": 377840,
+      "duration_ms": 2799,
+      "text": "us?"
+    },
+    {
+      "start_ms": 378080,
+      "duration_ms": 4000,
+      "text": "Yeah, hammer us in the chat."
+    },
+    {
+      "start_ms": 380639,
+      "duration_ms": 2801,
+      "text": "This will help me kind of cater the"
+    },
+    {
+      "start_ms": 382080,
+      "duration_ms": 2800,
+      "text": "content. Yeah, we got a lot of lean and"
+    },
+    {
+      "start_ms": 383440,
+      "duration_ms": 2960,
+      "text": "mean teams today. Love it."
+    },
+    {
+      "start_ms": 384880,
+      "duration_ms": 3200,
+      "text": "Lean and mean, baby. That's how we"
+    },
+    {
+      "start_ms": 386400,
+      "duration_ms": 5120,
+      "text": "That's how we roll."
+    },
+    {
+      "start_ms": 388080,
+      "duration_ms": 4480,
+      "text": "There we go. Okay. So, I got a piece of"
+    },
+    {
+      "start_ms": 391520,
+      "duration_ms": 2560,
+      "text": "data and then we're going to start"
+    },
+    {
+      "start_ms": 392560,
+      "duration_ms": 5199,
+      "text": "getting into into some of the uh the"
+    },
+    {
+      "start_ms": 394080,
+      "duration_ms": 7040,
+      "text": "tactics here. So, one of the things that"
+    },
+    {
+      "start_ms": 397759,
+      "duration_ms": 6481,
+      "text": "is very hard about outbound right now is"
+    },
+    {
+      "start_ms": 401120,
+      "duration_ms": 4960,
+      "text": "that you used to be able to rely even"
+    },
+    {
+      "start_ms": 404240,
+      "duration_ms": 3840,
+      "text": "like three or four years ago on single"
+    },
+    {
+      "start_ms": 406080,
+      "duration_ms": 5200,
+      "text": "channel outreach. Like our company"
+    },
+    {
+      "start_ms": 408080,
+      "duration_ms": 4559,
+      "text": "actually started in 2015 2016 doing done"
+    },
+    {
+      "start_ms": 411280,
+      "duration_ms": 3359,
+      "text": "for you prospecting and appointment"
+    },
+    {
+      "start_ms": 412639,
+      "duration_ms": 4400,
+      "text": "setting. I never picked up the phone."
+    },
+    {
+      "start_ms": 414639,
+      "duration_ms": 4481,
+      "text": "Adam Santosh never picked up the phone."
+    },
+    {
+      "start_ms": 417039,
+      "duration_ms": 3841,
+      "text": "uh we would run a cold email campaign or"
+    },
+    {
+      "start_ms": 419120,
+      "duration_ms": 3519,
+      "text": "a LinkedIn campaign and they didn't even"
+    },
+    {
+      "start_ms": 420880,
+      "duration_ms": 4080,
+      "text": "work together. It was just completely"
+    },
+    {
+      "start_ms": 422639,
+      "duration_ms": 4161,
+      "text": "split. You can't do that anymore."
+    },
+    {
+      "start_ms": 424960,
+      "duration_ms": 4239,
+      "text": "Whatever you do has got to be email plus"
+    },
+    {
+      "start_ms": 426800,
+      "duration_ms": 4640,
+      "text": "phone plus social. It can't just be one"
+    },
+    {
+      "start_ms": 429199,
+      "duration_ms": 4081,
+      "text": "of those or the other. All of the data"
+    },
+    {
+      "start_ms": 431440,
+      "duration_ms": 4240,
+      "text": "supports this too. Salesoft has got a"
+    },
+    {
+      "start_ms": 433280,
+      "duration_ms": 4000,
+      "text": "lot of great data that shows that your"
+    },
+    {
+      "start_ms": 435680,
+      "duration_ms": 3760,
+      "text": "response rates, as you can see on the"
+    },
+    {
+      "start_ms": 437280,
+      "duration_ms": 5600,
+      "text": "screen, increase dramatically when we"
+    },
+    {
+      "start_ms": 439440,
+      "duration_ms": 5599,
+      "text": "use two or three channels versus one. Um"
+    },
+    {
+      "start_ms": 442880,
+      "duration_ms": 4240,
+      "text": "the number of touches that it takes is,"
+    },
+    {
+      "start_ms": 445039,
+      "duration_ms": 3521,
+      "text": "you know, more than ever. It's 3 to 15."
+    },
+    {
+      "start_ms": 447120,
+      "duration_ms": 2960,
+      "text": "And you can't do that across one"
+    },
+    {
+      "start_ms": 448560,
+      "duration_ms": 3759,
+      "text": "channel. It's got to be email plus phone"
+    },
+    {
+      "start_ms": 450080,
+      "duration_ms": 5200,
+      "text": "plus social. Like I said, uh double and"
+    },
+    {
+      "start_ms": 452319,
+      "duration_ms": 4481,
+      "text": "triple taps. So, this is a technique not"
+    },
+    {
+      "start_ms": 455280,
+      "duration_ms": 3440,
+      "text": "where you dial the person's phone number"
+    },
+    {
+      "start_ms": 456800,
+      "duration_ms": 5200,
+      "text": "three times in a row until until they"
+    },
+    {
+      "start_ms": 458720,
+      "duration_ms": 5759,
+      "text": "pick up. A triple tap is I I call"
+    },
+    {
+      "start_ms": 462000,
+      "duration_ms": 4800,
+      "text": "Santosh and leave a voicemail. I send"
+    },
+    {
+      "start_ms": 464479,
+      "duration_ms": 4160,
+      "text": "them a LinkedIn connection request and I"
+    },
+    {
+      "start_ms": 466800,
+      "duration_ms": 4160,
+      "text": "send him an email. And I do all of those"
+    },
+    {
+      "start_ms": 468639,
+      "duration_ms": 4881,
+      "text": "within the hour. So, I'm hitting this"
+    },
+    {
+      "start_ms": 470960,
+      "duration_ms": 5440,
+      "text": "person across multiple channels barely"
+    },
+    {
+      "start_ms": 473520,
+      "duration_ms": 5200,
+      "text": "within the same time range. my contact"
+    },
+    {
+      "start_ms": 476400,
+      "duration_ms": 4160,
+      "text": "rates are going to 3x if I do those"
+    },
+    {
+      "start_ms": 478720,
+      "duration_ms": 4240,
+      "text": "things at the same time."
+    },
+    {
+      "start_ms": 480560,
+      "duration_ms": 4240,
+      "text": "So, in terms of what to do with this and"
+    },
+    {
+      "start_ms": 482960,
+      "duration_ms": 3280,
+      "text": "how to put it into action,"
+    },
+    {
+      "start_ms": 484800,
+      "duration_ms": 3280,
+      "text": "what you want to think about with your"
+    },
+    {
+      "start_ms": 486240,
+      "duration_ms": 4639,
+      "text": "sequence is I'm going to reach out a"
+    },
+    {
+      "start_ms": 488080,
+      "duration_ms": 5280,
+      "text": "total of 15 times over the course of"
+    },
+    {
+      "start_ms": 490879,
+      "duration_ms": 6801,
+      "text": "three weeks. I'm going to do six emails,"
+    },
+    {
+      "start_ms": 493360,
+      "duration_ms": 6640,
+      "text": "six phone calls, three social touches,"
+    },
+    {
+      "start_ms": 497680,
+      "duration_ms": 4239,
+      "text": "and it's going to look a lot like this."
+    },
+    {
+      "start_ms": 500000,
+      "duration_ms": 3919,
+      "text": "This is a really good base level if you"
+    },
+    {
+      "start_ms": 501919,
+      "duration_ms": 4720,
+      "text": "did this for three weeks. And yeah,"
+    },
+    {
+      "start_ms": 503919,
+      "duration_ms": 4321,
+      "text": "we'll share the slides with you guys."
+    },
+    {
+      "start_ms": 506639,
+      "duration_ms": 4560,
+      "text": "This is what your touch pattern might"
+    },
+    {
+      "start_ms": 508240,
+      "duration_ms": 5200,
+      "text": "look like on a weekly basis. So day one,"
+    },
+    {
+      "start_ms": 511199,
+      "duration_ms": 4320,
+      "text": "today is a Tuesday. I'm going to call,"
+    },
+    {
+      "start_ms": 513440,
+      "duration_ms": 3120,
+      "text": "leave a voicemail. A lot of people are"
+    },
+    {
+      "start_ms": 515519,
+      "duration_ms": 2721,
+      "text": "wondering whether or not you should"
+    },
+    {
+      "start_ms": 516560,
+      "duration_ms": 3839,
+      "text": "leave voicemails. Do people even listen"
+    },
+    {
+      "start_ms": 518240,
+      "duration_ms": 4400,
+      "text": "to them? Voicemails have about a 90%"
+    },
+    {
+      "start_ms": 520399,
+      "duration_ms": 3681,
+      "text": "open rate. But more importantly, there's"
+    },
+    {
+      "start_ms": 522640,
+      "duration_ms": 3680,
+      "text": "two stats that are really important to"
+    },
+    {
+      "start_ms": 524080,
+      "duration_ms": 3759,
+      "text": "understand with voicemails. Your pickup"
+    },
+    {
+      "start_ms": 526320,
+      "duration_ms": 3920,
+      "text": "rate the second, third, fourth, fifth"
+    },
+    {
+      "start_ms": 527839,
+      "duration_ms": 3761,
+      "text": "time you call someone goes up by 25.8%"
+    },
+    {
+      "start_ms": 530240,
+      "duration_ms": 4159,
+      "text": "if you leave a voicemail on the first"
+    },
+    {
+      "start_ms": 531600,
+      "duration_ms": 5280,
+      "text": "call. ORM did a big study of like 7"
+    },
+    {
+      "start_ms": 534399,
+      "duration_ms": 4961,
+      "text": "million calls they analyzed. Uh Gong did"
+    },
+    {
+      "start_ms": 536880,
+      "duration_ms": 3920,
+      "text": "a study on sequences and they found that"
+    },
+    {
+      "start_ms": 539360,
+      "duration_ms": 4320,
+      "text": "reps that leave voicemails in their"
+    },
+    {
+      "start_ms": 540800,
+      "duration_ms": 4560,
+      "text": "sequence have a reply rate that's twice"
+    },
+    {
+      "start_ms": 543680,
+      "duration_ms": 4400,
+      "text": "what reps have if they don't leave a"
+    },
+    {
+      "start_ms": 545360,
+      "duration_ms": 5039,
+      "text": "voicemail. So the key is instead of"
+    },
+    {
+      "start_ms": 548080,
+      "duration_ms": 4319,
+      "text": "asking for a call back, I'm going to"
+    },
+    {
+      "start_ms": 550399,
+      "duration_ms": 4880,
+      "text": "say, uh, Adam, noticed you're hiring a"
+    },
+    {
+      "start_ms": 552399,
+      "duration_ms": 5841,
+      "text": "bunch of STRs right now. I also noticed"
+    },
+    {
+      "start_ms": 555279,
+      "duration_ms": 4560,
+      "text": "that you uh just launched XYZ product"
+    },
+    {
+      "start_ms": 558240,
+      "duration_ms": 3680,
+      "text": "and my guess is that you might want to"
+    },
+    {
+      "start_ms": 559839,
+      "duration_ms": 3921,
+      "text": "be expanding like up market into an"
+    },
+    {
+      "start_ms": 561920,
+      "duration_ms": 3280,
+      "text": "enterprise sales motion. I had a few"
+    },
+    {
+      "start_ms": 563760,
+      "duration_ms": 3040,
+      "text": "ideas based on the work we're doing with"
+    },
+    {
+      "start_ms": 565200,
+      "duration_ms": 3520,
+      "text": "Gong and Shopify that I wanted to share"
+    },
+    {
+      "start_ms": 566800,
+      "duration_ms": 3440,
+      "text": "with you. I sent you an email. Subject"
+    },
+    {
+      "start_ms": 568720,
+      "duration_ms": 3600,
+      "text": "line is moving up market. No need to"
+    },
+    {
+      "start_ms": 570240,
+      "duration_ms": 3440,
+      "text": "call me back. Again, it's Jason Outbound"
+    },
+    {
+      "start_ms": 572320,
+      "duration_ms": 3519,
+      "text": "Squad. Subject line and email is moving"
+    },
+    {
+      "start_ms": 573680,
+      "duration_ms": 4960,
+      "text": "up market. So, I'm going to point the"
+    },
+    {
+      "start_ms": 575839,
+      "duration_ms": 4401,
+      "text": "voicemail to the email. Um, I don't know"
+    },
+    {
+      "start_ms": 578640,
+      "duration_ms": 4720,
+      "text": "about you guys. Do you Adams on Twitch?"
+    },
+    {
+      "start_ms": 580240,
+      "duration_ms": 5279,
+      "text": "Do you guys like what number of"
+    },
+    {
+      "start_ms": 583360,
+      "duration_ms": 4320,
+      "text": "voicemails that hit your phone will you"
+    },
+    {
+      "start_ms": 585519,
+      "duration_ms": 4241,
+      "text": "at least like click on to see like what"
+    },
+    {
+      "start_ms": 587680,
+      "duration_ms": 3680,
+      "text": "the first part of the text might say in"
+    },
+    {
+      "start_ms": 589760,
+      "duration_ms": 3199,
+      "text": "the transcription or do you guys even"
+    },
+    {
+      "start_ms": 591360,
+      "duration_ms": 5039,
+      "text": "open voicemails at all?"
+    },
+    {
+      "start_ms": 592959,
+      "duration_ms": 6161,
+      "text": "So, I I end up seeing them um because I"
+    },
+    {
+      "start_ms": 596399,
+      "duration_ms": 4961,
+      "text": "just kind of delete them. All that makes"
+    },
+    {
+      "start_ms": 599120,
+      "duration_ms": 6960,
+      "text": "it into my voicemail are like uh these"
+    },
+    {
+      "start_ms": 601360,
+      "duration_ms": 6479,
+      "text": "like ERC funding [laughter] people."
+    },
+    {
+      "start_ms": 606080,
+      "duration_ms": 3520,
+      "text": "Yeah. Yeah. Yeah. But but but I get"
+    },
+    {
+      "start_ms": 607839,
+      "duration_ms": 4161,
+      "text": "them. And and look, when we were trying"
+    },
+    {
+      "start_ms": 609600,
+      "duration_ms": 6160,
+      "text": "to use phones like in 2023, we were not"
+    },
+    {
+      "start_ms": 612000,
+      "duration_ms": 6399,
+      "text": "doing this. This seems like a very"
+    },
+    {
+      "start_ms": 615760,
+      "duration_ms": 5920,
+      "text": "reasonable way to like I I love that"
+    },
+    {
+      "start_ms": 618399,
+      "duration_ms": 5680,
+      "text": "idea of like pointing them to the email"
+    },
+    {
+      "start_ms": 621680,
+      "duration_ms": 3920,
+      "text": "that you're sending. Um I've seen some"
+    },
+    {
+      "start_ms": 624079,
+      "duration_ms": 4081,
+      "text": "very tricky people recently actually"
+    },
+    {
+      "start_ms": 625600,
+      "duration_ms": 5200,
+      "text": "putting their number in the subject line"
+    },
+    {
+      "start_ms": 628160,
+      "duration_ms": 4239,
+      "text": "of the email like to try to get some"
+    },
+    {
+      "start_ms": 630800,
+      "duration_ms": 3599,
+      "text": "some sort of connection off of that. And"
+    },
+    {
+      "start_ms": 632399,
+      "duration_ms": 7120,
+      "text": "there was I heard a theory that that"
+    },
+    {
+      "start_ms": 634399,
+      "duration_ms": 6560,
+      "text": "might actually uh improve like the"
+    },
+    {
+      "start_ms": 639519,
+      "duration_ms": 3201,
+      "text": "deliverability of the email or something"
+    },
+    {
+      "start_ms": 640959,
+      "duration_ms": 3440,
+      "text": "like that. And then the last thing we"
+    },
+    {
+      "start_ms": 642720,
+      "duration_ms": 3760,
+      "text": "had somebody we had somebody ask what"
+    },
+    {
+      "start_ms": 644399,
+      "duration_ms": 6081,
+      "text": "about uh any feedback or results on"
+    },
+    {
+      "start_ms": 646480,
+      "duration_ms": 6000,
+      "text": "doing SMS right before a call."
+    },
+    {
+      "start_ms": 650480,
+      "duration_ms": 4640,
+      "text": "I haven't seen the phone number thing."
+    },
+    {
+      "start_ms": 652480,
+      "duration_ms": 4240,
+      "text": "Where I worry about with SMS is you're"
+    },
+    {
+      "start_ms": 655120,
+      "duration_ms": 3839,
+      "text": "giving the person a chance to block your"
+    },
+    {
+      "start_ms": 656720,
+      "duration_ms": 4559,
+      "text": "phone number. There's also you're kind"
+    },
+    {
+      "start_ms": 658959,
+      "duration_ms": 5201,
+      "text": "of in this legal gray area when you text"
+    },
+    {
+      "start_ms": 661279,
+      "duration_ms": 4881,
+      "text": "when you cold text people."
+    },
+    {
+      "start_ms": 664160,
+      "duration_ms": 3760,
+      "text": "I do think that texting is great once"
+    },
+    {
+      "start_ms": 666160,
+      "duration_ms": 3840,
+      "text": "you've established contact. Once you get"
+    },
+    {
+      "start_ms": 667920,
+      "duration_ms": 4320,
+      "text": "some sort of engagement, a reply to an"
+    },
+    {
+      "start_ms": 670000,
+      "duration_ms": 3600,
+      "text": "email, someone picks up and now is not a"
+    },
+    {
+      "start_ms": 672240,
+      "duration_ms": 4159,
+      "text": "good time and they hang up. Like I think"
+    },
+    {
+      "start_ms": 673600,
+      "duration_ms": 4799,
+      "text": "texting then could be appropriate. Um"
+    },
+    {
+      "start_ms": 676399,
+      "duration_ms": 3361,
+      "text": "what about you Santosh? What's voicemail"
+    },
+    {
+      "start_ms": 678399,
+      "duration_ms": 2961,
+      "text": "for you? Do you do you click on the"
+    },
+    {
+      "start_ms": 679760,
+      "duration_ms": 4079,
+      "text": "transcripts? Do you listen to stuff?"
+    },
+    {
+      "start_ms": 681360,
+      "duration_ms": 4159,
+      "text": "Yeah, I I read almost all the transcript"
+    },
+    {
+      "start_ms": 683839,
+      "duration_ms": 3041,
+      "text": "or if I'm listening, I do listen to at"
+    },
+    {
+      "start_ms": 685519,
+      "duration_ms": 4000,
+      "text": "least the first"
+    },
+    {
+      "start_ms": 686880,
+      "duration_ms": 5280,
+      "text": "10 second to to kind of get the context"
+    },
+    {
+      "start_ms": 689519,
+      "duration_ms": 5681,
+      "text": "before I delete. Uh but I do get a very"
+    },
+    {
+      "start_ms": 692160,
+      "duration_ms": 4880,
+      "text": "large volume of uh sales type messages."
+    },
+    {
+      "start_ms": 695200,
+      "duration_ms": 4079,
+      "text": "Uh but you're right, I I listen to"
+    },
+    {
+      "start_ms": 697040,
+      "duration_ms": 3840,
+      "text": "almost all or read or listen to almost"
+    },
+    {
+      "start_ms": 699279,
+      "duration_ms": 3680,
+      "text": "all my voicemails."
+    },
+    {
+      "start_ms": 700880,
+      "duration_ms": 5120,
+      "text": "So voicemails have last time I checked"
+    },
+    {
+      "start_ms": 702959,
+      "duration_ms": 6880,
+      "text": "the stats 90 plus% open rate. So think"
+    },
+    {
+      "start_ms": 706000,
+      "duration_ms": 6640,
+      "text": "about that. Your emails might have a 33"
+    },
+    {
+      "start_ms": 709839,
+      "duration_ms": 5680,
+      "text": "40% open rate. Your pickup rate on a"
+    },
+    {
+      "start_ms": 712640,
+      "duration_ms": 4080,
+      "text": "cold call is about 3% 4%. I mean,"
+    },
+    {
+      "start_ms": 715519,
+      "duration_ms": 2880,
+      "text": "voicemail is like your biggest"
+    },
+    {
+      "start_ms": 716720,
+      "duration_ms": 3920,
+      "text": "opportunity to actually get the person's"
+    },
+    {
+      "start_ms": 718399,
+      "duration_ms": 4961,
+      "text": "attention. Most people will at least"
+    },
+    {
+      "start_ms": 720640,
+      "duration_ms": 5280,
+      "text": "click on the thing and uh look at the"
+    },
+    {
+      "start_ms": 723360,
+      "duration_ms": 4960,
+      "text": "transcription. So, if we go back to that"
+    },
+    {
+      "start_ms": 725920,
+      "duration_ms": 3599,
+      "text": "framework though, um what we want to"
+    },
+    {
+      "start_ms": 728320,
+      "duration_ms": 2800,
+      "text": "think about is how do we point the"
+    },
+    {
+      "start_ms": 729519,
+      "duration_ms": 4721,
+      "text": "voicemail to the email? Do you guys see"
+    },
+    {
+      "start_ms": 731120,
+      "duration_ms": 4800,
+      "text": "how omni channel like we're getting the"
+    },
+    {
+      "start_ms": 734240,
+      "duration_ms": 3440,
+      "text": "channels to work together? We're not"
+    },
+    {
+      "start_ms": 735920,
+      "duration_ms": 3280,
+      "text": "treating them as separate independent"
+    },
+    {
+      "start_ms": 737680,
+      "duration_ms": 3279,
+      "text": "channels. I'm getting them to work"
+    },
+    {
+      "start_ms": 739200,
+      "duration_ms": 3439,
+      "text": "together. And then I might hit the"
+    },
+    {
+      "start_ms": 740959,
+      "duration_ms": 3201,
+      "text": "person on LinkedIn. Then I'm going to"
+    },
+    {
+      "start_ms": 742639,
+      "duration_ms": 3760,
+      "text": "wait two days. I'm going to bump that"
+    },
+    {
+      "start_ms": 744160,
+      "duration_ms": 5040,
+      "text": "email. And I'm going to focus all of my"
+    },
+    {
+      "start_ms": 746399,
+      "duration_ms": 5440,
+      "text": "calling effort on and reward prospects"
+    },
+    {
+      "start_ms": 749200,
+      "duration_ms": 5520,
+      "text": "who engage with my emails."
+    },
+    {
+      "start_ms": 751839,
+      "duration_ms": 4321,
+      "text": "Uh, okay. Let's keep going. So, this is"
+    },
+    {
+      "start_ms": 754720,
+      "duration_ms": 3359,
+      "text": "where I want to start to get like super"
+    },
+    {
+      "start_ms": 756160,
+      "duration_ms": 4880,
+      "text": "tactical with this framework. Okay. So,"
+    },
+    {
+      "start_ms": 758079,
+      "duration_ms": 5521,
+      "text": "strategy number one, and by the way,"
+    },
+    {
+      "start_ms": 761040,
+      "duration_ms": 6000,
+      "text": "Adam, I came I put these five strategies"
+    },
+    {
+      "start_ms": 763600,
+      "duration_ms": 5760,
+      "text": "together. All of these will apply to our"
+    },
+    {
+      "start_ms": 767040,
+      "duration_ms": 4479,
+      "text": "specific situation of founder-led sales."
+    },
+    {
+      "start_ms": 769360,
+      "duration_ms": 3599,
+      "text": "I'm lean and mean. There's one specific"
+    },
+    {
+      "start_ms": 771519,
+      "duration_ms": 3521,
+      "text": "strategy I think that you have an"
+    },
+    {
+      "start_ms": 772959,
+      "duration_ms": 3440,
+      "text": "advantage of if you're founder or small,"
+    },
+    {
+      "start_ms": 775040,
+      "duration_ms": 4000,
+      "text": "but all of these are going to apply to"
+    },
+    {
+      "start_ms": 776399,
+      "duration_ms": 5041,
+      "text": "your situation. Um, just because I'm a"
+    },
+    {
+      "start_ms": 779040,
+      "duration_ms": 3919,
+      "text": "big fan of Godfather. Uh, strategy"
+    },
+    {
+      "start_ms": 781440,
+      "duration_ms": 4000,
+      "text": "number one is you need to create some"
+    },
+    {
+      "start_ms": 782959,
+      "duration_ms": 4560,
+      "text": "sort of offer that is really hard to"
+    },
+    {
+      "start_ms": 785440,
+      "duration_ms": 3600,
+      "text": "refuse. Let me know in the chat. Are you"
+    },
+    {
+      "start_ms": 787519,
+      "duration_ms": 3760,
+      "text": "a fan of Godfather? Let us know in the"
+    },
+    {
+      "start_ms": 789040,
+      "duration_ms": 3680,
+      "text": "chat which one's your favorite. Number"
+    },
+    {
+      "start_ms": 791279,
+      "duration_ms": 3281,
+      "text": "three was a little hard to watch. One"
+    },
+    {
+      "start_ms": 792720,
+      "duration_ms": 4239,
+      "text": "and two pretty good. two wasn't as"
+    },
+    {
+      "start_ms": 794560,
+      "duration_ms": 3519,
+      "text": "popular, but number two I liked better"
+    },
+    {
+      "start_ms": 796959,
+      "duration_ms": 3601,
+      "text": "than the first one, even though the"
+    },
+    {
+      "start_ms": 798079,
+      "duration_ms": 6161,
+      "text": "first one is just so iconic."
+    },
+    {
+      "start_ms": 800560,
+      "duration_ms": 6000,
+      "text": "Yeah, let us know. Yeah. [laughter]"
+    },
+    {
+      "start_ms": 804240,
+      "duration_ms": 5120,
+      "text": "Watch the offer."
+    },
+    {
+      "start_ms": 806560,
+      "duration_ms": 5760,
+      "text": "So, if we look at this framework again,"
+    },
+    {
+      "start_ms": 809360,
+      "duration_ms": 4400,
+      "text": "um the the offer you can't refuse is an"
+    },
+    {
+      "start_ms": 812320,
+      "duration_ms": 3040,
+      "text": "example of saying, you know what, I'm"
+    },
+    {
+      "start_ms": 813760,
+      "duration_ms": 3120,
+      "text": "going to go all out in the call to"
+    },
+    {
+      "start_ms": 815360,
+      "duration_ms": 2960,
+      "text": "action. I'm not only going to make it"
+    },
+    {
+      "start_ms": 816880,
+      "duration_ms": 5280,
+      "text": "loweffort, I'm going to make it"
+    },
+    {
+      "start_ms": 818320,
+      "duration_ms": 6000,
+      "text": "extremely valuable. And the objective is"
+    },
+    {
+      "start_ms": 822160,
+      "duration_ms": 4080,
+      "text": "how can you make the prospect almost"
+    },
+    {
+      "start_ms": 824320,
+      "duration_ms": 3840,
+      "text": "like feel stupid for not wanting to take"
+    },
+    {
+      "start_ms": 826240,
+      "duration_ms": 4640,
+      "text": "the call with you. Okay, there's a"
+    },
+    {
+      "start_ms": 828160,
+      "duration_ms": 4560,
+      "text": "couple strategies that you can use. Um,"
+    },
+    {
+      "start_ms": 830880,
+      "duration_ms": 4000,
+      "text": "one of the things that one of my"
+    },
+    {
+      "start_ms": 832720,
+      "duration_ms": 4239,
+      "text": "customers, Shopify, does is they"
+    },
+    {
+      "start_ms": 834880,
+      "duration_ms": 3360,
+      "text": "actually put together, this is where if"
+    },
+    {
+      "start_ms": 836959,
+      "duration_ms": 4161,
+      "text": "you can be really nimble with your"
+    },
+    {
+      "start_ms": 838240,
+      "duration_ms": 4800,
+      "text": "marketing team, if you can create a tool"
+    },
+    {
+      "start_ms": 841120,
+      "duration_ms": 4959,
+      "text": "that your rep can use or that you can"
+    },
+    {
+      "start_ms": 843040,
+      "duration_ms": 6560,
+      "text": "use as a founder to like like run audits"
+    },
+    {
+      "start_ms": 846079,
+      "duration_ms": 4961,
+      "text": "at scale, it's super super effective."
+    },
+    {
+      "start_ms": 849600,
+      "duration_ms": 2960,
+      "text": "Um, this especially if you're selling"
+    },
+    {
+      "start_ms": 851040,
+      "duration_ms": 3599,
+      "text": "mid-market or enterprise and the deal"
+    },
+    {
+      "start_ms": 852560,
+      "duration_ms": 4160,
+      "text": "size is like above 20K, it makes a lot"
+    },
+    {
+      "start_ms": 854639,
+      "duration_ms": 4640,
+      "text": "of sense to do this. But they'll do like"
+    },
+    {
+      "start_ms": 856720,
+      "duration_ms": 4479,
+      "text": "a free site audit takes like a minute."
+    },
+    {
+      "start_ms": 859279,
+      "duration_ms": 4481,
+      "text": "It shows the load speed of that person's"
+    },
+    {
+      "start_ms": 861199,
+      "duration_ms": 4241,
+      "text": "site based on their top five competitors"
+    },
+    {
+      "start_ms": 863760,
+      "duration_ms": 4079,
+      "text": "in the space. So, a furniture site,"
+    },
+    {
+      "start_ms": 865440,
+      "duration_ms": 3920,
+      "text": "let's say, and then it shows them how"
+    },
+    {
+      "start_ms": 867839,
+      "duration_ms": 3521,
+      "text": "much their conversion rate is suffering"
+    },
+    {
+      "start_ms": 869360,
+      "duration_ms": 4479,
+      "text": "on the website because of the slow site"
+    },
+    {
+      "start_ms": 871360,
+      "duration_ms": 4400,
+      "text": "speed. So, if you have some sort of like"
+    },
+    {
+      "start_ms": 873839,
+      "duration_ms": 3281,
+      "text": "free audit or assessment, marketing"
+    },
+    {
+      "start_ms": 875760,
+      "duration_ms": 3519,
+      "text": "agencies have been doing this actually"
+    },
+    {
+      "start_ms": 877120,
+      "duration_ms": 4959,
+      "text": "for a really long time. What you need to"
+    },
+    {
+      "start_ms": 879279,
+      "duration_ms": 5761,
+      "text": "ask yourself is like what what thing can"
+    },
+    {
+      "start_ms": 882079,
+      "duration_ms": 6241,
+      "text": "you do that's really low lift prior to"
+    },
+    {
+      "start_ms": 885040,
+      "duration_ms": 5039,
+      "text": "the outreach. Okay."
+    },
+    {
+      "start_ms": 888320,
+      "duration_ms": 3800,
+      "text": "Dax says I wouldn't open any email with"
+    },
+    {
+      "start_ms": 890079,
+      "duration_ms": 4061,
+      "text": "a subject line. Take the canoli."
+    },
+    {
+      "start_ms": 892120,
+      "duration_ms": 2020,
+      "text": "[laughter]"
+    },
+    {
+      "start_ms": 894399,
+      "duration_ms": 4240,
+      "text": "I love that. That's like my favorite"
+    },
+    {
+      "start_ms": 895920,
+      "duration_ms": 6080,
+      "text": "scene. Um so I have another client. This"
+    },
+    {
+      "start_ms": 898639,
+      "duration_ms": 7200,
+      "text": "is really interesting too. So they sold"
+    },
+    {
+      "start_ms": 902000,
+      "duration_ms": 6480,
+      "text": "a uh like a chat solution specifically"
+    },
+    {
+      "start_ms": 905839,
+      "duration_ms": 4000,
+      "text": "to like ecom businesses. So, one of"
+    },
+    {
+      "start_ms": 908480,
+      "duration_ms": 3680,
+      "text": "their clients was the North Face, for"
+    },
+    {
+      "start_ms": 909839,
+      "duration_ms": 4161,
+      "text": "example. Uh, what they did, their"
+    },
+    {
+      "start_ms": 912160,
+      "duration_ms": 3200,
+      "text": "marketing team actually mystery shopped"
+    },
+    {
+      "start_ms": 914000,
+      "duration_ms": 3839,
+      "text": "a couple hundred of their target"
+    },
+    {
+      "start_ms": 915360,
+      "duration_ms": 4640,
+      "text": "accounts and created a report that"
+    },
+    {
+      "start_ms": 917839,
+      "duration_ms": 4481,
+      "text": "showed, hey, here's what the average uh"
+    },
+    {
+      "start_ms": 920000,
+      "duration_ms": 4160,
+      "text": "response time is to a chat. Here are the"
+    },
+    {
+      "start_ms": 922320,
+      "duration_ms": 3840,
+      "text": "business hours that they're open. Here's"
+    },
+    {
+      "start_ms": 924160,
+      "duration_ms": 4479,
+      "text": "the response time to an email. And it"
+    },
+    {
+      "start_ms": 926160,
+      "duration_ms": 4160,
+      "text": "was essentially a report that they would"
+    },
+    {
+      "start_ms": 928639,
+      "duration_ms": 3440,
+      "text": "make public, but then they would offer"
+    },
+    {
+      "start_ms": 930320,
+      "duration_ms": 3680,
+      "text": "to share and run through and say, \"Hey,"
+    },
+    {
+      "start_ms": 932079,
+      "duration_ms": 4961,
+      "text": "Adam, you we mystery shopped your"
+    },
+    {
+      "start_ms": 934000,
+      "duration_ms": 5199,
+      "text": "closest 10 competitors, some like X, Y,"
+    },
+    {
+      "start_ms": 937040,
+      "duration_ms": 4320,
+      "text": "and Z, and we found out how you stack up"
+    },
+    {
+      "start_ms": 939199,
+      "duration_ms": 3760,
+      "text": "to them in terms of customer experience."
+    },
+    {
+      "start_ms": 941360,
+      "duration_ms": 3200,
+      "text": "I'd love to share more with that with"
+    },
+    {
+      "start_ms": 942959,
+      "duration_ms": 3120,
+      "text": "you on that and some things that you"
+    },
+    {
+      "start_ms": 944560,
+      "duration_ms": 3680,
+      "text": "might be able to take to your team.\""
+    },
+    {
+      "start_ms": 946079,
+      "duration_ms": 4961,
+      "text": "It's like the give is just so big for"
+    },
+    {
+      "start_ms": 948240,
+      "duration_ms": 4640,
+      "text": "that. And it's something that you can do"
+    },
+    {
+      "start_ms": 951040,
+      "duration_ms": 4000,
+      "text": "one time."
+    },
+    {
+      "start_ms": 952880,
+      "duration_ms": 3840,
+      "text": "It's a badass piece of marketing content"
+    },
+    {
+      "start_ms": 955040,
+      "duration_ms": 3919,
+      "text": "and you can start to create that, you"
+    },
+    {
+      "start_ms": 956720,
+      "duration_ms": 5119,
+      "text": "know, inbound le outbound motion as well"
+    },
+    {
+      "start_ms": 958959,
+      "duration_ms": 4560,
+      "text": "off of the content. So, I'd think about"
+    },
+    {
+      "start_ms": 961839,
+      "duration_ms": 5120,
+      "text": "how could you do something that is just"
+    },
+    {
+      "start_ms": 963519,
+      "duration_ms": 4801,
+      "text": "like really really super valuable. Um,"
+    },
+    {
+      "start_ms": 966959,
+      "duration_ms": 2721,
+      "text": "and then the other offer is to share"
+    },
+    {
+      "start_ms": 968320,
+      "duration_ms": 4959,
+      "text": "insights from peer. So, instead of"
+    },
+    {
+      "start_ms": 969680,
+      "duration_ms": 4719,
+      "text": "asking for a demo, a lot of times my"
+    },
+    {
+      "start_ms": 973279,
+      "duration_ms": 2721,
+      "text": "thing is like, hey, I'm working with"
+    },
+    {
+      "start_ms": 974399,
+      "duration_ms": 2880,
+      "text": "Shopify, Gong, and Zoom. I'd love to"
+    },
+    {
+      "start_ms": 976000,
+      "duration_ms": 3759,
+      "text": "share with you how they handle the"
+    },
+    {
+      "start_ms": 977279,
+      "duration_ms": 4401,
+      "text": "specific situation that if I see a"
+    },
+    {
+      "start_ms": 979759,
+      "duration_ms": 3281,
+      "text": "company moving up market or landing new"
+    },
+    {
+      "start_ms": 981680,
+      "duration_ms": 3599,
+      "text": "products or moving into a new"
+    },
+    {
+      "start_ms": 983040,
+      "duration_ms": 3680,
+      "text": "international kind of thing, right? So,"
+    },
+    {
+      "start_ms": 985279,
+      "duration_ms": 5441,
+      "text": "offering to share insights from their"
+    },
+    {
+      "start_ms": 986720,
+      "duration_ms": 6080,
+      "text": "peers could be pretty big. Um, so in"
+    },
+    {
+      "start_ms": 990720,
+      "duration_ms": 3520,
+      "text": "terms of ask another piece of data and"
+    },
+    {
+      "start_ms": 992800,
+      "duration_ms": 3440,
+      "text": "I'll kind of open it up for questions if"
+    },
+    {
+      "start_ms": 994240,
+      "duration_ms": 5279,
+      "text": "you guys got them. Uh, Gong did a really"
+    },
+    {
+      "start_ms": 996240,
+      "duration_ms": 6880,
+      "text": "big study on CTAs and emails, and what"
+    },
+    {
+      "start_ms": 999519,
+      "duration_ms": 5440,
+      "text": "they found is that when you get a reply,"
+    },
+    {
+      "start_ms": 1003120,
+      "duration_ms": 4560,
+      "text": "you'll have twice the success rate when"
+    },
+    {
+      "start_ms": 1004959,
+      "duration_ms": 6000,
+      "text": "you get a reply uh to an email if you"
+    },
+    {
+      "start_ms": 1007680,
+      "duration_ms": 5920,
+      "text": "use an interestbased call to action."
+    },
+    {
+      "start_ms": 1010959,
+      "duration_ms": 5201,
+      "text": "So, an interestbased call to action is"
+    },
+    {
+      "start_ms": 1013600,
+      "duration_ms": 4000,
+      "text": "confirming interest like open to"
+    },
+    {
+      "start_ms": 1016160,
+      "duration_ms": 4479,
+      "text": "learning more, does it make sense to"
+    },
+    {
+      "start_ms": 1017600,
+      "duration_ms": 6400,
+      "text": "connect, worth a quick chat, etc. versus"
+    },
+    {
+      "start_ms": 1020639,
+      "duration_ms": 5521,
+      "text": "a specific CTA is can I chat tomorrow at"
+    },
+    {
+      "start_ms": 1024000,
+      "duration_ms": 5120,
+      "text": "you know whatever time for 15 minutes"
+    },
+    {
+      "start_ms": 1026160,
+      "duration_ms": 5039,
+      "text": "versus an open-ended CTA which these are"
+    },
+    {
+      "start_ms": 1029120,
+      "duration_ms": 3439,
+      "text": "the worst ways even when you email"
+    },
+    {
+      "start_ms": 1031199,
+      "duration_ms": 2880,
+      "text": "people that you know when you ask an"
+    },
+    {
+      "start_ms": 1032559,
+      "duration_ms": 3360,
+      "text": "open-ended question the reply rate is"
+    },
+    {
+      "start_ms": 1034079,
+      "duration_ms": 3921,
+      "text": "just really low right so you never want"
+    },
+    {
+      "start_ms": 1035919,
+      "duration_ms": 3841,
+      "text": "to ask like how are you handling ecom at"
+    },
+    {
+      "start_ms": 1038000,
+      "duration_ms": 3679,
+      "text": "xyz company how are you handling"
+    },
+    {
+      "start_ms": 1039760,
+      "duration_ms": 4559,
+      "text": "outbound at xy it's just like such an"
+    },
+    {
+      "start_ms": 1041679,
+      "duration_ms": 6081,
+      "text": "open-ended question that is a lot of"
+    },
+    {
+      "start_ms": 1044319,
+      "duration_ms": 5521,
+      "text": "effort to answer so the data on emails"
+    },
+    {
+      "start_ms": 1047760,
+      "duration_ms": 4880,
+      "text": "is at the end you need to have an ask"
+    },
+    {
+      "start_ms": 1049840,
+      "duration_ms": 5760,
+      "text": "and the ask should be an ask of their"
+    },
+    {
+      "start_ms": 1052640,
+      "duration_ms": 6240,
+      "text": "interest."
+    },
+    {
+      "start_ms": 1055600,
+      "duration_ms": 5360,
+      "text": "Cool. So that's the first strategy is"
+    },
+    {
+      "start_ms": 1058880,
+      "duration_ms": 3600,
+      "text": "you need to create some sort of offer"
+    },
+    {
+      "start_ms": 1060960,
+      "duration_ms": 3200,
+      "text": "like what are you going to give them in"
+    },
+    {
+      "start_ms": 1062480,
+      "duration_ms": 4640,
+      "text": "exchange for their time. This is the key"
+    },
+    {
+      "start_ms": 1064160,
+      "duration_ms": 4639,
+      "text": "to getting meetings with executives too"
+    },
+    {
+      "start_ms": 1067120,
+      "duration_ms": 3120,
+      "text": "because even if the executive doesn't"
+    },
+    {
+      "start_ms": 1068799,
+      "duration_ms": 3361,
+      "text": "want to take the meeting, they'll"
+    },
+    {
+      "start_ms": 1070240,
+      "duration_ms": 3200,
+      "text": "forward off whatever you sent to them to"
+    },
+    {
+      "start_ms": 1072160,
+      "duration_ms": 2879,
+      "text": "people on their team. They're like, \"Oh"
+    },
+    {
+      "start_ms": 1073440,
+      "duration_ms": 4000,
+      "text": "you got to check this audit out.\""
+    },
+    {
+      "start_ms": 1075039,
+      "duration_ms": 5281,
+      "text": "Like you guys, it takes 10 steps for us"
+    },
+    {
+      "start_ms": 1077440,
+      "duration_ms": 5680,
+      "text": "to check out right now on our website."
+    },
+    {
+      "start_ms": 1080320,
+      "duration_ms": 5440,
+      "text": "What what's up with that? Um,"
+    },
+    {
+      "start_ms": 1083120,
+      "duration_ms": 4160,
+      "text": "and then the CTA piece. Uh, do we want"
+    },
+    {
+      "start_ms": 1085760,
+      "duration_ms": 3279,
+      "text": "to take like a question or two in"
+    },
+    {
+      "start_ms": 1087280,
+      "duration_ms": 2800,
+      "text": "between these, Adam, or do you Santos or"
+    },
+    {
+      "start_ms": 1089039,
+      "duration_ms": 4561,
+      "text": "just want me to keep going or"
+    },
+    {
+      "start_ms": 1090080,
+      "duration_ms": 5760,
+      "text": "I I I want I want to I just like love"
+    },
+    {
+      "start_ms": 1093600,
+      "duration_ms": 3840,
+      "text": "this Alex Hermosy book and he's kind of"
+    },
+    {
+      "start_ms": 1095840,
+      "duration_ms": 3600,
+      "text": "gets some for being a make money"
+    },
+    {
+      "start_ms": 1097440,
+      "duration_ms": 4000,
+      "text": "from home guy, but like his first book,"
+    },
+    {
+      "start_ms": 1099440,
+      "duration_ms": 4800,
+      "text": "hund00 million offer."
+    },
+    {
+      "start_ms": 1101440,
+      "duration_ms": 4720,
+      "text": "Yeah. like it transformed the way I"
+    },
+    {
+      "start_ms": 1104240,
+      "duration_ms": 5360,
+      "text": "thought about business."
+    },
+    {
+      "start_ms": 1106160,
+      "duration_ms": 5440,
+      "text": "It's the core offer of RB2B. It's like"
+    },
+    {
+      "start_ms": 1109600,
+      "duration_ms": 4880,
+      "text": "how do you like exactly what you said?"
+    },
+    {
+      "start_ms": 1111600,
+      "duration_ms": 4319,
+      "text": "How do you frame something in a way that"
+    },
+    {
+      "start_ms": 1114480,
+      "duration_ms": 3680,
+      "text": "whoever you're talking to would feel"
+    },
+    {
+      "start_ms": 1115919,
+      "duration_ms": 3601,
+      "text": "stupid not doing it right? And yeah, and"
+    },
+    {
+      "start_ms": 1118160,
+      "duration_ms": 4160,
+      "text": "it's the key to sales. It's the key to"
+    },
+    {
+      "start_ms": 1119520,
+      "duration_ms": 4240,
+      "text": "marketing. As far as I'm concerned, it's"
+    },
+    {
+      "start_ms": 1122320,
+      "duration_ms": 4800,
+      "text": "it's the [clears throat] key to creating"
+    },
+    {
+      "start_ms": 1123760,
+      "duration_ms": 6080,
+      "text": "virality in your product, which you can"
+    },
+    {
+      "start_ms": 1127120,
+      "duration_ms": 5439,
+      "text": "then speed up by doing a whole whole"
+    },
+    {
+      "start_ms": 1129840,
+      "duration_ms": 5360,
+      "text": "host of other things. So, like sales or"
+    },
+    {
+      "start_ms": 1132559,
+      "duration_ms": 4000,
+      "text": "not, I'm glad that was number one. Like,"
+    },
+    {
+      "start_ms": 1135200,
+      "duration_ms": 3040,
+      "text": "if I'm giving you the three reasons why"
+    },
+    {
+      "start_ms": 1136559,
+      "duration_ms": 4081,
+      "text": "I think RBDB isn't doing so well, like"
+    },
+    {
+      "start_ms": 1138240,
+      "duration_ms": 4160,
+      "text": "that's number one. It's like spent a ton"
+    },
+    {
+      "start_ms": 1140640,
+      "duration_ms": 5039,
+      "text": "of time on the core offer trying to just"
+    },
+    {
+      "start_ms": 1142400,
+      "duration_ms": 5600,
+      "text": "like make it so tight that like people"
+    },
+    {
+      "start_ms": 1145679,
+      "duration_ms": 5601,
+      "text": "would would feel stupid not doing it."
+    },
+    {
+      "start_ms": 1148000,
+      "duration_ms": 6720,
+      "text": "Absolutely love that point. Can we go to"
+    },
+    {
+      "start_ms": 1151280,
+      "duration_ms": 5360,
+      "text": "the second poll question, John?"
+    },
+    {
+      "start_ms": 1154720,
+      "duration_ms": 4480,
+      "text": "Yeah. [clears throat] So, guys, this"
+    },
+    {
+      "start_ms": 1156640,
+      "duration_ms": 7440,
+      "text": "will be super helpful to us. It's not in"
+    },
+    {
+      "start_ms": 1159200,
+      "duration_ms": 6960,
+      "text": "a a a This is a ARR. Uh it is not for"
+    },
+    {
+      "start_ms": 1164080,
+      "duration_ms": 4959,
+      "text": "any reason other than to know what type"
+    },
+    {
+      "start_ms": 1166160,
+      "duration_ms": 4480,
+      "text": "of material to source um because it's"
+    },
+    {
+      "start_ms": 1169039,
+      "duration_ms": 4161,
+      "text": "very different if you're above 10"
+    },
+    {
+      "start_ms": 1170640,
+      "duration_ms": 6159,
+      "text": "million uh than it is if you're"
+    },
+    {
+      "start_ms": 1173200,
+      "duration_ms": 6080,
+      "text": "pre-revenue. So, um answering this is"
+    },
+    {
+      "start_ms": 1176799,
+      "duration_ms": 5441,
+      "text": "ginormously helpful to us. We we don't"
+    },
+    {
+      "start_ms": 1179280,
+      "duration_ms": 4800,
+      "text": "really care individually where you are."
+    },
+    {
+      "start_ms": 1182240,
+      "duration_ms": 4160,
+      "text": "We just want to know the composition of"
+    },
+    {
+      "start_ms": 1184080,
+      "duration_ms": 5599,
+      "text": "uh of what's going on. and I will share"
+    },
+    {
+      "start_ms": 1186400,
+      "duration_ms": 6720,
+      "text": "this poll the second you get done. So,"
+    },
+    {
+      "start_ms": 1189679,
+      "duration_ms": 7041,
+      "text": "we'll let it run for another 30 seconds,"
+    },
+    {
+      "start_ms": 1193120,
+      "duration_ms": 5600,
+      "text": "then I'll share it. Um,"
+    },
+    {
+      "start_ms": 1196720,
+      "duration_ms": 3440,
+      "text": "John will take care of it. Santos, do"
+    },
+    {
+      "start_ms": 1198720,
+      "duration_ms": 3360,
+      "text": "you have any uh question?"
+    },
+    {
+      "start_ms": 1200160,
+      "duration_ms": 4560,
+      "text": "Let me ask Yeah, let me ask a question"
+    },
+    {
+      "start_ms": 1202080,
+      "duration_ms": 5839,
+      "text": "from Jason. So, uh first of all, this"
+    },
+    {
+      "start_ms": 1204720,
+      "duration_ms": 6240,
+      "text": "strategy W is really useful. You know, I"
+    },
+    {
+      "start_ms": 1207919,
+      "duration_ms": 5041,
+      "text": "love uh receiving assessments even if"
+    },
+    {
+      "start_ms": 1210960,
+      "duration_ms": 3520,
+      "text": "it's not very valuable or targeted,"
+    },
+    {
+      "start_ms": 1212960,
+      "duration_ms": 3920,
+      "text": "right? because it tells me that they put"
+    },
+    {
+      "start_ms": 1214480,
+      "duration_ms": 4880,
+      "text": "in an effort towards solving a problem."
+    },
+    {
+      "start_ms": 1216880,
+      "duration_ms": 4240,
+      "text": "So I I mean that's uh if somebody comes"
+    },
+    {
+      "start_ms": 1219360,
+      "duration_ms": 3760,
+      "text": "to me with a psyched assessment or"
+    },
+    {
+      "start_ms": 1221120,
+      "duration_ms": 4320,
+      "text": "something that my team would have taken"
+    },
+    {
+      "start_ms": 1223120,
+      "duration_ms": 4640,
+      "text": "days, I would totally take the call."
+    },
+    {
+      "start_ms": 1225440,
+      "duration_ms": 4960,
+      "text": "Question for you. Do you see that a"
+    },
+    {
+      "start_ms": 1227760,
+      "duration_ms": 5440,
+      "text": "brand like Gong and Shopify, this is"
+    },
+    {
+      "start_ms": 1230400,
+      "duration_ms": 4639,
+      "text": "more relevant than say a nonrecognizable"
+    },
+    {
+      "start_ms": 1233200,
+      "duration_ms": 4800,
+      "text": "brand?"
+    },
+    {
+      "start_ms": 1235039,
+      "duration_ms": 4481,
+      "text": "I mean brand recognition is like if we"
+    },
+    {
+      "start_ms": 1238000,
+      "duration_ms": 4679,
+      "text": "look at the framework here, let me share"
+    },
+    {
+      "start_ms": 1239520,
+      "duration_ms": 3159,
+      "text": "my screen."
+    },
+    {
+      "start_ms": 1242720,
+      "duration_ms": 4160,
+      "text": "What brand recognition is going to give"
+    },
+    {
+      "start_ms": 1244559,
+      "duration_ms": 5600,
+      "text": "you is that call to action is going to"
+    },
+    {
+      "start_ms": 1246880,
+      "duration_ms": 6159,
+      "text": "feel less risky. It feels less risky to"
+    },
+    {
+      "start_ms": 1250159,
+      "duration_ms": 5441,
+      "text": "take time with you if I already know who"
+    },
+    {
+      "start_ms": 1253039,
+      "duration_ms": 4401,
+      "text": "you are. So, this strategy is going to"
+    },
+    {
+      "start_ms": 1255600,
+      "duration_ms": 3520,
+      "text": "work even better for those large brands"
+    },
+    {
+      "start_ms": 1257440,
+      "duration_ms": 3280,
+      "text": "because they have the brand recognition"
+    },
+    {
+      "start_ms": 1259120,
+      "duration_ms": 4000,
+      "text": "and it's less risky to spend time with"
+    },
+    {
+      "start_ms": 1260720,
+      "duration_ms": 4160,
+      "text": "you. If you're a startup and no one"
+    },
+    {
+      "start_ms": 1263120,
+      "duration_ms": 3439,
+      "text": "knows who the heck you are,"
+    },
+    {
+      "start_ms": 1264880,
+      "duration_ms": 3440,
+      "text": "this is a great thing to do because most"
+    },
+    {
+      "start_ms": 1266559,
+      "duration_ms": 3041,
+      "text": "of those big brands like Shopify and"
+    },
+    {
+      "start_ms": 1268320,
+      "duration_ms": 2560,
+      "text": "this other company I was mentioning are"
+    },
+    {
+      "start_ms": 1269600,
+      "duration_ms": 3280,
+      "text": "one of the few brands where I can think"
+    },
+    {
+      "start_ms": 1270880,
+      "duration_ms": 5440,
+      "text": "of that actually puts out really good"
+    },
+    {
+      "start_ms": 1272880,
+      "duration_ms": 5279,
+      "text": "content and does things like valuable"
+    },
+    {
+      "start_ms": 1276320,
+      "duration_ms": 4560,
+      "text": "things for their prospects for their"
+    },
+    {
+      "start_ms": 1278159,
+      "duration_ms": 5361,
+      "text": "time. Very rare do big brands do this."
+    },
+    {
+      "start_ms": 1280880,
+      "duration_ms": 4480,
+      "text": "Most big brands rely on reputation. They"
+    },
+    {
+      "start_ms": 1283520,
+      "duration_ms": 3840,
+      "text": "say I mean the email literally looks"
+    },
+    {
+      "start_ms": 1285360,
+      "duration_ms": 4400,
+      "text": "like this. Hi Santo, this is Jason from"
+    },
+    {
+      "start_ms": 1287360,
+      "duration_ms": 4000,
+      "text": "XYZ big brand. I was hoping I could"
+    },
+    {
+      "start_ms": 1289760,
+      "duration_ms": 3440,
+      "text": "share with you how we're helping, you"
+    },
+    {
+      "start_ms": 1291360,
+      "duration_ms": 2559,
+      "text": "know, ABC companies with our"
+    },
+    {
+      "start_ms": 1293200,
+      "duration_ms": 3760,
+      "text": "right,"
+    },
+    {
+      "start_ms": 1293919,
+      "duration_ms": 5361,
+      "text": "you know, insert product."
+    },
+    {
+      "start_ms": 1296960,
+      "duration_ms": 6320,
+      "text": "They just lean so much on product"
+    },
+    {
+      "start_ms": 1299280,
+      "duration_ms": 6000,
+      "text": "recognition. Um, let me know. Let's keep"
+    },
+    {
+      "start_ms": 1303280,
+      "duration_ms": 4800,
+      "text": "rolling. Um, I'm just looking at the"
+    },
+    {
+      "start_ms": 1305280,
+      "duration_ms": 4000,
+      "text": "chat here. Yeah, let me know. Dan King,"
+    },
+    {
+      "start_ms": 1308080,
+      "duration_ms": 2479,
+      "text": "you asked, you said that, hey, we"
+    },
+    {
+      "start_ms": 1309280,
+      "duration_ms": 3040,
+      "text": "couldn't do a free audit because we sell"
+    },
+    {
+      "start_ms": 1310559,
+      "duration_ms": 3360,
+      "text": "enterprise data analyst software. If you"
+    },
+    {
+      "start_ms": 1312320,
+      "duration_ms": 3280,
+      "text": "let me know specifically, Dan, what you"
+    },
+    {
+      "start_ms": 1313919,
+      "duration_ms": 3921,
+      "text": "sell and who you sell it to, I may be"
+    },
+    {
+      "start_ms": 1315600,
+      "duration_ms": 4400,
+      "text": "able to riff on some ideas for you. Um,"
+    },
+    {
+      "start_ms": 1317840,
+      "duration_ms": 3600,
+      "text": "okay. Strategy number two, what we're"
+    },
+    {
+      "start_ms": 1320000,
+      "duration_ms": 2799,
+      "text": "going to do in this equation now is"
+    },
+    {
+      "start_ms": 1321440,
+      "duration_ms": 2960,
+      "text": "we're going to say, you know what, if we"
+    },
+    {
+      "start_ms": 1322799,
+      "duration_ms": 4401,
+      "text": "had to focus on the R part of the"
+    },
+    {
+      "start_ms": 1324400,
+      "duration_ms": 4960,
+      "text": "equation, the relevance piece, and we"
+    },
+    {
+      "start_ms": 1327200,
+      "duration_ms": 4240,
+      "text": "just had to say, hey, you know what?"
+    },
+    {
+      "start_ms": 1329360,
+      "duration_ms": 3679,
+      "text": "We're going to reduce the risk of taking"
+    },
+    {
+      "start_ms": 1331440,
+      "duration_ms": 3119,
+      "text": "time with us and it not being"
+    },
+    {
+      "start_ms": 1333039,
+      "duration_ms": 5201,
+      "text": "potentially a waste of time for the"
+    },
+    {
+      "start_ms": 1334559,
+      "duration_ms": 5360,
+      "text": "prospect by like really increasing the"
+    },
+    {
+      "start_ms": 1338240,
+      "duration_ms": 3280,
+      "text": "relevance of the message and showing the"
+    },
+    {
+      "start_ms": 1339919,
+      "duration_ms": 4081,
+      "text": "prospect that we understand their world."
+    },
+    {
+      "start_ms": 1341520,
+      "duration_ms": 3760,
+      "text": "I got five ideas for you to do this. I'm"
+    },
+    {
+      "start_ms": 1344000,
+      "duration_ms": 2960,
+      "text": "going to show you some examples of what"
+    },
+    {
+      "start_ms": 1345280,
+      "duration_ms": 4399,
+      "text": "a a good cold email looks like today,"
+    },
+    {
+      "start_ms": 1346960,
+      "duration_ms": 4800,
+      "text": "too. Um, one of my best clients sells a"
+    },
+    {
+      "start_ms": 1349679,
+      "duration_ms": 4561,
+      "text": "CISO solution, uh, a security solution"
+    },
+    {
+      "start_ms": 1351760,
+      "duration_ms": 4560,
+      "text": "to CISOs. And you know who they have on"
+    },
+    {
+      "start_ms": 1354240,
+      "duration_ms": 3919,
+      "text": "staff? They have three consultants, ex"
+    },
+    {
+      "start_ms": 1356320,
+      "duration_ms": 4640,
+      "text": "CISOs. One of them is an ex CISO of"
+    },
+    {
+      "start_ms": 1358159,
+      "duration_ms": 5760,
+      "text": "Coca-Cola. So, this is something that"
+    },
+    {
+      "start_ms": 1360960,
+      "duration_ms": 4640,
+      "text": "you can do as a startup. I mean, you"
+    },
+    {
+      "start_ms": 1363919,
+      "duration_ms": 3120,
+      "text": "literally pay someone 500 bucks. Let's"
+    },
+    {
+      "start_ms": 1365600,
+      "duration_ms": 3760,
+      "text": "say it's a,000 bucks an hour. You only"
+    },
+    {
+      "start_ms": 1367039,
+      "duration_ms": 4481,
+      "text": "need them for a few hours a month. You"
+    },
+    {
+      "start_ms": 1369360,
+      "duration_ms": 3760,
+      "text": "can look for people that used to work in"
+    },
+    {
+      "start_ms": 1371520,
+      "duration_ms": 3039,
+      "text": "the executive positions that you want to"
+    },
+    {
+      "start_ms": 1373120,
+      "duration_ms": 3280,
+      "text": "land meetings with and just hire them on"
+    },
+    {
+      "start_ms": 1374559,
+      "duration_ms": 3600,
+      "text": "as consultants. just reach out to them"
+    },
+    {
+      "start_ms": 1376400,
+      "duration_ms": 3600,
+      "text": "directly. A lot of them will come on"
+    },
+    {
+      "start_ms": 1378159,
+      "duration_ms": 3921,
+      "text": "board for 500 bucks, thousand bucks an"
+    },
+    {
+      "start_ms": 1380000,
+      "duration_ms": 3600,
+      "text": "hour. That's a really great way to say,"
+    },
+    {
+      "start_ms": 1382080,
+      "duration_ms": 3760,
+      "text": "\"Hey, here's the messaging that we're"
+    },
+    {
+      "start_ms": 1383600,
+      "duration_ms": 4959,
+      "text": "sending. What are we missing? What do"
+    },
+    {
+      "start_ms": 1385840,
+      "duration_ms": 5040,
+      "text": "people like you care about?\" Um,"
+    },
+    {
+      "start_ms": 1388559,
+      "duration_ms": 3201,
+      "text": "fireside chat with a customer. So, one"
+    },
+    {
+      "start_ms": 1390880,
+      "duration_ms": 2080,
+      "text": "of the things that you can do,"
+    },
+    {
+      "start_ms": 1391760,
+      "duration_ms": 3600,
+      "text": "especially for those of you with sales"
+    },
+    {
+      "start_ms": 1392960,
+      "duration_ms": 4719,
+      "text": "teams, is let's say Santosh is one of my"
+    },
+    {
+      "start_ms": 1395360,
+      "duration_ms": 4480,
+      "text": "customers. I say, \"Hey, Santosh, do you"
+    },
+    {
+      "start_ms": 1397679,
+      "duration_ms": 4081,
+      "text": "mind coming on to a 30 minute fireside"
+    },
+    {
+      "start_ms": 1399840,
+      "duration_ms": 3839,
+      "text": "chat?\" like I'm really trying to help"
+    },
+    {
+      "start_ms": 1401760,
+      "duration_ms": 4000,
+      "text": "our sales team be more customer centric"
+    },
+    {
+      "start_ms": 1403679,
+      "duration_ms": 4000,
+      "text": "and really understand people like you"
+    },
+    {
+      "start_ms": 1405760,
+      "duration_ms": 3520,
+      "text": "and their role. Do you mind if we do"
+    },
+    {
+      "start_ms": 1407679,
+      "duration_ms": 3841,
+      "text": "something like that? We record it. I ask"
+    },
+    {
+      "start_ms": 1409280,
+      "duration_ms": 3440,
+      "text": "you a couple questions and they ask you"
+    },
+    {
+      "start_ms": 1411520,
+      "duration_ms": 3120,
+      "text": "a couple questions. Well, most people"
+    },
+    {
+      "start_ms": 1412720,
+      "duration_ms": 3760,
+      "text": "will say yes to that if they're a good"
+    },
+    {
+      "start_ms": 1414640,
+      "duration_ms": 4000,
+      "text": "customer. So, you record that. That"
+    },
+    {
+      "start_ms": 1416480,
+      "duration_ms": 4640,
+      "text": "becomes part of your onboarding content."
+    },
+    {
+      "start_ms": 1418640,
+      "duration_ms": 4720,
+      "text": "Uh customer interviews."
+    },
+    {
+      "start_ms": 1421120,
+      "duration_ms": 3919,
+      "text": "Uh the key here is don't let your"
+    },
+    {
+      "start_ms": 1423360,
+      "duration_ms": 4080,
+      "text": "product marketing team do the customer"
+    },
+    {
+      "start_ms": 1425039,
+      "duration_ms": 4561,
+      "text": "interview. I want you as the saleserson"
+    },
+    {
+      "start_ms": 1427440,
+      "duration_ms": 4400,
+      "text": "or the sales leader, someone with more"
+    },
+    {
+      "start_ms": 1429600,
+      "duration_ms": 3439,
+      "text": "of a sales mind to do the customer"
+    },
+    {
+      "start_ms": 1431840,
+      "duration_ms": 2560,
+      "text": "interview. And I don't want you to ask"
+    },
+    {
+      "start_ms": 1433039,
+      "duration_ms": 3281,
+      "text": "questions like, \"Why do you love our"
+    },
+    {
+      "start_ms": 1434400,
+      "duration_ms": 4399,
+      "text": "product?\" I want you to ask questions"
+    },
+    {
+      "start_ms": 1436320,
+      "duration_ms": 4080,
+      "text": "like, \"Hey, what's a typical day look"
+    },
+    {
+      "start_ms": 1438799,
+      "duration_ms": 3441,
+      "text": "like for you? What are your top two or"
+    },
+    {
+      "start_ms": 1440400,
+      "duration_ms": 2880,
+      "text": "three priorities right now? What are the"
+    },
+    {
+      "start_ms": 1442240,
+      "duration_ms": 2319,
+      "text": "biggest things getting in the way of"
+    },
+    {
+      "start_ms": 1443280,
+      "duration_ms": 3200,
+      "text": "that? How did you think about solving"
+    },
+    {
+      "start_ms": 1444559,
+      "duration_ms": 3441,
+      "text": "this problem prior to working with us?\""
+    },
+    {
+      "start_ms": 1446480,
+      "duration_ms": 3199,
+      "text": "Like, I want you to really think about"
+    },
+    {
+      "start_ms": 1448000,
+      "duration_ms": 4400,
+      "text": "stuff you can punch up your cold"
+    },
+    {
+      "start_ms": 1449679,
+      "duration_ms": 6561,
+      "text": "outreach language with. Uh, another"
+    },
+    {
+      "start_ms": 1452400,
+      "duration_ms": 5440,
+      "text": "underrated one is competitor content."
+    },
+    {
+      "start_ms": 1456240,
+      "duration_ms": 3840,
+      "text": "Uh if you're not a really big company"
+    },
+    {
+      "start_ms": 1457840,
+      "duration_ms": 4480,
+      "text": "right now, go to the top competitor in"
+    },
+    {
+      "start_ms": 1460080,
+      "duration_ms": 4880,
+      "text": "your space and just look at their case"
+    },
+    {
+      "start_ms": 1462320,
+      "duration_ms": 4959,
+      "text": "studies, their articles, their podcasts,"
+    },
+    {
+      "start_ms": 1464960,
+      "duration_ms": 4800,
+      "text": "their webinars. Like there's so much"
+    },
+    {
+      "start_ms": 1467279,
+      "duration_ms": 5441,
+      "text": "language right there on a competitor's"
+    },
+    {
+      "start_ms": 1469760,
+      "duration_ms": 5360,
+      "text": "site that you can use for inspiration in"
+    },
+    {
+      "start_ms": 1472720,
+      "duration_ms": 4319,
+      "text": "your outbound messaging. And lastly,"
+    },
+    {
+      "start_ms": 1475120,
+      "duration_ms": 4400,
+      "text": "another underrated one is conferences."
+    },
+    {
+      "start_ms": 1477039,
+      "duration_ms": 5441,
+      "text": "not going to conferences, but looking at"
+    },
+    {
+      "start_ms": 1479520,
+      "duration_ms": 4639,
+      "text": "the conferences in your space and"
+    },
+    {
+      "start_ms": 1482480,
+      "duration_ms": 3679,
+      "text": "looking specifically at the people"
+    },
+    {
+      "start_ms": 1484159,
+      "duration_ms": 3841,
+      "text": "speaking at those conferences and then"
+    },
+    {
+      "start_ms": 1486159,
+      "duration_ms": 4241,
+      "text": "specifically the topics that they're"
+    },
+    {
+      "start_ms": 1488000,
+      "duration_ms": 4960,
+      "text": "speaking about. It's likely that those"
+    },
+    {
+      "start_ms": 1490400,
+      "duration_ms": 5200,
+      "text": "topics and those people are talking"
+    },
+    {
+      "start_ms": 1492960,
+      "duration_ms": 5120,
+      "text": "about things that are priorities or"
+    },
+    {
+      "start_ms": 1495600,
+      "duration_ms": 4400,
+      "text": "problems for your existing prospective"
+    },
+    {
+      "start_ms": 1498080,
+      "duration_ms": 3440,
+      "text": "customer base. And then what I would try"
+    },
+    {
+      "start_ms": 1500000,
+      "duration_ms": 3039,
+      "text": "to do is see if you can hire one of"
+    },
+    {
+      "start_ms": 1501520,
+      "duration_ms": 4000,
+      "text": "those speakers hourly to provide some"
+    },
+    {
+      "start_ms": 1503039,
+      "duration_ms": 4801,
+      "text": "consulting for you on your messaging. So"
+    },
+    {
+      "start_ms": 1505520,
+      "duration_ms": 5200,
+      "text": "this is the that's the messaging piece."
+    },
+    {
+      "start_ms": 1507840,
+      "duration_ms": 5360,
+      "text": "Uh the big thing here is that you can"
+    },
+    {
+      "start_ms": 1510720,
+      "duration_ms": 4640,
+      "text": "tighten up your messaging in emails and"
+    },
+    {
+      "start_ms": 1513200,
+      "duration_ms": 4079,
+      "text": "talk tracks by getting more of the voice"
+    },
+    {
+      "start_ms": 1515360,
+      "duration_ms": 4880,
+      "text": "of the customer by just engaging with"
+    },
+    {
+      "start_ms": 1517279,
+      "duration_ms": 4961,
+      "text": "the customer more."
+    },
+    {
+      "start_ms": 1520240,
+      "duration_ms": 5600,
+      "text": "Cool. So that's strategy two. I'm just"
+    },
+    {
+      "start_ms": 1522240,
+      "duration_ms": 5600,
+      "text": "looking at the chat here."
+    },
+    {
+      "start_ms": 1525840,
+      "duration_ms": 3680,
+      "text": "Okay. Yeah. What if we're not selling a"
+    },
+    {
+      "start_ms": 1527840,
+      "duration_ms": 4400,
+      "text": "software but custom solutions as per the"
+    },
+    {
+      "start_ms": 1529520,
+      "duration_ms": 5120,
+      "text": "exact needs of our clients? Like I hear"
+    },
+    {
+      "start_ms": 1532240,
+      "duration_ms": 4080,
+      "text": "you on custom solutions."
+    },
+    {
+      "start_ms": 1534640,
+      "duration_ms": 3680,
+      "text": "But the people that you sell to are"
+    },
+    {
+      "start_ms": 1536320,
+      "duration_ms": 3760,
+      "text": "probably very similar. And the solution"
+    },
+    {
+      "start_ms": 1538320,
+      "duration_ms": 4959,
+      "text": "might be different, but the problem that"
+    },
+    {
+      "start_ms": 1540080,
+      "duration_ms": 5760,
+      "text": "it solves is the same. You want to focus"
+    },
+    {
+      "start_ms": 1543279,
+      "duration_ms": 4400,
+      "text": "your messaging not on what you do, but"
+    },
+    {
+      "start_ms": 1545840,
+      "duration_ms": 4640,
+      "text": "the problem that it solves and the goals"
+    },
+    {
+      "start_ms": 1547679,
+      "duration_ms": 5360,
+      "text": "that it aligns with. So for me, I don't"
+    },
+    {
+      "start_ms": 1550480,
+      "duration_ms": 6319,
+      "text": "sell sales training. The problem that"
+    },
+    {
+      "start_ms": 1553039,
+      "duration_ms": 6640,
+      "text": "I'm fixing is lack of pipeline,"
+    },
+    {
+      "start_ms": 1556799,
+      "duration_ms": 4880,
+      "text": "right? Poor top of funnel. Um AE is not"
+    },
+    {
+      "start_ms": 1559679,
+      "duration_ms": 3841,
+      "text": "hitting quota because they're relying"
+    },
+    {
+      "start_ms": 1561679,
+      "duration_ms": 3120,
+      "text": "too much on SDRs and marketing. they"
+    },
+    {
+      "start_ms": 1563520,
+      "duration_ms": 4000,
+      "text": "don't know how to sales source. Like"
+    },
+    {
+      "start_ms": 1564799,
+      "duration_ms": 4321,
+      "text": "that's the thing that I sell. So that"
+    },
+    {
+      "start_ms": 1567520,
+      "duration_ms": 4720,
+      "text": "problem is what you really want to focus"
+    },
+    {
+      "start_ms": 1569120,
+      "duration_ms": 4960,
+      "text": "on. Um George asked, \"What's the best"
+    },
+    {
+      "start_ms": 1572240,
+      "duration_ms": 5280,
+      "text": "way to give a teaser of the analysis?"
+    },
+    {
+      "start_ms": 1574080,
+      "duration_ms": 5360,
+      "text": "Attach a PDF.\" Dude, I love video."
+    },
+    {
+      "start_ms": 1577520,
+      "duration_ms": 3279,
+      "text": "So one thing that we've been doing is"
+    },
+    {
+      "start_ms": 1579440,
+      "duration_ms": 3520,
+      "text": "we'll record a quick video and say,"
+    },
+    {
+      "start_ms": 1580799,
+      "duration_ms": 3760,
+      "text": "\"Hey, I was on your website. I found X,"
+    },
+    {
+      "start_ms": 1582960,
+      "duration_ms": 3520,
+      "text": "Y, and Z during the checkout process."
+    },
+    {
+      "start_ms": 1584559,
+      "duration_ms": 3521,
+      "text": "Had a few other ideas to share with you"
+    },
+    {
+      "start_ms": 1586480,
+      "duration_ms": 2880,
+      "text": "that might be impacting conversions."
+    },
+    {
+      "start_ms": 1588080,
+      "duration_ms": 3760,
+      "text": "Does it make sense to hop on a quick"
+    },
+    {
+      "start_ms": 1589360,
+      "duration_ms": 5120,
+      "text": "chat?\" Like video is really really good"
+    },
+    {
+      "start_ms": 1591840,
+      "duration_ms": 5680,
+      "text": "if you have something visually to show."
+    },
+    {
+      "start_ms": 1594480,
+      "duration_ms": 4960,
+      "text": "There's lots of solutions for that."
+    },
+    {
+      "start_ms": 1597520,
+      "duration_ms": 3680,
+      "text": "Cool."
+    },
+    {
+      "start_ms": 1599440,
+      "duration_ms": 3760,
+      "text": "Should we keep going? Two more"
+    },
+    {
+      "start_ms": 1601200,
+      "duration_ms": 4400,
+      "text": "strategies."
+    },
+    {
+      "start_ms": 1603200,
+      "duration_ms": 3680,
+      "text": "Okay. Strategy number three. I am"
+    },
+    {
+      "start_ms": 1605600,
+      "duration_ms": 2959,
+      "text": "assuming that if any of you are doing"
+    },
+    {
+      "start_ms": 1606880,
+      "duration_ms": 3840,
+      "text": "outbound, you're probably sending cold"
+    },
+    {
+      "start_ms": 1608559,
+      "duration_ms": 3841,
+      "text": "emails. Uh I want to give you guys an"
+    },
+    {
+      "start_ms": 1610720,
+      "duration_ms": 3120,
+      "text": "idea of like what a good versus bad cold"
+    },
+    {
+      "start_ms": 1612400,
+      "duration_ms": 4879,
+      "text": "email looks like and then a really quick"
+    },
+    {
+      "start_ms": 1613840,
+      "duration_ms": 4959,
+      "text": "framework. And um I normally spend hours"
+    },
+    {
+      "start_ms": 1617279,
+      "duration_ms": 3121,
+      "text": "like multiple hour sessions teaching"
+    },
+    {
+      "start_ms": 1618799,
+      "duration_ms": 3921,
+      "text": "this. So, I'm going to try to con uh"
+    },
+    {
+      "start_ms": 1620400,
+      "duration_ms": 4000,
+      "text": "condense it down into like 5 minutes. Uh"
+    },
+    {
+      "start_ms": 1622720,
+      "duration_ms": 4640,
+      "text": "the objective that you want for a cold"
+    },
+    {
+      "start_ms": 1624400,
+      "duration_ms": 4399,
+      "text": "email is you want it to have a onetoone"
+    },
+    {
+      "start_ms": 1627360,
+      "duration_ms": 3600,
+      "text": "look and feel, but you don't want to"
+    },
+    {
+      "start_ms": 1628799,
+      "duration_ms": 4401,
+      "text": "have every email take you like multiple"
+    },
+    {
+      "start_ms": 1630960,
+      "duration_ms": 4160,
+      "text": "minutes or hours to write. Okay? So,"
+    },
+    {
+      "start_ms": 1633200,
+      "duration_ms": 2880,
+      "text": "there's a couple things. Um and we're"
+    },
+    {
+      "start_ms": 1635120,
+      "duration_ms": 2799,
+      "text": "going to show you some data and a"
+    },
+    {
+      "start_ms": 1636080,
+      "duration_ms": 4880,
+      "text": "framework on this. We want to keep"
+    },
+    {
+      "start_ms": 1637919,
+      "duration_ms": 5201,
+      "text": "emails short, limit to one call to"
+    },
+    {
+      "start_ms": 1640960,
+      "duration_ms": 5440,
+      "text": "action. We can only ask the person to do"
+    },
+    {
+      "start_ms": 1643120,
+      "duration_ms": 4640,
+      "text": "one thing. We can only ask for time. We"
+    },
+    {
+      "start_ms": 1646400,
+      "duration_ms": 2560,
+      "text": "can only ask them to look at a case"
+    },
+    {
+      "start_ms": 1647760,
+      "duration_ms": 2640,
+      "text": "study."
+    },
+    {
+      "start_ms": 1648960,
+      "duration_ms": 2880,
+      "text": "we can only ask them to click the link"
+    },
+    {
+      "start_ms": 1650400,
+      "duration_ms": 3120,
+      "text": "or whatever it is. We can't do all of"
+    },
+    {
+      "start_ms": 1651840,
+      "duration_ms": 3760,
+      "text": "those same things in an email. We can"
+    },
+    {
+      "start_ms": 1653520,
+      "duration_ms": 3600,
+      "text": "only do one of them. Okay? And we're"
+    },
+    {
+      "start_ms": 1655600,
+      "duration_ms": 3679,
+      "text": "going to use subject lines that are less"
+    },
+    {
+      "start_ms": 1657120,
+      "duration_ms": 4880,
+      "text": "than five words. The thing that you have"
+    },
+    {
+      "start_ms": 1659279,
+      "duration_ms": 4400,
+      "text": "to remember with email, uh this is a"
+    },
+    {
+      "start_ms": 1662000,
+      "duration_ms": 3840,
+      "text": "snapshot of my inbox and your guys's"
+    },
+    {
+      "start_ms": 1663679,
+      "duration_ms": 5600,
+      "text": "inboxes, Adam and Santo, are probably"
+    },
+    {
+      "start_ms": 1665840,
+      "duration_ms": 5600,
+      "text": "way crazier than mine, but this is my"
+    },
+    {
+      "start_ms": 1669279,
+      "duration_ms": 3601,
+      "text": "inbox and the cold emails that you guys"
+    },
+    {
+      "start_ms": 1671440,
+      "duration_ms": 3119,
+      "text": "that I get. What What do you guys notice"
+    },
+    {
+      "start_ms": 1672880,
+      "duration_ms": 3600,
+      "text": "in the chat? Let me know. What do you"
+    },
+    {
+      "start_ms": 1674559,
+      "duration_ms": 3600,
+      "text": "guys notice that just screams this is a"
+    },
+    {
+      "start_ms": 1676480,
+      "duration_ms": 3199,
+      "text": "sales email?"
+    },
+    {
+      "start_ms": 1678159,
+      "duration_ms": 3601,
+      "text": "Look at the subject lines. Look at the"
+    },
+    {
+      "start_ms": 1679679,
+      "duration_ms": 3441,
+      "text": "first lines of the email. What do you"
+    },
+    {
+      "start_ms": 1681760,
+      "duration_ms": 6320,
+      "text": "guys notice in the email that just"
+    },
+    {
+      "start_ms": 1683120,
+      "duration_ms": 7439,
+      "text": "screams this is a sales email."
+    },
+    {
+      "start_ms": 1688080,
+      "duration_ms": 3920,
+      "text": "Yeah. One is addressed to my wife. We we"
+    },
+    {
+      "start_ms": 1690559,
+      "duration_ms": 2641,
+      "text": "used to run the business together a long"
+    },
+    {
+      "start_ms": 1692000,
+      "duration_ms": 3120,
+      "text": "time ago, but addressed to the wrong"
+    },
+    {
+      "start_ms": 1693200,
+      "duration_ms": 4320,
+      "text": "person. Yeah. All caps."
+    },
+    {
+      "start_ms": 1695120,
+      "duration_ms": 3279,
+      "text": "Jason Bay. Sorry for bugging you again."
+    },
+    {
+      "start_ms": 1697520,
+      "duration_ms": 2159,
+      "text": "I mean, there's just"
+    },
+    {
+      "start_ms": 1698399,
+      "duration_ms": 3201,
+      "text": "Yeah,"
+    },
+    {
+      "start_ms": 1699679,
+      "duration_ms": 3441,
+      "text": "these just don't look like like Adam"
+    },
+    {
+      "start_ms": 1701600,
+      "duration_ms": 4079,
+      "text": "when we've had email correspondents back"
+    },
+    {
+      "start_ms": 1703120,
+      "duration_ms": 4880,
+      "text": "and forth. It's like the subject line"
+    },
+    {
+      "start_ms": 1705679,
+      "duration_ms": 7360,
+      "text": "was can you chat about the topic for the"
+    },
+    {
+      "start_ms": 1708000,
+      "duration_ms": 7360,
+      "text": "upcoming inbound le uh uh or inboundled"
+    },
+    {
+      "start_ms": 1713039,
+      "duration_ms": 3760,
+      "text": "outbound webinar."
+    },
+    {
+      "start_ms": 1715360,
+      "duration_ms": 2559,
+      "text": "It's like that was the subject line. It"
+    },
+    {
+      "start_ms": 1716799,
+      "duration_ms": 2161,
+      "text": "wasn't even anything in the body of the"
+    },
+    {
+      "start_ms": 1717919,
+      "duration_ms": 3041,
+      "text": "email. You know what I mean? It's like"
+    },
+    {
+      "start_ms": 1718960,
+      "duration_ms": 3439,
+      "text": "these are not written like emails that"
+    },
+    {
+      "start_ms": 1720960,
+      "duration_ms": 4000,
+      "text": "you would send to a person that you"
+    },
+    {
+      "start_ms": 1722399,
+      "duration_ms": 5361,
+      "text": "know. So the data on emails, this is"
+    },
+    {
+      "start_ms": 1724960,
+      "duration_ms": 4240,
+      "text": "from Lavender. A friend of mine will all"
+    },
+    {
+      "start_ms": 1727760,
+      "duration_ms": 2960,
+      "text": "red runs this company. They send"
+    },
+    {
+      "start_ms": 1729200,
+      "duration_ms": 3680,
+      "text": "millions of sales emails through the"
+    },
+    {
+      "start_ms": 1730720,
+      "duration_ms": 4800,
+      "text": "platform every month. And this is what"
+    },
+    {
+      "start_ms": 1732880,
+      "duration_ms": 4960,
+      "text": "the data shows you. Emails should be"
+    },
+    {
+      "start_ms": 1735520,
+      "duration_ms": 5360,
+      "text": "around 75 words or less. And you need to"
+    },
+    {
+      "start_ms": 1737840,
+      "duration_ms": 7040,
+      "text": "use short one to two sentence paragraphs"
+    },
+    {
+      "start_ms": 1740880,
+      "duration_ms": 5279,
+      "text": "in order to optimize the reply rate. So"
+    },
+    {
+      "start_ms": 1744880,
+      "duration_ms": 2560,
+      "text": "mobile optimized. I'm going to show you"
+    },
+    {
+      "start_ms": 1746159,
+      "duration_ms": 2801,
+      "text": "some examples. So this is what the"
+    },
+    {
+      "start_ms": 1747440,
+      "duration_ms": 4400,
+      "text": "framework looks like. I call it the"
+    },
+    {
+      "start_ms": 1748960,
+      "duration_ms": 5040,
+      "text": "reply method. Uh we want a boring"
+    },
+    {
+      "start_ms": 1751840,
+      "duration_ms": 3439,
+      "text": "subject line. The first line of the"
+    },
+    {
+      "start_ms": 1754000,
+      "duration_ms": 3120,
+      "text": "email should be the reason why you're"
+    },
+    {
+      "start_ms": 1755279,
+      "duration_ms": 3681,
+      "text": "reaching out."
+    },
+    {
+      "start_ms": 1757120,
+      "duration_ms": 4480,
+      "text": "Second line's the problem you think they"
+    },
+    {
+      "start_ms": 1758960,
+      "duration_ms": 4959,
+      "text": "might be having. Social proof, then a"
+    },
+    {
+      "start_ms": 1761600,
+      "duration_ms": 5640,
+      "text": "call to action under 75 words. Looks a"
+    },
+    {
+      "start_ms": 1763919,
+      "duration_ms": 3321,
+      "text": "lot like this."
+    },
+    {
+      "start_ms": 1769360,
+      "duration_ms": 3280,
+      "text": "So, this is like the framework that you"
+    },
+    {
+      "start_ms": 1771039,
+      "duration_ms": 2801,
+      "text": "can kind of think about this email in."
+    },
+    {
+      "start_ms": 1772640,
+      "duration_ms": 3279,
+      "text": "I'm going to give you an example of what"
+    },
+    {
+      "start_ms": 1773840,
+      "duration_ms": 4719,
+      "text": "this looks like here in a second, but"
+    },
+    {
+      "start_ms": 1775919,
+      "duration_ms": 5120,
+      "text": "this is how you want your email to be"
+    },
+    {
+      "start_ms": 1778559,
+      "duration_ms": 4641,
+      "text": "structured. the reason why I'm reaching"
+    },
+    {
+      "start_ms": 1781039,
+      "duration_ms": 4880,
+      "text": "out, the problem I think they might be"
+    },
+    {
+      "start_ms": 1783200,
+      "duration_ms": 4800,
+      "text": "having, who I've helped with this, and"
+    },
+    {
+      "start_ms": 1785919,
+      "duration_ms": 5201,
+      "text": "then a quick call to action. Looks a lot"
+    },
+    {
+      "start_ms": 1788000,
+      "duration_ms": 5360,
+      "text": "like this. This is a company that sells"
+    },
+    {
+      "start_ms": 1791120,
+      "duration_ms": 3679,
+      "text": "um a solution to clinical operations"
+    },
+    {
+      "start_ms": 1793360,
+      "duration_ms": 4080,
+      "text": "people that run a lot of medical"
+    },
+    {
+      "start_ms": 1794799,
+      "duration_ms": 4480,
+      "text": "studies. So, they sell medical devices"
+    },
+    {
+      "start_ms": 1797440,
+      "duration_ms": 3680,
+      "text": "and they run these studies to prove that"
+    },
+    {
+      "start_ms": 1799279,
+      "duration_ms": 4081,
+      "text": "the medical device actually delivers the"
+    },
+    {
+      "start_ms": 1801120,
+      "duration_ms": 4080,
+      "text": "outcomes. So, you can see the email"
+    },
+    {
+      "start_ms": 1803360,
+      "duration_ms": 3280,
+      "text": "right there. got something custom in the"
+    },
+    {
+      "start_ms": 1805200,
+      "duration_ms": 3120,
+      "text": "first line. The reason why I'm reaching"
+    },
+    {
+      "start_ms": 1806640,
+      "duration_ms": 3600,
+      "text": "out, the problem in the middle"
+    },
+    {
+      "start_ms": 1808320,
+      "duration_ms": 4000,
+      "text": "paragraph, we're helping other people"
+    },
+    {
+      "start_ms": 1810240,
+      "duration_ms": 4240,
+      "text": "like you. We could have dropped logos if"
+    },
+    {
+      "start_ms": 1812320,
+      "duration_ms": 3839,
+      "text": "we wanted to in there. Worth a quick"
+    },
+    {
+      "start_ms": 1814480,
+      "duration_ms": 3280,
+      "text": "chat."
+    },
+    {
+      "start_ms": 1816159,
+      "duration_ms": 3760,
+      "text": "And then we just bump that email twice"
+    },
+    {
+      "start_ms": 1817760,
+      "duration_ms": 3760,
+      "text": "on the same email chain. We bump it with"
+    },
+    {
+      "start_ms": 1819919,
+      "duration_ms": 4000,
+      "text": "a case study. We bump it with an any"
+    },
+    {
+      "start_ms": 1821520,
+      "duration_ms": 5120,
+      "text": "thoughts. And this email sequence, we"
+    },
+    {
+      "start_ms": 1823919,
+      "duration_ms": 5360,
+      "text": "get double- digit reply rates. It's"
+    },
+    {
+      "start_ms": 1826640,
+      "duration_ms": 4880,
+      "text": "hyper relevant to the study that they're"
+    },
+    {
+      "start_ms": 1829279,
+      "duration_ms": 5601,
+      "text": "conducting. It's personalized. It's very"
+    },
+    {
+      "start_ms": 1831520,
+      "duration_ms": 6000,
+      "text": "easy to respond to."
+    },
+    {
+      "start_ms": 1834880,
+      "duration_ms": 4000,
+      "text": "And this is it. So with your emails,"
+    },
+    {
+      "start_ms": 1837520,
+      "duration_ms": 3360,
+      "text": "that's what you can think about is how"
+    },
+    {
+      "start_ms": 1838880,
+      "duration_ms": 4480,
+      "text": "do I reduce the amount of effort that it"
+    },
+    {
+      "start_ms": 1840880,
+      "duration_ms": 3600,
+      "text": "will take to reply to the email. Let us"
+    },
+    {
+      "start_ms": 1843360,
+      "duration_ms": 2400,
+      "text": "know if you guys got any questions and"
+    },
+    {
+      "start_ms": 1844480,
+      "duration_ms": 3760,
+      "text": "emails. We got to we got to keep"
+    },
+    {
+      "start_ms": 1845760,
+      "duration_ms": 3760,
+      "text": "rolling. I got two more and then we're"
+    },
+    {
+      "start_ms": 1848240,
+      "duration_ms": 3280,
+      "text": "going to open it up for questions. So"
+    },
+    {
+      "start_ms": 1849520,
+      "duration_ms": 5360,
+      "text": "strategy four, this is where you can"
+    },
+    {
+      "start_ms": 1851520,
+      "duration_ms": 6960,
+      "text": "take advantage of being lean. This is an"
+    },
+    {
+      "start_ms": 1854880,
+      "duration_ms": 7120,
+      "text": "idea of how do we really elevate the"
+    },
+    {
+      "start_ms": 1858480,
+      "duration_ms": 5280,
+      "text": "value of the call to action and beat our"
+    },
+    {
+      "start_ms": 1862000,
+      "duration_ms": 3840,
+      "text": "competitors by being agile. There's a"
+    },
+    {
+      "start_ms": 1863760,
+      "duration_ms": 4880,
+      "text": "couple things that you can do. Um, we"
+    },
+    {
+      "start_ms": 1865840,
+      "duration_ms": 7199,
+      "text": "want to take advantage of the power and"
+    },
+    {
+      "start_ms": 1868640,
+      "duration_ms": 6960,
+      "text": "job title. Okay, exectosec outreach. So,"
+    },
+    {
+      "start_ms": 1873039,
+      "duration_ms": 4801,
+      "text": "if you guys have a small sales team, one"
+    },
+    {
+      "start_ms": 1875600,
+      "duration_ms": 4959,
+      "text": "of the things that you can do, let's say"
+    },
+    {
+      "start_ms": 1877840,
+      "duration_ms": 5040,
+      "text": "Adam is my CEO and I'm a sales rep. I"
+    },
+    {
+      "start_ms": 1880559,
+      "duration_ms": 4321,
+      "text": "can ghost write emails for Adam to send"
+    },
+    {
+      "start_ms": 1882880,
+      "duration_ms": 4320,
+      "text": "directly to the seauite at the large"
+    },
+    {
+      "start_ms": 1884880,
+      "duration_ms": 3279,
+      "text": "enterprises I'm reaching out to. And you"
+    },
+    {
+      "start_ms": 1887200,
+      "duration_ms": 3120,
+      "text": "know what they're going to see? They're"
+    },
+    {
+      "start_ms": 1888159,
+      "duration_ms": 5520,
+      "text": "going to see CEO in the title. And it"
+    },
+    {
+      "start_ms": 1890320,
+      "duration_ms": 5839,
+      "text": "doesn't matter what size the company is."
+    },
+    {
+      "start_ms": 1893679,
+      "duration_ms": 4561,
+      "text": "Power loves interacting with power."
+    },
+    {
+      "start_ms": 1896159,
+      "duration_ms": 4481,
+      "text": "Okay? VPs love interacting with other"
+    },
+    {
+      "start_ms": 1898240,
+      "duration_ms": 5200,
+      "text": "VPs. Seuite loves interacting with other"
+    },
+    {
+      "start_ms": 1900640,
+      "duration_ms": 4320,
+      "text": "people in the seauite. So exectoec"
+    },
+    {
+      "start_ms": 1903440,
+      "duration_ms": 4880,
+      "text": "outreach, imagine that's the advantage"
+    },
+    {
+      "start_ms": 1904960,
+      "duration_ms": 6000,
+      "text": "you have over a really huge company. The"
+    },
+    {
+      "start_ms": 1908320,
+      "duration_ms": 4400,
+      "text": "CRO at a company with a thousand sales"
+    },
+    {
+      "start_ms": 1910960,
+      "duration_ms": 3280,
+      "text": "reps is not going to be sending out all"
+    },
+    {
+      "start_ms": 1912720,
+      "duration_ms": 2880,
+      "text": "these emails for their reps. They have"
+    },
+    {
+      "start_ms": 1914240,
+      "duration_ms": 3679,
+      "text": "to be working like a multi-million"
+    },
+    {
+      "start_ms": 1915600,
+      "duration_ms": 4160,
+      "text": "dollar deal in order them to engage in"
+    },
+    {
+      "start_ms": 1917919,
+      "duration_ms": 6321,
+      "text": "it. If you guys are at a small company,"
+    },
+    {
+      "start_ms": 1919760,
+      "duration_ms": 7120,
+      "text": "this is a huge advantage that you have,"
+    },
+    {
+      "start_ms": 1924240,
+      "duration_ms": 5360,
+      "text": "right? Um, get execs involved earlier in"
+    },
+    {
+      "start_ms": 1926880,
+      "duration_ms": 4159,
+      "text": "deals, too. So, I think the the part"
+    },
+    {
+      "start_ms": 1929600,
+      "duration_ms": 4400,
+      "text": "about outbound that people don't talk"
+    },
+    {
+      "start_ms": 1931039,
+      "duration_ms": 5041,
+      "text": "about is the multi-threading."
+    },
+    {
+      "start_ms": 1934000,
+      "duration_ms": 4080,
+      "text": "So when I get a a sales call set up,"
+    },
+    {
+      "start_ms": 1936080,
+      "duration_ms": 4959,
+      "text": "let's say I'm talking to Santosh and"
+    },
+    {
+      "start_ms": 1938080,
+      "duration_ms": 4640,
+      "text": "he's the director of sales, I still got"
+    },
+    {
+      "start_ms": 1941039,
+      "duration_ms": 4961,
+      "text": "to get other people like Adam involved."
+    },
+    {
+      "start_ms": 1942720,
+      "duration_ms": 5120,
+      "text": "If Adam's let's say the CRO, like the"
+    },
+    {
+      "start_ms": 1946000,
+      "duration_ms": 3840,
+      "text": "outbound, like the prospecting that"
+    },
+    {
+      "start_ms": 1947840,
+      "duration_ms": 4319,
+      "text": "happens after that first meeting, I can"
+    },
+    {
+      "start_ms": 1949840,
+      "duration_ms": 4160,
+      "text": "loop in my CEO to reach out directly to"
+    },
+    {
+      "start_ms": 1952159,
+      "duration_ms": 3520,
+      "text": "Adam and let him know that, hey, I saw"
+    },
+    {
+      "start_ms": 1954000,
+      "duration_ms": 3600,
+      "text": "that Sontosh and Jason are going to be"
+    },
+    {
+      "start_ms": 1955679,
+      "duration_ms": 3441,
+      "text": "chatting. Let's get some time when"
+    },
+    {
+      "start_ms": 1957600,
+      "duration_ms": 3520,
+      "text": "you're free. Like there's so much like"
+    },
+    {
+      "start_ms": 1959120,
+      "duration_ms": 3679,
+      "text": "execto to exec outreach that you can do"
+    },
+    {
+      "start_ms": 1961120,
+      "duration_ms": 4240,
+      "text": "that is very hard to do if you're at a"
+    },
+    {
+      "start_ms": 1962799,
+      "duration_ms": 5600,
+      "text": "big company"
+    },
+    {
+      "start_ms": 1965360,
+      "duration_ms": 6080,
+      "text": "and then leverage your VCs for intros."
+    },
+    {
+      "start_ms": 1968399,
+      "duration_ms": 6241,
+      "text": "This I think is something that again if"
+    },
+    {
+      "start_ms": 1971440,
+      "duration_ms": 5040,
+      "text": "you're a really large company"
+    },
+    {
+      "start_ms": 1974640,
+      "duration_ms": 3600,
+      "text": "it's going to be much harder to think"
+    },
+    {
+      "start_ms": 1976480,
+      "duration_ms": 3919,
+      "text": "about you know how do I get the person"
+    },
+    {
+      "start_ms": 1978240,
+      "duration_ms": 4720,
+      "text": "in my seuite to give me intros and"
+    },
+    {
+      "start_ms": 1980399,
+      "duration_ms": 3841,
+      "text": "access into these accounts who has the"
+    },
+    {
+      "start_ms": 1982960,
+      "duration_ms": 3360,
+      "text": "relationship when if you're at a small"
+    },
+    {
+      "start_ms": 1984240,
+      "duration_ms": 4000,
+      "text": "company that CEO you have the direct"
+    },
+    {
+      "start_ms": 1986320,
+      "duration_ms": 4959,
+      "text": "relationship with your VCs and and your"
+    },
+    {
+      "start_ms": 1988240,
+      "duration_ms": 5520,
+      "text": "rep is like literally one person removed"
+    },
+    {
+      "start_ms": 1991279,
+      "duration_ms": 4081,
+      "text": "from getting that intro. So, these are"
+    },
+    {
+      "start_ms": 1993760,
+      "duration_ms": 4480,
+      "text": "some ways that you can really take"
+    },
+    {
+      "start_ms": 1995360,
+      "duration_ms": 5919,
+      "text": "advantage of being lean that I really"
+    },
+    {
+      "start_ms": 1998240,
+      "duration_ms": 5520,
+      "text": "like. Um, I got one more and then we can"
+    },
+    {
+      "start_ms": 2001279,
+      "duration_ms": 4000,
+      "text": "open it up here. Uh, well, you know,"
+    },
+    {
+      "start_ms": 2003760,
+      "duration_ms": 3039,
+      "text": "what would it be on this uh show if I"
+    },
+    {
+      "start_ms": 2005279,
+      "duration_ms": 3760,
+      "text": "didn't talk about inbound led outbound,"
+    },
+    {
+      "start_ms": 2006799,
+      "duration_ms": 4240,
+      "text": "right? Um, I think [laughter] I think"
+    },
+    {
+      "start_ms": 2009039,
+      "duration_ms": 4000,
+      "text": "the objective with inbound le outbound"
+    },
+    {
+      "start_ms": 2011039,
+      "duration_ms": 6161,
+      "text": "is like the ceiling of your outbound"
+    },
+    {
+      "start_ms": 2013039,
+      "duration_ms": 6880,
+      "text": "success is your marketing engine. So"
+    },
+    {
+      "start_ms": 2017200,
+      "duration_ms": 4719,
+      "text": "what you can do as a really small nimble"
+    },
+    {
+      "start_ms": 2019919,
+      "duration_ms": 3760,
+      "text": "team is like you can outmarket these"
+    },
+    {
+      "start_ms": 2021919,
+      "duration_ms": 4321,
+      "text": "larger competitors by just creating"
+    },
+    {
+      "start_ms": 2023679,
+      "duration_ms": 4240,
+      "text": "higher quality content. But how"
+    },
+    {
+      "start_ms": 2026240,
+      "duration_ms": 3439,
+      "text": "successful your outbound is, it's going"
+    },
+    {
+      "start_ms": 2027919,
+      "duration_ms": 4000,
+      "text": "to be limited by how good your marketing"
+    },
+    {
+      "start_ms": 2029679,
+      "duration_ms": 4961,
+      "text": "is. The social proof that you create,"
+    },
+    {
+      "start_ms": 2031919,
+      "duration_ms": 4321,
+      "text": "the brand awareness, the reason why Gong"
+    },
+    {
+      "start_ms": 2034640,
+      "duration_ms": 3440,
+      "text": "like was so awesome when I worked with"
+    },
+    {
+      "start_ms": 2036240,
+      "duration_ms": 3679,
+      "text": "them is that a lot of people they called"
+    },
+    {
+      "start_ms": 2038080,
+      "duration_ms": 4560,
+      "text": "already knew who Gong was. Like how cool"
+    },
+    {
+      "start_ms": 2039919,
+      "duration_ms": 5120,
+      "text": "is that, you know? Like that's the power"
+    },
+    {
+      "start_ms": 2042640,
+      "duration_ms": 4720,
+      "text": "of brand recognition. So, a couple"
+    },
+    {
+      "start_ms": 2045039,
+      "duration_ms": 4560,
+      "text": "ideas. This is stuff that you can do"
+    },
+    {
+      "start_ms": 2047360,
+      "duration_ms": 3759,
+      "text": "like immediately after this call is like"
+    },
+    {
+      "start_ms": 2049599,
+      "duration_ms": 4161,
+      "text": "how much content are you creating with"
+    },
+    {
+      "start_ms": 2051119,
+      "duration_ms": 4480,
+      "text": "your customers. Like, if you're not, you"
+    },
+    {
+      "start_ms": 2053760,
+      "duration_ms": 4560,
+      "text": "should be doing a bi-weekly or weekly"
+    },
+    {
+      "start_ms": 2055599,
+      "duration_ms": 4320,
+      "text": "webinar like with your actual customers."
+    },
+    {
+      "start_ms": 2058320,
+      "duration_ms": 3200,
+      "text": "That's a piece of content that you can"
+    },
+    {
+      "start_ms": 2059919,
+      "duration_ms": 3920,
+      "text": "share during the outbound process or"
+    },
+    {
+      "start_ms": 2061520,
+      "duration_ms": 4159,
+      "text": "clips of that content. Like, you can get"
+    },
+    {
+      "start_ms": 2063839,
+      "duration_ms": 3921,
+      "text": "uh you can this is a prospecting play,"
+    },
+    {
+      "start_ms": 2065679,
+      "duration_ms": 3841,
+      "text": "too. Like if you guys have a podcast,"
+    },
+    {
+      "start_ms": 2067760,
+      "duration_ms": 3680,
+      "text": "you can invite prospective customers"
+    },
+    {
+      "start_ms": 2069520,
+      "duration_ms": 3119,
+      "text": "onto that podcast as guests and that's"
+    },
+    {
+      "start_ms": 2071440,
+      "duration_ms": 4080,
+      "text": "that's a great way to get that"
+    },
+    {
+      "start_ms": 2072639,
+      "duration_ms": 4801,
+      "text": "relationship started. Um, this is a"
+    },
+    {
+      "start_ms": 2075520,
+      "duration_ms": 4480,
+      "text": "great way to operationalize like close,"
+    },
+    {
+      "start_ms": 2077440,
+      "duration_ms": 4719,
+      "text": "lost, re-engagement, customer, alumni,"
+    },
+    {
+      "start_ms": 2080000,
+      "duration_ms": 4159,
+      "text": "etc. Like what you really want to think"
+    },
+    {
+      "start_ms": 2082159,
+      "duration_ms": 3920,
+      "text": "about is like how am I capturing all of"
+    },
+    {
+      "start_ms": 2084159,
+      "duration_ms": 5121,
+      "text": "the lowhanging fruit and people that are"
+    },
+    {
+      "start_ms": 2086079,
+      "duration_ms": 5280,
+      "text": "already in our ecosystem?"
+    },
+    {
+      "start_ms": 2089280,
+      "duration_ms": 3680,
+      "text": "And this is an example of of me actually"
+    },
+    {
+      "start_ms": 2091359,
+      "duration_ms": 4320,
+      "text": "doing this because I still prospect a"
+    },
+    {
+      "start_ms": 2092960,
+      "duration_ms": 4879,
+      "text": "ton. Um, I blurred out his name just to"
+    },
+    {
+      "start_ms": 2095679,
+      "duration_ms": 4081,
+      "text": "keep it private, but this is the uh the"
+    },
+    {
+      "start_ms": 2097839,
+      "duration_ms": 4000,
+      "text": "EVP"
+    },
+    {
+      "start_ms": 2099760,
+      "duration_ms": 3599,
+      "text": "at Square. You They have like over a"
+    },
+    {
+      "start_ms": 2101839,
+      "duration_ms": 2881,
+      "text": "thousand reps at Square. This is a guy"
+    },
+    {
+      "start_ms": 2103359,
+      "duration_ms": 3841,
+      "text": "I've been connected with for a couple"
+    },
+    {
+      "start_ms": 2104720,
+      "duration_ms": 4879,
+      "text": "years on LinkedIn. He posted this this"
+    },
+    {
+      "start_ms": 2107200,
+      "duration_ms": 4000,
+      "text": "thing on the left. All I did was comment"
+    },
+    {
+      "start_ms": 2109599,
+      "duration_ms": 2721,
+      "text": "on it. Looks like a killer opportunity."
+    },
+    {
+      "start_ms": 2111200,
+      "duration_ms": 3040,
+      "text": "He said, \"We definitely need to connect"
+    },
+    {
+      "start_ms": 2112320,
+      "duration_ms": 3360,
+      "text": "on rep sourcing tech uh tactics. Let's"
+    },
+    {
+      "start_ms": 2114240,
+      "duration_ms": 4560,
+      "text": "chat soon.\" And then I sent him the"
+    },
+    {
+      "start_ms": 2115680,
+      "duration_ms": 5679,
+      "text": "email on the right."
+    },
+    {
+      "start_ms": 2118800,
+      "duration_ms": 4480,
+      "text": "That's it. And he loops in his EA. do"
+    },
+    {
+      "start_ms": 2121359,
+      "duration_ms": 3681,
+      "text": "like when you do inbound le outbound"
+    },
+    {
+      "start_ms": 2123280,
+      "duration_ms": 3680,
+      "text": "like you create content the outbound"
+    },
+    {
+      "start_ms": 2125040,
+      "duration_ms": 5520,
+      "text": "it's like it's so much of a different"
+    },
+    {
+      "start_ms": 2126960,
+      "duration_ms": 5440,
+      "text": "game and I'm a marketing team of of one"
+    },
+    {
+      "start_ms": 2130560,
+      "duration_ms": 3360,
+      "text": "like you know I have help from an"
+    },
+    {
+      "start_ms": 2132400,
+      "duration_ms": 3199,
+      "text": "operations person and then we have a"
+    },
+    {
+      "start_ms": 2133920,
+      "duration_ms": 3439,
+      "text": "little bit of work with an agency that"
+    },
+    {
+      "start_ms": 2135599,
+      "duration_ms": 5201,
+      "text": "we do to help us with webinars but I'm a"
+    },
+    {
+      "start_ms": 2137359,
+      "duration_ms": 6240,
+      "text": "a content team of of one so this is all"
+    },
+    {
+      "start_ms": 2140800,
+      "duration_ms": 5039,
+      "text": "stuff that you can put into action um"
+    },
+    {
+      "start_ms": 2143599,
+      "duration_ms": 4881,
+      "text": "that's my spiel for today you guys those"
+    },
+    {
+      "start_ms": 2145839,
+      "duration_ms": 5041,
+      "text": "those are my five tips"
+    },
+    {
+      "start_ms": 2148480,
+      "duration_ms": 4480,
+      "text": "that that was amazing there's There's a"
+    },
+    {
+      "start_ms": 2150880,
+      "duration_ms": 4880,
+      "text": "bunch of questions we have for you, but"
+    },
+    {
+      "start_ms": 2152960,
+      "duration_ms": 5200,
+      "text": "first I want to ask the last question"
+    },
+    {
+      "start_ms": 2155760,
+      "duration_ms": 4640,
+      "text": "and keep in mind we're asking this to"
+    },
+    {
+      "start_ms": 2158160,
+      "duration_ms": 5520,
+      "text": "help source future guests and future"
+    },
+    {
+      "start_ms": 2160400,
+      "duration_ms": 5760,
+      "text": "content. So John's going to hit you with"
+    },
+    {
+      "start_ms": 2163680,
+      "duration_ms": 6480,
+      "text": "this multiple choice. Please just type"
+    },
+    {
+      "start_ms": 2166160,
+      "duration_ms": 6560,
+      "text": "in short answer. I am trying to blank"
+    },
+    {
+      "start_ms": 2170160,
+      "duration_ms": 5760,
+      "text": "but blank, right? Like what are you"
+    },
+    {
+      "start_ms": 2172720,
+      "duration_ms": 5040,
+      "text": "getting stuck on? What do you want? We"
+    },
+    {
+      "start_ms": 2175920,
+      "duration_ms": 4240,
+      "text": "have access to a lot of experts that do"
+    },
+    {
+      "start_ms": 2177760,
+      "duration_ms": 4880,
+      "text": "a lot of dope stuff. Outbound was an"
+    },
+    {
+      "start_ms": 2180160,
+      "duration_ms": 4880,
+      "text": "obvious one because all I hear these"
+    },
+    {
+      "start_ms": 2182640,
+      "duration_ms": 4640,
+      "text": "days are"
+    },
+    {
+      "start_ms": 2185040,
+      "duration_ms": 3920,
+      "text": "I don't know I just need more leads like"
+    },
+    {
+      "start_ms": 2187280,
+      "duration_ms": 4319,
+      "text": "we can close them just fine but like"
+    },
+    {
+      "start_ms": 2188960,
+      "duration_ms": 5680,
+      "text": "where am I getting pipeline from? So if"
+    },
+    {
+      "start_ms": 2191599,
+      "duration_ms": 5361,
+      "text": "you guys can help us yeah if you guys"
+    },
+    {
+      "start_ms": 2194640,
+      "duration_ms": 4959,
+      "text": "can help us with this I am trying to"
+    },
+    {
+      "start_ms": 2196960,
+      "duration_ms": 4639,
+      "text": "blank but blank"
+    },
+    {
+      "start_ms": 2199599,
+      "duration_ms": 4881,
+      "text": "it will determine"
+    },
+    {
+      "start_ms": 2201599,
+      "duration_ms": 5121,
+      "text": "uh the future course of the programming"
+    },
+    {
+      "start_ms": 2204480,
+      "duration_ms": 4080,
+      "text": "that we do. So thank you very much for"
+    },
+    {
+      "start_ms": 2206720,
+      "duration_ms": 3119,
+      "text": "taking the time to write that. I know"
+    },
+    {
+      "start_ms": 2208560,
+      "duration_ms": 4480,
+      "text": "it's kind of annoying. It's not as easy"
+    },
+    {
+      "start_ms": 2209839,
+      "duration_ms": 4641,
+      "text": "as clicking. Uh but super duper help"
+    },
+    {
+      "start_ms": 2213040,
+      "duration_ms": 3920,
+      "text": "helpful. We'll leave it up for two"
+    },
+    {
+      "start_ms": 2214480,
+      "duration_ms": 4080,
+      "text": "minutes. Um Santos, you want to ask"
+    },
+    {
+      "start_ms": 2216960,
+      "duration_ms": 4320,
+      "text": "Jason some questions?"
+    },
+    {
+      "start_ms": 2218560,
+      "duration_ms": 6400,
+      "text": "Let me ask a couple questions."
+    },
+    {
+      "start_ms": 2221280,
+      "duration_ms": 7440,
+      "text": "Um actually uh this was in the Q&A. So"
+    },
+    {
+      "start_ms": 2224960,
+      "duration_ms": 5840,
+      "text": "Jason, what's your take on uh some of"
+    },
+    {
+      "start_ms": 2228720,
+      "duration_ms": 5920,
+      "text": "these initiatives out there where you"
+    },
+    {
+      "start_ms": 2230800,
+      "duration_ms": 6160,
+      "text": "offer paying somebody for their time to"
+    },
+    {
+      "start_ms": 2234640,
+      "duration_ms": 4719,
+      "text": "get on a demo?"
+    },
+    {
+      "start_ms": 2236960,
+      "duration_ms": 5520,
+      "text": "I hate this personally. Yeah. I think"
+    },
+    {
+      "start_ms": 2239359,
+      "duration_ms": 5841,
+      "text": "it's the the biggest waste of of time"
+    },
+    {
+      "start_ms": 2242480,
+      "duration_ms": 5200,
+      "text": "and money to set up because"
+    },
+    {
+      "start_ms": 2245200,
+      "duration_ms": 5200,
+      "text": "guys think think about you too. Like"
+    },
+    {
+      "start_ms": 2247680,
+      "duration_ms": 5120,
+      "text": "do you want 50 bucks to hop on a meeting"
+    },
+    {
+      "start_ms": 2250400,
+      "duration_ms": 5439,
+      "text": "like a free Door [laughter] Dash? I can"
+    },
+    {
+      "start_ms": 2252800,
+      "duration_ms": 4640,
+      "text": "afford my own Door Dash, you know? Um"
+    },
+    {
+      "start_ms": 2255839,
+      "duration_ms": 4240,
+      "text": "you got to think about the executives."
+    },
+    {
+      "start_ms": 2257440,
+      "duration_ms": 5280,
+      "text": "The biggest the thing that they have"
+    },
+    {
+      "start_ms": 2260079,
+      "duration_ms": 4401,
+      "text": "that's the most valuable is their time."
+    },
+    {
+      "start_ms": 2262720,
+      "duration_ms": 3280,
+      "text": "there isn't an amount of money that you"
+    },
+    {
+      "start_ms": 2264480,
+      "duration_ms": 3040,
+      "text": "can pay them that they would pro that"
+    },
+    {
+      "start_ms": 2266000,
+      "duration_ms": 2880,
+      "text": "you would want to that you would feel"
+    },
+    {
+      "start_ms": 2267520,
+      "duration_ms": 3120,
+      "text": "comfortable doing that would make it"
+    },
+    {
+      "start_ms": 2268880,
+      "duration_ms": 3199,
+      "text": "worth their time."
+    },
+    {
+      "start_ms": 2270640,
+      "duration_ms": 2800,
+      "text": "So, you got to really think about if"
+    },
+    {
+      "start_ms": 2272079,
+      "duration_ms": 5121,
+      "text": "we're thinking about that framework, the"
+    },
+    {
+      "start_ms": 2273440,
+      "duration_ms": 6639,
+      "text": "CTA, the offer, the value exchange, it's"
+    },
+    {
+      "start_ms": 2277200,
+      "duration_ms": 4560,
+      "text": "not money, it's not it's not gifting."
+    },
+    {
+      "start_ms": 2280079,
+      "duration_ms": 4241,
+      "text": "Where you can get really creative though"
+    },
+    {
+      "start_ms": 2281760,
+      "duration_ms": 5599,
+      "text": "is gifting can work if you're really"
+    },
+    {
+      "start_ms": 2284320,
+      "duration_ms": 5680,
+      "text": "creative around like how the gift is"
+    },
+    {
+      "start_ms": 2287359,
+      "duration_ms": 4641,
+      "text": "tied in in a creative way. But the best"
+    },
+    {
+      "start_ms": 2290000,
+      "duration_ms": 3680,
+      "text": "direct mailers, I mean, Dale Depri at"
+    },
+    {
+      "start_ms": 2292000,
+      "duration_ms": 2800,
+      "text": "Sales Rebellion, if you guys aren't"
+    },
+    {
+      "start_ms": 2293680,
+      "duration_ms": 3360,
+      "text": "following him, go check out his"
+    },
+    {
+      "start_ms": 2294800,
+      "duration_ms": 5440,
+      "text": "LinkedIn. I mean, they'll do stuff like"
+    },
+    {
+      "start_ms": 2297040,
+      "duration_ms": 4960,
+      "text": "they'll send uh an empty box of donuts"
+    },
+    {
+      "start_ms": 2300240,
+      "duration_ms": 3760,
+      "text": "and in the inside of the doughnut box,"
+    },
+    {
+      "start_ms": 2302000,
+      "duration_ms": 3599,
+      "text": "it'll have a note saying, \"Hey, when I"
+    },
+    {
+      "start_ms": 2304000,
+      "duration_ms": 3280,
+      "text": "was waiting for the response to your"
+    },
+    {
+      "start_ms": 2305599,
+      "duration_ms": 3121,
+      "text": "email, I ended up eating all the donuts."
+    },
+    {
+      "start_ms": 2307280,
+      "duration_ms": 3040,
+      "text": "My bad.\" Like, \"Let's hop on a call and"
+    },
+    {
+      "start_ms": 2308720,
+      "duration_ms": 4000,
+      "text": "I'll get you.\" Like, that's super funny."
+    },
+    {
+      "start_ms": 2310320,
+      "duration_ms": 2720,
+      "text": "But they inject that doesn't cost humor,"
+    },
+    {
+      "start_ms": 2312720,
+      "duration_ms": 1840,
+      "text": "right?"
+    },
+    {
+      "start_ms": 2313040,
+      "duration_ms": 3039,
+      "text": "Yeah. It doesn't cost any money to do"
+    },
+    {
+      "start_ms": 2314560,
+      "duration_ms": 3680,
+      "text": "that, though,"
+    },
+    {
+      "start_ms": 2316079,
+      "duration_ms": 4641,
+      "text": "right? No, that's that's that makes"
+    },
+    {
+      "start_ms": 2318240,
+      "duration_ms": 4640,
+      "text": "sense. I'm not I'm not a big fan of uh"
+    },
+    {
+      "start_ms": 2320720,
+      "duration_ms": 4960,
+      "text": "gifts or getting paid. So, another"
+    },
+    {
+      "start_ms": 2322880,
+      "duration_ms": 5440,
+      "text": "question John asked, uh, what's your"
+    },
+    {
+      "start_ms": 2325680,
+      "duration_ms": 4800,
+      "text": "strategy for if somebody promised to"
+    },
+    {
+      "start_ms": 2328320,
+      "duration_ms": 6400,
+      "text": "show up on a call, but they coast or"
+    },
+    {
+      "start_ms": 2330480,
+      "duration_ms": 6720,
+      "text": "they keep rescheduling endlessly,"
+    },
+    {
+      "start_ms": 2334720,
+      "duration_ms": 4160,
+      "text": "uh, how do you win them back?"
+    },
+    {
+      "start_ms": 2337200,
+      "duration_ms": 4080,
+      "text": "Yeah. Well, I think first you have to"
+    },
+    {
+      "start_ms": 2338880,
+      "duration_ms": 4160,
+      "text": "have boundaries with people. So, for me,"
+    },
+    {
+      "start_ms": 2341280,
+      "duration_ms": 3040,
+      "text": "it's three reschedules. If if you"
+    },
+    {
+      "start_ms": 2343040,
+      "duration_ms": 2880,
+      "text": "especially if they're last minute, if"
+    },
+    {
+      "start_ms": 2344320,
+      "duration_ms": 4480,
+      "text": "you reschedule last minute the third"
+    },
+    {
+      "start_ms": 2345920,
+      "duration_ms": 4400,
+      "text": "time, I'm just not gonna like you never"
+    },
+    {
+      "start_ms": 2348800,
+      "duration_ms": 3600,
+      "text": "this is the beauty of outbound and"
+    },
+    {
+      "start_ms": 2350320,
+      "duration_ms": 4560,
+      "text": "pipeline building is you never want the"
+    },
+    {
+      "start_ms": 2352400,
+      "duration_ms": 4640,
+      "text": "appointment so bad that you tolerate"
+    },
+    {
+      "start_ms": 2354880,
+      "duration_ms": 3840,
+      "text": "being treated in that way. So you need"
+    },
+    {
+      "start_ms": 2357040,
+      "duration_ms": 2960,
+      "text": "to have a boundary of I don't know it's"
+    },
+    {
+      "start_ms": 2358720,
+      "duration_ms": 3680,
+      "text": "three for me it might be different for"
+    },
+    {
+      "start_ms": 2360000,
+      "duration_ms": 3520,
+      "text": "you John. Um in terms of rescheduling"
+    },
+    {
+      "start_ms": 2362400,
+      "duration_ms": 2959,
+      "text": "you got to think about why people"
+    },
+    {
+      "start_ms": 2363520,
+      "duration_ms": 3920,
+      "text": "reschedule. The easiest thing in the"
+    },
+    {
+      "start_ms": 2365359,
+      "duration_ms": 3281,
+      "text": "world for an exec to reschedule and is"
+    },
+    {
+      "start_ms": 2367440,
+      "duration_ms": 2480,
+      "text": "when they look at their calendar in the"
+    },
+    {
+      "start_ms": 2368640,
+      "duration_ms": 2240,
+      "text": "morning and they see a sales call. I"
+    },
+    {
+      "start_ms": 2369920,
+      "duration_ms": 3679,
+      "text": "mean that's the easiest thing to"
+    },
+    {
+      "start_ms": 2370880,
+      "duration_ms": 6160,
+      "text": "reschedule. So the hack here if there is"
+    },
+    {
+      "start_ms": 2373599,
+      "duration_ms": 5601,
+      "text": "one uh what I will do with uh meetings"
+    },
+    {
+      "start_ms": 2377040,
+      "duration_ms": 3920,
+      "text": "that I schedule is I put the name of the"
+    },
+    {
+      "start_ms": 2379200,
+      "duration_ms": 4720,
+      "text": "priority that we're talking about into"
+    },
+    {
+      "start_ms": 2380960,
+      "duration_ms": 6000,
+      "text": "the calendar invite and in the notes of"
+    },
+    {
+      "start_ms": 2383920,
+      "duration_ms": 5120,
+      "text": "the calendar invite the agenda it's like"
+    },
+    {
+      "start_ms": 2386960,
+      "duration_ms": 3840,
+      "text": "what the person shared with me through"
+    },
+    {
+      "start_ms": 2389040,
+      "duration_ms": 5120,
+      "text": "previous discovery conversations. So for"
+    },
+    {
+      "start_ms": 2390800,
+      "duration_ms": 5840,
+      "text": "example um like one of the priorities of"
+    },
+    {
+      "start_ms": 2394160,
+      "duration_ms": 4560,
+      "text": "a a big customer that I had is 50/50"
+    },
+    {
+      "start_ms": 2396640,
+      "duration_ms": 4400,
+      "text": "inbound outbound blend. That becomes the"
+    },
+    {
+      "start_ms": 2398720,
+      "duration_ms": 4240,
+      "text": "title of the calendar event 50-50"
+    },
+    {
+      "start_ms": 2401040,
+      "duration_ms": 5760,
+      "text": "inbound outbound blend. The notes, the"
+    },
+    {
+      "start_ms": 2402960,
+      "duration_ms": 6080,
+      "text": "agenda in the meeting is uh discuss"
+    },
+    {
+      "start_ms": 2406800,
+      "duration_ms": 4880,
+      "text": "blank's top priorities of 50/50 inbound"
+    },
+    {
+      "start_ms": 2409040,
+      "duration_ms": 4480,
+      "text": "outbound blend. Uh challenges, discuss"
+    },
+    {
+      "start_ms": 2411680,
+      "duration_ms": 4640,
+      "text": "current challenges around SDRTM"
+    },
+    {
+      "start_ms": 2413520,
+      "duration_ms": 4720,
+      "text": "sourcing, hiring, etc., etc. Like the"
+    },
+    {
+      "start_ms": 2416320,
+      "duration_ms": 4480,
+      "text": "meeting is like if I was running an"
+    },
+    {
+      "start_ms": 2418240,
+      "duration_ms": 4080,
+      "text": "internal meeting. It's like here's the"
+    },
+    {
+      "start_ms": 2420800,
+      "duration_ms": 3680,
+      "text": "core priority and here's the notes. like"
+    },
+    {
+      "start_ms": 2422320,
+      "duration_ms": 4560,
+      "text": "that becomes a very hard meeting to not"
+    },
+    {
+      "start_ms": 2424480,
+      "duration_ms": 4400,
+      "text": "show up to when it's related to your top"
+    },
+    {
+      "start_ms": 2426880,
+      "duration_ms": 3360,
+      "text": "priority for the year."
+    },
+    {
+      "start_ms": 2428880,
+      "duration_ms": 2400,
+      "text": "So, you want to think about how you can"
+    },
+    {
+      "start_ms": 2430240,
+      "duration_ms": 2879,
+      "text": "align that."
+    },
+    {
+      "start_ms": 2431280,
+      "duration_ms": 4480,
+      "text": "Uh the last thing, John, I would say is"
+    },
+    {
+      "start_ms": 2433119,
+      "duration_ms": 4641,
+      "text": "like when you schedule the meeting, what"
+    },
+    {
+      "start_ms": 2435760,
+      "duration_ms": 3680,
+      "text": "you want to be really clear with if it's"
+    },
+    {
+      "start_ms": 2437760,
+      "duration_ms": 2880,
+      "text": "off like a cold call or a cold email is"
+    },
+    {
+      "start_ms": 2439440,
+      "duration_ms": 2399,
+      "text": "that you're really clear with what the"
+    },
+    {
+      "start_ms": 2440640,
+      "duration_ms": 3199,
+      "text": "agenda is going to be and like what"
+    },
+    {
+      "start_ms": 2441839,
+      "duration_ms": 3841,
+      "text": "they're going to take away. Hopefully,"
+    },
+    {
+      "start_ms": 2443839,
+      "duration_ms": 4961,
+      "text": "the calendar invite doesn't say demo"
+    },
+    {
+      "start_ms": 2445680,
+      "duration_ms": 5439,
+      "text": "call with Adam, you know? Uh yeah, show"
+    },
+    {
+      "start_ms": 2448800,
+      "duration_ms": 3840,
+      "text": "you inside and out of product XYZ. You"
+    },
+    {
+      "start_ms": 2451119,
+      "duration_ms": 5041,
+      "text": "know what I mean? like you got to think"
+    },
+    {
+      "start_ms": 2452640,
+      "duration_ms": 6560,
+      "text": "about how am I making it um how am I"
+    },
+    {
+      "start_ms": 2456160,
+      "duration_ms": 6240,
+      "text": "putting the buyer's priorities first a"
+    },
+    {
+      "start_ms": 2459200,
+      "duration_ms": 7119,
+      "text": "lot of that will help"
+    },
+    {
+      "start_ms": 2462400,
+      "duration_ms": 6560,
+      "text": "yeah Adam is is there the survey results"
+    },
+    {
+      "start_ms": 2466319,
+      "duration_ms": 3441,
+      "text": "are out is there something you want to"
+    },
+    {
+      "start_ms": 2468960,
+      "duration_ms": 2480,
+      "text": "share"
+    },
+    {
+      "start_ms": 2469760,
+      "duration_ms": 3200,
+      "text": "I mean that was that one wasn't a survey"
+    },
+    {
+      "start_ms": 2471440,
+      "duration_ms": 4960,
+      "text": "there's just like"
+    },
+    {
+      "start_ms": 2472960,
+      "duration_ms": 7280,
+      "text": "we have 79 responses uh I was kind of"
+    },
+    {
+      "start_ms": 2476400,
+      "duration_ms": 5679,
+      "text": "looking at yeah I I don't know I'm going"
+    },
+    {
+      "start_ms": 2480240,
+      "duration_ms": 4640,
+      "text": "to need some time to provide"
+    },
+    {
+      "start_ms": 2482079,
+      "duration_ms": 5040,
+      "text": "feedback on that. Um, I think I think it"
+    },
+    {
+      "start_ms": 2484880,
+      "duration_ms": 5760,
+      "text": "probably makes sense just to uh actually"
+    },
+    {
+      "start_ms": 2487119,
+      "duration_ms": 7041,
+      "text": "can I I want to ask Jason a question."
+    },
+    {
+      "start_ms": 2490640,
+      "duration_ms": 4959,
+      "text": "Jason, h how do you work with the early"
+    },
+    {
+      "start_ms": 2494160,
+      "duration_ms": 4000,
+      "text": "stage companies that you work with?"
+    },
+    {
+      "start_ms": 2495599,
+      "duration_ms": 4720,
+      "text": "What's a typical engagement look like"
+    },
+    {
+      "start_ms": 2498160,
+      "duration_ms": 3840,
+      "text": "for lean and mean"
+    },
+    {
+      "start_ms": 2500319,
+      "duration_ms": 3601,
+      "text": "and you know whatever we're lean we're"
+    },
+    {
+      "start_ms": 2502000,
+      "duration_ms": 5040,
+      "text": "bootstrap we're costconcious like what"
+    },
+    {
+      "start_ms": 2503920,
+      "duration_ms": 5760,
+      "text": "what is what is this how do you make"
+    },
+    {
+      "start_ms": 2507040,
+      "duration_ms": 6079,
+      "text": "somebody in that predicament successful?"
+    },
+    {
+      "start_ms": 2509680,
+      "duration_ms": 5280,
+      "text": "um what are we doing to work with you?"
+    },
+    {
+      "start_ms": 2513119,
+      "duration_ms": 3761,
+      "text": "Yeah, I think there are some certain"
+    },
+    {
+      "start_ms": 2514960,
+      "duration_ms": 4000,
+      "text": "things that need to be in place in order"
+    },
+    {
+      "start_ms": 2516880,
+      "duration_ms": 3520,
+      "text": "for outbound to work and those are the"
+    },
+    {
+      "start_ms": 2518960,
+      "duration_ms": 3440,
+      "text": "same things that I need in place in"
+    },
+    {
+      "start_ms": 2520400,
+      "duration_ms": 3520,
+      "text": "order to work with the customer. Um one"
+    },
+    {
+      "start_ms": 2522400,
+      "duration_ms": 3120,
+      "text": "is you have to have like pretty good"
+    },
+    {
+      "start_ms": 2523920,
+      "duration_ms": 3280,
+      "text": "product market fit already. If you're if"
+    },
+    {
+      "start_ms": 2525520,
+      "duration_ms": 4400,
+      "text": "you're still not sure about product"
+    },
+    {
+      "start_ms": 2527200,
+      "duration_ms": 4800,
+      "text": "market fit and product market fit has a"
+    },
+    {
+      "start_ms": 2529920,
+      "duration_ms": 4080,
+      "text": "lot of definitions for me. It's we have"
+    },
+    {
+      "start_ms": 2532000,
+      "duration_ms": 4720,
+      "text": "customers that are paying and they've"
+    },
+    {
+      "start_ms": 2534000,
+      "duration_ms": 5040,
+      "text": "also like they've renewed. Like that's a"
+    },
+    {
+      "start_ms": 2536720,
+      "duration_ms": 5119,
+      "text": "big thing. So the renewing customer is a"
+    },
+    {
+      "start_ms": 2539040,
+      "duration_ms": 4960,
+      "text": "really big piece. Um but you need to"
+    },
+    {
+      "start_ms": 2541839,
+      "duration_ms": 3921,
+      "text": "know like very clearly what is my ideal"
+    },
+    {
+      "start_ms": 2544000,
+      "duration_ms": 3440,
+      "text": "client profile? Who are the personas"
+    },
+    {
+      "start_ms": 2545760,
+      "duration_ms": 3359,
+      "text": "that I sell to? What is the value that"
+    },
+    {
+      "start_ms": 2547440,
+      "duration_ms": 4080,
+      "text": "we offer? What problem are we solving?"
+    },
+    {
+      "start_ms": 2549119,
+      "duration_ms": 4641,
+      "text": "Etc. Like you need to really know all of"
+    },
+    {
+      "start_ms": 2551520,
+      "duration_ms": 5440,
+      "text": "that stuff. Uh the second thing is you"
+    },
+    {
+      "start_ms": 2553760,
+      "duration_ms": 5040,
+      "text": "need a strong inbound engine. So like if"
+    },
+    {
+      "start_ms": 2556960,
+      "duration_ms": 3359,
+      "text": "I go to the website and there's no case"
+    },
+    {
+      "start_ms": 2558800,
+      "duration_ms": 3519,
+      "text": "studies, there's no content, none of"
+    },
+    {
+      "start_ms": 2560319,
+      "duration_ms": 4561,
+      "text": "that stuff. Like I recommend building"
+    },
+    {
+      "start_ms": 2562319,
+      "duration_ms": 4241,
+      "text": "the inbound stuff first before you think"
+    },
+    {
+      "start_ms": 2564880,
+      "duration_ms": 3439,
+      "text": "about outbound. like you need some good"
+    },
+    {
+      "start_ms": 2566560,
+      "duration_ms": 4720,
+      "text": "content. You need some a marketing"
+    },
+    {
+      "start_ms": 2568319,
+      "duration_ms": 4241,
+      "text": "engine going. Otherwise, you send a cold"
+    },
+    {
+      "start_ms": 2571280,
+      "duration_ms": 2960,
+      "text": "email, people go to your website, they"
+    },
+    {
+      "start_ms": 2572560,
+      "duration_ms": 2799,
+      "text": "see nothing, no social proof. It's like"
+    },
+    {
+      "start_ms": 2574240,
+      "duration_ms": 2720,
+      "text": "those people are not going to take a"
+    },
+    {
+      "start_ms": 2575359,
+      "duration_ms": 3121,
+      "text": "meeting with you. It's the most"
+    },
+    {
+      "start_ms": 2576960,
+      "duration_ms": 3040,
+      "text": "underrated thing I think with Outbound"
+    },
+    {
+      "start_ms": 2578480,
+      "duration_ms": 2960,
+      "text": "that people don't look at. So, assuming"
+    },
+    {
+      "start_ms": 2580000,
+      "duration_ms": 4560,
+      "text": "that you have like kind of those boxes"
+    },
+    {
+      "start_ms": 2581440,
+      "duration_ms": 4560,
+      "text": "checked, you have a like a dedicated"
+    },
+    {
+      "start_ms": 2584560,
+      "duration_ms": 3600,
+      "text": "sales leader at your company that's"
+    },
+    {
+      "start_ms": 2586000,
+      "duration_ms": 4000,
+      "text": "working with reps. I typically work with"
+    },
+    {
+      "start_ms": 2588160,
+      "duration_ms": 3199,
+      "text": "folks. So, the first engagement is a six"
+    },
+    {
+      "start_ms": 2590000,
+      "duration_ms": 3280,
+      "text": "week training where we go really in"
+    },
+    {
+      "start_ms": 2591359,
+      "duration_ms": 3361,
+      "text": "depth with like what's your messaging?"
+    },
+    {
+      "start_ms": 2593280,
+      "duration_ms": 2880,
+      "text": "Let's build talk tracks. Let's train"
+    },
+    {
+      "start_ms": 2594720,
+      "duration_ms": 3359,
+      "text": "your team on it. Let's get them handling"
+    },
+    {
+      "start_ms": 2596160,
+      "duration_ms": 4080,
+      "text": "objections. Let's create some sequences,"
+    },
+    {
+      "start_ms": 2598079,
+      "duration_ms": 4240,
+      "text": "etc. It's a I call it an outbound"
+    },
+    {
+      "start_ms": 2600240,
+      "duration_ms": 3200,
+      "text": "accelerator. It's like a sprint for"
+    },
+    {
+      "start_ms": 2602319,
+      "duration_ms": 2641,
+      "text": "those six weeks to get the"
+    },
+    {
+      "start_ms": 2603440,
+      "duration_ms": 2800,
+      "text": "infrastructure and playbook and all that"
+    },
+    {
+      "start_ms": 2604960,
+      "duration_ms": 3600,
+      "text": "kind of stuff in place and then train"
+    },
+    {
+      "start_ms": 2606240,
+      "duration_ms": 3359,
+      "text": "you and your your team on it."
+    },
+    {
+      "start_ms": 2608560,
+      "duration_ms": 2000,
+      "text": "Cool."
+    },
+    {
+      "start_ms": 2609599,
+      "duration_ms": 4161,
+      "text": "Nice."
+    },
+    {
+      "start_ms": 2610560,
+      "duration_ms": 6000,
+      "text": "Yeah. So, hey Jason, so we keep hearing"
+    },
+    {
+      "start_ms": 2613760,
+      "duration_ms": 6240,
+      "text": "that buyers are increasingly"
+    },
+    {
+      "start_ms": 2616560,
+      "duration_ms": 5360,
+      "text": "uh wanting to do their own research and"
+    },
+    {
+      "start_ms": 2620000,
+      "duration_ms": 4160,
+      "text": "include salespeople kind of later and"
+    },
+    {
+      "start_ms": 2621920,
+      "duration_ms": 4800,
+      "text": "later in the process. So in a world like"
+    },
+    {
+      "start_ms": 2624160,
+      "duration_ms": 6560,
+      "text": "this, how do you reconcile kind of"
+    },
+    {
+      "start_ms": 2626720,
+      "duration_ms": 7280,
+      "text": "outreach? Uh I really liked your"
+    },
+    {
+      "start_ms": 2630720,
+      "duration_ms": 4960,
+      "text": "strategy one which was to provide some"
+    },
+    {
+      "start_ms": 2634000,
+      "duration_ms": 4640,
+      "text": "research material, right? Which helps"
+    },
+    {
+      "start_ms": 2635680,
+      "duration_ms": 5760,
+      "text": "buy with their process. Uh but we would"
+    },
+    {
+      "start_ms": 2638640,
+      "duration_ms": 3920,
+      "text": "love to hear what else you think. Um"
+    },
+    {
+      "start_ms": 2641440,
+      "duration_ms": 1679,
+      "text": "yeah,"
+    },
+    {
+      "start_ms": 2642560,
+      "duration_ms": 3519,
+      "text": "helps."
+    },
+    {
+      "start_ms": 2643119,
+      "duration_ms": 4801,
+      "text": "No, totally. I mean, we live in a world"
+    },
+    {
+      "start_ms": 2646079,
+      "duration_ms": 3361,
+      "text": "where you just have to face it. People"
+    },
+    {
+      "start_ms": 2647920,
+      "duration_ms": 4240,
+      "text": "only talk to sales people because they"
+    },
+    {
+      "start_ms": 2649440,
+      "duration_ms": 5040,
+      "text": "have to. No, no buyer wants to interact"
+    },
+    {
+      "start_ms": 2652160,
+      "duration_ms": 3919,
+      "text": "with salespeople. So, what else are you"
+    },
+    {
+      "start_ms": 2654480,
+      "duration_ms": 3680,
+      "text": "bringing to the equation?"
+    },
+    {
+      "start_ms": 2656079,
+      "duration_ms": 3361,
+      "text": "Um, a couple stats I think that are"
+    },
+    {
+      "start_ms": 2658160,
+      "duration_ms": 3600,
+      "text": "important to think about to kind of"
+    },
+    {
+      "start_ms": 2659440,
+      "duration_ms": 4399,
+      "text": "frame what I'm going to share is"
+    },
+    {
+      "start_ms": 2661760,
+      "duration_ms": 4880,
+      "text": "Gartner's got a stat. I think it's 56%"
+    },
+    {
+      "start_ms": 2663839,
+      "duration_ms": 4881,
+      "text": "of buyers, B2B buyers report buyers"
+    },
+    {
+      "start_ms": 2666640,
+      "duration_ms": 3760,
+      "text": "remorse. So, in other words, they've"
+    },
+    {
+      "start_ms": 2668720,
+      "duration_ms": 4639,
+      "text": "bought software and over half the time"
+    },
+    {
+      "start_ms": 2670400,
+      "duration_ms": 3280,
+      "text": "they regret purchasing that software."
+    },
+    {
+      "start_ms": 2673359,
+      "duration_ms": 2401,
+      "text": "Mhm."
+    },
+    {
+      "start_ms": 2673680,
+      "duration_ms": 3840,
+      "text": "Uh seven out of 10 change management"
+    },
+    {
+      "start_ms": 2675760,
+      "duration_ms": 3520,
+      "text": "initiatives fail according to McKenzie"
+    },
+    {
+      "start_ms": 2677520,
+      "duration_ms": 2400,
+      "text": "or Forester or one of those companies."
+    },
+    {
+      "start_ms": 2679280,
+      "duration_ms": 2240,
+      "text": "Right."
+    },
+    {
+      "start_ms": 2679920,
+      "duration_ms": 3040,
+      "text": "So what this means is that the majority"
+    },
+    {
+      "start_ms": 2681520,
+      "duration_ms": 3280,
+      "text": "of the time when a company tries to"
+    },
+    {
+      "start_ms": 2682960,
+      "duration_ms": 3520,
+      "text": "change and when they buy software over"
+    },
+    {
+      "start_ms": 2684800,
+      "duration_ms": 3680,
+      "text": "half the time it fails and they regret"
+    },
+    {
+      "start_ms": 2686480,
+      "duration_ms": 3760,
+      "text": "doing that. So if you can kind of frame"
+    },
+    {
+      "start_ms": 2688480,
+      "duration_ms": 3839,
+      "text": "your thinking around how do I help a"
+    },
+    {
+      "start_ms": 2690240,
+      "duration_ms": 5440,
+      "text": "buyer derisk their purchase and make a"
+    },
+    {
+      "start_ms": 2692319,
+      "duration_ms": 5841,
+      "text": "smarter decision and be a smarter buyer,"
+    },
+    {
+      "start_ms": 2695680,
+      "duration_ms": 3760,
+      "text": "that approach is going to land many more"
+    },
+    {
+      "start_ms": 2698160,
+      "duration_ms": 4320,
+      "text": "meetings and it's going to make you a"
+    },
+    {
+      "start_ms": 2699440,
+      "duration_ms": 4240,
+      "text": "way more consultative seller. So, how"
+    },
+    {
+      "start_ms": 2702480,
+      "duration_ms": 3359,
+      "text": "does that translate to your cold"
+    },
+    {
+      "start_ms": 2703680,
+      "duration_ms": 4240,
+      "text": "outreach? Stop talking about your"
+    },
+    {
+      "start_ms": 2705839,
+      "duration_ms": 3921,
+      "text": "freaking solution so much and talk more"
+    },
+    {
+      "start_ms": 2707920,
+      "duration_ms": 3199,
+      "text": "about like what are the problems and"
+    },
+    {
+      "start_ms": 2709760,
+      "duration_ms": 3920,
+      "text": "priorities that you hear from their"
+    },
+    {
+      "start_ms": 2711119,
+      "duration_ms": 4240,
+      "text": "peers? Because that's who an executive"
+    },
+    {
+      "start_ms": 2713680,
+      "duration_ms": 3919,
+      "text": "wants to talk to is like who have you"
+    },
+    {
+      "start_ms": 2715359,
+      "duration_ms": 3441,
+      "text": "worked with like me and how how are they"
+    },
+    {
+      "start_ms": 2717599,
+      "duration_ms": 2881,
+      "text": "doing something I want to do in a"
+    },
+    {
+      "start_ms": 2718800,
+      "duration_ms": 3680,
+      "text": "world-class way. That's what an"
+    },
+    {
+      "start_ms": 2720480,
+      "duration_ms": 3839,
+      "text": "executive wants to know. There's so many"
+    },
+    {
+      "start_ms": 2722480,
+      "duration_ms": 4000,
+      "text": "enterprise sellers like I just can't"
+    },
+    {
+      "start_ms": 2724319,
+      "duration_ms": 4561,
+      "text": "tell you enough where they send a cold"
+    },
+    {
+      "start_ms": 2726480,
+      "duration_ms": 3680,
+      "text": "email to like someone in the seauite at"
+    },
+    {
+      "start_ms": 2728880,
+      "duration_ms": 3439,
+      "text": "a company with thousands of employees"
+    },
+    {
+      "start_ms": 2730160,
+      "duration_ms": 5199,
+      "text": "and it's just like yeah our solution"
+    },
+    {
+      "start_ms": 2732319,
+      "duration_ms": 5361,
+      "text": "does this. It's like that's like such an"
+    },
+    {
+      "start_ms": 2735359,
+      "duration_ms": 4561,
+      "text": "old playbook that's that's like a couple"
+    },
+    {
+      "start_ms": 2737680,
+      "duration_ms": 3919,
+      "text": "decades old at this point"
+    },
+    {
+      "start_ms": 2739920,
+      "duration_ms": 3600,
+      "text": "that hasn't worked for a really long"
+    },
+    {
+      "start_ms": 2741599,
+      "duration_ms": 4000,
+      "text": "time,"
+    },
+    {
+      "start_ms": 2743520,
+      "duration_ms": 3599,
+      "text": "right? So yeah, being consultative and"
+    },
+    {
+      "start_ms": 2745599,
+      "duration_ms": 4401,
+      "text": "really thinking about how could I"
+    },
+    {
+      "start_ms": 2747119,
+      "duration_ms": 4641,
+      "text": "educate the buyer based on what I see"
+    },
+    {
+      "start_ms": 2750000,
+      "duration_ms": 4480,
+      "text": "their peers doing."
+    },
+    {
+      "start_ms": 2751760,
+      "duration_ms": 5440,
+      "text": "That's the future of like enterprise"
+    },
+    {
+      "start_ms": 2754480,
+      "duration_ms": 4480,
+      "text": "prospecting especially. Uh with SMB, I"
+    },
+    {
+      "start_ms": 2757200,
+      "duration_ms": 4080,
+      "text": "feel like it's"
+    },
+    {
+      "start_ms": 2758960,
+      "duration_ms": 4639,
+      "text": "like with SMB, what's really nice is"
+    },
+    {
+      "start_ms": 2761280,
+      "duration_ms": 5200,
+      "text": "it's the turnover is just so fast in the"
+    },
+    {
+      "start_ms": 2763599,
+      "duration_ms": 4801,
+      "text": "sales cycles and the executives are not"
+    },
+    {
+      "start_ms": 2766480,
+      "duration_ms": 4000,
+      "text": "that far removed from the thing that"
+    },
+    {
+      "start_ms": 2768400,
+      "duration_ms": 3840,
+      "text": "you're selling just due to the business."
+    },
+    {
+      "start_ms": 2770480,
+      "duration_ms": 3920,
+      "text": "It really doesn't take that much to"
+    },
+    {
+      "start_ms": 2772240,
+      "duration_ms": 2480,
+      "text": "offer a bit of value,"
+    },
+    {
+      "start_ms": 2774400,
+      "duration_ms": 1840,
+      "text": "right?"
+    },
+    {
+      "start_ms": 2774720,
+      "duration_ms": 4000,
+      "text": "Like I'll give you Sorry, I'll give you"
+    },
+    {
+      "start_ms": 2776240,
+      "duration_ms": 4000,
+      "text": "one more example. Like my HubSpot person"
+    },
+    {
+      "start_ms": 2778720,
+      "duration_ms": 5200,
+      "text": "reached out to me and was like, \"Hey, do"
+    },
+    {
+      "start_ms": 2780240,
+      "duration_ms": 5440,
+      "text": "you want to check out operations hub? Uh"
+    },
+    {
+      "start_ms": 2783920,
+      "duration_ms": 5199,
+      "text": "we noticed you have 35 duplicate"
+    },
+    {
+      "start_ms": 2785680,
+      "duration_ms": 4800,
+      "text": "contacts in there.\" And I'm like, \"Okay,"
+    },
+    {
+      "start_ms": 2789119,
+      "duration_ms": 3121,
+      "text": "like what does that mean?\" You know, and"
+    },
+    {
+      "start_ms": 2790480,
+      "duration_ms": 3280,
+      "text": "I run a small business, right? It's it's"
+    },
+    {
+      "start_ms": 2792240,
+      "duration_ms": 3280,
+      "text": "tiny."
+    },
+    {
+      "start_ms": 2793760,
+      "duration_ms": 3680,
+      "text": "Like what's the like why should I care"
+    },
+    {
+      "start_ms": 2795520,
+      "duration_ms": 3200,
+      "text": "about that? Like I you know what I mean?"
+    },
+    {
+      "start_ms": 2797440,
+      "duration_ms": 3360,
+      "text": "And I actually gave him some feedback"
+    },
+    {
+      "start_ms": 2798720,
+      "duration_ms": 3359,
+      "text": "when we hopped on a call and it's like,"
+    },
+    {
+      "start_ms": 2800800,
+      "duration_ms": 3600,
+      "text": "\"Hey, if you want to talk to me about"
+    },
+    {
+      "start_ms": 2802079,
+      "duration_ms": 4081,
+      "text": "how that's like, you know, I'm wasting"
+    },
+    {
+      "start_ms": 2804400,
+      "duration_ms": 3520,
+      "text": "money on something or the fact that"
+    },
+    {
+      "start_ms": 2806160,
+      "duration_ms": 4400,
+      "text": "these 2900 people because they're"
+    },
+    {
+      "start_ms": 2807920,
+      "duration_ms": 4480,
+      "text": "duplicate contacts, uh, I don't know"
+    },
+    {
+      "start_ms": 2810560,
+      "duration_ms": 3920,
+      "text": "which ones are engaged. So if Adam"
+    },
+    {
+      "start_ms": 2812400,
+      "duration_ms": 4719,
+      "text": "Robinson is on my list five different"
+    },
+    {
+      "start_ms": 2814480,
+      "duration_ms": 4160,
+      "text": "times, I don't know like which one is"
+    },
+    {
+      "start_ms": 2817119,
+      "duration_ms": 4081,
+      "text": "actually engaging with my website"
+    },
+    {
+      "start_ms": 2818640,
+      "duration_ms": 5280,
+      "text": "content, my blog content, etc."
+    },
+    {
+      "start_ms": 2821200,
+      "duration_ms": 4560,
+      "text": "Therefore, I'm not like creating as many"
+    },
+    {
+      "start_ms": 2823920,
+      "duration_ms": 4320,
+      "text": "MQLs in my business as I could.\" like,"
+    },
+    {
+      "start_ms": 2825760,
+      "duration_ms": 4079,
+      "text": "oh, okay, I care about that. But that's"
+    },
+    {
+      "start_ms": 2828240,
+      "duration_ms": 3680,
+      "text": "like that's not really that hard to do."
+    },
+    {
+      "start_ms": 2829839,
+      "duration_ms": 3841,
+      "text": "It's just a messaging thing. And I think"
+    },
+    {
+      "start_ms": 2831920,
+      "duration_ms": 3760,
+      "text": "the why outbound is really hard right"
+    },
+    {
+      "start_ms": 2833680,
+      "duration_ms": 5040,
+      "text": "now is that because contact rates are"
+    },
+    {
+      "start_ms": 2835680,
+      "duration_ms": 5120,
+      "text": "down, like your skill level has to be"
+    },
+    {
+      "start_ms": 2838720,
+      "duration_ms": 4080,
+      "text": "higher. Like, you can't get away with"
+    },
+    {
+      "start_ms": 2840800,
+      "duration_ms": 3519,
+      "text": "being really shitty at outbound and"
+    },
+    {
+      "start_ms": 2842800,
+      "duration_ms": 2559,
+      "text": "sending out really shitty messages. You"
+    },
+    {
+      "start_ms": 2844319,
+      "duration_ms": 2481,
+      "text": "can't get away with that right now."
+    },
+    {
+      "start_ms": 2845359,
+      "duration_ms": 3121,
+      "text": "That's why it's so hard."
+    },
+    {
+      "start_ms": 2846800,
+      "duration_ms": 4240,
+      "text": "Yeah, that's that's a that's a great"
+    },
+    {
+      "start_ms": 2848480,
+      "duration_ms": 5839,
+      "text": "segue to another question that came in."
+    },
+    {
+      "start_ms": 2851040,
+      "duration_ms": 4799,
+      "text": "um what is the future of outbound"
+    },
+    {
+      "start_ms": 2854319,
+      "duration_ms": 5601,
+      "text": "especially"
+    },
+    {
+      "start_ms": 2855839,
+      "duration_ms": 6721,
+      "text": "um in the world of AI? So this person"
+    },
+    {
+      "start_ms": 2859920,
+      "duration_ms": 6000,
+      "text": "wants to know how to leverage AI uh the"
+    },
+    {
+      "start_ms": 2862560,
+      "duration_ms": 6559,
+      "text": "best way to get effective with outbound."
+    },
+    {
+      "start_ms": 2865920,
+      "duration_ms": 4880,
+      "text": "Yeah, my my take on AI is two things. AI"
+    },
+    {
+      "start_ms": 2869119,
+      "duration_ms": 3281,
+      "text": "is an extra set of hands. It's not an"
+    },
+    {
+      "start_ms": 2870800,
+      "duration_ms": 3519,
+      "text": "extra brain."
+    },
+    {
+      "start_ms": 2872400,
+      "duration_ms": 3840,
+      "text": "So AI is not you're not going to just"
+    },
+    {
+      "start_ms": 2874319,
+      "duration_ms": 4641,
+      "text": "turn AI on and have it do all of your"
+    },
+    {
+      "start_ms": 2876240,
+      "duration_ms": 4800,
+      "text": "stuff for you. Whenever that happens,"
+    },
+    {
+      "start_ms": 2878960,
+      "duration_ms": 5119,
+      "text": "we're in a we're in a world full of"
+    },
+    {
+      "start_ms": 2881040,
+      "duration_ms": 4480,
+      "text": "trouble if that happens someday. Because"
+    },
+    {
+      "start_ms": 2884079,
+      "duration_ms": 4081,
+      "text": "what that means is that people are going"
+    },
+    {
+      "start_ms": 2885520,
+      "duration_ms": 4160,
+      "text": "to be able to like have an AI cold call"
+    },
+    {
+      "start_ms": 2888160,
+      "duration_ms": 3280,
+      "text": "for you. Like I think we have really big"
+    },
+    {
+      "start_ms": 2889680,
+      "duration_ms": 3840,
+      "text": "problems in this world if you can't tell"
+    },
+    {
+      "start_ms": 2891440,
+      "duration_ms": 4800,
+      "text": "if it if it's AI or not in a cold call."
+    },
+    {
+      "start_ms": 2893520,
+      "duration_ms": 4319,
+      "text": "You know what I mean? So like that I"
+    },
+    {
+      "start_ms": 2896240,
+      "duration_ms": 4400,
+      "text": "think we're really far away from there"
+    },
+    {
+      "start_ms": 2897839,
+      "duration_ms": 5760,
+      "text": "being an autopilot version of that."
+    },
+    {
+      "start_ms": 2900640,
+      "duration_ms": 4320,
+      "text": "Where you AI is really helpful though is"
+    },
+    {
+      "start_ms": 2903599,
+      "duration_ms": 2960,
+      "text": "all of the stuff that you guys talk"
+    },
+    {
+      "start_ms": 2904960,
+      "duration_ms": 3119,
+      "text": "about with like Clay and like all these"
+    },
+    {
+      "start_ms": 2906559,
+      "duration_ms": 4641,
+      "text": "other companies where it's like it's"
+    },
+    {
+      "start_ms": 2908079,
+      "duration_ms": 4721,
+      "text": "doing a lot of the dirty work for you."
+    },
+    {
+      "start_ms": 2911200,
+      "duration_ms": 3520,
+      "text": "Yeah, Alton, it's okay if you disagree"
+    },
+    {
+      "start_ms": 2912800,
+      "duration_ms": 4559,
+      "text": "with me, man, but like we're really far"
+    },
+    {
+      "start_ms": 2914720,
+      "duration_ms": 3040,
+      "text": "away from being able to hit a button."
+    },
+    {
+      "start_ms": 2917359,
+      "duration_ms": 2641,
+      "text": "So,"
+    },
+    {
+      "start_ms": 2917760,
+      "duration_ms": 4000,
+      "text": "and for an AI to send emails and make"
+    },
+    {
+      "start_ms": 2920000,
+      "duration_ms": 3440,
+      "text": "calls on your behalf, we're so far away"
+    },
+    {
+      "start_ms": 2921760,
+      "duration_ms": 2880,
+      "text": "from from that actually being a thing"
+    },
+    {
+      "start_ms": 2923440,
+      "duration_ms": 2800,
+      "text": "and working."
+    },
+    {
+      "start_ms": 2924640,
+      "duration_ms": 4400,
+      "text": "Can Can I Can I add something real"
+    },
+    {
+      "start_ms": 2926240,
+      "duration_ms": 5119,
+      "text": "quick? So, I'm dropping in a link here."
+    },
+    {
+      "start_ms": 2929040,
+      "duration_ms": 6720,
+      "text": "So all you hot sellers that are on"
+    },
+    {
+      "start_ms": 2931359,
+      "duration_ms": 7441,
+      "text": "here, this is a hyperbound Adam Robinson"
+    },
+    {
+      "start_ms": 2935760,
+      "duration_ms": 6400,
+      "text": "bot. There's a contest going on right"
+    },
+    {
+      "start_ms": 2938800,
+      "duration_ms": 5360,
+      "text": "now. Adam Robinson is the CEO of RB2B,"
+    },
+    {
+      "start_ms": 2942160,
+      "duration_ms": 6028,
+      "text": "which you know, you have to try to sell"
+    },
+    {
+      "start_ms": 2944160,
+      "duration_ms": 4800,
+      "text": "this bot 6 cents."
+    },
+    {
+      "start_ms": 2948188,
+      "duration_ms": 2212,
+      "text": "[laughter]"
+    },
+    {
+      "start_ms": 2948960,
+      "duration_ms": 3119,
+      "text": "I did it earlier. I did it before the"
+    },
+    {
+      "start_ms": 2950400,
+      "duration_ms": 4240,
+      "text": "call. You literally hit start call and"
+    },
+    {
+      "start_ms": 2952079,
+      "duration_ms": 4641,
+      "text": "you have to try to sell me six cents and"
+    },
+    {
+      "start_ms": 2954640,
+      "duration_ms": 5600,
+      "text": "they programmed me to be a huge"
+    },
+    {
+      "start_ms": 2956720,
+      "duration_ms": 8240,
+      "text": "about it. It is hilarious. Sort of"
+    },
+    {
+      "start_ms": 2960240,
+      "duration_ms": 6240,
+      "text": "related to what we're talking about and"
+    },
+    {
+      "start_ms": 2964960,
+      "duration_ms": 3680,
+      "text": "it's it's pretty good. I mean, the lag"
+    },
+    {
+      "start_ms": 2966480,
+      "duration_ms": 4879,
+      "text": "time is kind of like a little bit more"
+    },
+    {
+      "start_ms": 2968640,
+      "duration_ms": 5919,
+      "text": "than than you would like, but like dude,"
+    },
+    {
+      "start_ms": 2971359,
+      "duration_ms": 4960,
+      "text": "it it is it is hysterical. So, uh yeah,"
+    },
+    {
+      "start_ms": 2974559,
+      "duration_ms": 4641,
+      "text": "try to sell it whatever you want. Just"
+    },
+    {
+      "start_ms": 2976319,
+      "duration_ms": 5201,
+      "text": "um h have fun with this thing. Uh but"
+    },
+    {
+      "start_ms": 2979200,
+      "duration_ms": 4320,
+      "text": "definitely do it. It's like it's like"
+    },
+    {
+      "start_ms": 2981520,
+      "duration_ms": 3440,
+      "text": "kind of a w It's very surreal for me"
+    },
+    {
+      "start_ms": 2983520,
+      "duration_ms": 3920,
+      "text": "because it's actually my voice"
+    },
+    {
+      "start_ms": 2984960,
+      "duration_ms": 4800,
+      "text": "responding to things. That's creepy."
+    },
+    {
+      "start_ms": 2987440,
+      "duration_ms": 5280,
+      "text": "Yeah, [laughter] it's very weird, but"
+    },
+    {
+      "start_ms": 2989760,
+      "duration_ms": 5680,
+      "text": "like try that out. [clears throat]"
+    },
+    {
+      "start_ms": 2992720,
+      "duration_ms": 3520,
+      "text": "Um, cool. Sorry to totally change topic,"
+    },
+    {
+      "start_ms": 2995440,
+      "duration_ms": 4960,
+      "text": "but it was sort of"
+    },
+    {
+      "start_ms": 2996240,
+      "duration_ms": 5839,
+      "text": "No, it's all good. So, I think the AI is"
+    },
+    {
+      "start_ms": 3000400,
+      "duration_ms": 4080,
+      "text": "it's an extra set of hands. Let it do"
+    },
+    {
+      "start_ms": 3002079,
+      "duration_ms": 4081,
+      "text": "the dirty work for you. But in terms of"
+    },
+    {
+      "start_ms": 3004480,
+      "duration_ms": 4320,
+      "text": "like, okay, you might be able to get"
+    },
+    {
+      "start_ms": 3006160,
+      "duration_ms": 5600,
+      "text": "away with something like mass blast"
+    },
+    {
+      "start_ms": 3008800,
+      "duration_ms": 4799,
+      "text": "selling something very cheap, but I've"
+    },
+    {
+      "start_ms": 3011760,
+      "duration_ms": 3120,
+      "text": "seen all the stuff in terms of like what"
+    },
+    {
+      "start_ms": 3013599,
+      "duration_ms": 3760,
+      "text": "it would take to get a meeting with"
+    },
+    {
+      "start_ms": 3014880,
+      "duration_ms": 4640,
+      "text": "someone at a VP or seuite level for a"
+    },
+    {
+      "start_ms": 3017359,
+      "duration_ms": 5681,
+      "text": "deal size larger than $50,000. It's just"
+    },
+    {
+      "start_ms": 3019520,
+      "duration_ms": 5440,
+      "text": "not there yet. Uh I also think that"
+    },
+    {
+      "start_ms": 3023040,
+      "duration_ms": 3760,
+      "text": "Jason Lin shared this take, so this is"
+    },
+    {
+      "start_ms": 3024960,
+      "duration_ms": 3359,
+      "text": "not my original take. His take was that,"
+    },
+    {
+      "start_ms": 3026800,
+      "duration_ms": 4000,
+      "text": "you know, AI is just going to ruin"
+    },
+    {
+      "start_ms": 3028319,
+      "duration_ms": 4401,
+      "text": "outbound. And that's what it's doing."
+    },
+    {
+      "start_ms": 3030800,
+      "duration_ms": 4559,
+      "text": "It's just like putting more volume into"
+    },
+    {
+      "start_ms": 3032720,
+      "duration_ms": 6399,
+      "text": "people's inboxes."
+    },
+    {
+      "start_ms": 3035359,
+      "duration_ms": 5200,
+      "text": "And uh I I don't see that that to me is"
+    },
+    {
+      "start_ms": 3039119,
+      "duration_ms": 2561,
+      "text": "not the answer to the problem that we're"
+    },
+    {
+      "start_ms": 3040559,
+      "duration_ms": 3121,
+      "text": "having. What what's going to start"
+    },
+    {
+      "start_ms": 3041680,
+      "duration_ms": 4080,
+      "text": "happening is fewer people are going to"
+    },
+    {
+      "start_ms": 3043680,
+      "duration_ms": 4879,
+      "text": "pick up the phone. There's going to be"
+    },
+    {
+      "start_ms": 3045760,
+      "duration_ms": 5440,
+      "text": "way harder filtration on the emails to"
+    },
+    {
+      "start_ms": 3048559,
+      "duration_ms": 6401,
+      "text": "be able to get through. And uh I think"
+    },
+    {
+      "start_ms": 3051200,
+      "duration_ms": 6240,
+      "text": "with with AI again, it's let it do the"
+    },
+    {
+      "start_ms": 3054960,
+      "duration_ms": 5480,
+      "text": "dirty work for you with a lot of"
+    },
+    {
+      "start_ms": 3057440,
+      "duration_ms": 3000,
+      "text": "direction."
+    },
+    {
+      "start_ms": 3060559,
+      "duration_ms": 5201,
+      "text": "So another question, what is the"
+    },
+    {
+      "start_ms": 3062000,
+      "duration_ms": 6319,
+      "text": "etiquette on LinkedIn uh outreach?"
+    },
+    {
+      "start_ms": 3065760,
+      "duration_ms": 4799,
+      "text": "How do you maximize uh LinkedIn through"
+    },
+    {
+      "start_ms": 3068319,
+      "duration_ms": 4321,
+      "text": "connection in mails? Uh you spoke about"
+    },
+    {
+      "start_ms": 3070559,
+      "duration_ms": 3841,
+      "text": "that a little bit around multi channel."
+    },
+    {
+      "start_ms": 3072640,
+      "duration_ms": 3120,
+      "text": "Yeah."
+    },
+    {
+      "start_ms": 3074400,
+      "duration_ms": 2719,
+      "text": "Yeah. I think people are like, oh,"
+    },
+    {
+      "start_ms": 3075760,
+      "duration_ms": 2640,
+      "text": "LinkedIn is a networking tool. It's not"
+    },
+    {
+      "start_ms": 3077119,
+      "duration_ms": 2480,
+      "text": "a business development tool. Like no,"
+    },
+    {
+      "start_ms": 3078400,
+      "duration_ms": 3600,
+      "text": "it's definitely a business development"
+    },
+    {
+      "start_ms": 3079599,
+      "duration_ms": 3921,
+      "text": "tool also, but there's just a really bad"
+    },
+    {
+      "start_ms": 3082000,
+      "duration_ms": 3119,
+      "text": "way to do business development through"
+    },
+    {
+      "start_ms": 3083520,
+      "duration_ms": 3120,
+      "text": "LinkedIn just like there is on email and"
+    },
+    {
+      "start_ms": 3085119,
+      "duration_ms": 3281,
+      "text": "phone. So, what you shouldn't be doing"
+    },
+    {
+      "start_ms": 3086640,
+      "duration_ms": 3439,
+      "text": "is sending a connection request to"
+    },
+    {
+      "start_ms": 3088400,
+      "duration_ms": 3760,
+      "text": "someone and pitching in the connection"
+    },
+    {
+      "start_ms": 3090079,
+      "duration_ms": 3361,
+      "text": "request. You shouldn't be pitching the"
+    },
+    {
+      "start_ms": 3092160,
+      "duration_ms": 3919,
+      "text": "first message that you interact with"
+    },
+    {
+      "start_ms": 3093440,
+      "duration_ms": 4800,
+      "text": "someone. Um, LinkedIn is just a channel"
+    },
+    {
+      "start_ms": 3096079,
+      "duration_ms": 4081,
+      "text": "to get a conversation started. So, I'd"
+    },
+    {
+      "start_ms": 3098240,
+      "duration_ms": 3839,
+      "text": "think about as a part of a multi-"
+    },
+    {
+      "start_ms": 3100160,
+      "duration_ms": 3040,
+      "text": "channelannel sequence. So, I'm going to"
+    },
+    {
+      "start_ms": 3102079,
+      "duration_ms": 2321,
+      "text": "send an email, I'm going to call, I'm"
+    },
+    {
+      "start_ms": 3103200,
+      "duration_ms": 3280,
+      "text": "going to send a connection request. When"
+    },
+    {
+      "start_ms": 3104400,
+      "duration_ms": 3679,
+      "text": "someone connects, the best thing you can"
+    },
+    {
+      "start_ms": 3106480,
+      "duration_ms": 3440,
+      "text": "do right when someone connects is not"
+    },
+    {
+      "start_ms": 3108079,
+      "duration_ms": 3361,
+      "text": "ask them for something, but to give them"
+    },
+    {
+      "start_ms": 3109920,
+      "duration_ms": 3520,
+      "text": "something."
+    },
+    {
+      "start_ms": 3111440,
+      "duration_ms": 3840,
+      "text": "Uh, for me that's what is your best"
+    },
+    {
+      "start_ms": 3113440,
+      "duration_ms": 3760,
+      "text": "piece of content that addresses the hair"
+    },
+    {
+      "start_ms": 3115280,
+      "duration_ms": 3440,
+      "text": "on fire problem that you know your"
+    },
+    {
+      "start_ms": 3117200,
+      "duration_ms": 4320,
+      "text": "target market has. Like that should be"
+    },
+    {
+      "start_ms": 3118720,
+      "duration_ms": 4960,
+      "text": "the first thing that you share."
+    },
+    {
+      "start_ms": 3121520,
+      "duration_ms": 4799,
+      "text": "That's that that that's a very profound"
+    },
+    {
+      "start_ms": 3123680,
+      "duration_ms": 4080,
+      "text": "uh I mean that's one single biggest"
+    },
+    {
+      "start_ms": 3126319,
+      "duration_ms": 3841,
+      "text": "thing I think is missing in most"
+    },
+    {
+      "start_ms": 3127760,
+      "duration_ms": 4480,
+      "text": "outreach is they don't offer a really"
+    },
+    {
+      "start_ms": 3130160,
+      "duration_ms": 3679,
+      "text": "good piece of content."
+    },
+    {
+      "start_ms": 3132240,
+      "duration_ms": 3359,
+      "text": "Yeah. And I think what's hard this is"
+    },
+    {
+      "start_ms": 3133839,
+      "duration_ms": 3760,
+      "text": "where I think you have an advantage as a"
+    },
+    {
+      "start_ms": 3135599,
+      "duration_ms": 4641,
+      "text": "small company. These big companies, you"
+    },
+    {
+      "start_ms": 3137599,
+      "duration_ms": 5921,
+      "text": "guys, they suck at marketing, like"
+    },
+    {
+      "start_ms": 3140240,
+      "duration_ms": 5839,
+      "text": "content marketing. Like, they're so bad."
+    },
+    {
+      "start_ms": 3143520,
+      "duration_ms": 4480,
+      "text": "They're so bad. Like, there's so many"
+    },
+    {
+      "start_ms": 3146079,
+      "duration_ms": 3841,
+      "text": "different layers of people creating the"
+    },
+    {
+      "start_ms": 3148000,
+      "duration_ms": 3040,
+      "text": "stuff that have never interacted with a"
+    },
+    {
+      "start_ms": 3149920,
+      "duration_ms": 2320,
+      "text": "buyer before. They've literally never"
+    },
+    {
+      "start_ms": 3151040,
+      "duration_ms": 3680,
+      "text": "had a conversation with the buyer and"
+    },
+    {
+      "start_ms": 3152240,
+      "duration_ms": 3839,
+      "text": "they're creating content for them. So,"
+    },
+    {
+      "start_ms": 3154720,
+      "duration_ms": 3040,
+      "text": "like, if you're a founder on this and"
+    },
+    {
+      "start_ms": 3156079,
+      "duration_ms": 5121,
+      "text": "like you're working with the customers"
+    },
+    {
+      "start_ms": 3157760,
+      "duration_ms": 4799,
+      "text": "every day or you had to sell, you know,"
+    },
+    {
+      "start_ms": 3161200,
+      "duration_ms": 2879,
+      "text": "to customers to get the business"
+    },
+    {
+      "start_ms": 3162559,
+      "duration_ms": 4560,
+      "text": "started, like you should be creating"
+    },
+    {
+      "start_ms": 3164079,
+      "duration_ms": 4801,
+      "text": "content with your customers."
+    },
+    {
+      "start_ms": 3167119,
+      "duration_ms": 3921,
+      "text": "like ask all of your customers, what are"
+    },
+    {
+      "start_ms": 3168880,
+      "duration_ms": 3439,
+      "text": "your top two or three problems, right?"
+    },
+    {
+      "start_ms": 3171040,
+      "duration_ms": 2559,
+      "text": "And then just start creating content"
+    },
+    {
+      "start_ms": 3172319,
+      "duration_ms": 2641,
+      "text": "with them that answers stuff around"
+    },
+    {
+      "start_ms": 3173599,
+      "duration_ms": 4161,
+      "text": "those problems. You can repurpose that"
+    },
+    {
+      "start_ms": 3174960,
+      "duration_ms": 5920,
+      "text": "into video clips, like PDF guides,"
+    },
+    {
+      "start_ms": 3177760,
+      "duration_ms": 5599,
+      "text": "articles, LinkedIn posts. I mean, it's"
+    },
+    {
+      "start_ms": 3180880,
+      "duration_ms": 5199,
+      "text": "not rocket science, but that like"
+    },
+    {
+      "start_ms": 3183359,
+      "duration_ms": 5200,
+      "text": "imagine a piece of content um you sell"
+    },
+    {
+      "start_ms": 3186079,
+      "duration_ms": 4000,
+      "text": "to owners of ecom stores and the piece"
+    },
+    {
+      "start_ms": 3188559,
+      "duration_ms": 3921,
+      "text": "of content was, you know, hey Santo,"
+    },
+    {
+      "start_ms": 3190079,
+      "duration_ms": 5040,
+      "text": "thanks for connecting. Uh we actually"
+    },
+    {
+      "start_ms": 3192480,
+      "duration_ms": 4000,
+      "text": "asked 25 ecom stores about how they're"
+    },
+    {
+      "start_ms": 3195119,
+      "duration_ms": 3681,
+      "text": "doing XYZ right"
+    },
+    {
+      "start_ms": 3196480,
+      "duration_ms": 4480,
+      "text": "in 2024 and they shared a bunch of cool"
+    },
+    {
+      "start_ms": 3198800,
+      "duration_ms": 5759,
+      "text": "stuff. Here it is ungated just straight"
+    },
+    {
+      "start_ms": 3200960,
+      "duration_ms": 6960,
+      "text": "to a PDF or to a link on the page like"
+    },
+    {
+      "start_ms": 3204559,
+      "duration_ms": 5121,
+      "text": "share something that's valuable."
+    },
+    {
+      "start_ms": 3207920,
+      "duration_ms": 4159,
+      "text": "And and one more thing on LinkedIn I"
+    },
+    {
+      "start_ms": 3209680,
+      "duration_ms": 4560,
+      "text": "agree it's like such a great"
+    },
+    {
+      "start_ms": 3212079,
+      "duration_ms": 4801,
+      "text": "conversation starting engine. If you"
+    },
+    {
+      "start_ms": 3214240,
+      "duration_ms": 5040,
+      "text": "happen to be a content creator"
+    },
+    {
+      "start_ms": 3216880,
+      "duration_ms": 4719,
+      "text": "then it's like the most powerful thing"
+    },
+    {
+      "start_ms": 3219280,
+      "duration_ms": 4400,
+      "text": "in the world. If you just do a connect"
+    },
+    {
+      "start_ms": 3221599,
+      "duration_ms": 4081,
+      "text": "outbound connection campaign"
+    },
+    {
+      "start_ms": 3223680,
+      "duration_ms": 3679,
+      "text": "and you're actually they they if someone"
+    },
+    {
+      "start_ms": 3225680,
+      "duration_ms": 3919,
+      "text": "accepts that they will start seeing your"
+    },
+    {
+      "start_ms": 3227359,
+      "duration_ms": 5601,
+      "text": "stuff and if your stuff"
+    },
+    {
+      "start_ms": 3229599,
+      "duration_ms": 4881,
+      "text": "kind of like talks about directly"
+    },
+    {
+      "start_ms": 3232960,
+      "duration_ms": 3920,
+      "text": "problems and tangential problems that"
+    },
+    {
+      "start_ms": 3234480,
+      "duration_ms": 4960,
+      "text": "you're helping people solve and you"
+    },
+    {
+      "start_ms": 3236880,
+      "duration_ms": 4160,
+      "text": "reach out 60 days later, it doesn't"
+    },
+    {
+      "start_ms": 3239440,
+      "duration_ms": 3360,
+      "text": "matter what you say to them. If you"
+    },
+    {
+      "start_ms": 3241040,
+      "duration_ms": 3680,
+      "text": "reach out 60 days later and you're"
+    },
+    {
+      "start_ms": 3242800,
+      "duration_ms": 4480,
+      "text": "creating uh really good content on a"
+    },
+    {
+      "start_ms": 3244720,
+      "duration_ms": 4480,
+      "text": "consistent basis, you could say yo and"
+    },
+    {
+      "start_ms": 3247280,
+      "duration_ms": 3039,
+      "text": "you'll get a response. Why? because they"
+    },
+    {
+      "start_ms": 3249200,
+      "duration_ms": 2560,
+      "text": "feel like they're friends with you at"
+    },
+    {
+      "start_ms": 3250319,
+      "duration_ms": 3760,
+      "text": "that point. And like LinkedIn, I think,"
+    },
+    {
+      "start_ms": 3251760,
+      "duration_ms": 5200,
+      "text": "is unique because the way that the"
+    },
+    {
+      "start_ms": 3254079,
+      "duration_ms": 5201,
+      "text": "content is delivered and consumed is so"
+    },
+    {
+      "start_ms": 3256960,
+      "duration_ms": 3760,
+      "text": "there's so much depth to it. You know,"
+    },
+    {
+      "start_ms": 3259280,
+      "duration_ms": 3440,
+      "text": "it's just the way content is going with"
+    },
+    {
+      "start_ms": 3260720,
+      "duration_ms": 4000,
+      "text": "other social networks. It's like a lot"
+    },
+    {
+      "start_ms": 3262720,
+      "duration_ms": 4080,
+      "text": "shallower. It's a lot more about like"
+    },
+    {
+      "start_ms": 3264720,
+      "duration_ms": 5200,
+      "text": "well-known versus know known well, which"
+    },
+    {
+      "start_ms": 3266800,
+      "duration_ms": 5360,
+      "text": "I talk about like known well is like"
+    },
+    {
+      "start_ms": 3269920,
+      "duration_ms": 4000,
+      "text": "these people will eventually feel like"
+    },
+    {
+      "start_ms": 3272160,
+      "duration_ms": 4720,
+      "text": "you are their friend."
+    },
+    {
+      "start_ms": 3273920,
+      "duration_ms": 5520,
+      "text": "So you can say yo and they'll write you"
+    },
+    {
+      "start_ms": 3276880,
+      "duration_ms": 5040,
+      "text": "back, which is wild. It's wild that you"
+    },
+    {
+      "start_ms": 3279440,
+      "duration_ms": 4720,
+      "text": "can sit there and make a post today and"
+    },
+    {
+      "start_ms": 3281920,
+      "duration_ms": 5840,
+      "text": "kind of anyone you connect to. That's"
+    },
+    {
+      "start_ms": 3284160,
+      "duration_ms": 5040,
+      "text": "what's going to happen in 60 days. Um,"
+    },
+    {
+      "start_ms": 3287760,
+      "duration_ms": 4559,
+      "text": "so yeah."
+    },
+    {
+      "start_ms": 3289200,
+      "duration_ms": 5600,
+      "text": "All right, dude. This was one of This is"
+    },
+    {
+      "start_ms": 3292319,
+      "duration_ms": 3441,
+      "text": "my favorite show so far."
+    },
+    {
+      "start_ms": 3294800,
+      "duration_ms": 3440,
+      "text": "Loved it."
+    },
+    {
+      "start_ms": 3295760,
+      "duration_ms": 3839,
+      "text": "Like the prep was amazing. Like we don't"
+    },
+    {
+      "start_ms": 3298240,
+      "duration_ms": 3520,
+      "text": "know what we're doing yet, so we're"
+    },
+    {
+      "start_ms": 3299599,
+      "duration_ms": 4161,
+      "text": "experimenting with formats. The data you"
+    },
+    {
+      "start_ms": 3301760,
+      "duration_ms": 3599,
+      "text": "brought was sick. You brought templates."
+    },
+    {
+      "start_ms": 3303760,
+      "duration_ms": 3760,
+      "text": "I know I learned a lot. I'm sure"
+    },
+    {
+      "start_ms": 3305359,
+      "duration_ms": 4000,
+      "text": "everybody else learned a lot. Uh, if"
+    },
+    {
+      "start_ms": 3307520,
+      "duration_ms": 4000,
+      "text": "people want to get in touch with you,"
+    },
+    {
+      "start_ms": 3309359,
+      "duration_ms": 4000,
+      "text": "where do they go, my man?"
+    },
+    {
+      "start_ms": 3311520,
+      "duration_ms": 3680,
+      "text": "Uh, outboundsquad.com's"
+    },
+    {
+      "start_ms": 3313359,
+      "duration_ms": 3521,
+      "text": "the best place to do that. So, you'll"
+    },
+    {
+      "start_ms": 3315200,
+      "duration_ms": 3280,
+      "text": "find a hub there. I post content every"
+    },
+    {
+      "start_ms": 3316880,
+      "duration_ms": 3600,
+      "text": "day on LinkedIn. We got tons of free"
+    },
+    {
+      "start_ms": 3318480,
+      "duration_ms": 3440,
+      "text": "resources there. Uh, and if you're a"
+    },
+    {
+      "start_ms": 3320480,
+      "duration_ms": 3040,
+      "text": "sales team looking to implement some of"
+    },
+    {
+      "start_ms": 3321920,
+      "duration_ms": 2639,
+      "text": "the stuff that we talked about, we uh we"
+    },
+    {
+      "start_ms": 3323520,
+      "duration_ms": 2640,
+      "text": "offer that as well. So,"
+    },
+    {
+      "start_ms": 3324559,
+      "duration_ms": 4161,
+      "text": "outboundsquad.com."
+    },
+    {
+      "start_ms": 3326160,
+      "duration_ms": 4480,
+      "text": "Adam, I emailed you the uh link to the"
+    },
+    {
+      "start_ms": 3328720,
+      "duration_ms": 2560,
+      "text": "uh uh slides, by the way, so that you"
+    },
+    {
+      "start_ms": 3330640,
+      "duration_ms": 4080,
+      "text": "can share those out."
+    },
+    {
+      "start_ms": 3331280,
+      "duration_ms": 4880,
+      "text": "So, yeah, I will um you know what? I"
+    },
+    {
+      "start_ms": 3334720,
+      "duration_ms": 2240,
+      "text": "can't drop it into the chat for some"
+    },
+    {
+      "start_ms": 3336160,
+      "duration_ms": 2000,
+      "text": "reason right now."
+    },
+    {
+      "start_ms": 3336960,
+      "duration_ms": 3599,
+      "text": "Yeah. Yeah. Yeah. Okay. We're going to"
+    },
+    {
+      "start_ms": 3338160,
+      "duration_ms": 7919,
+      "text": "put the slides on YouTube. Here are the"
+    },
+    {
+      "start_ms": 3340559,
+      "duration_ms": 7441,
+      "text": "slides. Um the YouTube link again. It'll"
+    },
+    {
+      "start_ms": 3346079,
+      "duration_ms": 6561,
+      "text": "be on YouTube by 9:00 a.m. Central"
+    },
+    {
+      "start_ms": 3348000,
+      "duration_ms": 6559,
+      "text": "tomorrow, 10 a.m. Eastern. Uh man, what"
+    },
+    {
+      "start_ms": 3352640,
+      "duration_ms": 4719,
+      "text": "else can I say? This was incredible."
+    },
+    {
+      "start_ms": 3354559,
+      "duration_ms": 4000,
+      "text": "Thank you for being such a great guest."
+    },
+    {
+      "start_ms": 3357359,
+      "duration_ms": 3361,
+      "text": "I know I know everybody really"
+    },
+    {
+      "start_ms": 3358559,
+      "duration_ms": 5559,
+      "text": "appreciate it. And guys,"
+    },
+    {
+      "start_ms": 3360720,
+      "duration_ms": 4399,
+      "text": "please try to sell me six cents."
+    },
+    {
+      "start_ms": 3364118,
+      "duration_ms": 3162,
+      "text": "[laughter]"
+    },
+    {
+      "start_ms": 3365119,
+      "duration_ms": 4240,
+      "text": "I would I would just like I'll see the"
+    },
+    {
+      "start_ms": 3367280,
+      "duration_ms": 4240,
+      "text": "results of I would love to see if"
+    },
+    {
+      "start_ms": 3369359,
+      "duration_ms": 4960,
+      "text": "anybody I couldn't get myself to not"
+    },
+    {
+      "start_ms": 3371520,
+      "duration_ms": 6319,
+      "text": "hang up on me. Like [laughter]"
+    },
+    {
+      "start_ms": 3374319,
+      "duration_ms": 5280,
+      "text": "it it was just like buy. Um I would love"
+    },
+    {
+      "start_ms": 3377839,
+      "duration_ms": 4720,
+      "text": "to see what it takes to sell Adam"
+    },
+    {
+      "start_ms": 3379599,
+      "duration_ms": 3520,
+      "text": "Robinson 6 cents. So um"
+    },
+    {
+      "start_ms": 3382559,
+      "duration_ms": 3280,
+      "text": "cool."
+    },
+    {
+      "start_ms": 3383119,
+      "duration_ms": 3281,
+      "text": "Nice. Let's talk about next week's uh"
+    },
+    {
+      "start_ms": 3385839,
+      "duration_ms": 4881,
+      "text": "session."
+    },
+    {
+      "start_ms": 3386400,
+      "duration_ms": 5679,
+      "text": "Oh yeah, next week. Oh, next week Mark I"
+    },
+    {
+      "start_ms": 3390720,
+      "duration_ms": 2720,
+      "text": "got Mark. All right, see you Jason."
+    },
+    {
+      "start_ms": 3392079,
+      "duration_ms": 3760,
+      "text": "I got by the way."
+    },
+    {
+      "start_ms": 3393440,
+      "duration_ms": 4560,
+      "text": "Take care. By the way, next week Mark"
+    },
+    {
+      "start_ms": 3395839,
+      "duration_ms": 5520,
+      "text": "Coslo is coming on. We're gonna settle"
+    },
+    {
+      "start_ms": 3398000,
+      "duration_ms": 6799,
+      "text": "the beef live once and for all. Uh the"
+    },
+    {
+      "start_ms": 3401359,
+      "duration_ms": 4720,
+      "text": "link to it is I don't know where it is,"
+    },
+    {
+      "start_ms": 3404799,
+      "duration_ms": 4161,
+      "text": "but we'll send you the link. You know"
+    },
+    {
+      "start_ms": 3406079,
+      "duration_ms": 5441,
+      "text": "where to get the link. Um everybody come"
+    },
+    {
+      "start_ms": 3408960,
+      "duration_ms": 4159,
+      "text": "next week. It's the same link as here."
+    },
+    {
+      "start_ms": 3411520,
+      "duration_ms": 2720,
+      "text": "Uh thank you."
+    },
+    {
+      "start_ms": 3413119,
+      "duration_ms": 2720,
+      "text": "It'll be epic."
+    },
+    {
+      "start_ms": 3414240,
+      "duration_ms": 2879,
+      "text": "Yeah, it's gonna be epic. Mark and I are"
+    },
+    {
+      "start_ms": 3415839,
+      "duration_ms": 3041,
+      "text": "going to debate. Basically, the debate"
+    },
+    {
+      "start_ms": 3417119,
+      "duration_ms": 3440,
+      "text": "is VC versus Bootstrap at this point."
+    },
+    {
+      "start_ms": 3418880,
+      "duration_ms": 4880,
+      "text": "It's kind of gone away from inbound with"
+    },
+    {
+      "start_ms": 3420559,
+      "duration_ms": 5841,
+      "text": "outbound, but uh I think there's there I"
+    },
+    {
+      "start_ms": 3423760,
+      "duration_ms": 3920,
+      "text": "think I'm right clearly. Um okay, take"
+    },
+    {
+      "start_ms": 3426400,
+      "duration_ms": 2480,
+      "text": "care everybody. Bye."
+    },
+    {
+      "start_ms": 3427680,
+      "duration_ms": 5869,
+      "text": "Have a good one."
+    },
+    {
+      "start_ms": 3428880,
+      "duration_ms": 6689,
+      "text": "See you Santosh. Cheers."
+    },
+    {
+      "start_ms": 3433549,
+      "duration_ms": 2020,
+      "text": "[clears throat]"
+    }
+  ]
+}

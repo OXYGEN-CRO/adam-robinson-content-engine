@@ -1,0 +1,13 @@
+{
+  "id": "pcG_402qsp0",
+  "source_sha256": "bb3bd703b8679425bd08eb0ec597acdb269b37badaa393384114ca5f0bf0b292",
+  "source_characters": 60310,
+  "source_word_count": 9118,
+  "prompt_sha256": "d21aaf5f722bfd50c6dfa1bff4026f9fec64ad853fe5fb1c8fbdeefb15549555",
+  "started_at": "2026-09-08T09:31:46.171597+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/pcG_402qsp0/pcG_402qsp0.md",
+  "pid": 47618,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:37:30.401010+00:00"
+}

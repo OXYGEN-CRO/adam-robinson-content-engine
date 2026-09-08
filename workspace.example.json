@@ -1,0 +1,15 @@
+{
+  "author": null,
+  "company": null,
+  "language": null,
+  "timezone": null,
+  "platforms": [],
+  "posting_days": [],
+  "posts_per_week": null,
+  "oxygen": {
+    "cli": null,
+    "organization": null,
+    "provider": "linkedin",
+    "note": "CLI binary (oxygen or oxygen-dev) and the organization id where post drafts are saved. Drafts only; approval and publishing stay manual."
+  }
+}

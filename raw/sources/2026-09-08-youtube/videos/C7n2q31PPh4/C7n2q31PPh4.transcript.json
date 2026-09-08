@@ -1,0 +1,4539 @@
+{
+  "video_id": "C7n2q31PPh4",
+  "title": "Ai Talks with Adam, Pete, and Robb",
+  "url": "https://www.youtube.com/watch?v=C7n2q31PPh4",
+  "upload_date": "20250730",
+  "channel_id": "UCSHn0Px37BjzMqnZBmVWwcQ",
+  "captured_at": "2026-09-08T07:42:01.432433+00:00",
+  "transcript_origin": "youtube_automatic_captions",
+  "language": "en-orig",
+  "raw_caption_file": "raw/sources/2026-09-08-youtube/videos/C7n2q31PPh4/C7n2q31PPh4.en-orig.json3",
+  "normalization": "Concatenate utf8 segments per caption event; retain event start and duration; whitespace trim only.",
+  "segments": [
+    {
+      "start_ms": 5839,
+      "duration_ms": 6001,
+      "text": "If someone were starting at zero, Rob,"
+    },
+    {
+      "start_ms": 8639,
+      "duration_ms": 5920,
+      "text": "like on this support doc stuff, what"
+    },
+    {
+      "start_ms": 11840,
+      "duration_ms": 4240,
+      "text": "would be your recommendation to them?"
+    },
+    {
+      "start_ms": 14559,
+      "duration_ms": 5201,
+      "text": "Right."
+    },
+    {
+      "start_ms": 16080,
+      "duration_ms": 6000,
+      "text": ">> Day one, starting at zero,"
+    },
+    {
+      "start_ms": 19760,
+      "duration_ms": 4720,
+      "text": "building some support docs with the"
+    },
+    {
+      "start_ms": 22080,
+      "duration_ms": 4400,
+      "text": "intention of"
+    },
+    {
+      "start_ms": 24480,
+      "duration_ms": 5440,
+      "text": "training an AI agent and leveraging"
+    },
+    {
+      "start_ms": 26480,
+      "duration_ms": 6239,
+      "text": "that. the where I would start is exactly"
+    },
+    {
+      "start_ms": 29920,
+      "duration_ms": 6720,
+      "text": "where I started was answering the"
+    },
+    {
+      "start_ms": 32719,
+      "duration_ms": 7761,
+      "text": "questions that were the most painful for"
+    },
+    {
+      "start_ms": 36640,
+      "duration_ms": 6160,
+      "text": "me. Um the ones that every time the"
+    },
+    {
+      "start_ms": 40480,
+      "duration_ms": 3759,
+      "text": "ticket came in I went not again. by the"
+    },
+    {
+      "start_ms": 42800,
+      "duration_ms": 4400,
+      "text": "way the conversation we had yesterday"
+    },
+    {
+      "start_ms": 44239,
+      "duration_ms": 5041,
+      "text": "was if you're starting from zero just"
+    },
+    {
+      "start_ms": 47200,
+      "duration_ms": 5280,
+      "text": "create create the categories that we"
+    },
+    {
+      "start_ms": 49280,
+      "duration_ms": 6480,
+      "text": "have right and then just have a goal of"
+    },
+    {
+      "start_ms": 52480,
+      "duration_ms": 5919,
+      "text": "writing one article per day of the most"
+    },
+    {
+      "start_ms": 55760,
+      "duration_ms": 5200,
+      "text": "frequent question that day and instead"
+    },
+    {
+      "start_ms": 58399,
+      "duration_ms": 5840,
+      "text": "of answering that question send the"
+    },
+    {
+      "start_ms": 60960,
+      "duration_ms": 5440,
+      "text": "article back right then in six months"
+    },
+    {
+      "start_ms": 64239,
+      "duration_ms": 3761,
+      "text": "you're going to have 160 articles or"
+    },
+    {
+      "start_ms": 66400,
+      "duration_ms": 4719,
+      "text": "whatever whatever the math is 180"
+    },
+    {
+      "start_ms": 68000,
+      "duration_ms": 5600,
+      "text": "articles you will have almost your"
+    },
+    {
+      "start_ms": 71119,
+      "duration_ms": 5201,
+      "text": "entire base of possible questions"
+    },
+    {
+      "start_ms": 73600,
+      "duration_ms": 4720,
+      "text": "covered. And if you can get in the habit"
+    },
+    {
+      "start_ms": 76320,
+      "duration_ms": 6400,
+      "text": "of sending articles to people that"
+    },
+    {
+      "start_ms": 78320,
+      "duration_ms": 6799,
+      "text": "actually answer their question, that is"
+    },
+    {
+      "start_ms": 82720,
+      "duration_ms": 4240,
+      "text": "a foundational starting point for making"
+    },
+    {
+      "start_ms": 85119,
+      "duration_ms": 4000,
+      "text": "AI support work."
+    },
+    {
+      "start_ms": 86960,
+      "duration_ms": 5040,
+      "text": ">> Yeah. And that's that's exactly where I"
+    },
+    {
+      "start_ms": 89119,
+      "duration_ms": 7201,
+      "text": "started as well. Like when I would get"
+    },
+    {
+      "start_ms": 92000,
+      "duration_ms": 7600,
+      "text": "the question in in an email before we"
+    },
+    {
+      "start_ms": 96320,
+      "duration_ms": 4880,
+      "text": "even had support docs or when we first"
+    },
+    {
+      "start_ms": 99600,
+      "duration_ms": 3440,
+      "text": "started, as soon as I get the question"
+    },
+    {
+      "start_ms": 101200,
+      "duration_ms": 4480,
+      "text": "in the email, I was going to have to"
+    },
+    {
+      "start_ms": 103040,
+      "duration_ms": 5200,
+      "text": "write the email with the answer anyway."
+    },
+    {
+      "start_ms": 105680,
+      "duration_ms": 3200,
+      "text": "So why not write it as a support doc?"
+    },
+    {
+      "start_ms": 108240,
+      "duration_ms": 2080,
+      "text": "Yeah,"
+    },
+    {
+      "start_ms": 108880,
+      "duration_ms": 3519,
+      "text": ">> spend that extra little bit of time"
+    },
+    {
+      "start_ms": 110320,
+      "duration_ms": 5119,
+      "text": "formatting it, maybe do a screenshot"
+    },
+    {
+      "start_ms": 112399,
+      "duration_ms": 5040,
+      "text": "later. Write the doc, send them the link"
+    },
+    {
+      "start_ms": 115439,
+      "duration_ms": 3601,
+      "text": "to the doc, and then again, I was going"
+    },
+    {
+      "start_ms": 117439,
+      "duration_ms": 3601,
+      "text": "to have to write the content regardless,"
+    },
+    {
+      "start_ms": 119040,
+      "duration_ms": 3439,
+      "text": "whether it was in an email or the doc,"
+    },
+    {
+      "start_ms": 121040,
+      "duration_ms": 3200,
+      "text": "might as well be in the doc because the"
+    },
+    {
+      "start_ms": 122479,
+      "duration_ms": 3521,
+      "text": "next time somebody asks that question,"
+    },
+    {
+      "start_ms": 124240,
+      "duration_ms": 3040,
+      "text": "now there's a doc that exists and they"
+    },
+    {
+      "start_ms": 126000,
+      "duration_ms": 3440,
+      "text": "can answer their own question and get"
+    },
+    {
+      "start_ms": 127280,
+      "duration_ms": 5120,
+      "text": "that resource. Is there a difference in"
+    },
+    {
+      "start_ms": 129440,
+      "duration_ms": 6560,
+      "text": "how you would write a knowledgebased"
+    },
+    {
+      "start_ms": 132400,
+      "duration_ms": 5600,
+      "text": "article that's that's kind of primed for"
+    },
+    {
+      "start_ms": 136000,
+      "duration_ms": 4080,
+      "text": "AI compared to how you would type a"
+    },
+    {
+      "start_ms": 138000,
+      "duration_ms": 4560,
+      "text": "response to a person or maybe write an"
+    },
+    {
+      "start_ms": 140080,
+      "duration_ms": 4960,
+      "text": "article pre-AI? Is there is there a"
+    },
+    {
+      "start_ms": 142560,
+      "duration_ms": 4480,
+      "text": "specific kind of"
+    },
+    {
+      "start_ms": 145040,
+      "duration_ms": 5199,
+      "text": "couple of guidelines that you follow?"
+    },
+    {
+      "start_ms": 147040,
+      "duration_ms": 5839,
+      "text": ">> Yeah, I mean ultimately today writing"
+    },
+    {
+      "start_ms": 150239,
+      "duration_ms": 4080,
+      "text": "any article you're writing it for AI and"
+    },
+    {
+      "start_ms": 152879,
+      "duration_ms": 4961,
+      "text": "the human reader. It's got to be"
+    },
+    {
+      "start_ms": 154319,
+      "duration_ms": 6000,
+      "text": "formatted for both. Um, there's a lot of"
+    },
+    {
+      "start_ms": 157840,
+      "duration_ms": 6000,
+      "text": "similarities between the human reader"
+    },
+    {
+      "start_ms": 160319,
+      "duration_ms": 6081,
+      "text": "and the AI,"
+    },
+    {
+      "start_ms": 163840,
+      "duration_ms": 5360,
+      "text": "but the main things to keep in mind when"
+    },
+    {
+      "start_ms": 166400,
+      "duration_ms": 6000,
+      "text": "writing for AI is"
+    },
+    {
+      "start_ms": 169200,
+      "duration_ms": 7440,
+      "text": "very clear headings, defined sections."
+    },
+    {
+      "start_ms": 172400,
+      "duration_ms": 6320,
+      "text": "Um, almost treat it a lot like you would"
+    },
+    {
+      "start_ms": 176640,
+      "duration_ms": 4319,
+      "text": "doing search engine optimization for"
+    },
+    {
+      "start_ms": 178720,
+      "duration_ms": 7120,
+      "text": "content on a website. you know, your"
+    },
+    {
+      "start_ms": 180959,
+      "duration_ms": 6881,
+      "text": "H1's, H2, H3, bold this text, put a list"
+    },
+    {
+      "start_ms": 185840,
+      "duration_ms": 4399,
+      "text": "here. Um, all the things that are going"
+    },
+    {
+      "start_ms": 187840,
+      "duration_ms": 4399,
+      "text": "to check the boxes for your for your"
+    },
+    {
+      "start_ms": 190239,
+      "duration_ms": 3761,
+      "text": "search engines are really the same"
+    },
+    {
+      "start_ms": 192239,
+      "duration_ms": 4640,
+      "text": "things that check the boxes for the AI"
+    },
+    {
+      "start_ms": 194000,
+      "duration_ms": 4239,
+      "text": "agent and also for your human reader. It"
+    },
+    {
+      "start_ms": 196879,
+      "duration_ms": 5360,
+      "text": "makes it easier for them to read. But"
+    },
+    {
+      "start_ms": 198239,
+      "duration_ms": 7601,
+      "text": "the main things to really"
+    },
+    {
+      "start_ms": 202239,
+      "duration_ms": 7761,
+      "text": "understand is visuals and videos."
+    },
+    {
+      "start_ms": 205840,
+      "duration_ms": 7360,
+      "text": "um like Finn is just getting into"
+    },
+    {
+      "start_ms": 210000,
+      "duration_ms": 4799,
+      "text": "being able to interpret images."
+    },
+    {
+      "start_ms": 213200,
+      "duration_ms": 4959,
+      "text": "So"
+    },
+    {
+      "start_ms": 214799,
+      "duration_ms": 5440,
+      "text": "like you would for again developing web"
+    },
+    {
+      "start_ms": 218159,
+      "duration_ms": 6561,
+      "text": "content, you're going to do some stuff"
+    },
+    {
+      "start_ms": 220239,
+      "duration_ms": 6080,
+      "text": "for um uh the American Disabilities Act"
+    },
+    {
+      "start_ms": 224720,
+      "duration_ms": 4480,
+      "text": "and you're going to have metatags that"
+    },
+    {
+      "start_ms": 226319,
+      "duration_ms": 5441,
+      "text": "describe the picture. So that way if"
+    },
+    {
+      "start_ms": 229200,
+      "duration_ms": 4560,
+      "text": "somebody's visually impaired, they're"
+    },
+    {
+      "start_ms": 231760,
+      "duration_ms": 3920,
+      "text": "not reliant on the picture. They can get"
+    },
+    {
+      "start_ms": 233760,
+      "duration_ms": 3440,
+      "text": "the description, right? Same thing for"
+    },
+    {
+      "start_ms": 235680,
+      "duration_ms": 5680,
+      "text": "the AI. You're going to put a picture"
+    },
+    {
+      "start_ms": 237200,
+      "duration_ms": 6959,
+      "text": "up, but your guidance, like the the text"
+    },
+    {
+      "start_ms": 241360,
+      "duration_ms": 4640,
+      "text": "below, needs to explain what to do,"
+    },
+    {
+      "start_ms": 244159,
+      "duration_ms": 4561,
+      "text": "where to click. It can't just be a"
+    },
+    {
+      "start_ms": 246000,
+      "duration_ms": 4879,
+      "text": "picture with an arrow pointing at um the"
+    },
+    {
+      "start_ms": 248720,
+      "duration_ms": 3840,
+      "text": "add domain button. No, you need to"
+    },
+    {
+      "start_ms": 250879,
+      "duration_ms": 3280,
+      "text": "explain it like in the codecript"
+    },
+    {
+      "start_ms": 252560,
+      "duration_ms": 4000,
+      "text": "section, locate and click on the add"
+    },
+    {
+      "start_ms": 254159,
+      "duration_ms": 3121,
+      "text": "domain button at the bottom. You need to"
+    },
+    {
+      "start_ms": 256560,
+      "duration_ms": 2239,
+      "text": "describe it."
+    },
+    {
+      "start_ms": 257280,
+      "duration_ms": 5440,
+      "text": ">> There there you go. Yeah."
+    },
+    {
+      "start_ms": 258799,
+      "duration_ms": 6400,
+      "text": ">> Yeah. So, so in this this article which"
+    },
+    {
+      "start_ms": 262720,
+      "duration_ms": 5199,
+      "text": "we will reference everywhere you're"
+    },
+    {
+      "start_ms": 265199,
+      "duration_ms": 4161,
+      "text": "watching this is"
+    },
+    {
+      "start_ms": 267919,
+      "duration_ms": 3921,
+      "text": ">> install your tracking script on"
+    },
+    {
+      "start_ms": 269360,
+      "duration_ms": 5040,
+      "text": "support.rbdb.com."
+    },
+    {
+      "start_ms": 271840,
+      "duration_ms": 5440,
+      "text": "Again, use our entire knowledge base as"
+    },
+    {
+      "start_ms": 274400,
+      "duration_ms": 6480,
+      "text": "a template. Use that article as a"
+    },
+    {
+      "start_ms": 277280,
+      "duration_ms": 6000,
+      "text": "template for how to write articles. And"
+    },
+    {
+      "start_ms": 280880,
+      "duration_ms": 7360,
+      "text": "to come off the top rope in wrestling"
+    },
+    {
+      "start_ms": 283280,
+      "duration_ms": 8800,
+      "text": "speak, Rob actually created a chat GPT"
+    },
+    {
+      "start_ms": 288240,
+      "duration_ms": 8480,
+      "text": "whose exclusive p purpose is to optimize"
+    },
+    {
+      "start_ms": 292080,
+      "duration_ms": 5440,
+      "text": "the post for both human and"
+    },
+    {
+      "start_ms": 296720,
+      "duration_ms": 3440,
+      "text": "uh AI."
+    },
+    {
+      "start_ms": 297520,
+      "duration_ms": 4959,
+      "text": ">> FAQ frequently asked questions. Why is"
+    },
+    {
+      "start_ms": 300160,
+      "duration_ms": 3039,
+      "text": "this so important and how do you store"
+    },
+    {
+      "start_ms": 302479,
+      "duration_ms": 4801,
+      "text": "it in here?"
+    },
+    {
+      "start_ms": 303199,
+      "duration_ms": 6881,
+      "text": ">> Yeah, so FAQs, they capture real user"
+    },
+    {
+      "start_ms": 307280,
+      "duration_ms": 6400,
+      "text": "language. um they increase coverage for"
+    },
+    {
+      "start_ms": 310080,
+      "duration_ms": 7119,
+      "text": "edge cases, they prevent well support"
+    },
+    {
+      "start_ms": 313680,
+      "duration_ms": 5920,
+      "text": "tickets and they boost AI confidence um"
+    },
+    {
+      "start_ms": 317199,
+      "duration_ms": 6801,
+      "text": "because they're asking the same"
+    },
+    {
+      "start_ms": 319600,
+      "duration_ms": 7599,
+      "text": "questions that users ask and giving the"
+    },
+    {
+      "start_ms": 324000,
+      "duration_ms": 4880,
+      "text": "direct answer to that question. Um"
+    },
+    {
+      "start_ms": 327199,
+      "duration_ms": 4560,
+      "text": "they're they're just wildly important. I"
+    },
+    {
+      "start_ms": 328880,
+      "duration_ms": 4960,
+      "text": "mean your main document your main"
+    },
+    {
+      "start_ms": 331759,
+      "duration_ms": 5361,
+      "text": "documentation like the articles need to"
+    },
+    {
+      "start_ms": 333840,
+      "duration_ms": 6880,
+      "text": "cover say 80%"
+    },
+    {
+      "start_ms": 337120,
+      "duration_ms": 5519,
+      "text": "of the core use case and then the FAQs"
+    },
+    {
+      "start_ms": 340720,
+      "duration_ms": 3120,
+      "text": "again tend to be more for those edge"
+    },
+    {
+      "start_ms": 342639,
+      "duration_ms": 3601,
+      "text": "cases."
+    },
+    {
+      "start_ms": 343840,
+      "duration_ms": 4799,
+      "text": ">> Yeah. And and to reemphasize"
+    },
+    {
+      "start_ms": 346240,
+      "duration_ms": 4959,
+      "text": "take the exact way you're being asked"
+    },
+    {
+      "start_ms": 348639,
+      "duration_ms": 5921,
+      "text": "the question and write it as the"
+    },
+    {
+      "start_ms": 351199,
+      "duration_ms": 6000,
+      "text": "question and then in the response"
+    },
+    {
+      "start_ms": 354560,
+      "duration_ms": 5040,
+      "text": "rewrite the question. I also want to"
+    },
+    {
+      "start_ms": 357199,
+      "duration_ms": 6241,
+      "text": "point out that uh and Rob you can"
+    },
+    {
+      "start_ms": 359600,
+      "duration_ms": 5760,
+      "text": "clarify but systems like intercom which"
+    },
+    {
+      "start_ms": 363440,
+      "duration_ms": 5520,
+      "text": "is what Finn lives on. Finn is the"
+    },
+    {
+      "start_ms": 365360,
+      "duration_ms": 5679,
+      "text": "intercom AI bot that they have. Intercom"
+    },
+    {
+      "start_ms": 368960,
+      "duration_ms": 4320,
+      "text": "tells you and Finn tell you what your"
+    },
+    {
+      "start_ms": 371039,
+      "duration_ms": 4160,
+      "text": "most asked questions are and they"
+    },
+    {
+      "start_ms": 373280,
+      "duration_ms": 4560,
+      "text": "actually line out all the different ways"
+    },
+    {
+      "start_ms": 375199,
+      "duration_ms": 5521,
+      "text": "people ask the question. On top of that,"
+    },
+    {
+      "start_ms": 377840,
+      "duration_ms": 5840,
+      "text": "they will also tell you the degree to"
+    },
+    {
+      "start_ms": 380720,
+      "duration_ms": 4880,
+      "text": "like if you're really struggling to help"
+    },
+    {
+      "start_ms": 383680,
+      "duration_ms": 4000,
+      "text": "people with login issues based on your"
+    },
+    {
+      "start_ms": 385600,
+      "duration_ms": 4080,
+      "text": "AI or your knowledge base, it'll call"
+    },
+    {
+      "start_ms": 387680,
+      "duration_ms": 3840,
+      "text": "that out for you. So, this doesn't all"
+    },
+    {
+      "start_ms": 389680,
+      "duration_ms": 4160,
+      "text": "have to be done in your head, right?"
+    },
+    {
+      "start_ms": 391520,
+      "duration_ms": 3760,
+      "text": "This can be uh usually the softwares"
+    },
+    {
+      "start_ms": 393840,
+      "duration_ms": 2960,
+      "text": "like if you're using Finn, we already"
+    },
+    {
+      "start_ms": 395280,
+      "duration_ms": 3440,
+      "text": "know it'll do it, but other chat bots"
+    },
+    {
+      "start_ms": 396800,
+      "duration_ms": 3280,
+      "text": "will do this as well on the support side"
+    },
+    {
+      "start_ms": 398720,
+      "duration_ms": 3039,
+      "text": "of actually telling you where you need"
+    },
+    {
+      "start_ms": 400080,
+      "duration_ms": 3760,
+      "text": "to improve. So, it doesn't have to all"
+    },
+    {
+      "start_ms": 401759,
+      "duration_ms": 4801,
+      "text": "be within your your imagination."
+    },
+    {
+      "start_ms": 403840,
+      "duration_ms": 8320,
+      "text": ">> Yep. And and we think facts are so"
+    },
+    {
+      "start_ms": 406560,
+      "duration_ms": 9120,
+      "text": "important that we put facts at the end"
+    },
+    {
+      "start_ms": 412160,
+      "duration_ms": 5759,
+      "text": "with nested within every"
+    },
+    {
+      "start_ms": 415680,
+      "duration_ms": 4000,
+      "text": "uh core"
+    },
+    {
+      "start_ms": 417919,
+      "duration_ms": 3280,
+      "text": "subject in our knowledge base. So"
+    },
+    {
+      "start_ms": 419680,
+      "duration_ms": 3280,
+      "text": "there's main facts and there's"
+    },
+    {
+      "start_ms": 421199,
+      "duration_ms": 4961,
+      "text": "frequently asked questions about every"
+    },
+    {
+      "start_ms": 422960,
+      "duration_ms": 6320,
+      "text": "single integration, right? So"
+    },
+    {
+      "start_ms": 426160,
+      "duration_ms": 5120,
+      "text": "questions are what people are asking in"
+    },
+    {
+      "start_ms": 429280,
+      "duration_ms": 5039,
+      "text": "support. Questions are what you are"
+    },
+    {
+      "start_ms": 431280,
+      "duration_ms": 5680,
+      "text": "hiring these agents to answer. The more"
+    },
+    {
+      "start_ms": 434319,
+      "duration_ms": 4401,
+      "text": "questions you can have documented,"
+    },
+    {
+      "start_ms": 436960,
+      "duration_ms": 4239,
+      "text": "you know, related to different"
+    },
+    {
+      "start_ms": 438720,
+      "duration_ms": 4879,
+      "text": "categories in your knowledge base, the"
+    },
+    {
+      "start_ms": 441199,
+      "duration_ms": 4881,
+      "text": "more ability your AI is going to have to"
+    },
+    {
+      "start_ms": 443599,
+      "duration_ms": 4880,
+      "text": "give a precise answer that is correct to"
+    },
+    {
+      "start_ms": 446080,
+      "duration_ms": 4640,
+      "text": "the question that is being asked. Facts,"
+    },
+    {
+      "start_ms": 448479,
+      "duration_ms": 4720,
+      "text": "facts, facts, baby"
+    },
+    {
+      "start_ms": 450720,
+      "duration_ms": 4160,
+      "text": ">> and might even prevent support tickets,"
+    },
+    {
+      "start_ms": 453199,
+      "duration_ms": 2400,
+      "text": "right? Having great facts, which is"
+    },
+    {
+      "start_ms": 454880,
+      "duration_ms": 2800,
+      "text": "great."
+    },
+    {
+      "start_ms": 455599,
+      "duration_ms": 5361,
+      "text": ">> All right, troubleshooting. Let's get"
+    },
+    {
+      "start_ms": 457680,
+      "duration_ms": 6000,
+      "text": "into that. Um, troubleshooting. Usually"
+    },
+    {
+      "start_ms": 460960,
+      "duration_ms": 4560,
+      "text": "a user is working through an actual"
+    },
+    {
+      "start_ms": 463680,
+      "duration_ms": 4880,
+      "text": "problem, right? And they need to kind of"
+    },
+    {
+      "start_ms": 465520,
+      "duration_ms": 4560,
+      "text": "go through step by step. Some bots are"
+    },
+    {
+      "start_ms": 468560,
+      "duration_ms": 2960,
+      "text": "trying to resolve something as quickly"
+    },
+    {
+      "start_ms": 470080,
+      "duration_ms": 2880,
+      "text": "as possible. Maybe in the realm of"
+    },
+    {
+      "start_ms": 471520,
+      "duration_ms": 4000,
+      "text": "troubleshooting, they actually need to"
+    },
+    {
+      "start_ms": 472960,
+      "duration_ms": 4320,
+      "text": "walk through them step by step. So how"
+    },
+    {
+      "start_ms": 475520,
+      "duration_ms": 3760,
+      "text": "do we handle troubleshooting?"
+    },
+    {
+      "start_ms": 477280,
+      "duration_ms": 3599,
+      "text": ">> Yeah. So"
+    },
+    {
+      "start_ms": 479280,
+      "duration_ms": 4479,
+      "text": "the way we're handling troubleshooting,"
+    },
+    {
+      "start_ms": 480879,
+      "duration_ms": 5361,
+      "text": "we it it depends on the subject. Um but"
+    },
+    {
+      "start_ms": 483759,
+      "duration_ms": 6481,
+      "text": "we've got some core troubleshooting"
+    },
+    {
+      "start_ms": 486240,
+      "duration_ms": 6399,
+      "text": "docs. We've got three or four um that"
+    },
+    {
+      "start_ms": 490240,
+      "duration_ms": 4560,
+      "text": "are common"
+    },
+    {
+      "start_ms": 492639,
+      "duration_ms": 4881,
+      "text": "issues that users might face in general,"
+    },
+    {
+      "start_ms": 494800,
+      "duration_ms": 5200,
+      "text": "login, no collection, etc. Um but then"
+    },
+    {
+      "start_ms": 497520,
+      "duration_ms": 6079,
+      "text": "there's also troubleshooting that"
+    },
+    {
+      "start_ms": 500000,
+      "duration_ms": 8560,
+      "text": "specific to uh script installation."
+    },
+    {
+      "start_ms": 503599,
+      "duration_ms": 7201,
+      "text": "There's um documents that give how to"
+    },
+    {
+      "start_ms": 508560,
+      "duration_ms": 4560,
+      "text": "troubleshoot specific errors that you"
+    },
+    {
+      "start_ms": 510800,
+      "duration_ms": 4320,
+      "text": "get using our script validation tool. So"
+    },
+    {
+      "start_ms": 513120,
+      "duration_ms": 4080,
+      "text": "when you run the validator, it will"
+    },
+    {
+      "start_ms": 515120,
+      "duration_ms": 4880,
+      "text": "check the script install and depending"
+    },
+    {
+      "start_ms": 517200,
+      "duration_ms": 5600,
+      "text": "on what it finds, it will show a certain"
+    },
+    {
+      "start_ms": 520000,
+      "duration_ms": 6160,
+      "text": "message on the screen and the"
+    },
+    {
+      "start_ms": 522800,
+      "duration_ms": 6560,
+      "text": "documentation for um those error"
+    },
+    {
+      "start_ms": 526160,
+      "duration_ms": 5760,
+      "text": "messages will teach the user exactly how"
+    },
+    {
+      "start_ms": 529360,
+      "duration_ms": 5680,
+      "text": "to resolve that specific issue and what"
+    },
+    {
+      "start_ms": 531920,
+      "duration_ms": 5039,
+      "text": "might be the cause. Um"
+    },
+    {
+      "start_ms": 535040,
+      "duration_ms": 4640,
+      "text": "so ultimately it's their step-by-step"
+    },
+    {
+      "start_ms": 536959,
+      "duration_ms": 5440,
+      "text": "guides to common problems. So when"
+    },
+    {
+      "start_ms": 539680,
+      "duration_ms": 4719,
+      "text": "somebody faces problem A, it gives them,"
+    },
+    {
+      "start_ms": 542399,
+      "duration_ms": 3601,
+      "text": "you know, it addresses problem A and"
+    },
+    {
+      "start_ms": 544399,
+      "duration_ms": 3521,
+      "text": "then gives them the step-by-step guide"
+    },
+    {
+      "start_ms": 546000,
+      "duration_ms": 6320,
+      "text": "on how to resolve that and what to look"
+    },
+    {
+      "start_ms": 547920,
+      "duration_ms": 6320,
+      "text": "for and um the various nuances uh of"
+    },
+    {
+      "start_ms": 552320,
+      "duration_ms": 4079,
+      "text": "each of those problems. So like again"
+    },
+    {
+      "start_ms": 554240,
+      "duration_ms": 5520,
+      "text": "that no collection troubleshooting one"
+    },
+    {
+      "start_ms": 556399,
+      "duration_ms": 7120,
+      "text": "there could be a handful of reasons um"
+    },
+    {
+      "start_ms": 559760,
+      "duration_ms": 5120,
+      "text": "depending on is it no collection period"
+    },
+    {
+      "start_ms": 563519,
+      "duration_ms": 5440,
+      "text": "you haven't collected anything on your"
+    },
+    {
+      "start_ms": 564880,
+      "duration_ms": 8240,
+      "text": "site uh is your account offline did you"
+    },
+    {
+      "start_ms": 568959,
+      "duration_ms": 8481,
+      "text": "reach your cap is your trial over is is"
+    },
+    {
+      "start_ms": 573120,
+      "duration_ms": 7120,
+      "text": "your script still installed um those are"
+    },
+    {
+      "start_ms": 577440,
+      "duration_ms": 4560,
+      "text": "those are really common questions and we"
+    },
+    {
+      "start_ms": 580240,
+      "duration_ms": 2320,
+      "text": "try and troubleshoot through a lot of"
+    },
+    {
+      "start_ms": 582000,
+      "duration_ms": 2959,
+      "text": "that stuff"
+    },
+    {
+      "start_ms": 582560,
+      "duration_ms": 5600,
+      "text": ">> and And in my opinion, when you observe"
+    },
+    {
+      "start_ms": 584959,
+      "duration_ms": 6000,
+      "text": "the AI doing troubleshooting with a"
+    },
+    {
+      "start_ms": 588160,
+      "duration_ms": 7119,
+      "text": "user, it's one of the most magical"
+    },
+    {
+      "start_ms": 590959,
+      "duration_ms": 6081,
+      "text": "things that to watch because"
+    },
+    {
+      "start_ms": 595279,
+      "duration_ms": 4081,
+      "text": "for some reason, this is something, at"
+    },
+    {
+      "start_ms": 597040,
+      "duration_ms": 4560,
+      "text": "least in my mind, it's so closely linked"
+    },
+    {
+      "start_ms": 599360,
+      "duration_ms": 5440,
+      "text": "to a support rep helping someone out."
+    },
+    {
+      "start_ms": 601600,
+      "duration_ms": 6239,
+      "text": "Like in RBB's case, I put the script on"
+    },
+    {
+      "start_ms": 604800,
+      "duration_ms": 5840,
+      "text": "and it's not working. Like Finn in"
+    },
+    {
+      "start_ms": 607839,
+      "duration_ms": 6401,
+      "text": "almost every case without Rob can get"
+    },
+    {
+      "start_ms": 610640,
+      "duration_ms": 5600,
+      "text": "their script activated. Unbelievable,"
+    },
+    {
+      "start_ms": 614240,
+      "duration_ms": 5760,
+      "text": "right? So like I think there's the the"
+    },
+    {
+      "start_ms": 616240,
+      "duration_ms": 5920,
+      "text": "the the there is that version of"
+    },
+    {
+      "start_ms": 620000,
+      "duration_ms": 4800,
+      "text": "everyone's app. So have a"
+    },
+    {
+      "start_ms": 622160,
+      "duration_ms": 4960,
+      "text": "troubleshooting section specifically for"
+    },
+    {
+      "start_ms": 624800,
+      "duration_ms": 4159,
+      "text": "that, right? Because people respond well"
+    },
+    {
+      "start_ms": 627120,
+      "duration_ms": 3040,
+      "text": "to lists like they'll work with it like"
+    },
+    {
+      "start_ms": 628959,
+      "duration_ms": 3201,
+      "text": "you know."
+    },
+    {
+      "start_ms": 630160,
+      "duration_ms": 4720,
+      "text": ">> I think the list too, Rob, does the list"
+    },
+    {
+      "start_ms": 632160,
+      "duration_ms": 5600,
+      "text": "help the bot like understand? And I mean"
+    },
+    {
+      "start_ms": 634880,
+      "duration_ms": 6320,
+      "text": "one I think this this article there's no"
+    },
+    {
+      "start_ms": 637760,
+      "duration_ms": 6960,
+      "text": "collection one is sort of written in the"
+    },
+    {
+      "start_ms": 641200,
+      "duration_ms": 5840,
+      "text": "uh uh it's written like in order from"
+    },
+    {
+      "start_ms": 644720,
+      "duration_ms": 4400,
+      "text": "what's the kind of the most most common"
+    },
+    {
+      "start_ms": 647040,
+      "duration_ms": 4560,
+      "text": "problem to be happening under the"
+    },
+    {
+      "start_ms": 649120,
+      "duration_ms": 4320,
+      "text": "umbrella of no collection and then you"
+    },
+    {
+      "start_ms": 651600,
+      "duration_ms": 3760,
+      "text": "very clearly line out the solution. The"
+    },
+    {
+      "start_ms": 653440,
+      "duration_ms": 4079,
+      "text": "bot knows to you know that that's the"
+    },
+    {
+      "start_ms": 655360,
+      "duration_ms": 4400,
+      "text": "solution and just the way it's"
+    },
+    {
+      "start_ms": 657519,
+      "duration_ms": 4081,
+      "text": "organized. I can see how that lends"
+    },
+    {
+      "start_ms": 659760,
+      "duration_ms": 3120,
+      "text": "itself to like someone going through a"
+    },
+    {
+      "start_ms": 661600,
+      "duration_ms": 3280,
+      "text": "troubleshoot. I mean a troubleshooting"
+    },
+    {
+      "start_ms": 662880,
+      "duration_ms": 3680,
+      "text": "is just a list. Is it X? Is it Y? Is it"
+    },
+    {
+      "start_ms": 664880,
+      "duration_ms": 4160,
+      "text": "Z? And you keep going until you find"
+    },
+    {
+      "start_ms": 666560,
+      "duration_ms": 4399,
+      "text": "what the thing is. So, I feel like you"
+    },
+    {
+      "start_ms": 669040,
+      "duration_ms": 4239,
+      "text": "wrote with that in mind."
+    },
+    {
+      "start_ms": 670959,
+      "duration_ms": 5120,
+      "text": ">> Yeah, I definitely did. It's really"
+    },
+    {
+      "start_ms": 673279,
+      "duration_ms": 5601,
+      "text": "they're kind of ordered in"
+    },
+    {
+      "start_ms": 676079,
+      "duration_ms": 3521,
+      "text": "the more likely the cause. Um"
+    },
+    {
+      "start_ms": 678880,
+      "duration_ms": 2639,
+      "text": ">> Yeah. Yeah."
+    },
+    {
+      "start_ms": 679600,
+      "duration_ms": 4720,
+      "text": ">> Yeah. To least likely."
+    },
+    {
+      "start_ms": 681519,
+      "duration_ms": 5521,
+      "text": ">> All right. So, um we have this huge"
+    },
+    {
+      "start_ms": 684320,
+      "duration_ms": 6000,
+      "text": "knowledge base in RB's case about 400"
+    },
+    {
+      "start_ms": 687040,
+      "duration_ms": 6080,
+      "text": "support articles. Now, if RB2B goes"
+    },
+    {
+      "start_ms": 690320,
+      "duration_ms": 4880,
+      "text": "through and makes some changes to the"
+    },
+    {
+      "start_ms": 693120,
+      "duration_ms": 4399,
+      "text": "software, it would be really annoying to"
+    },
+    {
+      "start_ms": 695200,
+      "duration_ms": 5520,
+      "text": "go through and fix every single article."
+    },
+    {
+      "start_ms": 697519,
+      "duration_ms": 5121,
+      "text": "Um, so where do change logs come in and"
+    },
+    {
+      "start_ms": 700720,
+      "duration_ms": 3119,
+      "text": "and sort of help with contextualizing"
+    },
+    {
+      "start_ms": 702640,
+      "duration_ms": 4080,
+      "text": "this info for the bot?"
+    },
+    {
+      "start_ms": 703839,
+      "duration_ms": 5281,
+      "text": ">> Yeah. So, I mean, it's more than just"
+    },
+    {
+      "start_ms": 706720,
+      "duration_ms": 4160,
+      "text": "the bot. It's also again the the human"
+    },
+    {
+      "start_ms": 709120,
+      "duration_ms": 3600,
+      "text": "reader, the the user that's going to go"
+    },
+    {
+      "start_ms": 710880,
+      "duration_ms": 3680,
+      "text": "look at the change log and see when"
+    },
+    {
+      "start_ms": 712720,
+      "duration_ms": 6400,
+      "text": "changes happen. But again, it's it's"
+    },
+    {
+      "start_ms": 714560,
+      "duration_ms": 8480,
+      "text": "wildly important for the AI. um to show"
+    },
+    {
+      "start_ms": 719120,
+      "duration_ms": 6480,
+      "text": "what changed and when. Um because if"
+    },
+    {
+      "start_ms": 723040,
+      "duration_ms": 7120,
+      "text": "there was a bug that was fixed at a"
+    },
+    {
+      "start_ms": 725600,
+      "duration_ms": 7520,
+      "text": "certain point um that can give context"
+    },
+    {
+      "start_ms": 730160,
+      "duration_ms": 5600,
+      "text": "to a user problem. Oh, we weren't"
+    },
+    {
+      "start_ms": 733120,
+      "duration_ms": 4959,
+      "text": "profiles weren't going from A to B, but"
+    },
+    {
+      "start_ms": 735760,
+      "duration_ms": 6400,
+      "text": "suddenly they are. What changed? and the"
+    },
+    {
+      "start_ms": 738079,
+      "duration_ms": 6320,
+      "text": "AI can go, oh well on July 7th we did"
+    },
+    {
+      "start_ms": 742160,
+      "duration_ms": 6000,
+      "text": "this change to the Apollo integration"
+    },
+    {
+      "start_ms": 744399,
+      "duration_ms": 6401,
+      "text": "and this fixed it. Um"
+    },
+    {
+      "start_ms": 748160,
+      "duration_ms": 5280,
+      "text": "so it give it gives context to the"
+    },
+    {
+      "start_ms": 750800,
+      "duration_ms": 6000,
+      "text": "evolution of our product uh not only for"
+    },
+    {
+      "start_ms": 753440,
+      "duration_ms": 6000,
+      "text": "the AI but also for the user and shows"
+    },
+    {
+      "start_ms": 756800,
+      "duration_ms": 6000,
+      "text": "when and how and why things were updated"
+    },
+    {
+      "start_ms": 759440,
+      "duration_ms": 7199,
+      "text": "and changed. And again, that context is"
+    },
+    {
+      "start_ms": 762800,
+      "duration_ms": 5279,
+      "text": "key to the AI's understanding of exactly"
+    },
+    {
+      "start_ms": 766639,
+      "duration_ms": 3760,
+      "text": "how everything works."
+    },
+    {
+      "start_ms": 768079,
+      "duration_ms": 5281,
+      "text": ">> Moral of the story, it's a very low lift"
+    },
+    {
+      "start_ms": 770399,
+      "duration_ms": 5521,
+      "text": "to keep a change log and it will help in"
+    },
+    {
+      "start_ms": 773360,
+      "duration_ms": 4400,
+      "text": "very nuanced ways substantially. So,"
+    },
+    {
+      "start_ms": 775920,
+      "duration_ms": 3120,
+      "text": "just look at our change log and keep"
+    },
+    {
+      "start_ms": 777760,
+      "duration_ms": 4000,
+      "text": "something like that. Every time there's"
+    },
+    {
+      "start_ms": 779040,
+      "duration_ms": 5680,
+      "text": "a code push or a bug fix, just make a"
+    },
+    {
+      "start_ms": 781760,
+      "duration_ms": 6000,
+      "text": "bullet and describe what it is. You will"
+    },
+    {
+      "start_ms": 784720,
+      "duration_ms": 6960,
+      "text": "be yourself. three very big components"
+    },
+    {
+      "start_ms": 787760,
+      "duration_ms": 6160,
+      "text": "of a knowledge base, frequently asked"
+    },
+    {
+      "start_ms": 791680,
+      "duration_ms": 4480,
+      "text": "questions, an FAQ section,"
+    },
+    {
+      "start_ms": 793920,
+      "duration_ms": 4560,
+      "text": "troubleshooting section, and then three,"
+    },
+    {
+      "start_ms": 796160,
+      "duration_ms": 4400,
+      "text": "a change log, and that is going to help"
+    },
+    {
+      "start_ms": 798480,
+      "duration_ms": 6799,
+      "text": "the bot substantially."
+    },
+    {
+      "start_ms": 800560,
+      "duration_ms": 7200,
+      "text": ">> Yeah. Um, so this GPT, um, I've I've got"
+    },
+    {
+      "start_ms": 805279,
+      "duration_ms": 4881,
+      "text": "a public facing one, um, that is not"
+    },
+    {
+      "start_ms": 807760,
+      "duration_ms": 5280,
+      "text": "trained on RB2B stuff specifically, but"
+    },
+    {
+      "start_ms": 810160,
+      "duration_ms": 6560,
+      "text": "then I have my own version of this that"
+    },
+    {
+      "start_ms": 813040,
+      "duration_ms": 6799,
+      "text": "is trained on our product, so it it can"
+    },
+    {
+      "start_ms": 816720,
+      "duration_ms": 6559,
+      "text": "kind of fine-tune our our documentation"
+    },
+    {
+      "start_ms": 819839,
+      "duration_ms": 7680,
+      "text": "contextually. Um but this this GPT that"
+    },
+    {
+      "start_ms": 823279,
+      "duration_ms": 6240,
+      "text": "Adam was just sharing um it is trained"
+    },
+    {
+      "start_ms": 827519,
+      "duration_ms": 7041,
+      "text": "on"
+    },
+    {
+      "start_ms": 829519,
+      "duration_ms": 8081,
+      "text": "uh intercom's best practices for how to"
+    },
+    {
+      "start_ms": 834560,
+      "duration_ms": 6000,
+      "text": "format and write documentation"
+    },
+    {
+      "start_ms": 837600,
+      "duration_ms": 7280,
+      "text": "um for not only human users but also the"
+    },
+    {
+      "start_ms": 840560,
+      "duration_ms": 7600,
+      "text": "AI. Um it's also trained on uh just best"
+    },
+    {
+      "start_ms": 844880,
+      "duration_ms": 5759,
+      "text": "practices for support in general. Um,"
+    },
+    {
+      "start_ms": 848160,
+      "duration_ms": 4560,
+      "text": "and then there's also a bunch of human"
+    },
+    {
+      "start_ms": 850639,
+      "duration_ms": 6000,
+      "text": "psychology stuff that's sprinkled in"
+    },
+    {
+      "start_ms": 852720,
+      "duration_ms": 6640,
+      "text": "there, um, about how to phrase things"
+    },
+    {
+      "start_ms": 856639,
+      "duration_ms": 5841,
+      "text": "for better understanding, um, and just"
+    },
+    {
+      "start_ms": 859360,
+      "duration_ms": 5039,
+      "text": "nuances for for the human reader as"
+    },
+    {
+      "start_ms": 862480,
+      "duration_ms": 4240,
+      "text": "well. So again, it's it's optimized for"
+    },
+    {
+      "start_ms": 864399,
+      "duration_ms": 6560,
+      "text": "the AI, but also optimized for the human"
+    },
+    {
+      "start_ms": 866720,
+      "duration_ms": 7119,
+      "text": "reader. Um, essentially what it does is"
+    },
+    {
+      "start_ms": 870959,
+      "duration_ms": 5120,
+      "text": "it will take a an article that I've"
+    },
+    {
+      "start_ms": 873839,
+      "duration_ms": 5041,
+      "text": "written and I can plunk it in and ask it"
+    },
+    {
+      "start_ms": 876079,
+      "duration_ms": 4320,
+      "text": "to refine it or optimize it and it will"
+    },
+    {
+      "start_ms": 878880,
+      "duration_ms": 4720,
+      "text": "reformat"
+    },
+    {
+      "start_ms": 880399,
+      "duration_ms": 5361,
+      "text": "um the article with the right headings"
+    },
+    {
+      "start_ms": 883600,
+      "duration_ms": 6000,
+      "text": "um and"
+    },
+    {
+      "start_ms": 885760,
+      "duration_ms": 5920,
+      "text": "uh it'll it'll create lists where needed"
+    },
+    {
+      "start_ms": 889600,
+      "duration_ms": 4000,
+      "text": "um and just really restructure"
+    },
+    {
+      "start_ms": 891680,
+      "duration_ms": 4159,
+      "text": "everything and fix any grammatical"
+    },
+    {
+      "start_ms": 893600,
+      "duration_ms": 3840,
+      "text": "issues along the way. Um, and again,"
+    },
+    {
+      "start_ms": 895839,
+      "duration_ms": 6721,
+      "text": "just make sure that it's completely"
+    },
+    {
+      "start_ms": 897440,
+      "duration_ms": 6560,
+      "text": "optimized for both the human and the uh"
+    },
+    {
+      "start_ms": 902560,
+      "duration_ms": 4160,
+      "text": "AI reader."
+    },
+    {
+      "start_ms": 904000,
+      "duration_ms": 4160,
+      "text": ">> Sweet. Yeah, here's the before."
+    },
+    {
+      "start_ms": 906720,
+      "duration_ms": 3200,
+      "text": ">> Well, you already ran it through here,"
+    },
+    {
+      "start_ms": 908160,
+      "duration_ms": 5679,
+      "text": "so it didn't do much, but that's the"
+    },
+    {
+      "start_ms": 909920,
+      "duration_ms": 6719,
+      "text": "point. Uh, you can click a link to this"
+    },
+    {
+      "start_ms": 913839,
+      "duration_ms": 5360,
+      "text": ">> a this chat GPT that's being shown on"
+    },
+    {
+      "start_ms": 916639,
+      "duration_ms": 5121,
+      "text": "the screen right now. The prompt is very"
+    },
+    {
+      "start_ms": 919199,
+      "duration_ms": 5121,
+      "text": "simple. just say optimize this article"
+    },
+    {
+      "start_ms": 921760,
+      "duration_ms": 4800,
+      "text": "and it's going to spit out the exact"
+    },
+    {
+      "start_ms": 924320,
+      "duration_ms": 4000,
+      "text": "version of what you want to do uh to"
+    },
+    {
+      "start_ms": 926560,
+      "duration_ms": 4719,
+      "text": "optimize it for human and AI."
+    },
+    {
+      "start_ms": 928320,
+      "duration_ms": 5040,
+      "text": ">> Let's talk about iteration."
+    },
+    {
+      "start_ms": 931279,
+      "duration_ms": 4081,
+      "text": "Um there's kind of an overarching"
+    },
+    {
+      "start_ms": 933360,
+      "duration_ms": 3919,
+      "text": "philosophy here when it comes to AI"
+    },
+    {
+      "start_ms": 935360,
+      "duration_ms": 3599,
+      "text": "about iteration."
+    },
+    {
+      "start_ms": 937279,
+      "duration_ms": 3360,
+      "text": "What is your goal with iteration? I"
+    },
+    {
+      "start_ms": 938959,
+      "duration_ms": 3601,
+      "text": "believe there's some sort of rock that"
+    },
+    {
+      "start_ms": 940639,
+      "duration_ms": 4481,
+      "text": "was put in place like an actual business"
+    },
+    {
+      "start_ms": 942560,
+      "duration_ms": 6000,
+      "text": "goal uh to kind of work towards this"
+    },
+    {
+      "start_ms": 945120,
+      "duration_ms": 7920,
+      "text": "this broader goal of constant iteration."
+    },
+    {
+      "start_ms": 948560,
+      "duration_ms": 6719,
+      "text": ">> Yeah. So ultimately the the rock it was"
+    },
+    {
+      "start_ms": 953040,
+      "duration_ms": 4400,
+      "text": "pretty straightforward. Go through every"
+    },
+    {
+      "start_ms": 955279,
+      "duration_ms": 5041,
+      "text": "deli and intercom AI ticket and improve"
+    },
+    {
+      "start_ms": 957440,
+      "duration_ms": 7600,
+      "text": "the answers to the best possible answer."
+    },
+    {
+      "start_ms": 960320,
+      "duration_ms": 6240,
+      "text": "Whether it was a ticket that"
+    },
+    {
+      "start_ms": 965040,
+      "duration_ms": 5680,
+      "text": "didn't get resolved and got bumped down"
+    },
+    {
+      "start_ms": 966560,
+      "duration_ms": 6959,
+      "text": "to a human. Those are almost always um"
+    },
+    {
+      "start_ms": 970720,
+      "duration_ms": 4880,
+      "text": "analyzed and then documentation updated"
+    },
+    {
+      "start_ms": 973519,
+      "duration_ms": 3680,
+      "text": "or guidance or whatever updated to"
+    },
+    {
+      "start_ms": 975600,
+      "duration_ms": 4000,
+      "text": "prevent that in the future. But even"
+    },
+    {
+      "start_ms": 977199,
+      "duration_ms": 4721,
+      "text": "articles that or not articles but"
+    },
+    {
+      "start_ms": 979600,
+      "duration_ms": 4799,
+      "text": "tickets that were resolved by the AI,"
+    },
+    {
+      "start_ms": 981920,
+      "duration_ms": 5520,
+      "text": "they're reviewed to see if there's"
+    },
+    {
+      "start_ms": 984399,
+      "duration_ms": 6000,
+      "text": "somewhere that we could improve it or"
+    },
+    {
+      "start_ms": 987440,
+      "duration_ms": 6000,
+      "text": "maybe one of the answers therein wasn't"
+    },
+    {
+      "start_ms": 990399,
+      "duration_ms": 6401,
+      "text": "as awesome as we wanted it to be. Well,"
+    },
+    {
+      "start_ms": 993440,
+      "duration_ms": 6560,
+      "text": "can we tweak that and make it better?"
+    },
+    {
+      "start_ms": 996800,
+      "duration_ms": 5279,
+      "text": ">> And just as an example, right, like Deli"
+    },
+    {
+      "start_ms": 1000000,
+      "duration_ms": 3759,
+      "text": "has all of the conversations that's"
+    },
+    {
+      "start_ms": 1002079,
+      "duration_ms": 3841,
+      "text": "being h that are happening with my clone"
+    },
+    {
+      "start_ms": 1003759,
+      "duration_ms": 5200,
+      "text": "right now, right? And then seven minutes"
+    },
+    {
+      "start_ms": 1005920,
+      "duration_ms": 5839,
+      "text": "ago, someone asked, \"Can I get a demo?"
+    },
+    {
+      "start_ms": 1008959,
+      "duration_ms": 4320,
+      "text": "How do plans and pricing work? And how"
+    },
+    {
+      "start_ms": 1011759,
+      "duration_ms": 4161,
+      "text": "many credits would I need for 60,000"
+    },
+    {
+      "start_ms": 1013279,
+      "duration_ms": 5680,
+      "text": "visitors?\""
+    },
+    {
+      "start_ms": 1015920,
+      "duration_ms": 5680,
+      "text": "Uh, I I hate this answer, right? So, I"
+    },
+    {
+      "start_ms": 1018959,
+      "duration_ms": 4641,
+      "text": "would revise it to something like it"
+    },
+    {
+      "start_ms": 1021600,
+      "duration_ms": 6400,
+      "text": "really depends."
+    },
+    {
+      "start_ms": 1023600,
+      "duration_ms": 8880,
+      "text": "We could resolve up to 25,000,"
+    },
+    {
+      "start_ms": 1028000,
+      "duration_ms": 10240,
+      "text": "but with that level of traffic,"
+    },
+    {
+      "start_ms": 1032480,
+      "duration_ms": 9199,
+      "text": "you're likely to exclude a substantial"
+    },
+    {
+      "start_ms": 1038240,
+      "duration_ms": 8640,
+      "text": "amount of resolutions"
+    },
+    {
+      "start_ms": 1041679,
+      "duration_ms": 6721,
+      "text": "and be at a much lower price point."
+    },
+    {
+      "start_ms": 1046880,
+      "duration_ms": 4240,
+      "text": "Like if that's what I wanted to say,"
+    },
+    {
+      "start_ms": 1048400,
+      "duration_ms": 4159,
+      "text": "right? And that's me altering that"
+    },
+    {
+      "start_ms": 1051120,
+      "duration_ms": 3200,
+      "text": "question. So the next time we got asked"
+    },
+    {
+      "start_ms": 1052559,
+      "duration_ms": 3441,
+      "text": "something like that, instead of"
+    },
+    {
+      "start_ms": 1054320,
+      "duration_ms": 5520,
+      "text": "answering something I didn't want it to,"
+    },
+    {
+      "start_ms": 1056000,
+      "duration_ms": 6799,
+      "text": "it would answer that. Right? So I spend"
+    },
+    {
+      "start_ms": 1059840,
+      "duration_ms": 4480,
+      "text": "30 minutes a day doing this. If you are"
+    },
+    {
+      "start_ms": 1062799,
+      "duration_ms": 4000,
+      "text": "doing something like this, this is now"
+    },
+    {
+      "start_ms": 1064320,
+      "duration_ms": 4080,
+      "text": "your job. Right? It's going to sit there"
+    },
+    {
+      "start_ms": 1066799,
+      "duration_ms": 3601,
+      "text": "and answer these questions 24 hours a"
+    },
+    {
+      "start_ms": 1068400,
+      "duration_ms": 3920,
+      "text": "day. And whereas the old job was to"
+    },
+    {
+      "start_ms": 1070400,
+      "duration_ms": 5120,
+      "text": "answer them correctly in real time. The"
+    },
+    {
+      "start_ms": 1072320,
+      "duration_ms": 5760,
+      "text": "new job is look back at what was said"
+    },
+    {
+      "start_ms": 1075520,
+      "duration_ms": 4720,
+      "text": "and make sure that the next time it gets"
+    },
+    {
+      "start_ms": 1078080,
+      "duration_ms": 4000,
+      "text": "asked, it's said the way you want it"
+    },
+    {
+      "start_ms": 1080240,
+      "duration_ms": 5520,
+      "text": "said, right? And I think the standard"
+    },
+    {
+      "start_ms": 1082080,
+      "duration_ms": 6640,
+      "text": "that Rob and I have adopted is is this"
+    },
+    {
+      "start_ms": 1085760,
+      "duration_ms": 5200,
+      "text": "answer good enough that if a human was"
+    },
+    {
+      "start_ms": 1088720,
+      "duration_ms": 5520,
+      "text": "working for us, we wouldn't say why did"
+    },
+    {
+      "start_ms": 1090960,
+      "duration_ms": 5839,
+      "text": "you say that? Right? So, so that's what"
+    },
+    {
+      "start_ms": 1094240,
+      "duration_ms": 4480,
+      "text": "you do. This is the this is the deli uh"
+    },
+    {
+      "start_ms": 1096799,
+      "duration_ms": 3921,
+      "text": "interface. Intercom has like a similar"
+    },
+    {
+      "start_ms": 1098720,
+      "duration_ms": 4319,
+      "text": "thing you can do with snippets, but like"
+    },
+    {
+      "start_ms": 1100720,
+      "duration_ms": 5199,
+      "text": "yeah, that's that's kind of the idea"
+    },
+    {
+      "start_ms": 1103039,
+      "duration_ms": 5601,
+      "text": "here. It's not set it and forget it. It"
+    },
+    {
+      "start_ms": 1105919,
+      "duration_ms": 6401,
+      "text": "is constant iteration. It kind of never"
+    },
+    {
+      "start_ms": 1108640,
+      "duration_ms": 5440,
+      "text": "ends, right? And like that that is that"
+    },
+    {
+      "start_ms": 1112320,
+      "duration_ms": 3760,
+      "text": "is basically what we're doing here."
+    },
+    {
+      "start_ms": 1114080,
+      "duration_ms": 4880,
+      "text": ">> And on that front, you need you need far"
+    },
+    {
+      "start_ms": 1116080,
+      "duration_ms": 4000,
+      "text": "less people to iterate, especially once"
+    },
+    {
+      "start_ms": 1118960,
+      "duration_ms": 2320,
+      "text": "you've gotten your knowledge base down"
+    },
+    {
+      "start_ms": 1120080,
+      "duration_ms": 3520,
+      "text": "and everything, especially if you're"
+    },
+    {
+      "start_ms": 1121280,
+      "duration_ms": 3680,
+      "text": "early on. I mean, RBDB got this off the"
+    },
+    {
+      "start_ms": 1123600,
+      "duration_ms": 3199,
+      "text": "ground quickly and we got a lot of users"
+    },
+    {
+      "start_ms": 1124960,
+      "duration_ms": 3360,
+      "text": "really quick. Um"
+    },
+    {
+      "start_ms": 1126799,
+      "duration_ms": 5441,
+      "text": ">> yeah, just to give you an idea, right?"
+    },
+    {
+      "start_ms": 1128320,
+      "duration_ms": 6880,
+      "text": "Like we have 60,000 free users. We're"
+    },
+    {
+      "start_ms": 1132240,
+      "duration_ms": 7040,
+      "text": "five and a half million ARR and we have"
+    },
+    {
+      "start_ms": 1135200,
+      "duration_ms": 8640,
+      "text": "three people working on this, right? Rob"
+    },
+    {
+      "start_ms": 1139280,
+      "duration_ms": 6639,
+      "text": "who his entire job is improving intercom"
+    },
+    {
+      "start_ms": 1143840,
+      "duration_ms": 5280,
+      "text": "answers and then whatever gets deflected"
+    },
+    {
+      "start_ms": 1145919,
+      "duration_ms": 5041,
+      "text": "to a human he deals with which like the"
+    },
+    {
+      "start_ms": 1149120,
+      "duration_ms": 4640,
+      "text": "number of times that's happening and we"
+    },
+    {
+      "start_ms": 1150960,
+      "duration_ms": 6320,
+      "text": "can show reporting on this uh it's"
+    },
+    {
+      "start_ms": 1153760,
+      "duration_ms": 4880,
+      "text": "getting lower and lower every day right"
+    },
+    {
+      "start_ms": 1157280,
+      "duration_ms": 3680,
+      "text": "then me on the sales and marketing is"
+    },
+    {
+      "start_ms": 1158640,
+      "duration_ms": 6000,
+      "text": "the same thing right my clone gets asked"
+    },
+    {
+      "start_ms": 1160960,
+      "duration_ms": 5200,
+      "text": "60 questions a day or like 60 people ask"
+    },
+    {
+      "start_ms": 1164640,
+      "duration_ms": 3520,
+      "text": "questions they probably ask three each"
+    },
+    {
+      "start_ms": 1166160,
+      "duration_ms": 5600,
+      "text": "so 180 questions a"
+    },
+    {
+      "start_ms": 1168160,
+      "duration_ms": 6639,
+      "text": "Each day I make fewer and fewer changes"
+    },
+    {
+      "start_ms": 1171760,
+      "duration_ms": 7520,
+      "text": "and this is the new job, right? Like"
+    },
+    {
+      "start_ms": 1174799,
+      "duration_ms": 7201,
+      "text": "like this is the new executor of go to"
+    },
+    {
+      "start_ms": 1179280,
+      "duration_ms": 5519,
+      "text": "market and customer support."
+    },
+    {
+      "start_ms": 1182000,
+      "duration_ms": 4720,
+      "text": ">> I also just want to add a lot of systems"
+    },
+    {
+      "start_ms": 1184799,
+      "duration_ms": 3361,
+      "text": "if you're using live chat. I know deli"
+    },
+    {
+      "start_ms": 1186720,
+      "duration_ms": 2800,
+      "text": "is not an example of this but Adam you"
+    },
+    {
+      "start_ms": 1188160,
+      "duration_ms": 3840,
+      "text": "had a ton of content out there that you"
+    },
+    {
+      "start_ms": 1189520,
+      "duration_ms": 4080,
+      "text": "could feed it but intercom as an example"
+    },
+    {
+      "start_ms": 1192000,
+      "duration_ms": 4000,
+      "text": "when we started using it you could use"
+    },
+    {
+      "start_ms": 1193600,
+      "duration_ms": 4079,
+      "text": "old conversations as context to start"
+    },
+    {
+      "start_ms": 1196000,
+      "duration_ms": 3120,
+      "text": "which is great. So now you don't have to"
+    },
+    {
+      "start_ms": 1197679,
+      "duration_ms": 4481,
+      "text": "like you can slowly build your knowledge"
+    },
+    {
+      "start_ms": 1199120,
+      "duration_ms": 5520,
+      "text": "base and still get some sort of AI um"
+    },
+    {
+      "start_ms": 1202160,
+      "duration_ms": 4480,
+      "text": "you know resolution going on. Okay,"
+    },
+    {
+      "start_ms": 1204640,
+      "duration_ms": 4080,
+      "text": "let's go back to this constant"
+    },
+    {
+      "start_ms": 1206640,
+      "duration_ms": 4960,
+      "text": "iteration. So there's really like a"
+    },
+    {
+      "start_ms": 1208720,
+      "duration_ms": 6400,
+      "text": "three pillar framework that that you use"
+    },
+    {
+      "start_ms": 1211600,
+      "duration_ms": 6560,
+      "text": "to uh kind of stand up this idea of of"
+    },
+    {
+      "start_ms": 1215120,
+      "duration_ms": 5760,
+      "text": "constant iteration. The first pillar is"
+    },
+    {
+      "start_ms": 1218160,
+      "duration_ms": 5280,
+      "text": "constantly improving UI and UX to reduce"
+    },
+    {
+      "start_ms": 1220880,
+      "duration_ms": 3919,
+      "text": "incoming tickets. Right? So if someone's"
+    },
+    {
+      "start_ms": 1223440,
+      "duration_ms": 2960,
+      "text": "asking, hey, what's your price? and they"
+    },
+    {
+      "start_ms": 1224799,
+      "duration_ms": 2801,
+      "text": "ask every single day. Well, okay, maybe"
+    },
+    {
+      "start_ms": 1226400,
+      "duration_ms": 2639,
+      "text": "we should have a better way for them to"
+    },
+    {
+      "start_ms": 1227600,
+      "duration_ms": 3280,
+      "text": "find that so they don't come in asking"
+    },
+    {
+      "start_ms": 1229039,
+      "duration_ms": 5041,
+      "text": "about price every day. Um, can you give"
+    },
+    {
+      "start_ms": 1230880,
+      "duration_ms": 5440,
+      "text": "us a specific example of a UI change for"
+    },
+    {
+      "start_ms": 1234080,
+      "duration_ms": 3760,
+      "text": "you guys that dramatically reduced"
+    },
+    {
+      "start_ms": 1236320,
+      "duration_ms": 2719,
+      "text": "support volume kind of in recent"
+    },
+    {
+      "start_ms": 1237840,
+      "duration_ms": 5760,
+      "text": "history?"
+    },
+    {
+      "start_ms": 1239039,
+      "duration_ms": 6481,
+      "text": ">> Yeah, I mean there was there was two um"
+    },
+    {
+      "start_ms": 1243600,
+      "duration_ms": 5280,
+      "text": "there there was a small scale one that"
+    },
+    {
+      "start_ms": 1245520,
+      "duration_ms": 5039,
+      "text": "really obvious um we used to get a lot"
+    },
+    {
+      "start_ms": 1248880,
+      "duration_ms": 3520,
+      "text": "of questions about how many credits have"
+    },
+    {
+      "start_ms": 1250559,
+      "duration_ms": 3441,
+      "text": "I used and this and that. It was"
+    },
+    {
+      "start_ms": 1252400,
+      "duration_ms": 4480,
+      "text": "displayed in our dashboard. It was just"
+    },
+    {
+      "start_ms": 1254000,
+      "duration_ms": 5039,
+      "text": "kind of buried in a flyyou nav item that"
+    },
+    {
+      "start_ms": 1256880,
+      "duration_ms": 4799,
+      "text": "you had to click and then you go to this"
+    },
+    {
+      "start_ms": 1259039,
+      "duration_ms": 5601,
+      "text": "page and it displayed it. Well, we've"
+    },
+    {
+      "start_ms": 1261679,
+      "duration_ms": 4961,
+      "text": "now in the sidebar started showing the"
+    },
+    {
+      "start_ms": 1264640,
+      "duration_ms": 3360,
+      "text": "plan they're on, the number of credits"
+    },
+    {
+      "start_ms": 1266640,
+      "duration_ms": 3360,
+      "text": "they have in the plan and number of"
+    },
+    {
+      "start_ms": 1268000,
+      "duration_ms": 3600,
+      "text": "credits they've used. And right below it"
+    },
+    {
+      "start_ms": 1270000,
+      "duration_ms": 4480,
+      "text": "is a buy credits button and a"
+    },
+    {
+      "start_ms": 1271600,
+      "duration_ms": 5840,
+      "text": "subscription details button. Just it's"
+    },
+    {
+      "start_ms": 1274480,
+      "duration_ms": 5040,
+      "text": "front and center. It it's right at the"
+    },
+    {
+      "start_ms": 1277440,
+      "duration_ms": 4560,
+      "text": "time of need. You can't miss it. It's on"
+    },
+    {
+      "start_ms": 1279520,
+      "duration_ms": 7840,
+      "text": "every page. And now questions about that"
+    },
+    {
+      "start_ms": 1282000,
+      "duration_ms": 7600,
+      "text": "have like dropped to no. Um now at a"
+    },
+    {
+      "start_ms": 1287360,
+      "duration_ms": 4640,
+      "text": "larger scale we recently introduced"
+    },
+    {
+      "start_ms": 1289600,
+      "duration_ms": 4480,
+      "text": "company level identification as a"
+    },
+    {
+      "start_ms": 1292000,
+      "duration_ms": 4880,
+      "text": "feature where if we can't ID the person"
+    },
+    {
+      "start_ms": 1294080,
+      "duration_ms": 5599,
+      "text": "level uh we double back and at least"
+    },
+    {
+      "start_ms": 1296880,
+      "duration_ms": 5520,
+      "text": "tell you the company they work at. Uh"
+    },
+    {
+      "start_ms": 1299679,
+      "duration_ms": 4880,
+      "text": "unsurprisingly there's a huge volume of"
+    },
+    {
+      "start_ms": 1302400,
+      "duration_ms": 3279,
+      "text": "company level visitors that get IDed"
+    },
+    {
+      "start_ms": 1304559,
+      "duration_ms": 6881,
+      "text": "especially if people turn on"
+    },
+    {
+      "start_ms": 1305679,
+      "duration_ms": 7841,
+      "text": "international tracking. And we made some"
+    },
+    {
+      "start_ms": 1311440,
+      "duration_ms": 3520,
+      "text": "assumptions that it would be okay to put"
+    },
+    {
+      "start_ms": 1313520,
+      "duration_ms": 4000,
+      "text": "everything on a single page, all"
+    },
+    {
+      "start_ms": 1314960,
+      "duration_ms": 5839,
+      "text": "visitors on one page. And then very"
+    },
+    {
+      "start_ms": 1317520,
+      "duration_ms": 5600,
+      "text": "quickly became obvious that no, that was"
+    },
+    {
+      "start_ms": 1320799,
+      "duration_ms": 4000,
+      "text": "harder for users to use. And we needed"
+    },
+    {
+      "start_ms": 1323120,
+      "duration_ms": 4080,
+      "text": "to actually separate person level"
+    },
+    {
+      "start_ms": 1324799,
+      "duration_ms": 6000,
+      "text": "visitors from company level visitors and"
+    },
+    {
+      "start_ms": 1327200,
+      "duration_ms": 6479,
+      "text": "update that UI. It became"
+    },
+    {
+      "start_ms": 1330799,
+      "duration_ms": 4880,
+      "text": "immediate like the very next day or same"
+    },
+    {
+      "start_ms": 1333679,
+      "duration_ms": 4321,
+      "text": "day really when we rolled it out, the"
+    },
+    {
+      "start_ms": 1335679,
+      "duration_ms": 3681,
+      "text": "feedback started coming in. Hey, I'm I I"
+    },
+    {
+      "start_ms": 1338000,
+      "duration_ms": 3280,
+      "text": "Where did all the people go? I don't see"
+    },
+    {
+      "start_ms": 1339360,
+      "duration_ms": 3040,
+      "text": "any people. What happened? Where did all"
+    },
+    {
+      "start_ms": 1341280,
+      "duration_ms": 3279,
+      "text": "the people go? And we're like, well,"
+    },
+    {
+      "start_ms": 1342400,
+      "duration_ms": 5360,
+      "text": "there's still people. It's just you're"
+    },
+    {
+      "start_ms": 1344559,
+      "duration_ms": 6561,
+      "text": "getting four company level visitors for"
+    },
+    {
+      "start_ms": 1347760,
+      "duration_ms": 5680,
+      "text": "every one person or five or six, 10 if"
+    },
+    {
+      "start_ms": 1351120,
+      "duration_ms": 5120,
+      "text": "you've got international. So, you could"
+    },
+    {
+      "start_ms": 1353440,
+      "duration_ms": 5359,
+      "text": "go a page or two without seeing a person"
+    },
+    {
+      "start_ms": 1356240,
+      "duration_ms": 4799,
+      "text": "level visitor because so many company"
+    },
+    {
+      "start_ms": 1358799,
+      "duration_ms": 4161,
+      "text": "level visitors were coming in. And it"
+    },
+    {
+      "start_ms": 1361039,
+      "duration_ms": 3601,
+      "text": "gave people the impression that their"
+    },
+    {
+      "start_ms": 1362960,
+      "duration_ms": 4000,
+      "text": "service had actually stopped working and"
+    },
+    {
+      "start_ms": 1364640,
+      "duration_ms": 3519,
+      "text": "that we were giving them bad profiles"
+    },
+    {
+      "start_ms": 1366960,
+      "duration_ms": 7199,
+      "text": "and they're like, \"No, no, no, brand new"
+    },
+    {
+      "start_ms": 1368159,
+      "duration_ms": 8801,
+      "text": "feature.\" So, we separated it and that"
+    },
+    {
+      "start_ms": 1374159,
+      "duration_ms": 4880,
+      "text": "feedback from users was instantaneous"
+    },
+    {
+      "start_ms": 1376960,
+      "duration_ms": 5280,
+      "text": "and we we knew that we made a whoopsy"
+    },
+    {
+      "start_ms": 1379039,
+      "duration_ms": 4721,
+      "text": "and needed to go update it. And now"
+    },
+    {
+      "start_ms": 1382240,
+      "duration_ms": 4000,
+      "text": "again, no problems. It's totally"
+    },
+    {
+      "start_ms": 1383760,
+      "duration_ms": 5360,
+      "text": "understandable. It's very clear. So"
+    },
+    {
+      "start_ms": 1386240,
+      "duration_ms": 4400,
+      "text": "getting that feedback right then from"
+    },
+    {
+      "start_ms": 1389120,
+      "duration_ms": 3760,
+      "text": "users"
+    },
+    {
+      "start_ms": 1390640,
+      "duration_ms": 6320,
+      "text": "and going, \"Hey guys, we need to make"
+    },
+    {
+      "start_ms": 1392880,
+      "duration_ms": 7919,
+      "text": "this change. Let's go do it.\" Was super"
+    },
+    {
+      "start_ms": 1396960,
+      "duration_ms": 6079,
+      "text": "valuable. Um there's been lots of those"
+    },
+    {
+      "start_ms": 1400799,
+      "duration_ms": 3841,
+      "text": "uh examples over the course, but that"
+    },
+    {
+      "start_ms": 1403039,
+      "duration_ms": 6161,
+      "text": "was the most recent and biggest one."
+    },
+    {
+      "start_ms": 1404640,
+      "duration_ms": 6000,
+      "text": ">> So the the one way to improve the the"
+    },
+    {
+      "start_ms": 1409200,
+      "duration_ms": 5359,
+      "text": "whole thing we're trying to do here is"
+    },
+    {
+      "start_ms": 1410640,
+      "duration_ms": 7120,
+      "text": "eliminate tickets, right? So um one way"
+    },
+    {
+      "start_ms": 1414559,
+      "duration_ms": 5521,
+      "text": "to eliminate tickets is to revise an"
+    },
+    {
+      "start_ms": 1417760,
+      "duration_ms": 3840,
+      "text": "answer to a question specifically to"
+    },
+    {
+      "start_ms": 1420080,
+      "duration_ms": 4959,
+      "text": "make it perfect. Another way to"
+    },
+    {
+      "start_ms": 1421600,
+      "duration_ms": 5520,
+      "text": "eliminate tickets is just fix your UI so"
+    },
+    {
+      "start_ms": 1425039,
+      "duration_ms": 4961,
+      "text": "that the tickets don't happen. Right?"
+    },
+    {
+      "start_ms": 1427120,
+      "duration_ms": 7200,
+      "text": "Then another way is to write articles."
+    },
+    {
+      "start_ms": 1430000,
+      "duration_ms": 5840,
+      "text": "And I think a great way to figure out"
+    },
+    {
+      "start_ms": 1434320,
+      "duration_ms": 3440,
+      "text": "whether or not you should write an"
+    },
+    {
+      "start_ms": 1435840,
+      "duration_ms": 5600,
+      "text": "article if you're starting from a very"
+    },
+    {
+      "start_ms": 1437760,
+      "duration_ms": 5840,
+      "text": "early point is if you're using Deli."
+    },
+    {
+      "start_ms": 1441440,
+      "duration_ms": 5520,
+      "text": "There's these creativity settings,"
+    },
+    {
+      "start_ms": 1443600,
+      "duration_ms": 5199,
+      "text": "right? If you set the creativity on"
+    },
+    {
+      "start_ms": 1446960,
+      "duration_ms": 4160,
+      "text": "strict, and I think intercom has"
+    },
+    {
+      "start_ms": 1448799,
+      "duration_ms": 5281,
+      "text": "something similar, right? If you set it"
+    },
+    {
+      "start_ms": 1451120,
+      "duration_ms": 6400,
+      "text": "on strict and someone asks something"
+    },
+    {
+      "start_ms": 1454080,
+      "duration_ms": 6240,
+      "text": "that the AI can't literally find written"
+    },
+    {
+      "start_ms": 1457520,
+      "duration_ms": 4320,
+      "text": "in a document, it returns an answer,"
+    },
+    {
+      "start_ms": 1460320,
+      "duration_ms": 3040,
+      "text": "something to the effect of, I don't have"
+    },
+    {
+      "start_ms": 1461840,
+      "duration_ms": 3600,
+      "text": "the information for this. Email"
+    },
+    {
+      "start_ms": 1463360,
+      "duration_ms": 4480,
+      "text": "robb.com."
+    },
+    {
+      "start_ms": 1465440,
+      "duration_ms": 5040,
+      "text": "We when we used Delphi, we left it on we"
+    },
+    {
+      "start_ms": 1467840,
+      "duration_ms": 4240,
+      "text": "left that studying on strick for a month"
+    },
+    {
+      "start_ms": 1470480,
+      "duration_ms": 3840,
+      "text": "to just see where the holes in our"
+    },
+    {
+      "start_ms": 1472080,
+      "duration_ms": 3360,
+      "text": "documentation are and it's an amazing"
+    },
+    {
+      "start_ms": 1474320,
+      "duration_ms": 2719,
+      "text": "way to find the holes in your"
+    },
+    {
+      "start_ms": 1475440,
+      "duration_ms": 3839,
+      "text": "documentation. So that's the"
+    },
+    {
+      "start_ms": 1477039,
+      "duration_ms": 4721,
+      "text": "recommendation. Start out, put your"
+    },
+    {
+      "start_ms": 1479279,
+      "duration_ms": 4481,
+      "text": "settings on strict, let the AI tell you"
+    },
+    {
+      "start_ms": 1481760,
+      "duration_ms": 4240,
+      "text": "it doesn't know and then create"
+    },
+    {
+      "start_ms": 1483760,
+      "duration_ms": 4799,
+      "text": "documentation to fill that hole. Then"
+    },
+    {
+      "start_ms": 1486000,
+      "duration_ms": 4000,
+      "text": "eventually the number of the AI saying"
+    },
+    {
+      "start_ms": 1488559,
+      "duration_ms": 3761,
+      "text": "it doesn't know is going to go down to"
+    },
+    {
+      "start_ms": 1490000,
+      "duration_ms": 5760,
+      "text": "where it's almost nothing. And then you"
+    },
+    {
+      "start_ms": 1492320,
+      "duration_ms": 5359,
+      "text": "can put it on this more adaptive setting"
+    },
+    {
+      "start_ms": 1495760,
+      "duration_ms": 3519,
+      "text": "and then it can start it it it never"
+    },
+    {
+      "start_ms": 1497679,
+      "duration_ms": 3201,
+      "text": "says that it can it can answer questions"
+    },
+    {
+      "start_ms": 1499279,
+      "duration_ms": 3601,
+      "text": "about virtually anything. Somebody asked"
+    },
+    {
+      "start_ms": 1500880,
+      "duration_ms": 4080,
+      "text": "me about Nightrider the show the other"
+    },
+    {
+      "start_ms": 1502880,
+      "duration_ms": 4799,
+      "text": "day in kit the car and it gave it like"
+    },
+    {
+      "start_ms": 1504960,
+      "duration_ms": 5040,
+      "text": "an amazing answer. Right? But but that's"
+    },
+    {
+      "start_ms": 1507679,
+      "duration_ms": 5360,
+      "text": "that that's my recommendation for how to"
+    },
+    {
+      "start_ms": 1510000,
+      "duration_ms": 6080,
+      "text": "decide what when to write an article and"
+    },
+    {
+      "start_ms": 1513039,
+      "duration_ms": 4481,
+      "text": "when to just revise an answer. Right?"
+    },
+    {
+      "start_ms": 1516080,
+      "duration_ms": 2719,
+      "text": "You want to revise an answer if it's"
+    },
+    {
+      "start_ms": 1517520,
+      "duration_ms": 3120,
+      "text": "reading your documentation and getting"
+    },
+    {
+      "start_ms": 1518799,
+      "duration_ms": 3681,
+      "text": "it wrong. You want to write an article"
+    },
+    {
+      "start_ms": 1520640,
+      "duration_ms": 3440,
+      "text": "if there's no documentation at all and"
+    },
+    {
+      "start_ms": 1522480,
+      "duration_ms": 3520,
+      "text": "it's trying to go out to the internet to"
+    },
+    {
+      "start_ms": 1524080,
+      "duration_ms": 3760,
+      "text": "figure out what to tell your users."
+    },
+    {
+      "start_ms": 1526000,
+      "duration_ms": 3919,
+      "text": "That's not what you want, right?"
+    },
+    {
+      "start_ms": 1527840,
+      "duration_ms": 4480,
+      "text": ">> So, there are clearly questions and"
+    },
+    {
+      "start_ms": 1529919,
+      "duration_ms": 4640,
+      "text": "things that pop up that you can just by"
+    },
+    {
+      "start_ms": 1532320,
+      "duration_ms": 4000,
+      "text": "eye tell are things you need to tighten"
+    },
+    {
+      "start_ms": 1534559,
+      "duration_ms": 4801,
+      "text": "up either in the language of your"
+    },
+    {
+      "start_ms": 1536320,
+      "duration_ms": 5280,
+      "text": "snippets or your answers uh or holes in"
+    },
+    {
+      "start_ms": 1539360,
+      "duration_ms": 5919,
+      "text": "your knowledge base. Um, but besides"
+    },
+    {
+      "start_ms": 1541600,
+      "duration_ms": 6480,
+      "text": "sort of going by eye or by ear, uh,"
+    },
+    {
+      "start_ms": 1545279,
+      "duration_ms": 5041,
+      "text": "usually bots and bot software will have"
+    },
+    {
+      "start_ms": 1548080,
+      "duration_ms": 4000,
+      "text": "a section that will actually help lead"
+    },
+    {
+      "start_ms": 1550320,
+      "duration_ms": 4239,
+      "text": "you to water here and actually tell you"
+    },
+    {
+      "start_ms": 1552080,
+      "duration_ms": 5280,
+      "text": "where the holes are. Uh, for so for"
+    },
+    {
+      "start_ms": 1554559,
+      "duration_ms": 4081,
+      "text": "Finn, for u for intercom, I believe"
+    },
+    {
+      "start_ms": 1557360,
+      "duration_ms": 4720,
+      "text": "there's a feature right here."
+    },
+    {
+      "start_ms": 1558640,
+      "duration_ms": 7600,
+      "text": ">> Yeah. So, guidance is a fantastic"
+    },
+    {
+      "start_ms": 1562080,
+      "duration_ms": 7360,
+      "text": "feature that lets us give Finn more"
+    },
+    {
+      "start_ms": 1566240,
+      "duration_ms": 4240,
+      "text": "context. Um, think of it like a prompt"
+    },
+    {
+      "start_ms": 1569440,
+      "duration_ms": 5119,
+      "text": "really."
+    },
+    {
+      "start_ms": 1570480,
+      "duration_ms": 8240,
+      "text": "uh in the past you"
+    },
+    {
+      "start_ms": 1574559,
+      "duration_ms": 6641,
+      "text": "were relying completely on the articles"
+    },
+    {
+      "start_ms": 1578720,
+      "duration_ms": 5280,
+      "text": "as how it interacted with people and"
+    },
+    {
+      "start_ms": 1581200,
+      "duration_ms": 6000,
+      "text": "answered them. Um, so if somebody had a"
+    },
+    {
+      "start_ms": 1584000,
+      "duration_ms": 4640,
+      "text": "login issue, um, and went, \"Hey, I've"
+    },
+    {
+      "start_ms": 1587200,
+      "duration_ms": 4240,
+      "text": "got a problem logging in.\" Well, it"
+    },
+    {
+      "start_ms": 1588640,
+      "duration_ms": 3840,
+      "text": "would go reference the login doc and it"
+    },
+    {
+      "start_ms": 1591440,
+      "duration_ms": 3040,
+      "text": "could be this, it could be this, it"
+    },
+    {
+      "start_ms": 1592480,
+      "duration_ms": 3760,
+      "text": "could be this, it could be this. Here's"
+    },
+    {
+      "start_ms": 1594480,
+      "duration_ms": 4960,
+      "text": "all the like depending on what your"
+    },
+    {
+      "start_ms": 1596240,
+      "duration_ms": 5679,
+      "text": "problem is, it's one of these. Well,"
+    },
+    {
+      "start_ms": 1599440,
+      "duration_ms": 5680,
+      "text": "guidance, you can give it context and be"
+    },
+    {
+      "start_ms": 1601919,
+      "duration_ms": 6240,
+      "text": "like, \"Hey, look, if somebody messages"
+    },
+    {
+      "start_ms": 1605120,
+      "duration_ms": 4640,
+      "text": "about a login problem, ask for more"
+    },
+    {
+      "start_ms": 1608159,
+      "duration_ms": 3841,
+      "text": "information."
+    },
+    {
+      "start_ms": 1609760,
+      "duration_ms": 5600,
+      "text": "ask them exactly what's what the login"
+    },
+    {
+      "start_ms": 1612000,
+      "duration_ms": 5200,
+      "text": "problem is. Is it that the email address"
+    },
+    {
+      "start_ms": 1615360,
+      "duration_ms": 4880,
+      "text": "they're using isn't found? That they're"
+    },
+    {
+      "start_ms": 1617200,
+      "duration_ms": 4800,
+      "text": "not getting the email that we send? What"
+    },
+    {
+      "start_ms": 1620240,
+      "duration_ms": 3919,
+      "text": "what's the problem? Are they logging in"
+    },
+    {
+      "start_ms": 1622000,
+      "duration_ms": 5120,
+      "text": "but then getting a 403 error? Are they"
+    },
+    {
+      "start_ms": 1624159,
+      "duration_ms": 5760,
+      "text": "getting kicked out? Like"
+    },
+    {
+      "start_ms": 1627120,
+      "duration_ms": 5120,
+      "text": "login problem are they facing? And when"
+    },
+    {
+      "start_ms": 1629919,
+      "duration_ms": 4721,
+      "text": "they answer, then provide the contextual"
+    },
+    {
+      "start_ms": 1632240,
+      "duration_ms": 4559,
+      "text": "answer to that that problem instead of"
+    },
+    {
+      "start_ms": 1634640,
+      "duration_ms": 5760,
+      "text": "going here's all the things that might"
+    },
+    {
+      "start_ms": 1636799,
+      "duration_ms": 8561,
+      "text": "be good luck. Um, but you can also give"
+    },
+    {
+      "start_ms": 1640400,
+      "duration_ms": 8960,
+      "text": "it guidance on how to communicate with"
+    },
+    {
+      "start_ms": 1645360,
+      "duration_ms": 6319,
+      "text": "users. Um, when to say certain things,"
+    },
+    {
+      "start_ms": 1649360,
+      "duration_ms": 4880,
+      "text": "what to say, what sources to reference,"
+    },
+    {
+      "start_ms": 1651679,
+      "duration_ms": 6321,
+      "text": "when to escalate, when to link to a doc,"
+    },
+    {
+      "start_ms": 1654240,
+      "duration_ms": 6400,
+      "text": "how to handle edge cases. Um,"
+    },
+    {
+      "start_ms": 1658000,
+      "duration_ms": 6320,
+      "text": "yeah, we we've again, there's that login"
+    },
+    {
+      "start_ms": 1660640,
+      "duration_ms": 6000,
+      "text": "problem guidance. Um, or vague input"
+    },
+    {
+      "start_ms": 1664320,
+      "duration_ms": 4400,
+      "text": "from a user. If the user's description"
+    },
+    {
+      "start_ms": 1666640,
+      "duration_ms": 3919,
+      "text": "is too vague or lacks enough detail,"
+    },
+    {
+      "start_ms": 1668720,
+      "duration_ms": 4880,
+      "text": "prompt them for additional context."
+    },
+    {
+      "start_ms": 1670559,
+      "duration_ms": 8081,
+      "text": "Like, ask leading questions. Guide them"
+    },
+    {
+      "start_ms": 1673600,
+      "duration_ms": 6959,
+      "text": "into helping you, the AI, help them. Um,"
+    },
+    {
+      "start_ms": 1678640,
+      "duration_ms": 4480,
+      "text": "don't just"
+    },
+    {
+      "start_ms": 1680559,
+      "duration_ms": 4480,
+      "text": "take a stab in the dark cuz"
+    },
+    {
+      "start_ms": 1683120,
+      "duration_ms": 7520,
+      "text": "unfortunately, human nature sometimes is"
+    },
+    {
+      "start_ms": 1685039,
+      "duration_ms": 8481,
+      "text": "to throw a keyword or two at the AI and"
+    },
+    {
+      "start_ms": 1690640,
+      "duration_ms": 4639,
+      "text": "hope for the best. Well, it's it's at"
+    },
+    {
+      "start_ms": 1693520,
+      "duration_ms": 3039,
+      "text": "least here now we can kind of give it"
+    },
+    {
+      "start_ms": 1695279,
+      "duration_ms": 5201,
+      "text": "some guidance. It's like rolling up to"
+    },
+    {
+      "start_ms": 1696559,
+      "duration_ms": 6480,
+      "text": "McDonald's and going hungry. Well,"
+    },
+    {
+      "start_ms": 1700480,
+      "duration_ms": 4400,
+      "text": "the the person at the drive-thru is"
+    },
+    {
+      "start_ms": 1703039,
+      "duration_ms": 5520,
+      "text": "going to be like, \"Well, what do you"
+    },
+    {
+      "start_ms": 1704880,
+      "duration_ms": 5679,
+      "text": "want to eat there?\" But in the past, if"
+    },
+    {
+      "start_ms": 1708559,
+      "duration_ms": 3600,
+      "text": "somebody yelled hungry at the AI, it"
+    },
+    {
+      "start_ms": 1710559,
+      "duration_ms": 4081,
+      "text": "would be like, \"Well, here's our entire"
+    },
+    {
+      "start_ms": 1712159,
+      "duration_ms": 4640,
+      "text": "menu.\" But now, if somebody yells"
+    },
+    {
+      "start_ms": 1714640,
+      "duration_ms": 3279,
+      "text": "hungry, it knows to go, \"Well, what do"
+    },
+    {
+      "start_ms": 1716799,
+      "duration_ms": 3120,
+      "text": "you want to eat today? Do you want a"
+    },
+    {
+      "start_ms": 1717919,
+      "duration_ms": 4880,
+      "text": "burger? Do you want chicken?"
+    },
+    {
+      "start_ms": 1719919,
+      "duration_ms": 4480,
+      "text": "help me help you, but I need more than"
+    },
+    {
+      "start_ms": 1722799,
+      "duration_ms": 4801,
+      "text": "hungry. So, yeah, being able to give"
+    },
+    {
+      "start_ms": 1724399,
+      "duration_ms": 5280,
+      "text": "that context and guide it to"
+    },
+    {
+      "start_ms": 1727600,
+      "duration_ms": 3600,
+      "text": "helping the helping the person help"
+    },
+    {
+      "start_ms": 1729679,
+      "duration_ms": 3441,
+      "text": "themselves,"
+    },
+    {
+      "start_ms": 1731200,
+      "duration_ms": 4320,
+      "text": "it it really goes a long way."
+    },
+    {
+      "start_ms": 1733120,
+      "duration_ms": 4159,
+      "text": ">> So, key areas on guidance, it's like"
+    },
+    {
+      "start_ms": 1735520,
+      "duration_ms": 6480,
+      "text": "getting people to be less vague, which"
+    },
+    {
+      "start_ms": 1737279,
+      "duration_ms": 7520,
+      "text": "is a huge problem with AI, right? Um,"
+    },
+    {
+      "start_ms": 1742000,
+      "duration_ms": 4399,
+      "text": "what was the one that intercom was like,"
+    },
+    {
+      "start_ms": 1744799,
+      "duration_ms": 6721,
+      "text": "\"Oh, yeah, that was great.\""
+    },
+    {
+      "start_ms": 1746399,
+      "duration_ms": 8000,
+      "text": ">> Yeah. Um so it's it's really obvious but"
+    },
+    {
+      "start_ms": 1751520,
+      "duration_ms": 4960,
+      "text": "at the same time we so all of our"
+    },
+    {
+      "start_ms": 1754399,
+      "duration_ms": 4961,
+      "text": "support documentation which again is the"
+    },
+    {
+      "start_ms": 1756480,
+      "duration_ms": 6720,
+      "text": "core knowledge a core part of the brain"
+    },
+    {
+      "start_ms": 1759360,
+      "duration_ms": 6080,
+      "text": "of of Finn um the support documentation"
+    },
+    {
+      "start_ms": 1763200,
+      "duration_ms": 6320,
+      "text": "because it's"
+    },
+    {
+      "start_ms": 1765440,
+      "duration_ms": 6239,
+      "text": "intended also for the human reader um"
+    },
+    {
+      "start_ms": 1769520,
+      "duration_ms": 3680,
+      "text": "sometimes would say hey if you've got"
+    },
+    {
+      "start_ms": 1771679,
+      "duration_ms": 3120,
+      "text": "questions or concerns about this feature"
+    },
+    {
+      "start_ms": 1773200,
+      "duration_ms": 4000,
+      "text": "reach out to our support team at"
+    },
+    {
+      "start_ms": 1774799,
+      "duration_ms": 4961,
+      "text": "supportrb.com"
+    },
+    {
+      "start_ms": 1777200,
+      "duration_ms": 5680,
+      "text": "Cool. That makes sense to the human"
+    },
+    {
+      "start_ms": 1779760,
+      "duration_ms": 4799,
+      "text": "reader. But then the human would be"
+    },
+    {
+      "start_ms": 1782880,
+      "duration_ms": 4159,
+      "text": "interacting with Finn and then by"
+    },
+    {
+      "start_ms": 1784559,
+      "duration_ms": 4240,
+      "text": "default it was cuz that was part of the"
+    },
+    {
+      "start_ms": 1787039,
+      "duration_ms": 4081,
+      "text": "documentation. It would then tell them"
+    },
+    {
+      "start_ms": 1788799,
+      "duration_ms": 4161,
+      "text": "to contact supportrb2b.com."
+    },
+    {
+      "start_ms": 1791120,
+      "duration_ms": 3919,
+      "text": "Then they'd email us and they'd get Finn"
+    },
+    {
+      "start_ms": 1792960,
+      "duration_ms": 4319,
+      "text": "and they go in this loop because every"
+    },
+    {
+      "start_ms": 1795039,
+      "duration_ms": 3681,
+      "text": "time Finn was like, \"Hey, yeah, contact"
+    },
+    {
+      "start_ms": 1797279,
+      "duration_ms": 3120,
+      "text": "support.\" And then the human would get"
+    },
+    {
+      "start_ms": 1798720,
+      "duration_ms": 4400,
+      "text": "frustrated going, \"I'm already"
+    },
+    {
+      "start_ms": 1800399,
+      "duration_ms": 5361,
+      "text": "contacting you.\" So really simple"
+    },
+    {
+      "start_ms": 1803120,
+      "duration_ms": 5200,
+      "text": "guidance. If you're already talking to"
+    },
+    {
+      "start_ms": 1805760,
+      "duration_ms": 4320,
+      "text": "the person, don't suggest that they"
+    },
+    {
+      "start_ms": 1808320,
+      "duration_ms": 4000,
+      "text": "email you because they're already"
+    },
+    {
+      "start_ms": 1810080,
+      "duration_ms": 4479,
+      "text": "talking to you. It doesn't do it"
+    },
+    {
+      "start_ms": 1812320,
+      "duration_ms": 5280,
+      "text": "anymore. There's no more frustration."
+    },
+    {
+      "start_ms": 1814559,
+      "duration_ms": 4801,
+      "text": "It's awesome. But yeah, really, really"
+    },
+    {
+      "start_ms": 1817600,
+      "duration_ms": 3520,
+      "text": "simple, straightforward, obvious, but"
+    },
+    {
+      "start_ms": 1819360,
+      "duration_ms": 4160,
+      "text": "again, the AI doesn't necessarily have"
+    },
+    {
+      "start_ms": 1821120,
+      "duration_ms": 5039,
+      "text": "that context, right? Like, it doesn't"
+    },
+    {
+      "start_ms": 1823520,
+      "duration_ms": 4399,
+      "text": "know that it's supported RB2B. It's"
+    },
+    {
+      "start_ms": 1826159,
+      "duration_ms": 3681,
+      "text": "saying, well, this is what the"
+    },
+    {
+      "start_ms": 1827919,
+      "duration_ms": 4961,
+      "text": "documentation says to do. This is great."
+    },
+    {
+      "start_ms": 1829840,
+      "duration_ms": 4559,
+      "text": "Go contact them. So, yeah, telling it"
+    },
+    {
+      "start_ms": 1832880,
+      "duration_ms": 5600,
+      "text": "not to contact"
+    },
+    {
+      "start_ms": 1834399,
+      "duration_ms": 6481,
+      "text": "them again. It was huge."
+    },
+    {
+      "start_ms": 1838480,
+      "duration_ms": 5120,
+      "text": ">> And would you say one of the best sort"
+    },
+    {
+      "start_ms": 1840880,
+      "duration_ms": 4799,
+      "text": "of like uses of guidance is observing"
+    },
+    {
+      "start_ms": 1843600,
+      "duration_ms": 3840,
+      "text": "loops and then writing something that"
+    },
+    {
+      "start_ms": 1845679,
+      "duration_ms": 5120,
+      "text": "eliminates loops?"
+    },
+    {
+      "start_ms": 1847440,
+      "duration_ms": 4880,
+      "text": ">> Yeah, absolutely. Uh yeah, if if a user"
+    },
+    {
+      "start_ms": 1850799,
+      "duration_ms": 3760,
+      "text": "or"
+    },
+    {
+      "start_ms": 1852320,
+      "duration_ms": 3839,
+      "text": "the AI gets into this feedback loop with"
+    },
+    {
+      "start_ms": 1854559,
+      "duration_ms": 4161,
+      "text": "themselves,"
+    },
+    {
+      "start_ms": 1856159,
+      "duration_ms": 6161,
+      "text": "find a way to get them out. Um but"
+    },
+    {
+      "start_ms": 1858720,
+      "duration_ms": 5600,
+      "text": "again, that that was such an obvious but"
+    },
+    {
+      "start_ms": 1862320,
+      "duration_ms": 6239,
+      "text": "really"
+    },
+    {
+      "start_ms": 1864320,
+      "duration_ms": 6640,
+      "text": "simple win um was to just tell the AI"
+    },
+    {
+      "start_ms": 1868559,
+      "duration_ms": 5521,
+      "text": "not to tell them to email them because"
+    },
+    {
+      "start_ms": 1870960,
+      "duration_ms": 4000,
+      "text": "they're just going to get the AI again."
+    },
+    {
+      "start_ms": 1874080,
+      "duration_ms": 4479,
+      "text": "It was great."
+    },
+    {
+      "start_ms": 1874960,
+      "duration_ms": 7439,
+      "text": ">> Right. So guys, uh RB2B is using two"
+    },
+    {
+      "start_ms": 1878559,
+      "duration_ms": 7681,
+      "text": "main AI softwares uh to run sales and"
+    },
+    {
+      "start_ms": 1882399,
+      "duration_ms": 5841,
+      "text": "marketing. Um so number one, Deli. Deli"
+    },
+    {
+      "start_ms": 1886240,
+      "duration_ms": 3439,
+      "text": "is being used for sales and marketing."
+    },
+    {
+      "start_ms": 1888240,
+      "duration_ms": 3039,
+      "text": "Why did you choose this for the sales"
+    },
+    {
+      "start_ms": 1889679,
+      "duration_ms": 2801,
+      "text": "and marketing side? you were already"
+    },
+    {
+      "start_ms": 1891279,
+      "duration_ms": 3201,
+      "text": "using Finn before"
+    },
+    {
+      "start_ms": 1892480,
+      "duration_ms": 4880,
+      "text": ">> and and we're looking at the deli window"
+    },
+    {
+      "start_ms": 1894480,
+      "duration_ms": 7199,
+      "text": "right here, right? So I click get a"
+    },
+    {
+      "start_ms": 1897360,
+      "duration_ms": 7039,
+      "text": "demo, it responds. Um"
+    },
+    {
+      "start_ms": 1901679,
+      "duration_ms": 5521,
+      "text": "why deli for RBDB? Because unlike Finn,"
+    },
+    {
+      "start_ms": 1904399,
+      "duration_ms": 4640,
+      "text": "Deli will actually make a clone of me"
+    },
+    {
+      "start_ms": 1907200,
+      "duration_ms": 3280,
+      "text": "for RBDB. That's important because I"
+    },
+    {
+      "start_ms": 1909039,
+      "duration_ms": 3441,
+      "text": "mean apparently it's apparent from"
+    },
+    {
+      "start_ms": 1910480,
+      "duration_ms": 4000,
+      "text": "looking at our website. This is an"
+    },
+    {
+      "start_ms": 1912480,
+      "duration_ms": 4160,
+      "text": "influencerled sales motion. My thought"
+    },
+    {
+      "start_ms": 1914480,
+      "duration_ms": 4480,
+      "text": "leadership on LinkedIn is driving people"
+    },
+    {
+      "start_ms": 1916640,
+      "duration_ms": 5120,
+      "text": "to a website which features me as an"
+    },
+    {
+      "start_ms": 1918960,
+      "duration_ms": 7120,
+      "text": "influencer which then they can talk to"
+    },
+    {
+      "start_ms": 1921760,
+      "duration_ms": 6000,
+      "text": "me and ask me questions about RB2B. Bin"
+    },
+    {
+      "start_ms": 1926080,
+      "duration_ms": 4000,
+      "text": "does not have that capability. I thought"
+    },
+    {
+      "start_ms": 1927760,
+      "duration_ms": 4320,
+      "text": "that for before people signed up that"
+    },
+    {
+      "start_ms": 1930080,
+      "duration_ms": 4000,
+      "text": "would be a really novel thing to have"
+    },
+    {
+      "start_ms": 1932080,
+      "duration_ms": 5040,
+      "text": "them ask me the questions. And by the"
+    },
+    {
+      "start_ms": 1934080,
+      "duration_ms": 5599,
+      "text": "way, like before people sign up and use"
+    },
+    {
+      "start_ms": 1937120,
+      "duration_ms": 4880,
+      "text": "it, there's really only five or six main"
+    },
+    {
+      "start_ms": 1939679,
+      "duration_ms": 4401,
+      "text": "things they ask, right? So, like I would"
+    },
+    {
+      "start_ms": 1942000,
+      "duration_ms": 6320,
+      "text": "say that Deli's capabilities are not as"
+    },
+    {
+      "start_ms": 1944080,
+      "duration_ms": 6160,
+      "text": "sophisticated as Finn's, but"
+    },
+    {
+      "start_ms": 1948320,
+      "duration_ms": 3760,
+      "text": "just because this is influencerled, I"
+    },
+    {
+      "start_ms": 1950240,
+      "duration_ms": 4640,
+      "text": "really and Rob agreed like we thought"
+    },
+    {
+      "start_ms": 1952080,
+      "duration_ms": 4800,
+      "text": "that it was worthwhile to have a clone"
+    },
+    {
+      "start_ms": 1954880,
+      "duration_ms": 4480,
+      "text": "of me,"
+    },
+    {
+      "start_ms": 1956880,
+      "duration_ms": 4639,
+      "text": "you know, before the sign up. Now, I'll"
+    },
+    {
+      "start_ms": 1959360,
+      "duration_ms": 4400,
+      "text": "pass over to Rob. Finn is everything"
+    },
+    {
+      "start_ms": 1961519,
+      "duration_ms": 4241,
+      "text": "after the sign up. Why are we using Finn"
+    },
+    {
+      "start_ms": 1963760,
+      "duration_ms": 4880,
+      "text": "for after the sign up? C"
+    },
+    {
+      "start_ms": 1965760,
+      "duration_ms": 5840,
+      "text": ">> can I Oh, sorry. Can I just ask one one"
+    },
+    {
+      "start_ms": 1968640,
+      "duration_ms": 5680,
+      "text": "side thing, too? So um is there a"
+    },
+    {
+      "start_ms": 1971600,
+      "duration_ms": 4640,
+      "text": "difference in the way in the end goal of"
+    },
+    {
+      "start_ms": 1974320,
+      "duration_ms": 5199,
+      "text": "Deli versus Finn when it comes to"
+    },
+    {
+      "start_ms": 1976240,
+      "duration_ms": 7200,
+      "text": "resolving the uh the conversation? So"
+    },
+    {
+      "start_ms": 1979519,
+      "duration_ms": 5760,
+      "text": "like Finn the support wants to get a"
+    },
+    {
+      "start_ms": 1983440,
+      "duration_ms": 3599,
+      "text": "answer that can resolve the the the"
+    },
+    {
+      "start_ms": 1985279,
+      "duration_ms": 3441,
+      "text": "thing as quickly as possible. Resolve"
+    },
+    {
+      "start_ms": 1987039,
+      "duration_ms": 3120,
+      "text": "the conversation. Is Deli a little"
+    },
+    {
+      "start_ms": 1988720,
+      "duration_ms": 3760,
+      "text": "different where it's more open-ended and"
+    },
+    {
+      "start_ms": 1990159,
+      "duration_ms": 4000,
+      "text": "and open to chatting with you longer? Is"
+    },
+    {
+      "start_ms": 1992480,
+      "duration_ms": 5360,
+      "text": "there any differences there? I mean,"
+    },
+    {
+      "start_ms": 1994159,
+      "duration_ms": 6240,
+      "text": "it's supposed to kind of wrap things up"
+    },
+    {
+      "start_ms": 1997840,
+      "duration_ms": 4880,
+      "text": "with sign up for a free trial."
+    },
+    {
+      "start_ms": 2000399,
+      "duration_ms": 3681,
+      "text": "It does that pretty well, you know, but"
+    },
+    {
+      "start_ms": 2002720,
+      "duration_ms": 3040,
+      "text": "a lot of people have like one or two"
+    },
+    {
+      "start_ms": 2004080,
+      "duration_ms": 2880,
+      "text": "questions and then they don't, you know,"
+    },
+    {
+      "start_ms": 2005760,
+      "duration_ms": 3360,
+      "text": "that's what was stopping them from the"
+    },
+    {
+      "start_ms": 2006960,
+      "duration_ms": 4880,
+      "text": "free trial or the free account anyway."
+    },
+    {
+      "start_ms": 2009120,
+      "duration_ms": 4960,
+      "text": "So, it's like, tell me about plans and"
+    },
+    {
+      "start_ms": 2011840,
+      "duration_ms": 4640,
+      "text": "pricing. Tells them about plans and"
+    },
+    {
+      "start_ms": 2014080,
+      "duration_ms": 3920,
+      "text": "pricing. And it's like, if you want to"
+    },
+    {
+      "start_ms": 2016480,
+      "duration_ms": 3199,
+      "text": "sign up for free, click here. Right?"
+    },
+    {
+      "start_ms": 2018000,
+      "duration_ms": 5600,
+      "text": "Like that's kind of the orientation of"
+    },
+    {
+      "start_ms": 2019679,
+      "duration_ms": 5600,
+      "text": "of deli whereas Finn is trying to get"
+    },
+    {
+      "start_ms": 2023600,
+      "duration_ms": 3600,
+      "text": "the issue resolved. Right."
+    },
+    {
+      "start_ms": 2025279,
+      "duration_ms": 5681,
+      "text": ">> All right. So why Finn for support?"
+    },
+    {
+      "start_ms": 2027200,
+      "duration_ms": 5280,
+      "text": ">> Yeah. So Finn for support the the the"
+    },
+    {
+      "start_ms": 2030960,
+      "duration_ms": 4559,
+      "text": "main"
+    },
+    {
+      "start_ms": 2032480,
+      "duration_ms": 6240,
+      "text": "reason is because we can feed customer"
+    },
+    {
+      "start_ms": 2035519,
+      "duration_ms": 6321,
+      "text": "data into intercom directly from our"
+    },
+    {
+      "start_ms": 2038720,
+      "duration_ms": 6400,
+      "text": "app. So Finn can answer things"
+    },
+    {
+      "start_ms": 2041840,
+      "duration_ms": 7440,
+      "text": "contextually. it it's more knowledgeable"
+    },
+    {
+      "start_ms": 2045120,
+      "duration_ms": 8160,
+      "text": "on the minute details of the user's"
+    },
+    {
+      "start_ms": 2049280,
+      "duration_ms": 6480,
+      "text": "account when they come in and say, you"
+    },
+    {
+      "start_ms": 2053280,
+      "duration_ms": 4960,
+      "text": "know, I'm not collecting any profiles,"
+    },
+    {
+      "start_ms": 2055760,
+      "duration_ms": 4480,
+      "text": "why? Well, it can actually see what"
+    },
+    {
+      "start_ms": 2058240,
+      "duration_ms": 3599,
+      "text": "their account status is and see what"
+    },
+    {
+      "start_ms": 2060240,
+      "duration_ms": 4879,
+      "text": "plan they're on, see if they're out of"
+    },
+    {
+      "start_ms": 2061839,
+      "duration_ms": 6800,
+      "text": "credits. It has that detail and can"
+    },
+    {
+      "start_ms": 2065119,
+      "duration_ms": 7601,
+      "text": "answer with context at a granular level"
+    },
+    {
+      "start_ms": 2068639,
+      "duration_ms": 6000,
+      "text": "for the user. Um, it's also again built"
+    },
+    {
+      "start_ms": 2072720,
+      "duration_ms": 4720,
+      "text": "directly into our app. We've got"
+    },
+    {
+      "start_ms": 2074639,
+      "duration_ms": 4641,
+      "text": "real-time data from the app. We can see"
+    },
+    {
+      "start_ms": 2077440,
+      "duration_ms": 3439,
+      "text": "when they're logged into the app."
+    },
+    {
+      "start_ms": 2079280,
+      "duration_ms": 4319,
+      "text": "They're going to be logged into intercom"
+    },
+    {
+      "start_ms": 2080879,
+      "duration_ms": 4960,
+      "text": "as that user there. There's a million"
+    },
+    {
+      "start_ms": 2083599,
+      "duration_ms": 4480,
+      "text": "and one dots connected that creates this"
+    },
+    {
+      "start_ms": 2085839,
+      "duration_ms": 5280,
+      "text": "spiderweb of data and knowledge between"
+    },
+    {
+      "start_ms": 2088079,
+      "duration_ms": 6241,
+      "text": "them that really helps"
+    },
+    {
+      "start_ms": 2091119,
+      "duration_ms": 5841,
+      "text": "the user and and intercom solve the"
+    },
+    {
+      "start_ms": 2094320,
+      "duration_ms": 4720,
+      "text": "problem together. So if you had to pick"
+    },
+    {
+      "start_ms": 2096960,
+      "duration_ms": 4639,
+      "text": "between fan and dela you could only use"
+    },
+    {
+      "start_ms": 2099040,
+      "duration_ms": 4559,
+      "text": "one and you have two different use cases"
+    },
+    {
+      "start_ms": 2101599,
+      "duration_ms": 3921,
+      "text": "which bot would you use to solve both"
+    },
+    {
+      "start_ms": 2103599,
+      "duration_ms": 2801,
+      "text": "the problems? If I had to pick one over"
+    },
+    {
+      "start_ms": 2105520,
+      "duration_ms": 2319,
+      "text": "the other"
+    },
+    {
+      "start_ms": 2106400,
+      "duration_ms": 2320,
+      "text": ">> and could only use one"
+    },
+    {
+      "start_ms": 2107839,
+      "duration_ms": 3601,
+      "text": ">> only one"
+    },
+    {
+      "start_ms": 2108720,
+      "duration_ms": 5680,
+      "text": ">> for what for what I'm doing, it's 100%"
+    },
+    {
+      "start_ms": 2111440,
+      "duration_ms": 6000,
+      "text": "going to be thing with intercom. No"
+    },
+    {
+      "start_ms": 2114400,
+      "duration_ms": 5040,
+      "text": "shade to deli. Uh but again for all the"
+    },
+    {
+      "start_ms": 2117440,
+      "duration_ms": 6560,
+      "text": "reasons that I just mentioned, intercom"
+    },
+    {
+      "start_ms": 2119440,
+      "duration_ms": 6720,
+      "text": "having that spiderweb of data from our"
+    },
+    {
+      "start_ms": 2124000,
+      "duration_ms": 3839,
+      "text": "app to be able to answer things"
+    },
+    {
+      "start_ms": 2126160,
+      "duration_ms": 4400,
+      "text": "contextually"
+    },
+    {
+      "start_ms": 2127839,
+      "duration_ms": 6161,
+      "text": "uh specifically to that user instead of"
+    },
+    {
+      "start_ms": 2130560,
+      "duration_ms": 6880,
+      "text": "just the general here's the answer to"
+    },
+    {
+      "start_ms": 2134000,
+      "duration_ms": 4720,
+      "text": "the general question."
+    },
+    {
+      "start_ms": 2137440,
+      "duration_ms": 4320,
+      "text": "All that knowledge that"
+    },
+    {
+      "start_ms": 2138720,
+      "duration_ms": 6399,
+      "text": "interconnectivity with our app is what"
+    },
+    {
+      "start_ms": 2141760,
+      "duration_ms": 4079,
+      "text": "checks all the boxes and puts intercom"
+    },
+    {
+      "start_ms": 2145119,
+      "duration_ms": 2240,
+      "text": "well ahead."
+    },
+    {
+      "start_ms": 2145839,
+      "duration_ms": 4321,
+      "text": ">> Yeah. And by the way, that's another"
+    },
+    {
+      "start_ms": 2147359,
+      "duration_ms": 4321,
+      "text": "reason why it was okay to use Deli for"
+    },
+    {
+      "start_ms": 2150160,
+      "duration_ms": 2880,
+      "text": "before they create an account because"
+    },
+    {
+      "start_ms": 2151680,
+      "duration_ms": 2960,
+      "text": "none of that's relevant before they"
+    },
+    {
+      "start_ms": 2153040,
+      "duration_ms": 3280,
+      "text": "create an account. It's really just set"
+    },
+    {
+      "start_ms": 2154640,
+      "duration_ms": 3439,
+      "text": "of questions. And then the the"
+    },
+    {
+      "start_ms": 2156320,
+      "duration_ms": 2720,
+      "text": "shortcomings of Deli as of right now and"
+    },
+    {
+      "start_ms": 2158079,
+      "duration_ms": 1921,
+      "text": "everyone's building their they're"
+    },
+    {
+      "start_ms": 2159040,
+      "duration_ms": 4400,
+      "text": "they're improving their products"
+    },
+    {
+      "start_ms": 2160000,
+      "duration_ms": 5440,
+      "text": "rapidly. There's not great reporting. Uh"
+    },
+    {
+      "start_ms": 2163440,
+      "duration_ms": 3440,
+      "text": "there's not really great workflow"
+    },
+    {
+      "start_ms": 2165440,
+      "duration_ms": 3679,
+      "text": "capability yet. I mean, they're working"
+    },
+    {
+      "start_ms": 2166880,
+      "duration_ms": 4400,
+      "text": "on it, but like they they just don't"
+    },
+    {
+      "start_ms": 2169119,
+      "duration_ms": 3681,
+      "text": "have it yet. And then one thing that I"
+    },
+    {
+      "start_ms": 2171280,
+      "duration_ms": 5360,
+      "text": "really dislike, which is worth"
+    },
+    {
+      "start_ms": 2172800,
+      "duration_ms": 6480,
+      "text": "mentioning, is you can capture an email"
+    },
+    {
+      "start_ms": 2176640,
+      "duration_ms": 4719,
+      "text": "after a certain amount of questions, but"
+    },
+    {
+      "start_ms": 2179280,
+      "duration_ms": 4319,
+      "text": "in capturing an email, they require the"
+    },
+    {
+      "start_ms": 2181359,
+      "duration_ms": 4561,
+      "text": "user to create a deli account rather"
+    },
+    {
+      "start_ms": 2183599,
+      "duration_ms": 3681,
+      "text": "than just capturing it in line, which is"
+    },
+    {
+      "start_ms": 2185920,
+      "duration_ms": 1679,
+      "text": "like really annoying."
+    },
+    {
+      "start_ms": 2187280,
+      "duration_ms": 2000,
+      "text": ">> That's"
+    },
+    {
+      "start_ms": 2187599,
+      "duration_ms": 3441,
+      "text": ">> and I think it's stopping a lot of"
+    },
+    {
+      "start_ms": 2189280,
+      "duration_ms": 3200,
+      "text": "conversations, but I don't have any hard"
+    },
+    {
+      "start_ms": 2191040,
+      "duration_ms": 3440,
+      "text": "data on that because there's no"
+    },
+    {
+      "start_ms": 2192480,
+      "duration_ms": 2720,
+      "text": "reporting, right? So"
+    },
+    {
+      "start_ms": 2194480,
+      "duration_ms": 3840,
+      "text": ">> yeah,"
+    },
+    {
+      "start_ms": 2195200,
+      "duration_ms": 6240,
+      "text": ">> the the really the big limitation of"
+    },
+    {
+      "start_ms": 2198320,
+      "duration_ms": 5039,
+      "text": "Finn if you want a clone of yourself is"
+    },
+    {
+      "start_ms": 2201440,
+      "duration_ms": 4480,
+      "text": "that they won't do that,"
+    },
+    {
+      "start_ms": 2203359,
+      "duration_ms": 4881,
+      "text": ">> you know? And then the limitation of"
+    },
+    {
+      "start_ms": 2205920,
+      "duration_ms": 4159,
+      "text": "Deli is that it's not integrated with"
+    },
+    {
+      "start_ms": 2208240,
+      "duration_ms": 3680,
+      "text": "your app to the extent that that"
+    },
+    {
+      "start_ms": 2210079,
+      "duration_ms": 5201,
+      "text": "intercom is, right? So like that's kind"
+    },
+    {
+      "start_ms": 2211920,
+      "duration_ms": 4880,
+      "text": "of like why the the reasons in our case"
+    },
+    {
+      "start_ms": 2215280,
+      "duration_ms": 2160,
+      "text": "we're using two different tools and not"
+    },
+    {
+      "start_ms": 2216800,
+      "duration_ms": 2319,
+      "text": "just one."
+    },
+    {
+      "start_ms": 2217440,
+      "duration_ms": 4399,
+      "text": ">> Beautiful."
+    },
+    {
+      "start_ms": 2219119,
+      "duration_ms": 4401,
+      "text": ">> If you're still listening to this, thank"
+    },
+    {
+      "start_ms": 2221839,
+      "duration_ms": 3361,
+      "text": "you very much. you're probably highly"
+    },
+    {
+      "start_ms": 2223520,
+      "duration_ms": 5440,
+      "text": "motivated to do something like we're"
+    },
+    {
+      "start_ms": 2225200,
+      "duration_ms": 5840,
+      "text": "doing. You can get granular detail by"
+    },
+    {
+      "start_ms": 2228960,
+      "duration_ms": 4399,
+      "text": "clicking this link that's below right"
+    },
+    {
+      "start_ms": 2231040,
+      "duration_ms": 5440,
+      "text": "now and signing up for the email"
+    },
+    {
+      "start_ms": 2233359,
+      "duration_ms": 4881,
+      "text": "sequence that gives much more detail"
+    },
+    {
+      "start_ms": 2236480,
+      "duration_ms": 4160,
+      "text": "than what we covered in this video. So,"
+    },
+    {
+      "start_ms": 2238240,
+      "duration_ms": 4000,
+      "text": "click that link. Uh, if you want to get"
+    },
+    {
+      "start_ms": 2240640,
+      "duration_ms": 4320,
+      "text": "in touch with Rob and have any questions"
+    },
+    {
+      "start_ms": 2242240,
+      "duration_ms": 6960,
+      "text": "for him, robb.com. If you want to get in"
+    },
+    {
+      "start_ms": 2244960,
+      "duration_ms": 6399,
+      "text": "touch with me, email me at adamrbd.com."
+    },
+    {
+      "start_ms": 2249200,
+      "duration_ms": 4159,
+      "text": "We believe that this is the way of the"
+    },
+    {
+      "start_ms": 2251359,
+      "duration_ms": 3681,
+      "text": "future. We believe that people's jobs"
+    },
+    {
+      "start_ms": 2253359,
+      "duration_ms": 4561,
+      "text": "will not be answering tickets. It will"
+    },
+    {
+      "start_ms": 2255040,
+      "duration_ms": 5200,
+      "text": "be improving answers and we believe that"
+    },
+    {
+      "start_ms": 2257920,
+      "duration_ms": 4800,
+      "text": "we understand the foundational system"
+    },
+    {
+      "start_ms": 2260240,
+      "duration_ms": 5280,
+      "text": "that needs to be in place to live in"
+    },
+    {
+      "start_ms": 2262720,
+      "duration_ms": 4800,
+      "text": "this future. So, thank you very much for"
+    },
+    {
+      "start_ms": 2265520,
+      "duration_ms": 5599,
+      "text": "watching. If you had have never tried"
+    },
+    {
+      "start_ms": 2267520,
+      "duration_ms": 8680,
+      "text": "RB2B, go rb.com, get started. It's free"
+    },
+    {
+      "start_ms": 2271119,
+      "duration_ms": 5081,
+      "text": "forever. And that's it."
+    }
+  ]
+}

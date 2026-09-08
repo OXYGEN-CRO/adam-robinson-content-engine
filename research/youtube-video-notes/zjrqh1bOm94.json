@@ -1,0 +1,761 @@
+{
+  "video_id": "zjrqh1bOm94",
+  "title": "UnF*ck Your Cold Email: Beating AI Spam Filters with Taylor Haren",
+  "published": "2025-07-29T21:59:31+00:00",
+  "speakers_and_attribution": "Adam Robinson hosts with Pete, who describes his RB2B production role and new fractional marketing business, Market Work. Taylor Haren is the principal cold-email guest; captions also render his surname as Harren and his business as salesmation.systems. Eric Tabone, introduced as representing Nearshore Businesses, gives the opening hiring-services pitch. Most infrastructure, campaign-performance, personalization and sequencing claims belong to Taylor, including results he reports for RB2B. Pete supplies much of the marketing commentary and questioning. Speaker identification is inferred from conversational context because the captions are not diarized. Uncertain host turns are explicitly qualified.",
+  "summary": "Taylor describes RB2B's restarted outbound campaigns, high-volume sending infrastructure, data enrichment, deliverability diagnostics, copy testing, personalization and sequencing. His central recommendation is to improve the offer and test a strong first email, while retaining follow-ups when evidence supports them. Claims about AI spam filtering and warm-up mechanisms are explicitly speculative or anecdotal. Adam contributes questions, a historical RB2B conversion recollection, a hands-on infrastructure anecdote and visible support for Pete's move into fractional work. The opening covers Latin American hiring and Pete's business; the closing covers employee entrepreneurship, LinkedIn visibility and ongoing public reporting about RB2B's email performance.",
+  "key_learnings": [
+    {
+      "claim": "Eric positions nearshore hiring as a way to access senior engineering, sales and professional-services talent as well as administrative support.",
+      "start_timestamp": "00:03:52",
+      "end_timestamp": "00:05:31",
+      "speaker": "Eric Tabone",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Sales-pitch claims about Eric's service; these are not Adam's hiring outcomes or independently assessed talent comparisons."
+    },
+    {
+      "claim": "Pete's fractional marketing offer addresses companies that need experiment design, messaging and guidance for junior staff but lack capacity for a full-time senior marketer.",
+      "start_timestamp": "00:07:22",
+      "end_timestamp": "00:09:19",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Pete describes a soft-launch offer, with more structured deliverables still under consideration."
+    },
+    {
+      "claim": "Taylor restarted RB2B with essentially the same list and copy to establish a control before optimizing, and says the old approach still performed surprisingly well.",
+      "start_timestamp": "00:10:03",
+      "end_timestamp": "00:12:30",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "An operational comparison, not a randomized experiment. The list was reverified, and elapsed time and market conditions could affect results."
+    },
+    {
+      "claim": "Taylor delays increasing send volume while testing copy so he can avoid changing two major variables simultaneously.",
+      "start_timestamp": "00:12:38",
+      "end_timestamp": "00:13:29",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Describes his RB2B testing decision at the time; later volume targets are plans, not completed results."
+    },
+    {
+      "claim": "Taylor observes what he calls copy fatigue at higher sending volumes and hypothesizes that providers detect the overall sales character of messages, beyond individual keywords.",
+      "start_timestamp": "00:13:30",
+      "end_timestamp": "00:14:25",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He explicitly says he lacks proof of the AI-filter explanation. The video title is stronger than the demonstrated evidence."
+    },
+    {
+      "claim": "Taylor's RB2B infrastructure spreads outbound traffic across many Gmail accounts and domains, using Instantly for sending.",
+      "start_timestamp": "00:14:28",
+      "end_timestamp": "00:15:05",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "A July 2025 operating configuration, not a universal or durable provider limit."
+    },
+    {
+      "claim": "Taylor distinguishes ordinary domain administration from very large-scale operations: he considers registrar-plus-Cloudflare management workable below his extreme scale, but recounts losing account-management access with 15,000 domains.",
+      "start_timestamp": "00:15:59",
+      "end_timestamp": "00:17:14",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "His account incident is anecdotal. Existing DNS records and email accounts continued functioning, so this was not the immediate disappearance of every sending domain."
+    },
+    {
+      "claim": "Domain infrastructure has recurring costs and administrative work beyond introductory registration prices; Taylor links this burden to demand for his managed infrastructure service.",
+      "start_timestamp": "00:17:42",
+      "end_timestamp": "00:18:20",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Prices are illustrative. His claim that domains older than a year deliver best is an unverified practitioner observation."
+    },
+    {
+      "claim": "Taylor generates sending-domain names from a client root plus prefixes and suffixes, and added checks after a combination accidentally produced an inappropriate phrase.",
+      "start_timestamp": "00:18:56",
+      "end_timestamp": "00:20:02",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "His broad assertion that nobody examines domain names is opinion; he supplies his own exception."
+    },
+    {
+      "claim": "Taylor rotates infrastructure sets during the month and cools inactive sets, but cannot substantiate whether using Adam's name improves performance over other sender names.",
+      "start_timestamp": "00:20:19",
+      "end_timestamp": "00:21:08",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He initially believes the name helps, then acknowledges lacking a direct comparison. Captions say Alex at one point despite the question referring to Adam."
+    },
+    {
+      "claim": "Pete cautions that most attendees do not need Taylor's sending scale; Taylor gives a qualified endorsement of purchasing infrastructure through sending platforms for ordinary users.",
+      "start_timestamp": "00:21:19",
+      "end_timestamp": "00:22:46",
+      "speaker": "Pete and Taylor Haren",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Pete supplies the scale boundary. Taylor says he has not directly tested the platform-provided infrastructure and relies partly on friends' experiences."
+    },
+    {
+      "claim": "Taylor uses two weeks of warm-up as a precaution but thinks its main value is ongoing maintenance of complaint ratios rather than a necessary initial preparation period.",
+      "start_timestamp": "00:23:29",
+      "end_timestamp": "00:25:30",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The mechanism is his theory, supported by a friend's reported experiment. He explicitly distinguishes Gmail from Outlook and says Outlook does require warm-up."
+    },
+    {
+      "claim": "Taylor keeps warm-up active during outbound campaigns, while disagreeing with Pete's emphasis on mimicking ordinary human email engagement.",
+      "start_timestamp": "00:25:31",
+      "end_timestamp": "00:26:46",
+      "speaker": "Taylor Haren, responding to Pete",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The practice is self-reported; the proposed explanation of its effectiveness is not established."
+    },
+    {
+      "claim": "Taylor treats reply-rate declines as a warning signal, not a diagnosis: copy and other factors can also explain them. He combines this with blacklist checks and inconclusive warm-up health scores.",
+      "start_timestamp": "00:27:27",
+      "end_timestamp": "00:29:15",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The specific blacklist-checking site is not named in the spoken transcript. He says inbox-placement tests have not matched his observed results."
+    },
+    {
+      "claim": "Taylor plans to classify bounce logs into server errors, invalid addresses and suspected-spam blocks so deterioration can be diagnosed more precisely.",
+      "start_timestamp": "00:29:18",
+      "end_timestamp": "00:30:08",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "The analytics feature is planned or being built, not shown as operational. The percentage example is hypothetical."
+    },
+    {
+      "claim": "Adam asks how outbound volume relates to the actual addressable market, prompting Taylor to explain that Fixer's broad Gmail-and-Outlook audience is an exceptional case.",
+      "start_timestamp": "00:30:52",
+      "end_timestamp": "00:32:03",
+      "speaker": "Adam Robinson and Taylor Haren",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "Adam poses the question; Taylor supplies the strategy and numbers. The stated TAM and contact-cycle arithmetic are unresolved."
+    },
+    {
+      "claim": "Taylor uses a data waterfall starting with Apollo, followed by validation, Lead Magic and a final provider captioned as Wiza/WISA/Wizo; previously excluded records reportedly added valuable responses.",
+      "start_timestamp": "00:32:03",
+      "end_timestamp": "00:33:24",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Provider spellings and validator names vary in the captions. The final data provider is also Taylor's client, and the experiment's denominator is unclear."
+    },
+    {
+      "claim": "Pete frames marketing effectiveness as matching the message, recipient and medium: infrastructure enables delivery, while a defined ICP and relevant message determine the remaining opportunity.",
+      "start_timestamp": "00:35:09",
+      "end_timestamp": "00:36:22",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "This is Pete's stated philosophy, not Adam's. His analogy between personal inbox triage and AI filters is speculative."
+    },
+    {
+      "claim": "Taylor reports that changing the capitalization of AI in a client's copy coincided with reply performance collapsing and reversing the change coincided with recovery.",
+      "start_timestamp": "00:36:28",
+      "end_timestamp": "00:37:28",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "An anecdotal before-and-after observation, not proof of causality. The visual typography demonstration cannot be fully recovered from captions."
+    },
+    {
+      "claim": "Taylor resumed using Mail Meteor alongside Email Guard after an employee's small copy experiment improved replies; he now checks both flagged words and a broader spam score.",
+      "start_timestamp": "00:38:30",
+      "end_timestamp": "00:40:30",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The workflow changed shortly before recording. Third-party scores are not direct evidence of Google or Microsoft's filter logic."
+    },
+    {
+      "claim": "A drop in recorded replies can reflect disconnected inboxes and missing response capture, rather than poorer copy or delivery.",
+      "start_timestamp": "00:39:26",
+      "end_timestamp": "00:39:52",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Taylor gives this explanation for that day's lower displayed campaign result; no completed repair or reconciled result is provided."
+    },
+    {
+      "claim": "Taylor favors AI personalization that identifies whom the prospect sells to or describes relevant uses of saved time, rather than conspicuous company-name insertion or unrelated personal trivia.",
+      "start_timestamp": "00:41:25",
+      "end_timestamp": "00:43:48",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "He had retained a company-name variable to preserve a historical control despite disliking it; removal was planned."
+    },
+    {
+      "claim": "Taylor thinks RB2B's genuinely ongoing free tier helps its outbound offer remain attractive despite competing products.",
+      "start_timestamp": "00:43:50",
+      "end_timestamp": "00:44:11",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "An explanation proposed by the service provider, not an isolated test of free-tier effects or a statement establishing competitors' actual terms."
+    },
+    {
+      "claim": "RB2B's campaign asks recipients to reply for a signup link, but Taylor says many instead navigate directly to the website; reply metrics therefore undercount associated signups.",
+      "start_timestamp": "00:44:11",
+      "end_timestamp": "00:44:40",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The signup attribution method and measurement window are not supplied."
+    },
+    {
+      "claim": "Adam says using RB2B to reach people already interested in RB2B has an inherent relevance advantage, qualifying the unusually strong historical conversion result.",
+      "start_timestamp": "00:44:43",
+      "end_timestamp": "00:45:30",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "This concerns an RB2B-triggered audience and should not be generalized to ordinary cold prospecting."
+    },
+    {
+      "claim": "Pete favors personalization that articulates the recipient's pain precisely. Taylor agrees for targeted outreach but prefers broad product relevance at very high volume, where individual pain diagnosis is harder.",
+      "start_timestamp": "00:46:25",
+      "end_timestamp": "00:48:19",
+      "speaker": "Pete and Taylor Haren",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "A scale-dependent disagreement, not a shared universal rule. Taylor's prediction that AI will eventually do both is prospective."
+    },
+    {
+      "claim": "Taylor argues that headline reply rates can be misleading without sequence length and response sentiment, since repeated follow-ups can increase requests to stop.",
+      "start_timestamp": "00:49:11",
+      "end_timestamp": "00:49:54",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His illustrative percentages are not results from a specified client campaign."
+    },
+    {
+      "claim": "Taylor generally prefers one strong email to the TAM every one or two months, but tests a second step for every new client and retains exceptions for analytical buyers or useful storytelling.",
+      "start_timestamp": "00:50:03",
+      "end_timestamp": "00:52:55",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "His cybersecurity client performs better on the second email. His recommendation is shaped by his agency's high-volume model."
+    },
+    {
+      "claim": "Taylor is building a performance database intended to help future models generate individual emails from prior results, potentially reducing reliance on manually written campaigns.",
+      "start_timestamp": "00:51:23",
+      "end_timestamp": "00:52:31",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "A development direction and forecast. He explicitly says the models are not yet ready and gives no demonstrated end-to-end implementation."
+    },
+    {
+      "claim": "Taylor concludes that the offer is the largest driver of campaign performance and that small copy changes cannot compensate for a weak underlying proposition.",
+      "start_timestamp": "00:52:56",
+      "end_timestamp": "00:53:57",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "This does not erase his earlier emphasis on functioning delivery infrastructure. The opening teaser repeats this same passage."
+    },
+    {
+      "claim": "Taylor says Adam has asked him to post monthly about cold-email results and problems, including a pending explanation of the recent infrastructure failure.",
+      "start_timestamp": "00:56:45",
+      "end_timestamp": "00:57:01",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Guest-reported reporting arrangement. Taylor says the cause was found but does not disclose it in this transcript."
+    }
+  ],
+  "backstory_and_values": [
+    {
+      "claim": "Adam says Taylor handles their email and that they have done well from it.",
+      "start_timestamp": "00:00:24",
+      "end_timestamp": "00:00:50",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "A qualitative endorsement without a defined financial return or measurement period."
+    },
+    {
+      "claim": "Adam invites Pete to explain his new fractional work, offer and reception because members of the audience aspire to similar work.",
+      "start_timestamp": "00:06:27",
+      "end_timestamp": "00:06:56",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "A concrete on-show action supporting Pete's visibility; it does not establish a general employment policy."
+    },
+    {
+      "claim": "Pete says fractional marketing was a goal predating his RB2B role and describes retaining a part-time production relationship with RB2B while starting Market Work.",
+      "start_timestamp": "00:06:56",
+      "end_timestamp": "00:08:28",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Pete's career history, not Adam's. Market Work was in soft launch."
+    },
+    {
+      "claim": "A host, likely Adam, recalls personally setting up domains and inboxes for Retention.com and RB2B during the Christmas break of 2024, describing the checklist and configuration work as painful.",
+      "start_timestamp": "00:17:14",
+      "end_timestamp": "00:17:40",
+      "speaker": "Likely Adam Robinson",
+      "claim_type": "uncertain_speaker",
+      "pillar": "SaaS building",
+      "caveat": "The captions do not firmly distinguish Adam from Pete in this exchange; retain provisional attribution."
+    },
+    {
+      "claim": "Taylor praises an employee for running a limited independent experiment and bringing data after Taylor initially deferred reviewing the idea.",
+      "start_timestamp": "00:38:49",
+      "end_timestamp": "00:39:39",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Taylor's management preference, not Adam's. He frames approval around a small experiment he believed would cause no harm."
+    },
+    {
+      "claim": "Taylor says he left his job more than a year earlier and remembers Pete asking how he made the transition into running a business.",
+      "start_timestamp": "00:55:03",
+      "end_timestamp": "00:55:16",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Relative timing is tied to recording, whose exact date is not supplied; this is Taylor's backstory."
+    },
+    {
+      "claim": "Taylor says he values employees starting businesses and interprets Adam's enthusiasm for Pete's move as a similar attitude.",
+      "start_timestamp": "00:54:43",
+      "end_timestamp": "00:55:16",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "The explicit general value statement is Taylor's. Adam's support is Taylor's interpretation plus observable on-show encouragement."
+    },
+    {
+      "claim": "Adam recalls discussing LinkedIn at dinner with the forthcoming Hootsuite guest and says he enjoys seeing an already prominent executive develop greater visibility there.",
+      "start_timestamp": "00:55:55",
+      "end_timestamp": "00:56:33",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_self_report",
+      "pillar": "building in public",
+      "caveat": "Adam wonders whether the dinner preceded or influenced her posting; he does not establish causality. The guest's name is garbled in captions."
+    }
+  ],
+  "metrics_and_dates": [
+    {
+      "claim": "Nearshore Businesses: Eric claims most teams are built within 30 days, later giving 21–30 days, and most salaries are 50–60% below US hiring costs.",
+      "start_timestamp": "00:04:02",
+      "end_timestamp": "00:05:31",
+      "speaker": "Eric Tabone",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Guest promotional self-report; roles, sample size, measurement period and total employment costs are unspecified."
+    },
+    {
+      "claim": "Eric says he is originally from Fort Worth and has lived in the location captioned as Bogotaa, Colia for 15 years.",
+      "start_timestamp": "00:03:52",
+      "end_timestamp": "00:04:02",
+      "speaker": "Eric Tabone",
+      "claim_type": "guest_statement",
+      "pillar": "cross-cutting",
+      "caveat": "Guest backstory only; location appears mistranscribed, and the precise move date is not supplied."
+    },
+    {
+      "claim": "Opening pitch: hosts describe a 50/50 buy poll with 53 people saying they would buy, followed by approximately 20 demo indications.",
+      "start_timestamp": "00:05:33",
+      "end_timestamp": "00:06:18",
+      "speaker": "Pete and another host",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "Live audience reactions and chat indications, not verified purchases or completed demos. Individual host attribution is uncertain."
+    },
+    {
+      "claim": "RB2B/Pete: effective July 1, Pete says he became part-time, spending approximately one day a week running and producing the show.",
+      "start_timestamp": "00:06:56",
+      "end_timestamp": "00:07:04",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "SaaS building",
+      "caveat": "Year is contextually 2025. This is one person's work arrangement, not a company FTE count."
+    },
+    {
+      "claim": "Market Work: Pete targets businesses in the 1–10 million range and contemplates a structured 16-week engagement.",
+      "start_timestamp": "00:07:54",
+      "end_timestamp": "00:08:28",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "The 1–10 million unit is not stated; do not label it ARR. The 16-week package and possible September update are prospective."
+    },
+    {
+      "claim": "Show attendance: Adam reports approximately 389–390 attendees; Pete later mentions roughly 400 on Zoom plus an unspecified additional audience on X and YouTube.",
+      "start_timestamp": "00:09:23",
+      "end_timestamp": "00:21:30",
+      "speaker": "Adam Robinson and Pete",
+      "claim_type": "host_statement",
+      "pillar": "building in public",
+      "caveat": "Live snapshots at 00:09:23–00:09:27 and 00:21:19–00:21:30, not unique total reach or replay views."
+    },
+    {
+      "claim": "RB2B: Taylor recalls approximately 20% reply rate a year earlier and reports a 21.5% positive figure in the backend for the last month.",
+      "start_timestamp": "00:10:35",
+      "end_timestamp": "00:10:58",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Service-provider report. The denominator for positive is unclear and must not be assumed to be all sent emails; later send-to-positive ratios differ substantially."
+    },
+    {
+      "claim": "RB2B: Pete sees approximately 71,000 prospects. Taylor says the existing list was reverified after a pause from late November to May, roughly six months.",
+      "start_timestamp": "00:11:28",
+      "end_timestamp": "00:12:30",
+      "speaker": "Pete and Taylor Haren",
+      "claim_type": "interpretation",
+      "pillar": "go-to-market",
+      "caveat": "November 22 is tentative; years are contextually November 2024 and May 2025. Taylor elsewhere says a year since contact, creating a timing tension."
+    },
+    {
+      "claim": "RB2B: Taylor reports ramping from 3,500 to at least 5,000 emails daily, testing 10,000 on the preceding Thursday, and targeting 15,000 daily or about 333,000 monthly by August.",
+      "start_timestamp": "00:12:38",
+      "end_timestamp": "00:13:29",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "5,000 is reported operating volume; 10,000 is a test; 15,000 and 333,000 are targets. Sending-day assumptions and the recording date are unspecified."
+    },
+    {
+      "claim": "Fixer: Taylor reports sending 8.5 million emails monthly and later says this required just above 10,000 domains.",
+      "start_timestamp": "00:13:30",
+      "end_timestamp": "00:19:32",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Evidence occurs at 00:13:30–00:13:41 and 00:19:24–00:19:32. Taylor explicitly corrects an initial RB2B attribution to Fixer; company spelling follows captions."
+    },
+    {
+      "claim": "Taylor identifies apparent copy-fatigue thresholds around 100,000 emails monthly or 5,000 daily, with a stronger effect around 500,000 monthly.",
+      "start_timestamp": "00:13:42",
+      "end_timestamp": "00:14:25",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Practitioner observations, not documented provider thresholds; the AI-filter explanation is explicitly unproven."
+    },
+    {
+      "claim": "RB2B: Taylor estimates 250 sending accounts across about 125 domains for 5,000 daily outbound emails, at 20 emails per account and two accounts per domain.",
+      "start_timestamp": "00:14:43",
+      "end_timestamp": "00:15:05",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Current sending configuration; later discussion of rotating and backup sets leaves total provisioned inventory unclear."
+    },
+    {
+      "claim": "Pete recalls per-inbox recommendations declining from about 150 daily a year and a half earlier through 100 and 50 to the current 20.",
+      "start_timestamp": "00:15:05",
+      "end_timestamp": "00:15:35",
+      "speaker": "Likely Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "A conversational recollection, not a verified time series or official sending limit; attribution is inferred."
+    },
+    {
+      "claim": "Taylor's infrastructure: approximately five months before recording, an account containing 15,000 domains became inaccessible for management; existing DNS and email continued working while domains were replaced as they expired.",
+      "start_timestamp": "00:16:30",
+      "end_timestamp": "00:17:08",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Guest self-report. His language about losing domains should not be read as 15,000 immediate delivery failures."
+    },
+    {
+      "claim": "Retention.com and RB2B: a host, likely Adam, describes setting up around 40 domains and 80 inboxes during Christmas break 2024.",
+      "start_timestamp": "00:17:14",
+      "end_timestamp": "00:17:40",
+      "speaker": "Likely Adam Robinson",
+      "claim_type": "uncertain_speaker",
+      "pillar": "SaaS building",
+      "caveat": "Approximate setup scale; attribution and whether the figures are the exact completed inventory remain uncertain."
+    },
+    {
+      "claim": "Taylor's service captioned as cold email infrastructure.com reportedly does approximately $60,000 per month from managing domains and email accounts.",
+      "start_timestamp": "00:17:42",
+      "end_timestamp": "00:18:20",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Guest business self-report with no accounting definition; do not relabel as ARR, profit or cash. Illustrative domain prices are roughly $4 introductory and $25 on renewal."
+    },
+    {
+      "claim": "Taylor reports roughly 200 domain prefixes and suffixes and estimates about 50,000 possible combinations.",
+      "start_timestamp": "00:19:01",
+      "end_timestamp": "00:19:22",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Approximate configuration capacity; the exact combinatorial method is not supplied."
+    },
+    {
+      "claim": "Taylor says most clients have three infrastructure sets, with odd and even sets alternating between the first and second halves of each month and backups also referenced.",
+      "start_timestamp": "00:20:37",
+      "end_timestamp": "00:21:07",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Self-reported operating practice; precise inventory and backup usage are not established."
+    },
+    {
+      "claim": "A friend's warm-up experiment reportedly sent one million emails per batch; the un-warmed batch had a 0.03% better reply rate after month one but its infrastructure burned by the end of month two.",
+      "start_timestamp": "00:23:29",
+      "end_timestamp": "00:24:30",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Secondhand report about an unnamed operator. It is unclear whether 0.03% means a relative percentage or percentage-point difference."
+    },
+    {
+      "claim": "Taylor discusses complaint thresholds of three per 1,000 emails for personal recipients and a theorized 10 per 1,000 for business recipients, then claims 50% warm-up traffic can increase tolerance from 10 to 20 per 1,000.",
+      "start_timestamp": "00:24:31",
+      "end_timestamp": "00:25:30",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Unverified mechanism and thresholds. The warm-up example shifts or obscures the denominator and should not be treated as validated arithmetic or provider policy."
+    },
+    {
+      "claim": "Taylor proposes monitoring suspected-spam blocks as a share of bounce/block logs, illustrating deterioration with a hypothetical change from 10% to 90%.",
+      "start_timestamp": "00:29:18",
+      "end_timestamp": "00:30:08",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Hypothetical diagnostic example, not an observed incident or shipped analytics result."
+    },
+    {
+      "claim": "Pete recalls managing infrastructure sending roughly 500–1,000 emails daily and illustrates warning signs with an open-rate decline from 26% to 6%.",
+      "start_timestamp": "00:30:10",
+      "end_timestamp": "00:30:48",
+      "speaker": "Pete",
+      "claim_type": "host_statement",
+      "pillar": "go-to-market",
+      "caveat": "The sending experience is Pete's; the open-rate figures are illustrative, not a named campaign result."
+    },
+    {
+      "claim": "Fixer: Taylor states an Apollo TAM of 1.37 million people, references 8.2 million emails in the surrounding monthly-volume discussion, and says contacting the full TAM takes about two years.",
+      "start_timestamp": "00:31:37",
+      "end_timestamp": "00:32:01",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "These figures do not reconcile as stated. Possible caption error, repeated-send accounting or omitted context must remain unresolved."
+    },
+    {
+      "claim": "The provider captioned as Wiza/WISA/Wizo reportedly achieves approximately a 50-to-1 campaign ratio as Taylor's client; adding its data reportedly tripled positive reply rate in a test involving otherwise disqualified records.",
+      "start_timestamp": "00:32:30",
+      "end_timestamp": "00:33:24",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The 50-to-1 outcome is not explicitly defined beyond a meeting-oriented campaign. The threefold result may conflate additional positives with a rate; sample size and period are absent."
+    },
+    {
+      "claim": "Taylor recalls Jesse building an app with sign-on, Stripe integration, working utility and email notifications in approximately 10 minutes during a call about three months earlier.",
+      "start_timestamp": "00:33:38",
+      "end_timestamp": "00:34:14",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Anecdotal comparison about Jesse, not Adam's development productivity; production readiness is not established."
+    },
+    {
+      "claim": "An unnamed client's reply rate reportedly recovered from 0% to approximately 7% after reversing an AI capitalization change, in an incident roughly two weeks before recording.",
+      "start_timestamp": "00:36:38",
+      "end_timestamp": "00:37:28",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Guest report without sample sizes or a controlled causal test. Taylor also uses deliverability language for a reply-rate outcome."
+    },
+    {
+      "claim": "Adam guesses that about 80% of B2B cold email currently pitches something related to AI.",
+      "start_timestamp": "00:37:35",
+      "end_timestamp": "00:37:57",
+      "speaker": "Likely Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "go-to-market",
+      "caveat": "Conversational exaggeration or estimate, not measured market data; attribution is contextual."
+    },
+    {
+      "claim": "Taylor calls Ivan his third employee and says Ivan's modified RB2B campaign achieved a 1.3% reply rate the previous day, approximately double the comparison.",
+      "start_timestamp": "00:38:49",
+      "end_timestamp": "00:39:52",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Third employee is hiring order, not current total headcount or FTE count. Sample size is missing, and disconnected inboxes affected the next day's displayed rate."
+    },
+    {
+      "claim": "RB2B: Taylor plans 10 new copy variants that day and says a recent restart burned all its infrastructure in the first two weeks, required two weeks to rebuild, and had only about two subsequent weeks of volume.",
+      "start_timestamp": "00:41:49",
+      "end_timestamp": "00:42:11",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Relative chronology is not fully reconciled with the May restart. The variants are planned, and the failure cause is not explained."
+    },
+    {
+      "claim": "Fixer example copy promises to save most users an hour daily; RB2B's autoresponder reportedly supplies a signup link within a minute, and Taylor reports roughly two signups for every positive reply.",
+      "start_timestamp": "00:43:13",
+      "end_timestamp": "00:44:40",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Fixer's hour is a marketing-copy claim, not a measured result supplied here. RB2B's response speed and signup ratio are operational reports without a defined measurement window."
+    },
+    {
+      "claim": "RB2B-triggered outreach: Adam recalls a historical one-to-nine result; Taylor clarifies it as one signup per nine emails sent around a year earlier, near launch.",
+      "start_timestamp": "00:44:43",
+      "end_timestamp": "00:45:30",
+      "speaker": "Adam Robinson, clarified by Taylor Haren",
+      "claim_type": "adam_self_report",
+      "pillar": "go-to-market",
+      "caveat": "Adam initially asks about positive replies, while Taylor defines the outcome as signups. This is historical, selected-audience performance, not current general outbound conversion."
+    },
+    {
+      "claim": "RB2B: Taylor reports a current triggered-campaign ratio of 38-to-1, typical campaigns requiring about 250 sends per positive reply or 100–125 per signup, and best SaaS-founder campaigns around 50-to-1.",
+      "start_timestamp": "00:45:35",
+      "end_timestamp": "00:46:22",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "The 250 figure explicitly means sends per positive; the 38 and 50 figures appear in that comparison but are not separately defined. Do not directly compare them with the historical nine sends per signup."
+    },
+    {
+      "claim": "Taylor looks for fewer than 1,000 sends per positive outcome before scaling a client toward one million emails.",
+      "start_timestamp": "00:45:38",
+      "end_timestamp": "00:45:48",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "An agency qualification heuristic; the outcome is inferred from the surrounding positive-reply discussion."
+    },
+    {
+      "claim": "Taylor's agency offer targets clients with a TAM above one million or LTV above $30,000, charging $5,000 monthly plus a performance fee for an unlimited-email offer.",
+      "start_timestamp": "00:50:03",
+      "end_timestamp": "00:50:33",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "go-to-market",
+      "caveat": "Offer terms and client-selection criteria, not actual client LTV, agency profit or achieved revenue."
+    },
+    {
+      "claim": "Taylor reports sending approximately 12 million emails monthly across the operation and hopes automated, database-informed email generation could replace manual campaign writing before the end of the year.",
+      "start_timestamp": "00:51:23",
+      "end_timestamp": "00:52:03",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "SaaS building",
+      "caveat": "Volume is guest-reported operational scale, not RB2B volume. End-of-year automation is a tentative 2025 aspiration."
+    },
+    {
+      "claim": "A host jokes that Taylor is making millions of dollars; Taylor responds ambiguously.",
+      "start_timestamp": "00:55:18",
+      "end_timestamp": "00:55:23",
+      "speaker": "Likely Adam Robinson, with Taylor Haren responding",
+      "claim_type": "uncertain_speaker",
+      "pillar": "cross-cutting",
+      "caveat": "Unsubstantiated banter with no period, revenue/profit distinction or clear confirmation; unsuitable as financial proof."
+    },
+    {
+      "claim": "Adam describes Hootsuite as a 1,500-person company and its forthcoming guest as receiving roughly 150 likes per LinkedIn post.",
+      "start_timestamp": "00:55:55",
+      "end_timestamp": "00:56:33",
+      "speaker": "Adam Robinson",
+      "claim_type": "adam_opinion",
+      "pillar": "building in public",
+      "caveat": "Approximate third-party comparison numbers, not Adam-company metrics. Workforce composition and post sample are unspecified."
+    },
+    {
+      "claim": "Taylor says Adam has requested monthly cold-email updates and refers to domains burning the previous month, with an explanation still to be posted.",
+      "start_timestamp": "00:56:45",
+      "end_timestamp": "00:57:01",
+      "speaker": "Taylor Haren",
+      "claim_type": "guest_statement",
+      "pillar": "building in public",
+      "caveat": "Reporting cadence is an arrangement, not proof that updates were published. Last month is relative to recording."
+    }
+  ],
+  "tensions_and_corrections": [
+    "Taylor, not Adam, supplies most of the episode's technical strategies and business metrics. His agency revenue, staffing, infrastructure and career history must remain separate from Adam's wiki proof.",
+    "The title presents AI spam filters as established; Taylor initially labels his explanation a theory without proof. Later confident language does not supply the missing verification.",
+    "The early 20% reply and 21.5% positive figures lack consistent denominators. Later references to 1.3% replies and 250 sends per positive cannot be silently harmonized with them.",
+    "Taylor first describes roughly a year since contacting the list, then specifies a late-November-to-May pause of about six months. The original copy may be a year old even though the pause was shorter.",
+    "The May restart, two-week infrastructure failure, two-week rebuild, two weeks of resumed volume and closing reference to last month's failure lack an exact shared chronology. Publication date is not a verified recording date.",
+    "Taylor explicitly corrects the 8.5-million-email client from RB2B to Fixer. Elsewhere the discussion uses 8.2 million and a host rounds to eight million; preserve those variants.",
+    "Fixer's stated 1.37-million-person TAM, monthly sending in excess of eight million and two-year full-market contact cycle do not reconcile as spoken.",
+    "Historical one-per-nine performance is clarified as signups per sent email, although Adam introduces the question using positive-reply language. The current 38-to-1 ratio is not defined equally clearly.",
+    "Taylor says the same copy still works, but later reports recent spam-word changes and an impending set of new variants. The unchanged-copy claim describes the restart control, not every subsequent campaign.",
+    "Taylor doubts the conventional rationale for warm-up but still uses an initial precautionary period and continuous warm-up. He also supplies an Outlook-specific exception.",
+    "The warm-up complaint example mixes total-message and outbound-message denominators. It should remain an unverified explanation rather than a corrected formula.",
+    "Pete explains warm-up through simulated engagement; Taylor emphasizes complaint dilution. These are distinct proposed mechanisms.",
+    "Taylor's lower displayed reply rate on the recording day is attributed to disconnected inboxes, demonstrating that observed metrics can reflect collection failures.",
+    "Taylor generally rejects extensive follow-up sequences but tests a second step for each new client and retains a cybersecurity example where it performs better.",
+    "Pete emphasizes precise pain-point personalization; Taylor limits his alternative approach to high-volume campaigns with broadly applicable products.",
+    "Taylor's offer-first conclusion coexists with his requirement for working deliverability. The episode does not support ignoring infrastructure.",
+    "Taylor's Cloudflare account-management failure involving 15,000 domains is distinct from the later RB2B sending-infrastructure burn. The transcript does not establish a common cause.",
+    "The closing claim that the infrastructure failure was understood does not explain its cause; it remains an open item for future reporting.",
+    "Captions contain inconsistent company, provider and personal names, including Fixer, Wiza/WISA/Wizo, Bounceban/debounce, Taylor's company and the Hootsuite guest. These have not been silently repaired.",
+    "No substantive financing history, VC comparison, approved mission or calibrated writing-voice evidence is established in this episode."
+  ],
+  "reusable_topics": [
+    "Preserving a baseline when restarting an outbound program",
+    "Changing one variable before scaling campaign volume",
+    "Separating replies, positive replies, signups and attributed revenue",
+    "Using an interested audience without generalizing its conversion rate",
+    "Why infrastructure failures belong in building-in-public reporting",
+    "Operational limits of managing thousands of sending domains",
+    "Data waterfalls and the value of previously excluded records",
+    "Diagnosing collection failures before blaming campaign performance",
+    "Personalization through buyer relevance rather than personal trivia",
+    "Matching pain-point specificity to outreach scale",
+    "Testing follow-ups instead of assuming a standard sequence length",
+    "Offer quality as a constraint on copy optimization",
+    "Employee initiative demonstrated through limited experiments",
+    "Supporting a colleague's transition into fractional work",
+    "AI-generated outreach as a proposed product architecture",
+    "Evidence standards for claims about opaque platform algorithms",
+    "Recurring infrastructure maintenance as a service business",
+    "Executive visibility and the limits of anecdotal LinkedIn attribution"
+  ],
+  "coverage": {
+    "first_timestamp_reviewed": "00:00:01",
+    "last_timestamp_reviewed": "00:57:11",
+    "full_transcript_reviewed": true,
+    "limitations": [
+      "Reviewed the entire supplied transcript, including the opening pitch, middle technical discussion and closing remarks; no external research or audiovisual verification was performed.",
+      "Automatic captions are not diarized. Attribution follows conversational context, with uncertain turns qualified.",
+      "Screen-shared tables, typography, domains and links cannot be independently inspected from the supplied text.",
+      "Publication is 2025-07-29; the exact recording date is not established. Relative dates have not been converted into definitive event dates.",
+      "Reported results lack underlying datasets, consistent denominators and independent verification.",
+      "The supplied boundary allows internal research synthesis; reuse in new public copy is not approved."
+    ]
+  }
+}

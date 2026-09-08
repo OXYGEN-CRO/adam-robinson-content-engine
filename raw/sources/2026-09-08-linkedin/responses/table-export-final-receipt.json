@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "data": {
+    "table": {
+      "id": "c0c5e684-f06b-4e52-924c-cad5799495d8",
+      "slug": "adam-robinson-linkedin-corpus-2026-09-08",
+      "displayName": "Adam Robinson LinkedIn corpus - 2026-09-08",
+      "kind": "table",
+      "projectId": "0c3e45ef-d87c-43a7-83d8-b220dbbce32b",
+      "project": {
+        "id": "0c3e45ef-d87c-43a7-83d8-b220dbbce32b",
+        "slug": "general",
+        "displayName": "General",
+        "physicalSchema": "t_4257983c406e4658b899d7ba3cc760a6"
+      },
+      "physicalSchema": "t_4257983c406e4658b899d7ba3cc760a6",
+      "physicalTableName": "tbl_c0c5e684f06b4e52924ccad5",
+      "tags": [],
+      "createdAt": "2026-09-08T07:40:16.096Z",
+      "updatedAt": "2026-09-08T07:45:59.464Z"
+    },
+    "format": "json",
+    "rowCount": 250,
+    "output": "raw/sources/2026-09-08-linkedin/responses/table-export-final.json"
+  },
+  "meta": {
+    "command": "tables export",
+    "version": "1.917.5",
+    "minimum_cli_version": "1.181.0"
+  }
+}

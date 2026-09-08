@@ -1,0 +1,13 @@
+{
+  "id": "EdDAHrvBDPM",
+  "source_sha256": "3777f0dbfe0aca5ab27ef61f04c9f3efcfb44f4c1e5304645c91461883f514e5",
+  "source_characters": 74971,
+  "source_word_count": 10875,
+  "prompt_sha256": "4b5eee62ac861f880bc26d6e7e9ffb3e4e0bf84ba1d8e459631585386fd00f61",
+  "started_at": "2026-09-08T08:25:56.095899+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/EdDAHrvBDPM/EdDAHrvBDPM.md",
+  "pid": 52461,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T08:31:08.744749+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "EqXag_z2OpQ",
+  "source_sha256": "89adde2a11c4c919109a357157a1075f5f7e007f741b47941998393ba95476f7",
+  "source_characters": 65878,
+  "source_word_count": 9939,
+  "prompt_sha256": "305276a547a3efd10480962a2b6eb256486b921dd7fdee5e8511cb68e238d8f5",
+  "started_at": "2026-09-08T09:22:02.023285+00:00",
+  "method": "codex exec; default locally configured model; full source on stdin; read-only; structured extraction",
+  "source_path": "raw/sources/2026-09-08-youtube/videos/EqXag_z2OpQ/EqXag_z2OpQ.md",
+  "pid": 83798,
+  "exit_code": 0,
+  "completed_at": "2026-09-08T09:28:32.243612+00:00"
+}
