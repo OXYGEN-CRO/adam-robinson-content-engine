@@ -1,0 +1,4 @@
+self-hosted-runner:
+  labels:
+    - oxygen-public-ci
+    - oxygen-host-dev-two
